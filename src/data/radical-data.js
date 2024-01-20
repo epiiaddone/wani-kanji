@@ -1,4 +1,4 @@
-const radicals2 = {
+export const radicalData = {
     1: {
         'slug': 'ground',
         'level': 1,
@@ -284,16 +284,6 @@ const radicals2 = {
         'level': 3,
         'characters': '匕'
     },
-    58: {
-        'slug': 'ra-58',
-        'level': 3,
-        'characters': 'ラ'
-    },
-    59: {
-        'slug': 'raptor-cage-59',
-        'level': 3,
-        'characters': '久'
-    },
     60: {
         'slug': 'winter',
         'level': 3,
@@ -343,11 +333,6 @@ const radicals2 = {
         'slug': 'old',
         'level': 3,
         'characters': '古'
-    },
-    70: {
-        'slug': 'drawer-70',
-        'level': 3,
-        'characters': '母'
     },
     71: {
         'slug': 'task',
@@ -658,11 +643,6 @@ const radicals2 = {
         'slug': 'yakuza',
         'level': 6,
         'characters': '歹'
-    },
-    133: {
-        'slug': 'cyclops-133',
-        'level': 6,
-        'characters': '向'
     },
     134: {
         'slug': 'jet',
@@ -1119,11 +1099,6 @@ const radicals2 = {
         'level': 13,
         'characters': '東'
     },
-    225: {
-        'slug': 'roof-225',
-        'level': 13,
-        'characters': '亼'
-    },
     226: {
         'slug': 'bookshelf',
         'level': 13,
@@ -1574,11 +1549,6 @@ const radicals2 = {
         'level': 28,
         'characters': '屯'
     },
-    316: {
-        'slug': 'hercules-316',
-        'level': 28,
-        'characters': '絜'
-    },
     317: {
         'slug': 'specialty',
         'level': 28,
@@ -1869,11 +1839,6 @@ const radicals2 = {
         'level': 39,
         'characters': '旧'
     },
-    375: {
-        'slug': 'six-375',
-        'level': 39,
-        'characters': '六'
-    },
     376: {
         'slug': 'hill',
         'level': 39,
@@ -1923,11 +1888,6 @@ const radicals2 = {
         'slug': 'bone',
         'level': 42,
         'characters': '骨'
-    },
-    386: {
-        'slug': 'grenade-386',
-        'level': 42,
-        'characters': '臼'
     },
     387: {
         'slug': 'shop',
@@ -1998,11 +1958,6 @@ const radicals2 = {
         'slug': 'favor',
         'level': 46,
         'characters': '恵'
-    },
-    401: {
-        'slug': 'task-401',
-        'level': 47,
-        'characters': '務'
     },
     402: {
         'slug': 'wave',
@@ -2319,11 +2274,6 @@ const radicals2 = {
         'level': 9,
         'characters': 'null'
     },
-    8786: {
-        'slug': 'worm-8786',
-        'level': 17,
-        'characters': 'null'
-    },
     8787: {
         'slug': 'yurt',
         'level': 9,
@@ -2334,19 +2284,9 @@ const radicals2 = {
         'level': 20,
         'characters': 'null'
     },
-    8789: {
-        'slug': 'corn-8789',
-        'level': 23,
-        'characters': 'null'
-    },
     8790: {
         'slug': 'death-star',
         'level': 24,
-        'characters': 'null'
-    },
-    8791: {
-        'slug': 'egg-8791',
-        'level': 26,
         'characters': 'null'
     },
     8792: {
@@ -2362,11 +2302,6 @@ const radicals2 = {
     8794: {
         'slug': 'coral',
         'level': 33,
-        'characters': 'null'
-    },
-    8795: {
-        'slug': 'trident-8795',
-        'level': 41,
         'characters': 'null'
     },
     8796: {
@@ -2489,4 +2424,5 @@ const radicals2 = {
         'level': 28,
         'characters': '前'
     },
+
 }

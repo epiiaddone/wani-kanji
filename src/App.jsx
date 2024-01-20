@@ -1,15 +1,16 @@
 import { useState } from 'react'
 import './App.css'
-import { fetchAllKanjiTypeLevel, fetchAllRadicals } from './getData'
+import { fetchAllKanji, fetchAllKanjiTypeLevel, fetchAllRadicals } from './getData'
+import { RadicalReviewSelection } from './components/RadicalReviewSelection'
+import { IdentifyRadicalsSelection } from './components/IdentifyRadicalsSeletion'
 
 function App() {
 
-  //fetchAllKanjiTypeLevel('radical', 1);
-  //fetchAllRadicals();
 
   return (
     <>
-
+      <RadicalReviewSelection />
+      <IdentifyRadicalsSelection />
     </>
   )
 }
