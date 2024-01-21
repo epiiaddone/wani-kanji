@@ -1,13 +1,13 @@
 import { useState } from "react";
 import { radicalData } from "../data/radical-data";
 import { Link } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { handleBeginningLevelChange, handleLastLevelChange } from "../features/radicalReview/radicalReviewSlice";
 
 
 export const RadicalReviewSelection = () => {
-    const [beginningLevel, setBeginningLevel] = useState(1);
-    const [lastLevel, setLastLevel] = useState(1);
-
-    if (lastLevel < beginningLevel) setLastLevel(beginningLevel);
+    const { beginningLevel, lastLevel } = useSelector((store) => store.radicalReview)
+    const dispatch = useDispatch();
 
     let radicalAmount = 0;
     for (const [id, radical] of Object.entries(radicalData)) {
@@ -21,7 +21,7 @@ export const RadicalReviewSelection = () => {
                 <span>Practise between levels</span>
                 <select
                     value={beginningLevel}
-                    onChange={e => setBeginningLevel(e.target.value)}
+                    onChange={(e) => dispatch(handleBeginningLevelChange(e.target.value))}
                 >
                     <option value="1">1</option>
                     <option value="2">2</option>
@@ -30,7 +30,7 @@ export const RadicalReviewSelection = () => {
                 <span>and</span>
                 <select
                     value={lastLevel}
-                    onChange={e => setLastLevel(e.target.value)}
+                    onChange={(e) => dispatch(handleLastLevelChange(e.target.value))}
                 >
                     <option value="1">1</option>
                     <option value="2">2</option>

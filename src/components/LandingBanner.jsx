@@ -5,7 +5,8 @@ export const LandingBanner = () => {
         <Wrapper>
             <div>
                 Here are a couple of games to aid the memorisation of
-                <a href="https://wanikani.com" target="_">WaniKani</a> radicals
+                <span> <a href="https://wanikani.com" target="_">WaniKani</a> </span>
+                radicals
             </div>
         </Wrapper>
     )
