@@ -2,6 +2,7 @@ import { useState } from "react";
 import { kanji_level_1 } from "../data/kanji_level_1_data";
 import { kanji_level_2 } from "../data/kanji_level_2_data";
 import { kanji_level_3 } from "../data/kanji_level_3_data";
+import { Link } from "react-router-dom";
 
 
 export const IdentifyRadicalsSelection = () => {
@@ -33,7 +34,11 @@ export const IdentifyRadicalsSelection = () => {
                 {Object.keys(kanjiData).length} kanji to practise
             </div>
 
-            <button>Start</button>
+            <Link
+                to="/identifyradicals"
+                className="btn"
+                onClick={() => { }}
+            >Start</Link>
         </section>
     )
 }

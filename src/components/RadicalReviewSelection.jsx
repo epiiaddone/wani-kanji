@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { radicalData } from "../data/radical-data";
+import { Link } from "react-router-dom";
 
 
 export const RadicalReviewSelection = () => {
@@ -41,7 +42,11 @@ export const RadicalReviewSelection = () => {
                 {radicalAmount} radicals to practise
             </div>
 
-            <button>Start</button>
+            <Link
+                to="/radicalreview"
+                className="btn"
+                onClick={() => { }}
+            >Start</Link>
         </section>
     )
 }
