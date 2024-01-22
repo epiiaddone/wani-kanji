@@ -15,6 +15,8 @@ const LandingPage = () => {
     )
 }
 
-const Wrapper = styled.main``;
+const Wrapper = styled.main`
+
+`;
 
 export default LandingPage;

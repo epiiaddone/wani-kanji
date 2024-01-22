@@ -1177,7 +1177,8 @@ export const radicalData = {
     241: {
         'slug': 'saw',
         'level': 15,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/saw.svg'
     },
     242: {
         'slug': 'paragraph',
@@ -2152,182 +2153,217 @@ export const radicalData = {
     8761: {
         'slug': 'stick',
         'level': 1,
-        'characters': 'null'
+        'characters': '|'
     },
     8762: {
         'slug': 'gun',
         'level': 1,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/gun.svg'
     },
     8763: {
         'slug': 'leaf',
         'level': 2,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/leaf.svg'
     },
     8764: {
         'slug': 'hat',
         'level': 3,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/hat.svg'
     },
     8765: {
         'slug': 'triceratops',
         'level': 3,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/triceratops.svg'
     },
     8766: {
         'slug': 'beggar',
         'level': 4,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/beggar.svg'
     },
     8767: {
         'slug': 'horns',
         'level': 4,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/horns.svg'
     },
     8768: {
         'slug': 'spikes',
         'level': 4,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/spikes.svg'
     },
     8769: {
         'slug': 'viking',
         'level': 5,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/viking.svg'
     },
     8770: {
         'slug': 'kick',
         'level': 5,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/kick.svg'
     },
     8771: {
         'slug': 'hills',
         'level': 30,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/hills.svg'
     },
     8772: {
         'slug': 'cleat',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/cleat.svg'
     },
     8773: {
         'slug': 'pope',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/pope.svg'
     },
     8774: {
         'slug': 'chinese',
         'level': 10,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/chinese.svg'
     },
     8775: {
         'slug': 'blackjack',
         'level': 11,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/blackjack.svg'
     },
     8776: {
         'slug': 'trash',
         'level': 11,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/trash.svg'
     },
     8777: {
         'slug': 'bear',
         'level': 11,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/bear.svg'
     },
     8778: {
         'slug': 'tofu',
         'level': 12,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/tofu.svg'
     },
     8779: {
         'slug': 'spring',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/spring.svg'
     },
     8780: {
         'slug': 'cape',
         'level': 8,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/cape.svg'
     },
     8781: {
         'slug': 'creeper',
         'level': 13,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/creeper.svg'
     },
     8782: {
         'slug': 'bar',
         'level': 14,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/bar.svg'
     },
     8783: {
         'slug': 'grass',
         'level': 15,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/grass.svg'
     },
     8784: {
         'slug': 'zombie',
         'level': 16,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/zombie.svg'
     },
     8785: {
         'slug': 'squid',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/squid.svg'
     },
     8787: {
         'slug': 'yurt',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/yurt.svg'
     },
     8788: {
         'slug': 'explosion',
         'level': 20,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/explosion.svg'
     },
     8790: {
         'slug': 'death-star',
         'level': 24,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/death-star.svg'
     },
     8792: {
         'slug': 'comb',
         'level': 26,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/comb.svg'
     },
     8793: {
         'slug': 'morning',
         'level': 23,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/morning.svg'
     },
     8794: {
         'slug': 'coral',
         'level': 33,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/coral.svg'
     },
     8796: {
         'slug': 'cactus',
         'level': 41,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/cactus.svg'
     },
     8797: {
         'slug': 'psychopath',
         'level': 50,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/psychopath.svg'
     },
     8798: {
         'slug': 'satellite',
         'level': 42,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/satellite.svg'
     },
     8799: {
         'slug': 'elf',
         'level': 32,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/elf.svg'
     },
     8819: {
         'slug': 'gladiator',
         'level': 9,
-        'characters': 'null'
+        'characters': 'null',
+        'image': '../src/assets/svgs/gladiator.svg'
     },
     8820: {
         'slug': 'eternity',

@@ -9,6 +9,9 @@ export const RadicalReviewSelection = () => {
     const { beginningLevel, lastLevel } = useSelector((store) => store.radicalReview)
     const dispatch = useDispatch();
 
+    const optionsArray = [];
+    for (let i = 1; i <= 60; i++) optionsArray.push(i);
+
     let radicalAmount = 0;
     for (const [id, radical] of Object.entries(radicalData)) {
         if (radical.level >= beginningLevel && radical.level <= lastLevel) radicalAmount++;
@@ -23,18 +26,14 @@ export const RadicalReviewSelection = () => {
                     value={beginningLevel}
                     onChange={(e) => dispatch(handleBeginningLevelChange(e.target.value))}
                 >
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
+                    {optionsArray.map((level) => <option value={level} key={level}> {level} </option>)}
                 </select>
                 <span>and</span>
                 <select
                     value={lastLevel}
                     onChange={(e) => dispatch(handleLastLevelChange(e.target.value))}
                 >
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
+                    {optionsArray.map((level) => <option value={level} key={level}> {level} </option>)}
                 </select>
             </div>
 
