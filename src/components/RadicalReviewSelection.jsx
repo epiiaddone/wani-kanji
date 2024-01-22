@@ -45,7 +45,6 @@ export const RadicalReviewSelection = () => {
             <Link
                 to="/radicalreview"
                 className="btn"
-                onClick={() => { }}
             >Start</Link>
         </section>
     )

@@ -40,7 +40,6 @@ export const IdentifyRadicalsSelection = () => {
             <Link
                 to="/identifyradicals"
                 className="btn"
-                onClick={() => { }}
             >Start</Link>
         </section>
     )

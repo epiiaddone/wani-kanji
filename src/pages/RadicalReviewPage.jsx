@@ -1,7 +1,10 @@
 import styled from 'styled-components';
+import { RadicalDisplay } from '../components/RadicalDisplay';
 
 const RadicalReviewPage = () => {
-    return (<></>)
+    return (
+        <RadicalDisplay />
+    )
 }
 
 export default RadicalReviewPage;
