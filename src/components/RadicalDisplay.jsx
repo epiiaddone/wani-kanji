@@ -68,7 +68,7 @@ export const RadicalDisplay = () => {
         <Wrapper>
             <div className="question-area">
                 <div className="header">
-                    <Link to="/"><FaHome /></Link>
+                    <Link to="/" className="home"><FaHome /></Link>
                     <div className="stats">
                         <div className="progress">
                             <div className="progress--bar">
@@ -121,7 +121,10 @@ export const RadicalDisplay = () => {
                     {incorrectAnswers.map(e => {
                         return (
                             <div className="review-row" key={e.slug}>
-                                <div>{e.characters === 'null' ? e.image : e.characters}</div>
+                                <div className="incorrect-character">
+                                    {e.characters != 'null' ? e.characters
+                                        : <img className="incorrect-image" src={e.image} />}
+                                </div>
                                 <div>{e.slug}</div>
                                 <div>{e.answer}</div>
                             </div>
@@ -138,21 +141,26 @@ const Wrapper = styled.main`
 
 
 .question-area{
-background-color: #2563eb;
+background-color: var(--radical);
 color:white;
+}
+
+.home{
+    fill:white;
 }
 
 
 .character-img{
-    height:1rem;
+    height:6rem;
+    color:white;
 }
 
 .false-answer{
-    background-color: red;
+    background-color: var(--false-answer);
 }
 
 .correct-answer{
-    background-color: green;
+    background-color: var(--correct-answer);
 }
 
 .game-over{
@@ -205,7 +213,7 @@ color:white;
 }
 
 .question{
-    height:8rem;
+    height:10rem;
     text-align: center;
     margin-bottom:  1rem;
 }
@@ -245,8 +253,12 @@ color:white;
     justify-content: space-evenly;
 }
 
+.review-header div:first-child{
+    width:20%;
+}
+
 .review-header div{
-    width:30%;
+    width:35%;
 }
 
 .review-row{
@@ -256,17 +268,31 @@ color:white;
     font-size:1.1rem;
 }
 
+.review-row div:first-child{
+    width:20%;
+}
+
 .review-row div{
-    width:30%;
+    width:35%;
 }
 
 .incorrect-title{
     font-size: 1.5rem;
     font-weight:bold;
+    margin-left: 0.5rem;
+}
+
+.incorrect-character{
+    font-size:1.5rem;
+    color:white;
+}
+
+.incorrect-image{
+    height:2.5rem;
 }
 
 .back-home{
-
+    margin-left:1rem;
 }
 
 `;

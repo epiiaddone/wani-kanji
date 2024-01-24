@@ -53,10 +53,29 @@ export const RadicalReviewSelection = () => {
 }
 
 const Wrapper = styled.main`
-background-color: #2563eb;
+background-color: var(--radical);
 color:white;
 padding:0.5rem;
 height: 40dvh;
+font-size:1.2rem;
+
+@media only screen and (min-width: 1000px) {
+    display:inline-block;
+    height:80dvh;
+    width:50%;
+    font-size:2rem;
+}
+
+select{
+    font-size:1.2rem;
+}
+
+@media only screen and (min-width: 1000px) {
+    select{
+        font-size:2rem;
+    }
+}
+
 
 .content{
     position:relative;
@@ -66,12 +85,17 @@ height: 40dvh;
 .section-title{
     text-align: center;
     font-weight:bold;
-    font-size:1.2rem;
+    font-size:1.5rem;
+}
+
+@media only screen and (min-width: 1000px) {
+    .section-title{
+    font-size:3rem;
+    }
 }
 
 .section-select{
 text-align: center;
-font-size:1.1rem;
 position: relative;
     top: 2rem;
 }
@@ -86,9 +110,21 @@ position: relative;
     font-size:1.1rem;
 }
 
+@media only screen and (min-width: 1000px) {
+    .footer{
+    font-size:2rem;
+    }
+}
+
 
 .radical-amount{
     font-size:1.5rem;
     font-weight:bold;
+}
+
+@media only screen and (min-width: 1000px) {
+    .radical-amount{
+    font-size:2.5rem;
+    }
 }
 `;
