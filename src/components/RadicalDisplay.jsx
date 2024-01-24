@@ -16,12 +16,16 @@ export const RadicalDisplay = () => {
     const [answerInput, setAnswerInput] = useState("");
     const [correctCount, setCorrectCount] = useState(0);
     const [questionStatus, setQuestionStatus] = useState("active");
+    const [incorrectAnswers, setIncorrectAnswers] = useState([]);
+    const [gameOver, setGameOver] = useState(false);
 
-    let inputStyleClasses = "";
-    if (questionStatus === "correct") inputStyleClasses = "correct-answer";
-    else if (questionStatus === "false") inputStyleClasses = "false-answer";
+    let inputStyleClasses = "input-styles ";
+    if (questionStatus === "correct") inputStyleClasses = "input-styles correct-answer";
+    else if (questionStatus === "false") inputStyleClasses = "input-styles false-answer";
 
     const currentQuestion = radicals[questionNumber - 1];
+
+    const progressPercent = Math.round(questionNumber * 100 / radicals.length);
 
 
     const correctPercent = useMemo(() => {
@@ -39,50 +43,105 @@ export const RadicalDisplay = () => {
             setQuestionStatus("correct");
         } else {
             setQuestionStatus("false")
+            setIncorrectAnswers(incorrectAnswers => [...incorrectAnswers, {
+                'characters': currentQuestion.characters,
+                'image': currentQuestion.image,
+                'slug': currentQuestion.slug,
+                'answer': answerInput
+            }])
         }
     }
 
+
     const setNextQuestion = () => {
-        setQuestionNumber(() => questionNumber + 1)
         setQuestionStatus("active");
         setAnswerInput("");
+        if (questionNumber <= radicals.length - 1) {
+            setQuestionNumber(() => questionNumber + 1)
+        } else {
+            setGameOver(true);
+            console.log(incorrectAnswers)
+        }
     }
 
     return (
         <Wrapper>
-            <Link to="/"><FaHome /></Link>
-            <div>
-                <div>{questionNumber}/{radicals.length}</div>
-                <div>{correctPercent}% <FaCheck /></div>
+            <div className="question-area">
+                <div className="header">
+                    <Link to="/"><FaHome /></Link>
+                    <div className="stats">
+                        <div className="progress">
+                            <div className="progress--bar">
+                                <div className="progress--bar__inner" style={{ width: progressPercent + "%" }}></div>
+                            </div>
+                            <div>{questionNumber}/{radicals.length}</div>
+                        </div>
+                        <div className="correct"><FaCheck />{correctPercent}% </div>
+                    </div>
+                </div>
+                {gameOver && <div className="game-over">Game Over</div>}
+                {!gameOver &&
+                    <div>
+                        <div className="question">
+                            <div className="question--character">{currentQuestion.characters === 'null' ?
+                                <img className="character-img" src={currentQuestion.image} />
+                                : currentQuestion.characters}
+                            </div>
+                            <div className="question--slug">{questionStatus === "false" && currentQuestion.slug}</div>
+                        </div>
+                        <div className="answer-input">
+                            <form className="answer-input--form" onSubmit={e => {
+                                e.preventDefault()
+                                if (answerInput === "") return;
+                                if (questionStatus === "active") { checkAnswer(); }
+                                else { setNextQuestion() }
+                            }}
+                            >
+                                <input
+                                    type="text"
+                                    placeholder='Radical Name'
+                                    value={answerInput}
+                                    onChange={(e) => setAnswerInput(e.target.value)}
+                                    className={inputStyleClasses}
+                                ></input>
+                                <button><GrLinkNext /></button>
+                            </form>
+                        </div>
+                    </div>
+                }
             </div>
-            <div>{currentQuestion.characters === 'null' ?
-                <img className="character-img" src={currentQuestion.image} />
-                : currentQuestion.characters}
-            </div>
-            <div>{questionStatus === "false" && currentQuestion.slug}</div>
-            <div>
-                <form onSubmit={e => {
-                    e.preventDefault()
-                    if (answerInput === "") return;
-                    if (questionStatus === "active") { checkAnswer(); }
-                    else { setNextQuestion() }
-                }}
-                >
-                    <input
-                        type="text"
-                        placeholder='Radical Name'
-                        value={answerInput}
-                        onChange={(e) => setAnswerInput(e.target.value)}
-                        className={inputStyleClasses}
-                    ></input>
-                    <button><GrLinkNext /></button>
-                </form>
-            </div>
+            {gameOver &&
+                <div>
+                    <div className="incorrect-title">Incorrect Answers</div>
+                    <div className="review-header">
+                        <div>Radical</div>
+                        <div>Name</div>
+                        <div>Your Answer</div>
+                    </div>
+                    {incorrectAnswers.map(e => {
+                        return (
+                            <div className="review-row" key={e.slug}>
+                                <div>{e.characters === 'null' ? e.image : e.characters}</div>
+                                <div>{e.slug}</div>
+                                <div>{e.answer}</div>
+                            </div>
+                        )
+                    })}
+                    <Link to="/"><button className="btn back-home">Back Home</button></Link>
+                </div>
+
+            }
         </Wrapper>);
 }
 
 const Wrapper = styled.main`
+
+
+.question-area{
 background-color: #2563eb;
+color:white;
+}
+
 
 .character-img{
     height:1rem;
@@ -95,4 +154,119 @@ background-color: #2563eb;
 .correct-answer{
     background-color: green;
 }
+
+.game-over{
+    text-align: center;
+    font-size:3rem;
+    text-transform:uppercase;
+    font-weight:bold;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    padding:0.5rem;
+}
+
+.stats{
+    display:flex;
+    gap:1rem;
+    align-items: baseline;
+}
+
+.progress{
+    display:flex;
+    width:12rem;
+    align-items: center;
+    gap:0.5rem;
+}
+
+.progress--bar{
+    position:relative;
+    height:1rem;
+    width:10rem;
+    background-color:#1e40af;
+    border-top-right-radius:1rem;
+    border-bottom-right-radius:1rem;
+}
+
+.progress--bar__inner{
+    background-color: white;
+    height:1rem;
+    position:absolute;
+    border-top-right-radius:1rem;
+    border-bottom-right-radius:1rem;
+}
+
+.correct{
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+}
+
+.question{
+    height:8rem;
+    text-align: center;
+    margin-bottom:  1rem;
+}
+
+.question--character{
+    font-size: 3rem;
+}
+
+.question--slug{
+    font-size:1.5rem;
+}
+
+.answer-input{
+    display: flex;
+    justify-content: center;
+    height: 2.5rem;
+    font-size: 1.5rem;
+}
+
+.answer-input--form{
+    display:flex;
+    width:80%;
+}
+
+.input-styles{
+    font-size: 1.5rem;
+    text-align: center;
+    width:90%;
+}
+
+
+.review-header{
+    display:flex;
+    gap:1rem;
+    font-size:1.2rem;
+    font-weight:bold;
+    justify-content: space-evenly;
+}
+
+.review-header div{
+    width:30%;
+}
+
+.review-row{
+    display:flex;
+    gap:1rem;
+    justify-content: space-evenly;
+    font-size:1.1rem;
+}
+
+.review-row div{
+    width:30%;
+}
+
+.incorrect-title{
+    font-size: 1.5rem;
+    font-weight:bold;
+}
+
+.back-home{
+
+}
+
 `;
