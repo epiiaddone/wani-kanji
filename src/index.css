@@ -44,8 +44,10 @@ a {
     --correct-answer: #88cc00;
     --false-answer: #F03;
     --radical: #00AAFF;
+    --radical-light: #88D7FF;
     --kanji: #FF00AA;
     --kanji-dark: #DD0093;
+    --kanji-light: #F6C;
 
     /* fonts  */
     --headingFont: 'Roboto Condensed', Sans-Serif;

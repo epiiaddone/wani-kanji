@@ -38,7 +38,6 @@ export const RadicalDisplay = () => {
 
     const checkAnswer = () => {
         if (isAnswerCorrect(answerInput, currentQuestion.slug)) {
-            console.log("answer correct")
             setCorrectCount(() => correctCount + 1)
             setQuestionStatus("correct");
         } else {
@@ -235,13 +234,18 @@ color:white;
 
 .answer-input--form{
     display:flex;
-    width:80%;
 }
 
 .input-styles{
     font-size: 1.5rem;
     text-align: center;
-    width:90%;
+    width:20rem;
+}
+
+@media only screen and (min-width: 1000px) {
+    .input-styles{
+        width:30rem;
+    }
 }
 
 

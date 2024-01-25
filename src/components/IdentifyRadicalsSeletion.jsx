@@ -35,7 +35,7 @@ export const IdentifyRadicalsSelection = () => {
                     </select>
                 </div>
 
-                <div class="footer">
+                <div className="footer">
                     <div >
                         <span className="radical-amount">{Object.keys(kanjiData).length}</span> kanji to practise
                     </div>
@@ -61,7 +61,7 @@ font-size:1.2rem;
     display:inline-block;
     height:80dvh;
     width:50%;
-    font-size:2rem;
+    font-size:1.5rem;
 }
 
 
@@ -71,7 +71,7 @@ select{
 
 @media only screen and (min-width: 1000px) {
     select{
-        font-size:2rem;
+        font-size:1.5rem;
     }
 }
 
@@ -106,11 +106,12 @@ position: relative;
     width:100%;
     justify-content: space-evenly;
     font-size:1.1rem;
+    align-items:center;
 }
 
 @media only screen and (min-width: 1000px) {
     .footer{
-    font-size:2rem;
+    font-size:1.5rem;
     }
 }
 

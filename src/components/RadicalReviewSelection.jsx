@@ -63,7 +63,7 @@ font-size:1.2rem;
     display:inline-block;
     height:80dvh;
     width:50%;
-    font-size:2rem;
+    font-size:1.5rem;
 }
 
 select{
@@ -72,7 +72,7 @@ select{
 
 @media only screen and (min-width: 1000px) {
     select{
-        font-size:2rem;
+        font-size:1.5rem;
     }
 }
 
@@ -97,7 +97,7 @@ select{
 .section-select{
 text-align: center;
 position: relative;
-    top: 2rem;
+top: 2rem;
 }
 
 
@@ -108,11 +108,12 @@ position: relative;
     width:100%;
     justify-content: space-evenly;
     font-size:1.1rem;
+    align-items:center;
 }
 
 @media only screen and (min-width: 1000px) {
     .footer{
-    font-size:2rem;
+    font-size:1.5rem;
     }
 }
 
