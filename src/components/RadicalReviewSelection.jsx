@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { radicalData } from "../data/radical-data";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import { handleBeginningLevelChange, handleLastLevelChange } from "../features/radicalReview/radicalReviewSlice";
+import { handleBeginningLevelChange, handleLastLevelChange, resetRadicalReviewGame } from "../features/radicalReview/radicalReviewSlice";
 
 
 export const RadicalReviewSelection = () => {
@@ -43,6 +43,7 @@ export const RadicalReviewSelection = () => {
                         <span className="radical-amount">{radicalAmount}</span> radicals to practise
                     </div>
                     <Link
+                        onClick={() => dispatch(resetRadicalReviewGame())}
                         to="/radicalreview"
                         className="btn"
                     >Start</Link>

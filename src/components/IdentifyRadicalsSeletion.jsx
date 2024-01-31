@@ -4,7 +4,7 @@ import { kanji_level_2 } from "../data/kanji_level_2_data";
 import { kanji_level_3 } from "../data/kanji_level_3_data";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-import { handleKanjiLevelChange } from "../features/identifyRadicals/identifyRadicalsSlice";
+import { handleKanjiLevelChange, resetIdentifyRadicalsGame } from "../features/identifyRadicals/identifyRadicalsSlice";
 
 
 export const IdentifyRadicalsSelection = () => {
@@ -41,6 +41,7 @@ export const IdentifyRadicalsSelection = () => {
                     </div>
 
                     <Link
+                        onClick={() => dispatch(resetIdentifyRadicalsGame())}
                         to="/identifyradicals"
                         className="btn kanji-btn"
                     >Start</Link>

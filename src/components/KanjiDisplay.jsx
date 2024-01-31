@@ -1,176 +1,185 @@
-import { FaCheck, FaHome } from 'react-icons/fa';
+import { FaCheck } from 'react-icons/fa';
 import { ImCross } from "react-icons/im";
-import { Link } from 'react-router-dom';
 import styled from 'styled-components';
-import { kanji_level_2 } from '../data/kanji_level_2_data';
 import { GrLinkNext } from 'react-icons/gr';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { isAnswerCorrect } from '../utils/isAnswerCorrect';
 import { radicalData } from '../data/radical-data';
+import { useDispatch, useSelector } from 'react-redux';
+import {
+    addWrongAnswer,
+    incrementCompletedCount,
+    incrementCorrectCount,
+    incrementQuestionNumber,
+    setKanjiGameOver
+} from '../features/identifyRadicals/identifyRadicalsSlice';
 
-export const KanjiDisplay = () => {
+export const KanjiDisplay = ({ kanji }) => {
+    const { gameOver, questionNumber } = useSelector(store => store.identifyRadicals);
+    const dispatch = useDispatch();
+
     const [meaningInput, setMeaningInput] = useState("");
     const [questionActive, setQuestionActive] = useState(true);
-    const [correctCount, setCorrectCount] = useState(0);
     const [meaningCorrect, setMeaningCorrect] = useState(false);
+    const [radicalsCorrect, setRadicalsCorrect] = useState([]);
 
-    let checkClasses = "";
-    if (questionActive) checkClasses = "check";
-    else if (meaningCorrect) checkClasses = "check check--correct";
-    else checkClasses = "check check--false";
+    const currentQuestion = kanji[questionNumber - 1];
 
-    const questionNumber = 1;
-    const correctPercent = 30;
-    const progressPercent = 40;
+    useEffect(() => {
+        let tempArray = [];
+        currentQuestion.component_subject_ids.forEach((id, index) => {
+            tempArray[index] = false;
+        })
+        setRadicalsCorrect([...tempArray]);
+    }, [questionNumber])
 
-    const currentQuestion = kanji_level_2[468];
+
+    const assignCheckClasses = (correct) => {
+        if (questionActive) return "check";
+        else if (correct) return "check check--correct";
+        else return "check check--false";
+    }
+
+    const checkClasses = assignCheckClasses(meaningCorrect);
+    let radicalClasses = [];
+    currentQuestion.component_subject_ids.forEach((id, index) => {
+        radicalClasses[index] = assignCheckClasses(radicalsCorrect[index])
+    })
+
 
     const checkRadicals = (e) => {
         let radicalNames = [];
         currentQuestion.component_subject_ids.forEach(
             id => radicalNames.push(radicalData[id].slug));
-        console.log(radicalNames);
+
+        let newRadicalsCorrect = [];
 
         for (let i = 0; i < currentQuestion.component_subject_ids.length; i++) {
             radicalNames.forEach(name => {
                 if (isAnswerCorrect(e.target[i].value, name)) {
+                    //prevent repeated answers being marked as correct
                     radicalNames.splice(radicalNames.indexOf(name), 1);
+                    newRadicalsCorrect[i] = true;
                 }
             })
         }
-        console.log(radicalNames);
+        //only set once due to batched updates
+        setRadicalsCorrect(newRadicalsCorrect);
     }
 
     const checkMeaning = () => {
         if (isAnswerCorrect(meaningInput, currentQuestion.meaning)) {
-            setCorrectCount(() => correctCount + 1);
+            dispatch(incrementCorrectCount())
             setMeaningCorrect(true);
+        } else {
+            dispatch(addWrongAnswer({
+                "characters": currentQuestion.slug,
+                "correctAnswer": currentQuestion.meaning,
+                "providedAnswer": meaningInput,
+                "image": null
+            }))
         }
+        dispatch(incrementCompletedCount())
     }
 
     const setNextQuestion = () => {
         setQuestionActive(true);
+        setMeaningInput("");
+        setMeaningCorrect(false);
+        if (questionNumber <= kanji.length - 1) {
+            dispatch(incrementQuestionNumber())
+        } else {
+            dispatch(setKanjiGameOver(true));
+        }
     }
 
 
     return (
         <Wrapper>
-            <div className="header">
-                <Link to="/" className="home"><FaHome /></Link>
-                <div className="stats">
-                    <div className="progress">
-                        <div className="progress--bar">
-                            <div className="progress--bar__inner" style={{ width: progressPercent + "%" }}></div>
-                        </div>
-                        <div>{questionNumber}/25</div>
-                    </div>
-                    <div className="correct"><FaCheck />{correctPercent}% </div>
-                </div>
-            </div>
-            <div className="content">
-                <div className="question-character">{currentQuestion.slug}</div>
-                <form className="kanji-form"
-                    onSubmit={e => {
-                        e.preventDefault()
-                        console.log(e.target[0].value);
-                        if (meaningInput === "") return;
-                        if (questionActive) {
-                            setQuestionActive(false);
-                            checkMeaning();
-                            checkRadicals(e);
-                        } else { setNextQuestion() }
-                    }}>
-                    {currentQuestion.component_subject_ids.map((radical, index) => {
-                        return (
-                            <div
-                                key={radical}
-                            >
+            {!gameOver &&
+                <div>
+                    <div className="content">
+                        <div className="question-character">{currentQuestion.slug}</div>
+                        <form className="kanji-form"
+                            onSubmit={e => {
+                                e.preventDefault()
+                                if (meaningInput === "") return;
+                                if (questionActive) {
+                                    setQuestionActive(false);
+                                    checkMeaning();
+                                    checkRadicals(e);
+                                } else { setNextQuestion() }
+                            }}>
+                            {currentQuestion.component_subject_ids.map((radical, index) => {
+                                return (
+                                    <div
+                                        /*sucessive kanji may have the same radical*/
+                                        key={radical + currentQuestion.slug}
+                                    >
+                                        <span className={radicalClasses[index]}>
+                                            {radicalsCorrect[index] ? <FaCheck /> : <ImCross />}
+                                        </span>
+                                        <input
+                                            autoFocus={index === 0 ? true : false}
+                                            type="text"
+                                            placeholder="Radical Name"
+                                            className="radical-input"
+                                            name={index}
+                                        >
+                                        </input>
+                                    </div>
+                                )
+                            })}
+                            <div>
                                 <span className={checkClasses}>
                                     {meaningCorrect ? <FaCheck /> : <ImCross />}
                                 </span>
                                 <input
                                     type="text"
-                                    placeholder="Radical Name"
-                                    className="radical-input"
-                                    name={index}
-                                >
-                                </input>
+                                    placeholder='Kanji Meaning'
+                                    value={meaningInput}
+                                    onChange={(e) => setMeaningInput(e.target.value)}
+                                    className="kanji-input"
+                                ></input>
+                                <button><GrLinkNext /></button>
                             </div>
-                        )
-                    })}
-                    <div>
-                        <span className={checkClasses}>
-                            {meaningCorrect ? <FaCheck /> : <ImCross />}
-                        </span>
-                        <input
-                            type="text"
-                            placeholder='Kanji Meaning'
-                            value={meaningInput}
-                            onChange={(e) => setMeaningInput(e.target.value)}
-                            className="kanji-input"
-                        ></input>
-                        <button><GrLinkNext /></button>
+                        </form>
                     </div>
-                </form>
-            </div>
+                    {!questionActive && <div className="info">
+                        <div className="info--title">Radicals</div>
+                        <div className="info--radicals">
+                            {currentQuestion.component_subject_ids.map(radicalID => {
+                                return (
+                                    <div
+                                        className="radical"
+                                        key={radicalID}
+                                    >
+                                        <div className="radical--characters">
+                                            {radicalData[radicalID].characters === 'null' ?
+                                                <img className="radical--image" src={radicalData[radicalID].image} />
+                                                : radicalData[radicalID].characters}
+                                        </div>
+                                        <div className="radical--slug">{radicalData[radicalID].slug}</div>
+                                    </div>
+                                )
+                            })}
+                        </div>
+                        <div className="info--title">Meaning: <span className="info--meaning">{currentQuestion.meaning}</span></div>
+                    </div>}
+                </div>
+            }
+            {gameOver && <div className="game-over">Game Over</div>}
         </Wrapper>
     )
 }
 
 const Wrapper = styled.main`
-background-color: var(--kanji);
-color:white;
-padding:0.5rem;
-min-height: 100dvh;
-font-size:1.2rem;
-
-.header{
-    display:flex;
-    justify-content: space-between;
-    padding:0.5rem;
-}
-
-.stats{
-    display:flex;
-    gap:1rem;
-    align-items: baseline;
-}
-
-.progress{
-    display:flex;
-    width:12rem;
-    align-items: center;
-    gap:0.5rem;
-}
-
-.progress--bar{
-    position:relative;
-    height:1rem;
-    width:10rem;
-    background-color:var(--kanji-dark);
-    border-top-right-radius:1rem;
-    border-bottom-right-radius:1rem;
-}
-
-.progress--bar__inner{
-    background-color: white;
-    height:1rem;
-    position:absolute;
-    border-top-right-radius:1rem;
-    border-bottom-right-radius:1rem;
-}
-
-.correct{
-    display: flex;
-    align-items: center;
-    gap: 0.2rem;
-}
 
 .content{
     display:flex;
     justify-content: space-evenly;
     margin-top:2rem;
-    align-items: center;;
+    align-items: center;
 }
 
 .question-character{
@@ -179,12 +188,14 @@ font-size:1.2rem;
 
 .kanji-input{
     background-color: var(--kanji-light);
-    font-size:1.2rem;
+    font-size:1.5rem;
+    border:none;
 }
 
 .radical-input{
     background-color: var(--radical-light);
-    font-size:1.2rem;
+    font-size:1.5rem;
+    border:none;
 }
 
 .kanji-form{
@@ -195,7 +206,7 @@ font-size:1.2rem;
 
 .check{
  margin-right:1rem;
- transition:color 0.5s linear;
+ /*transition:color 0.3s linear;*/
  color:var(--kanji);    
 }
 
@@ -205,6 +216,50 @@ font-size:1.2rem;
 
 .check--false{
     color:var(--false-answer)
+}
+
+.info{
+    margin-left:1rem;
+    text-align: center;
+}
+
+.info--title{
+    font-size:1.5rem;
+    font-weight:bold;
+    color:black;
+    margin-top:3rem;
+}
+
+.info--meaning{
+    color:#fff;
+}
+
+.info--radicals{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.radical{
+    display:flex;
+    gap:1rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.radical--characters{
+    font-size:1.5rem;
+}
+
+.radical--image{
+    height:1.5rem;
+}
+
+.game-over{
+    text-align: center;
+    font-size:3rem;
+    text-transform:uppercase;
+    font-weight:bold;
 }
 
 `;
