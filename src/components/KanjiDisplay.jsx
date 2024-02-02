@@ -15,6 +15,8 @@ import {
 } from '../features/identifyRadicals/identifyRadicalsSlice';
 
 export const KanjiDisplay = ({ kanji }) => {
+    console.log("inside KanjiDisplay");
+    console.log(kanji);
     const { gameOver, questionNumber } = useSelector(store => store.identifyRadicals);
     const dispatch = useDispatch();
 
@@ -24,6 +26,7 @@ export const KanjiDisplay = ({ kanji }) => {
     const [radicalsCorrect, setRadicalsCorrect] = useState([]);
 
     const currentQuestion = kanji[questionNumber - 1];
+    console.log(currentQuestion)
 
     useEffect(() => {
         let tempArray = [];

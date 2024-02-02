@@ -1,7 +1,5 @@
 import axios from "axios"
 
-
-
 const fetchQuestions = async (url) => {
     const response = await axios(url).catch((err) => console.log(err))
     if (response) { }

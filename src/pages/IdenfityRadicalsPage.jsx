@@ -3,7 +3,6 @@ import { KanjiDisplay } from '../components/KanjiDisplay';
 import { useSelector } from 'react-redux';
 import { IncorrectAnswers } from '../components/IncorrectAnswers';
 import { Header } from '../components/Header';
-import { useMemo } from 'react';
 import { getKanji } from '../api/getKanji';
 
 const IdentifyRadicalsPage = () => {
@@ -15,7 +14,9 @@ const IdentifyRadicalsPage = () => {
         questionNumber,
         completedCount } = useSelector(store => store.identifyRadicals);
 
-    const kanji = useMemo(() => getKanji(kanjiLevel), [kanjiLevel]);
+    const kanji = getKanji(kanjiLevel);
+    console.log("kanji:")
+    console.log(kanji);
 
     return (
         <Wrapper>
