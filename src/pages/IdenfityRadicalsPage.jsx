@@ -4,6 +4,8 @@ import { useSelector } from 'react-redux';
 import { IncorrectAnswers } from '../components/IncorrectAnswers';
 import { Header } from '../components/Header';
 import { getKanji } from '../api/getKanji';
+import { Loading } from '../components/Loading';
+import { Error } from '../components/Error';
 
 const IdentifyRadicalsPage = () => {
     const {
@@ -12,11 +14,23 @@ const IdentifyRadicalsPage = () => {
         wrongAnswers,
         correctCount,
         questionNumber,
-        completedCount } = useSelector(store => store.identifyRadicals);
+        completedCount,
+        kanji_error,
+        kanji_loading,
+        kanji } = useSelector(store => store.identifyRadicals);
 
-    const kanji = getKanji(kanjiLevel);
+
+    //const kanji = getKanji(kanjiLevel);
     console.log("kanji:")
     console.log(kanji);
+
+    if (kanji_loading) {
+        return (<Loading />)
+    }
+
+    if (kanji_error) {
+        return (<Error />)
+    }
 
     return (
         <Wrapper>

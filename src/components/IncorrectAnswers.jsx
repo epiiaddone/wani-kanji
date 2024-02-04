@@ -35,8 +35,9 @@ export const IncorrectAnswers = ({ wrongAnswers }) => {
                     )
                 })}
                 <div className="game-over__btn">
-                    <Link to="/" ><button
-                        className="btn back-home">Back Home</button></Link>
+                    <Link to="/" >
+                        <button className="btn back-home">Back Home</button>
+                    </Link>
                 </div>
 
             </div>

@@ -3,6 +3,9 @@ import { createSlice } from "@reduxjs/toolkit"
 
 const initialState = {
     kanjiLevel: "1",
+    kanji_loading: false,
+    kanji_error: false,
+    kanji: [],
     gameOver: false,
     wrongAnswers: [],
     questionNumber: 1,
@@ -38,6 +41,17 @@ const identifyRadicalsSlice = createSlice({
         },
         incrementCompletedCount: (state) => {
             state.completedCount++;
+        },
+        getKanjiBegin: (state) => {
+            state.kanji_loading = true;
+            state.kanji_error = false;
+        },
+        getKanjiSuccess: (state, { payload }) => {
+            state.kanji_loading = false;
+            state.kanji = payload;
+        },
+        getKanjiError: (state) => {
+            state.kanji_error = true;
         }
     }
 
@@ -51,6 +65,9 @@ export const {
     incrementCompletedCount,
     incrementQuestionNumber,
     incrementCorrectCount,
+    getKanjiBegin,
+    getKanjiError,
+    getKanjiSuccess,
 } = identifyRadicalsSlice.actions;
 
 export default identifyRadicalsSlice.reducer;
