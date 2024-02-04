@@ -32,6 +32,7 @@ const identifyRadicalsSlice = createSlice({
             state.correctCount = 0;
             state.completedCount = 0;
             state.questionNumber = 1;
+            state.kanji = [];
         },
         incrementCorrectCount: (state) => {
             state.correctCount++;

@@ -1,15 +1,17 @@
 import styled from 'styled-components';
 import { KanjiDisplay } from '../components/KanjiDisplay';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { IncorrectAnswers } from '../components/IncorrectAnswers';
 import { Header } from '../components/Header';
-import { getKanji } from '../api/getKanji';
 import { Loading } from '../components/Loading';
 import { Error } from '../components/Error';
+import { useEffect } from 'react';
+import { getKanjiBegin, getKanjiError, getKanjiSuccess } from '../features/identifyRadicals/identifyRadicalsSlice';
+import { fetchKanji } from '../api/fetchKanji';
+import { shuffleArray } from '../utils/shuffleArray';
 
 const IdentifyRadicalsPage = () => {
     const {
-        kanjiLevel,
         gameOver,
         wrongAnswers,
         correctCount,
@@ -17,14 +19,29 @@ const IdentifyRadicalsPage = () => {
         completedCount,
         kanji_error,
         kanji_loading,
+        kanjiLevel,
         kanji } = useSelector(store => store.identifyRadicals);
 
+    const dispatch = useDispatch();
 
-    //const kanji = getKanji(kanjiLevel);
+    const getKanji = async (kanjiLevel) => {
+        dispatch(getKanjiBegin());
+        const { error, kanjiData } = await fetchKanji(kanjiLevel);
+        if (error) {
+            dispatch(getKanjiError());
+        } else {
+            dispatch(getKanjiSuccess(shuffleArray(kanjiData)))
+        }
+    }
+
+    useEffect(() => {
+        getKanji(kanjiLevel)
+    }, []);
+
     console.log("kanji:")
     console.log(kanji);
 
-    if (kanji_loading) {
+    if (kanji_loading || kanji.length === 0) {
         return (<Loading />)
     }
 

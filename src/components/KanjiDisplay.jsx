@@ -133,7 +133,7 @@ export const KanjiDisplay = ({ kanji }) => {
                                     </div>
                                 )
                             })}
-                            <div>
+                            <div className="kanji-input-container">
                                 <span className={checkClasses}>
                                     {meaningCorrect ? <FaCheck /> : <ImCross />}
                                 </span>
@@ -144,7 +144,7 @@ export const KanjiDisplay = ({ kanji }) => {
                                     onChange={(e) => setMeaningInput(e.target.value)}
                                     className="kanji-input"
                                 ></input>
-                                <button><GrLinkNext /></button>
+                                <button className="kanji-button"><GrLinkNext /></button>
                             </div>
                         </form>
                     </div>
@@ -192,7 +192,16 @@ const Wrapper = styled.main`
 .kanji-input{
     background-color: var(--kanji-light);
     font-size:1.5rem;
+    height:2rem;
     border:none;
+}
+
+.kanji-input-container{
+    display:flex;
+}
+
+.kanji-button{
+    height:2rem;
 }
 
 .radical-input{

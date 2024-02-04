@@ -1,16 +1,26 @@
+import { useDispatch, useSelector } from "react-redux";
 import { kanji_level_1 } from "../data/kanji_level_1_data";
 import { kanji_level_2 } from "../data/kanji_level_2_data";
 import { kanji_level_3 } from "../data/kanji_level_3_data";
 import { shuffleArray } from "../utils/shuffleArray";
 import { fetchKanji } from "./fetchKanji";
+import { getKanjiBegin, getKanjiError, getKanjiSuccess } from "../features/identifyRadicals/identifyRadicalsSlice";
 
-export const getKanji = (level) => {
+//async functions always return a promise
+//so function does not return, instead dispatches
+export const getKanji = async () => {
+    const { kanjiLevel } = useSelector(store => store.idenfifyRadicals);
+    const dispatch = useDispatch();
+    dispatch(getKanjiBegin());
 
-    //const kanji = getKanjiLocal(level);
+    const { error, kanjiData } = await fetchKanji(kanjiLevel);
 
-    //async functions always return a promise
-    const kanjiPromise = fetchKanji(level);
-    kanjiPromise.then(data => { return shuffleArray(data) })
+    if (error) {
+        dispatch(getKanjiError());
+    } else {
+        dispatch(getKanjiSuccess(shuffleArray(kanjiData)))
+    }
+
 }
 
 const getKanjiLocal = (level) => {

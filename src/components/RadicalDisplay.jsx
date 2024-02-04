@@ -81,7 +81,7 @@ export const RadicalDisplay = ({ radicals }) => {
                                     onChange={(e) => setAnswerInput(e.target.value)}
                                     className={inputStyleClasses}
                                 ></input>
-                                <button><GrLinkNext /></button>
+                                <button className="form-button"><GrLinkNext /></button>
                             </form>
                         </div>
                     </div>
@@ -142,6 +142,13 @@ color:white;
 
 .answer-input--form{
     display:flex;
+    position:relative;
+}
+
+.form-button{
+    position: absolute;
+    right: 0;
+    height: 100%;
 }
 
 .input-styles{
