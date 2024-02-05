@@ -9,4 +9,10 @@ export const Loading = () => {
 }
 
 
-const Wrapper = styled.main``;
+const Wrapper = styled.main`
+color:white;
+font-size:3rem;
+text-align:center;
+padding:3rem;
+
+`;

@@ -1,10 +1,8 @@
 import styled from 'styled-components';
-import { kanji_level_1 } from "../data/kanji_level_1_data";
-import { kanji_level_2 } from "../data/kanji_level_2_data";
-import { kanji_level_3 } from "../data/kanji_level_3_data";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { handleKanjiLevelChange, resetIdentifyRadicalsGame } from "../features/identifyRadicals/identifyRadicalsSlice";
+import { getKanjiStage } from '../utils/getKanjiState';
 
 
 export const IdentifyRadicalsSelection = () => {
@@ -12,14 +10,7 @@ export const IdentifyRadicalsSelection = () => {
     const dispatch = useDispatch();
 
     const optionsArray = [];
-    for (let i = 1; i <= 3; i++) optionsArray.push(i);
-
-    let kanjiData = {};
-    switch (kanjiLevel) {
-        case "1": kanjiData = kanji_level_1; break;
-        case "2": kanjiData = kanji_level_2; break;
-        case "3": kanjiData = kanji_level_3; break;
-    }
+    for (let i = 1; i <= 60; i++) optionsArray.push(i);
 
     return (
         <Wrapper>
@@ -37,7 +28,7 @@ export const IdentifyRadicalsSelection = () => {
 
                 <div className="footer">
                     <div >
-                        <span className="radical-amount">{Object.keys(kanjiData).length}</span> kanji to practise
+                        <span className="radical-stage">{getKanjiStage(kanjiLevel)}</span> level selected
                     </div>
 
                     <Link
@@ -116,15 +107,8 @@ position: relative;
     }
 }
 
-.radical-amount{
-    font-size:1.5rem;
+.radical-stage{
     font-weight:bold;
-}
-
-@media only screen and (min-width: 1000px) {
-    .radical-amount{
-    font-size:2.5rem;
-    }
 }
 
 .kanji-btn{

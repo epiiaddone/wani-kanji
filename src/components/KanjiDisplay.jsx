@@ -13,10 +13,12 @@ import {
     incrementQuestionNumber,
     setKanjiGameOver
 } from '../features/identifyRadicals/identifyRadicalsSlice';
+import { Mnemonic } from './Mnemonic';
+
 
 export const KanjiDisplay = ({ kanji }) => {
-    console.log("inside KanjiDisplay");
-    console.log(kanji);
+    // console.log("inside KanjiDisplay, kanji:");
+    //console.log(kanji);
     const { gameOver, questionNumber } = useSelector(store => store.identifyRadicals);
     const dispatch = useDispatch();
 
@@ -26,7 +28,8 @@ export const KanjiDisplay = ({ kanji }) => {
     const [radicalsCorrect, setRadicalsCorrect] = useState([]);
 
     const currentQuestion = kanji[questionNumber - 1];
-    console.log(currentQuestion)
+    //console.log("currentQuestion:")
+    //console.log(currentQuestion)
 
     useEffect(() => {
         let tempArray = [];
@@ -71,13 +74,20 @@ export const KanjiDisplay = ({ kanji }) => {
     }
 
     const checkMeaning = () => {
-        if (isAnswerCorrect(meaningInput, currentQuestion.meaning)) {
-            dispatch(incrementCorrectCount())
-            setMeaningCorrect(true);
-        } else {
+        let answerCorrect = false;
+        currentQuestion.meanings.forEach(meaning => {
+            //should enter if at most once
+            if (!answerCorrect && isAnswerCorrect(meaningInput, meaning)) {
+                dispatch(incrementCorrectCount())
+                setMeaningCorrect(true);
+                answerCorrect = true;
+            }
+        })
+
+        if (!answerCorrect) {
             dispatch(addWrongAnswer({
                 "characters": currentQuestion.slug,
-                "correctAnswer": currentQuestion.meaning,
+                "correctAnswer": currentQuestion.meanings[0],
                 "providedAnswer": meaningInput,
                 "image": null
             }))
@@ -95,6 +105,7 @@ export const KanjiDisplay = ({ kanji }) => {
             dispatch(setKanjiGameOver(true));
         }
     }
+
 
 
     return (
@@ -149,25 +160,40 @@ export const KanjiDisplay = ({ kanji }) => {
                         </form>
                     </div>
                     {!questionActive && <div className="info">
-                        <div className="info--title">Radicals</div>
-                        <div className="info--radicals">
-                            {currentQuestion.component_subject_ids.map(radicalID => {
-                                return (
-                                    <div
-                                        className="radical"
-                                        key={radicalID}
-                                    >
-                                        <div className="radical--characters">
-                                            {radicalData[radicalID].characters === 'null' ?
-                                                <img className="radical--image" src={radicalData[radicalID].image} />
-                                                : radicalData[radicalID].characters}
-                                        </div>
-                                        <div className="radical--slug">{radicalData[radicalID].slug}</div>
-                                    </div>
-                                )
-                            })}
+                        <div className="info-row">
+                            <div>
+                                <div className="info--title">Meanings</div>
+                                <div className="info--meanings">
+                                    {currentQuestion.meanings.map(meaning => {
+                                        return (
+                                            <span className="info--meaning"> {meaning}</span>
+                                        )
+                                    })}
+                                </div>
+                            </div>
+                            <div>
+                                <div className="info--title">Radicals</div>
+                                <div className="info--radicals">
+                                    {currentQuestion.component_subject_ids.map(radicalID => {
+                                        return (
+                                            <div
+                                                className="radical"
+                                                key={radicalID}
+                                            >
+                                                <div className="radical--characters">
+                                                    {radicalData[radicalID].characters === 'null' ?
+                                                        <img className="radical--image" src={radicalData[radicalID].image} />
+                                                        : radicalData[radicalID].characters}
+                                                </div>
+                                                <div className="radical--slug">{radicalData[radicalID].slug}</div>
+                                            </div>
+                                        )
+                                    })}
+                                </div>
+                            </div>
                         </div>
-                        <div className="info--title">Meaning: <span className="info--meaning">{currentQuestion.meaning}</span></div>
+                        <div className="info--title">Mnemonic</div>
+                        <Mnemonic mnemonicString={currentQuestion.meaning_mnemonic} />
                     </div>}
                 </div>
             }
@@ -235,11 +261,28 @@ const Wrapper = styled.main`
     text-align: center;
 }
 
+.info-row{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+@media only screen and (min-width: 1000px) {
+    .info-row{
+        flex-direction:row;
+    }
+}
+
 .info--title{
     font-size:1.5rem;
     font-weight:bold;
     color:black;
-    margin-top:3rem;
+    margin-top:1.5rem;
+}
+
+.info--meanings{
+    display:flex;
+    gap:1rem;
+    justify-content: center;
 }
 
 .info--meaning{
@@ -249,13 +292,20 @@ const Wrapper = styled.main`
 .info--radicals{
     display: flex;
     align-items: center;
-    flex-direction: column;
+justify-content: center;
+gap:1.5rem;
+flex-wrap:wrap;
+}
+
+
+.info--mnemonic{
+    color:white;
+    font-size:1.2rem;
 }
 
 .radical{
     display:flex;
-    gap:1rem;
-    flex-wrap: wrap;
+    gap:0.4rem;
     align-items: center;
 }
 

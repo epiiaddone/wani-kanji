@@ -24,6 +24,7 @@ const IdentifyRadicalsPage = () => {
 
     const dispatch = useDispatch();
 
+    //having this function in another file doesn't work
     const getKanji = async (kanjiLevel) => {
         dispatch(getKanjiBegin());
         const { error, kanjiData } = await fetchKanji(kanjiLevel);
@@ -38,8 +39,8 @@ const IdentifyRadicalsPage = () => {
         getKanji(kanjiLevel)
     }, []);
 
-    console.log("kanji:")
-    console.log(kanji);
+    // console.log("kanji:")
+    //console.log(kanji);
 
     if (kanji_loading || kanji.length === 0) {
         return (<Loading />)

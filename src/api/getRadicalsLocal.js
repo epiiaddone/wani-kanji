@@ -1,7 +1,7 @@
 import { radicalData } from "../data/radical-data";
 import { shuffleArray } from "../utils/shuffleArray";
 
-export const getRadicals = (beginningLevel, lastLevel) => {
+export const getRadicalsLocal = (beginningLevel, lastLevel) => {
 
     const lessonRadicals = [];
     for (const [id, radical] of Object.entries(radicalData)) {

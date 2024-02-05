@@ -3,7 +3,7 @@ import { RadicalDisplay } from '../components/RadicalDisplay';
 import { useSelector } from 'react-redux';
 import { IncorrectAnswers } from '../components/IncorrectAnswers';
 import { Header } from '../components/Header';
-import { getRadicals } from '../api/getRadicals';
+import { getRadicalsLocal } from '../api/getRadicalsLocal';
 import { useMemo } from 'react';
 
 const RadicalReviewPage = () => {
@@ -16,7 +16,7 @@ const RadicalReviewPage = () => {
         completedCount,
         questionNumber } = useSelector(store => store.radicalReview);
 
-    const radicals = useMemo(() => getRadicals(beginningLevel, lastLevel), [beginningLevel, lastLevel]);
+    const radicals = useMemo(() => getRadicalsLocal(beginningLevel, lastLevel), [beginningLevel, lastLevel]);
 
 
     return (
