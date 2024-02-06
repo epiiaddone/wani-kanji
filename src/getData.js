@@ -90,7 +90,7 @@ export const fetchAllKanji = async () => {
 
     var apiToken = '3b0f568a-0904-4b3d-887d-08e5da44da9e';
 
-    var apiEndpointPath = `subjects?types=kanji&levels=3`;
+    var apiEndpointPath = `subjects?types=kanji&hidden=false&levels=51,52,53,54,55,56,57,58,59,60`;
 
     var requestHeaders =
         new Headers({
@@ -116,7 +116,7 @@ export const fetchAllKanji = async () => {
             kanji.data.level,
             kanji.data.slug,
             kanji.data.component_subject_ids,
-            kanji.data.meanings[0].meaning,
+            kanji.data.meanings[0],
             kanji.data.meaning_mnemonic
         )
     })
@@ -125,17 +125,28 @@ export const fetchAllKanji = async () => {
     let truncString = '';
 
     apiData.data.forEach(kanji => {
-        truncString = truncString
-            + kanji.id
-            + ': {\n"slug": \"' + kanji.data.slug + '\",\n"level": '
-            + kanji.data.level
-            + ',\n"component_subject_ids": ['
-            + kanji.data.component_subject_ids
-            + '],\n"meaning": \"'
-            + kanji.data.meanings[0].meaning
-            + '\",\n"meaning_mnemonic": \"'
-            + kanji.data.meaning_mnemonic
-            + '\"\n},\n';
+        if (kanji.data.hidden_at != null) {/*this looks bad */ }
+        else {
+            let tempMeanings = [];
+            kanji.data.meanings.forEach(m => {
+                tempMeanings.push('"' + m.meaning + '"')
+            })
+
+
+            truncString = truncString
+                + kanji.id
+                + ': {\n"slug": \"' + kanji.data.slug + '\",\n"level": '
+                + kanji.data.level
+                + ',\n"component_subject_ids": ['
+                + kanji.data.component_subject_ids
+                + '],\n"amalgamation_subject_ids": ['
+                + kanji.data.amalgamation_subject_ids
+                + '],\n"meanings": ['
+                + tempMeanings
+                + '],\n"meaning_mnemonic": \`'
+                + kanji.data.meaning_mnemonic
+                + '\`\n},\n';
+        }
     })
     console.log(truncString);
 }

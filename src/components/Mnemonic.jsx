@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 
 export const Mnemonic = ({ mnemonicString }) => {
-    console.log("mnemonicString:", mnemonicString)
+    //console.log("mnemonicString:", mnemonicString)
 
     const stringReplaced = mnemonicString
         .replaceAll('<kanji>', '**k[')
@@ -12,9 +12,9 @@ export const Mnemonic = ({ mnemonicString }) => {
         .replaceAll('<radical>', '**r[')
         .replaceAll('</radical>', ']r**');
 
-    console.log(stringReplaced)
+    //console.log(stringReplaced)
     const stringSplit = stringReplaced.split('**');
-    console.log(stringSplit);
+    //console.log(stringSplit);
 
     // const stringSplit = mnemonicString.split(/\s<|>\s|>\./)
     // 

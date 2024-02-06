@@ -4,7 +4,7 @@ export const fetchKanji = async (level) => {
     console.log("inside fetchKanji");
 
     var apiToken = '3b0f568a-0904-4b3d-887d-08e5da44da9e';
-    var apiEndpointPath = `subjects?types=kanji&levels=${level}`;
+    var apiEndpointPath = `subjects?types=kanji&hiddenfalse&levels=${level}`;
 
     var requestHeaders =
         new Headers({
