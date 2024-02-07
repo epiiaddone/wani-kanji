@@ -86,6 +86,11 @@ export const RadicalDisplay = ({ radicals }) => {
                         </div>
                     </div>
                 }
+                {questionStatus != "active" && <a
+                    className="radical-link"
+                    target="_blank"
+                    href={"https://www.wanikani.com/radicals/" + currentQuestion.slug}
+                >Wani Kani</a>}
             </div>
         </Wrapper>);
 }
@@ -95,6 +100,7 @@ const Wrapper = styled.main`
 .question-area{
 background-color: var(--radical);
 color:white;
+position:relative;
 }
 
 .character-img{
@@ -116,8 +122,6 @@ color:white;
     text-transform:uppercase;
     font-weight:bold;
 }
-
-
 
 .question{
     height:10rem;
@@ -161,6 +165,16 @@ color:white;
     .input-styles{
         width:30rem;
     }
+}
+
+.radical-link{
+    all: unset;
+    text-decoration: underline;
+    font-size: 1.5rem;
+    cursor: pointer;
+    position: absolute;
+    bottom: 3rem;
+    right: 2rem;
 }
 
 `;

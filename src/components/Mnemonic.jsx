@@ -10,7 +10,11 @@ export const Mnemonic = ({ mnemonicString }) => {
         .replaceAll('<kanji>', '**k[')
         .replaceAll('</kanji>', ']k**')
         .replaceAll('<radical>', '**r[')
-        .replaceAll('</radical>', ']r**');
+        .replaceAll('</radical>', ']r**')
+        .replaceAll('<ja>', '')
+        .replaceAll('</ja>', '')
+        .replaceAll('</I>', '')
+        .replaceAll('<I>', '');
 
     //console.log(stringReplaced)
     const stringSplit = stringReplaced.split('**');

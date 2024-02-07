@@ -113,6 +113,11 @@ export const KanjiDisplay = ({ kanji }) => {
             {!gameOver &&
                 <div>
                     <div className="content">
+                        {!questionActive &&
+                            <div className="links">
+                                <a target="_blank" href={"https://www.wanikani.com/kanji/" + currentQuestion.slug}>Wani Kanji</a>
+                                <a target="-black" href={"https://jisho.org/search/" + currentQuestion.slug}>Jisho</a>
+                            </div>}
                         <div className="question-character">{currentQuestion.slug}</div>
                         <form className="kanji-form"
                             onSubmit={e => {
@@ -209,6 +214,7 @@ const Wrapper = styled.main`
     justify-content: space-evenly;
     margin-top:2rem;
     align-items: center;
+    position:relative;
 }
 
 .question-character{
@@ -220,6 +226,12 @@ const Wrapper = styled.main`
     font-size:1.5rem;
     height:2rem;
     border:none;
+    width:15rem;
+}
+@media only screen and (min-width: 700px) {
+    .kanji-input{
+        width:30rem;
+}
 }
 
 .kanji-input-container{
@@ -234,6 +246,12 @@ const Wrapper = styled.main`
     background-color: var(--radical-light);
     font-size:1.5rem;
     border:none;
+    width:15rem;
+}
+@media only screen and (min-width: 700px) {
+    .radical-input{
+        width:30rem;
+}
 }
 
 .kanji-form{
@@ -322,6 +340,23 @@ flex-wrap:wrap;
     font-size:3rem;
     text-transform:uppercase;
     font-weight:bold;
+}
+
+.links{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    gap: 1rem;
+    position:absolute;
+    left: 1rem;
+    top: 7rem;
+}
+
+.links a{
+    all:unset;
+    text-decoration:underline;
+    cursor:pointer;
+
 }
 
 `;
