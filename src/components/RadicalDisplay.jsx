@@ -29,6 +29,7 @@ export const RadicalDisplay = ({ radicals }) => {
         if (isAnswerCorrect(answerInput, currentQuestion.slug)) {
             dispatch(incrementCorrectCount())
             setQuestionStatus("correct");
+            removeFromLocalStorage();
         } else {
             setQuestionStatus("false")
             dispatch(addWrongAnswer({
@@ -37,8 +38,24 @@ export const RadicalDisplay = ({ radicals }) => {
                 "providedAnswer": answerInput,
                 "image": currentQuestion.image
             }));
+            addTolocalStorage();
         }
         dispatch(incrementCompletedCount())
+    }
+
+
+    const removeFromLocalStorage = () => {
+        let currentMistakes = localStorage.getItem('radical-mistakes') ?
+            JSON.parse(localStorage.getItem('radical-mistakes')) : [];
+        if (currentMistakes.includes(currentQuestion.radicalID)) currentMistakes = currentMistakes.filter((id) => id !== currentQuestion.radicalID);
+        localStorage.setItem('radical-mistakes', JSON.stringify(currentMistakes));
+    }
+
+    const addTolocalStorage = () => {
+        let currentMistakes = localStorage.getItem('radical-mistakes') ?
+            JSON.parse(localStorage.getItem('radical-mistakes')) : [];
+        if (!currentMistakes.includes(currentQuestion.radicalID)) currentMistakes.push(currentQuestion.radicalID);
+        localStorage.setItem('radical-mistakes', JSON.stringify(currentMistakes));
     }
 
 

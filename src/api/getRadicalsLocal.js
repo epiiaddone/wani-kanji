@@ -5,7 +5,7 @@ export const getRadicalsLocal = (beginningLevel, lastLevel) => {
 
     const lessonRadicals = [];
     for (const [id, radical] of Object.entries(radicalData)) {
-        if (radical.level >= beginningLevel && radical.level <= lastLevel) lessonRadicals.push(radical);
+        if (radical.level >= beginningLevel && radical.level <= lastLevel) lessonRadicals.push({ ...radical, radicalID: id });
     }
 
     return shuffleArray(lessonRadicals);

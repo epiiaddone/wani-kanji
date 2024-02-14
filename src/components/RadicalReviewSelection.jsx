@@ -19,8 +19,8 @@ export const RadicalReviewSelection = () => {
 
     return (
         <Wrapper>
-            <section className="content">
-                <div className="section-title">Radical Review</div>
+            <div className="section-title">Radical Review</div>
+            <div className="radical-content">
                 <div className="section-select">
                     <span>Practise between levels </span>
                     <select
@@ -38,7 +38,7 @@ export const RadicalReviewSelection = () => {
                     </select>
                 </div>
 
-                <div className="footer">
+                <div className="radical-info">
                     <div>
                         <span className="radical-amount">{radicalAmount}</span> radicals to practise
                     </div>
@@ -48,7 +48,21 @@ export const RadicalReviewSelection = () => {
                         className="btn"
                     >Start</Link>
                 </div>
-            </section>
+            </div>
+            <div className="mistakes">
+                <div className="mistakes--title">Outstanding Mistakes</div>
+                <div className="mistakes--container">{
+                    JSON.parse(localStorage.getItem('radical-mistakes')).map((radicalID) => {
+                        return (
+                            <div className="mistakes--radical" key={radicalID}>
+                                <div className="mistakes--radical__character">{radicalData[radicalID].characters}</div>
+                                <div>{radicalData[radicalID].slug}</div>
+                                <div>Level:{radicalData[radicalID].level}</div>
+                            </div>
+                        )
+                    })
+                }</div>
+            </div>
         </Wrapper >
     )
 }
@@ -56,32 +70,15 @@ export const RadicalReviewSelection = () => {
 const Wrapper = styled.main`
 background-color: var(--radical);
 color:white;
-padding:0.5rem;
-height: 40dvh;
 font-size:1.2rem;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
 
 @media only screen and (min-width: 1000px) {
-    display:inline-block;
-    height:80dvh;
-    width:50%;
     font-size:1.5rem;
 }
 
-select{
-    font-size:1.2rem;
-}
-
-@media only screen and (min-width: 1000px) {
-    select{
-        font-size:1.5rem;
-    }
-}
-
-
-.content{
-    position:relative;
-    height:100%;
-}
 
 .section-title{
     text-align: center;
@@ -95,38 +92,54 @@ select{
     }
 }
 
-.section-select{
-text-align: center;
-position: relative;
-top: 2rem;
-}
-
-
-.footer{
-    position:absolute;
-    bottom:2rem;
-    display: flex;
-    width:100%;
-    justify-content: space-evenly;
-    font-size:1.1rem;
-    align-items:center;
+select{
+    font-size:1.2rem;
 }
 
 @media only screen and (min-width: 1000px) {
-    .footer{
+    select{
     font-size:1.5rem;
     }
 }
 
 
+.radical-content{
+    display:flex;
+    flex-wrap:wrap;
+    gap:4rem;
+    justify-content: center;
+    align-items:center;
+    margin: 3rem 0rem;
+}
+
+.radical-info{
+    display: flex;
+    gap:1rem;
+    align-items: baseline;
+    justify-content: center;
+}
+
 .radical-amount{
-    font-size:1.5rem;
     font-weight:bold;
 }
 
-@media only screen and (min-width: 1000px) {
-    .radical-amount{
-    font-size:2.5rem;
-    }
+
+.mistakes--container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap:1.5rem;
 }
+
+.mistakes--radical{
+    display:flex;
+    gap:0.5rem;
+    align-items: center;
+    font-size:1rem;
+}
+
+.mistakes--radical__character{
+    font-size:1.5rem;
+}
+
 `;

@@ -14,6 +14,8 @@ import {
     setKanjiGameOver
 } from '../features/identifyRadicals/identifyRadicalsSlice';
 import { Mnemonic } from './Mnemonic';
+import { fetchVocab } from '../api/fetchVocab';
+
 
 
 export const KanjiDisplay = ({ kanji }) => {
@@ -26,6 +28,12 @@ export const KanjiDisplay = ({ kanji }) => {
     const [questionActive, setQuestionActive] = useState(true);
     const [meaningCorrect, setMeaningCorrect] = useState(false);
     const [radicalsCorrect, setRadicalsCorrect] = useState([]);
+    const [exampleVocab, setExampleVocab] = useState(
+        {
+            'characters': '',
+            'meaning': '',
+            'reading': ''
+        })
 
     const currentQuestion = kanji[questionNumber - 1];
     //console.log("currentQuestion:")
@@ -38,6 +46,24 @@ export const KanjiDisplay = ({ kanji }) => {
         })
         setRadicalsCorrect([...tempArray]);
     }, [questionNumber])
+
+
+    useEffect(() => {
+        const abortController = new AbortController();
+
+        const getApiVocab = async (vocabID) => {
+            if (!vocabID) return;
+            const { error, vocabData } = await fetchVocab(vocabID, abortController);
+            if (!error) {
+                setExampleVocab(vocabData);
+            }
+        }
+
+        getApiVocab(currentQuestion.amalgamation_subject_ids[0]);
+        return () => {
+            abortController.abort();
+        };
+    }, [currentQuestion])
 
 
     const assignCheckClasses = (correct) => {
@@ -171,7 +197,10 @@ export const KanjiDisplay = ({ kanji }) => {
                                 <div className="info--meanings">
                                     {currentQuestion.meanings.map(meaning => {
                                         return (
-                                            <span className="info--meaning"> {meaning}</span>
+                                            <span
+                                                className="info--meaning"
+                                                key={meaning}
+                                            > {meaning}</span>
                                         )
                                     })}
                                 </div>
@@ -194,6 +223,14 @@ export const KanjiDisplay = ({ kanji }) => {
                                             </div>
                                         )
                                     })}
+                                </div>
+                            </div>
+                            <div>
+                                <div className="info--title">Example</div>
+                                <div className="info--example">
+                                    <div className="info--example__characters">{exampleVocab.characters}</div>
+                                    <div className="info--example__reading">{exampleVocab.reading}</div>
+                                    <div className="info--example__meaning">{exampleVocab.meaning}</div>
                                 </div>
                             </div>
                         </div>
@@ -315,6 +352,16 @@ gap:1.5rem;
 flex-wrap:wrap;
 }
 
+.info--example{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+}
+
+.info--example__characters{
+    font-size:1.6rem;
+}
 
 .info--mnemonic{
     color:white;

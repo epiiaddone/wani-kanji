@@ -26,7 +26,6 @@ export const fetchKanji = async (level) => {
         console.log(apiData);
 
         apiData.data.forEach(kanji => {
-
             let tempMeanings = [];
             kanji.data.meanings.forEach(meaningData => {
                 tempMeanings.push(meaningData.meaning)
@@ -37,8 +36,9 @@ export const fetchKanji = async (level) => {
                 'level': kanji.data.level,
                 'slug': kanji.data.slug,
                 'component_subject_ids': kanji.data.component_subject_ids,
+                'amalgamation_subject_ids': kanji.data.amalgamation_subject_ids,
                 'meanings': tempMeanings,
-                'meaning_mnemonic': kanji.data.meaning_mnemonic
+                'meaning_mnemonic': kanji.data.meaning_mnemonic,
             })
         })
     } catch (e) {
