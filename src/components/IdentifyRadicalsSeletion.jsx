@@ -3,19 +3,48 @@ import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { handleKanjiLevelChange, resetIdentifyRadicalsGame } from "../features/identifyRadicals/identifyRadicalsSlice";
 import { getKanjiStage } from '../utils/getKanjiState';
+import { useState } from 'react';
+import { MdOutlineKeyboardArrowUp } from "react-icons/md";
+import { MdOutlineKeyboardArrowDown } from "react-icons/md";
+import { ButtonOrder } from '../utils/ButtonOrder';
 
 
 export const IdentifyRadicalsSelection = () => {
     const { kanjiLevel } = useSelector(store => store.identifyRadicals)
     const dispatch = useDispatch();
 
+    const [expanded, setExpanded] = useState(false);
+    const [buttonOrder, setButtonOrder] = useState(ButtonOrder.NUMERICAL_ORDER);
+
+    const buttonOrderOptions = [
+        ButtonOrder.NUMERICAL_ORDER,
+        ButtonOrder.LOWEST_SCORE,
+        ButtonOrder.OLDEST_REVIEW
+    ];
+
     const optionsArray = [];
     for (let i = 1; i <= 60; i++) optionsArray.push(i);
 
+    const localScores = JSON.parse(localStorage.getItem('scores'));
+    if (buttonOrder === ButtonOrder.NUMERICAL_ORDER) {
+        console.log("button order for numerical")
+        localScores?.sort((a, b) => { return parseInt(a["level"]) <= parseInt(b["level"]) });
+    } else if (buttonOrder === ButtonOrder.LOWEST_SCORE) {
+        localScores?.sort((a, b) => {
+            console.log(parseInt(a["percent"]) <= parseInt(b["percent"]))
+            return parseInt(a["percent"]) <= parseInt(b["percent"])
+        });
+    } else {
+        localScores?.sort((a, b) => Date(a["date"]) <= Date(b["date"]));
+    }
+    console.log(localScores);
+
+
+
     return (
         <Wrapper>
-            <section className="content">
-                <div className="section-title">Identify Radicals</div>
+            <div className="section-title">Identify Radicals</div>
+            <div className="content">
                 <div className="section-select">
                     <span>Practise level </span>
                     <select
@@ -30,29 +59,59 @@ export const IdentifyRadicalsSelection = () => {
                     <div >
                         <span className="radical-stage">{getKanjiStage(kanjiLevel)}</span> level selected
                     </div>
-
                     <Link
                         onClick={() => dispatch(resetIdentifyRadicalsGame())}
                         to="/identifyradicals"
                         className="btn kanji-btn"
                     >Start</Link>
                 </div>
-            </section>
+            </div>
+            <div className="scores">
+                <div className="scores--header">
+                    <div className="scores--title">Scores</div>
+                    {!expanded && <div className="scores--icon" onClick={() => setExpanded(true)}><MdOutlineKeyboardArrowDown /></div>}
+                    {expanded && <div className="scores--icon" onClick={() => setExpanded(false)}><MdOutlineKeyboardArrowUp /></div>}
+                </div>
+                <div className={expanded ? "scores--container scores--container__open" : "scores--container"}>
+                    <div className="scores--buttons">{
+                        buttonOrderOptions.map(option => {
+                            return (
+                                <button
+                                    onClick={() => setButtonOrder(option)}
+                                    key={option.toString()}
+                                    className={option === buttonOrder ? "button--selcted" : ""}
+                                >
+                                    {option.toString()}
+                                </button>
+                            )
+                        })
+                    }
+                    </div>
+                    <div className="scores--list">
+                        {localScores?.map(score => {
+                            return (
+                                <div key={score["level"]}>
+                                    {score["level"] + ": " + score["percent"] + "%"}
+                                </div>
+                            )
+                        })}
+                    </div>
+                </div>
+            </div>
         </Wrapper>
     )
 }
 
 const Wrapper = styled.main`
 background-color: var(--kanji);
-color:white;
-padding:0.5rem;
-height: 40dvh;
-font-size:1.2rem;
+color: white;
+font-size: 1.2rem;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+margin-bottom:3rem;
 
 @media only screen and (min-width: 1000px) {
-    display:inline-block;
-    height:80dvh;
-    width:50%;
     font-size:1.5rem;
 }
 
@@ -69,7 +128,12 @@ select{
 
 .content{
     position:relative;
-    height:100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem
 }
 
 .section-title{
@@ -80,23 +144,18 @@ select{
 
 @media only screen and (min-width: 1000px) {
     .section-title{
-    font-size:3rem;
+    font-size:2rem;
     }
 }
 
 .section-select{
-text-align: center;
-position: relative;
-    top: 2rem;
+
 }
 
 
 .footer{
-    position:absolute;
-    bottom:2rem;
     display: flex;
-    width:100%;
-    justify-content: space-evenly;
+    gap:1rem;
     font-size:1.1rem;
     align-items:center;
 }
@@ -113,5 +172,58 @@ position: relative;
 
 .kanji-btn{
     background-color: var(--kanji-dark);
+}
+
+.scores--header{
+    position:relative;
+    display:flex;
+    justify-content:center;
+    gap:1rem;
+}
+
+.scores--icon{
+    font-size:2rem;
+    cursor:pointer;
+}
+
+.scores--container{
+    height:0;
+    transition: height 1s ease;
+    overflow:hidden;
+}
+
+.scores--container__open{
+    height:auto;
+}
+
+.scores--buttons{
+display:flex;
+gap:2rem;
+justify-content: center;
+}
+
+.scores--buttons button{
+border-radius:1rem;
+cursor:pointer;
+font-size:1.2rem;
+padding:0.5rem;
+border-color:transparent;
+}
+
+.button--selcted{
+color:white;
+background-color: var(--kanji-dark);
+box-shadow: var(--shadow-2);
+}
+
+.scores--list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1rem;
 }
 `;

@@ -3,11 +3,16 @@ import { radicalData } from "../data/radical-data";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { handleBeginningLevelChange, handleLastLevelChange, resetRadicalReviewGame } from "../features/radicalReview/radicalReviewSlice";
+import { useState } from 'react';
+import { MdOutlineKeyboardArrowUp } from "react-icons/md";
+import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 
 
 export const RadicalReviewSelection = () => {
     const { beginningLevel, lastLevel } = useSelector((store) => store.radicalReview)
     const dispatch = useDispatch();
+
+    const [expanded, setExpanded] = useState(false);
 
     const optionsArray = [];
     for (let i = 1; i <= 60; i++) optionsArray.push(i);
@@ -50,12 +55,20 @@ export const RadicalReviewSelection = () => {
                 </div>
             </div>
             <div className="mistakes">
-                <div className="mistakes--title">Outstanding Mistakes</div>
-                <div className="mistakes--container">{
+                <div className="mistakes--header">
+                    <div className="mistakes--title">Outstanding Mistakes</div>
+                    {!expanded && <div className="mistakes--icon" onClick={() => setExpanded(true)}><MdOutlineKeyboardArrowDown /></div>}
+                    {expanded && <div className="mistakes--icon" onClick={() => setExpanded(false)}><MdOutlineKeyboardArrowUp /></div>}
+                </div>
+                <div className={expanded ? "mistakes--container mistakes--container__open" : "mistakes--container"}>{
                     JSON.parse(localStorage.getItem('radical-mistakes')).map((radicalID) => {
                         return (
                             <div className="mistakes--radical" key={radicalID}>
-                                <div className="mistakes--radical__character">{radicalData[radicalID].characters}</div>
+                                <div className="mistakes--radical__character">
+                                    {radicalData[radicalID].characters === 'null' ?
+                                        <img className="mistakes--image" src={radicalData[radicalID].image} />
+                                        : radicalData[radicalID].characters}
+                                </div>
                                 <div>{radicalData[radicalID].slug}</div>
                                 <div>Level:{radicalData[radicalID].level}</div>
                             </div>
@@ -74,6 +87,7 @@ font-size:1.2rem;
 width: 80%;
 margin-left: auto;
 margin-right: auto;
+margin-bottom:3rem;
 
 @media only screen and (min-width: 1000px) {
     font-size:1.5rem;
@@ -88,7 +102,7 @@ margin-right: auto;
 
 @media only screen and (min-width: 1000px) {
     .section-title{
-    font-size:3rem;
+    font-size:2rem;
     }
 }
 
@@ -106,10 +120,10 @@ select{
 .radical-content{
     display:flex;
     flex-wrap:wrap;
-    gap:4rem;
+    gap:2rem;
     justify-content: center;
     align-items:center;
-    margin: 3rem 0rem;
+    margin: 2rem 0rem;
 }
 
 .radical-info{
@@ -123,12 +137,30 @@ select{
     font-weight:bold;
 }
 
+.mistakes--header{
+    position:relative;
+    display:flex;
+    justify-content:center;
+    gap:1rem;
+}
+
+.mistakes--icon{
+    font-size:2rem;
+    cursor:pointer;
+}
 
 .mistakes--container{
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
     gap:1.5rem;
+    height:0;
+    transition: height 1s ease;
+    overflow:hidden;
+}
+
+.mistakes--container__open{
+    height:auto;
 }
 
 .mistakes--radical{
@@ -140,6 +172,11 @@ select{
 
 .mistakes--radical__character{
     font-size:1.5rem;
+}
+
+
+.mistakes--image{
+    height: 1.5rem;
 }
 
 `;

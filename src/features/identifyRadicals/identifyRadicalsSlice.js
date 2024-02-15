@@ -21,6 +21,20 @@ const identifyRadicalsSlice = createSlice({
             state.kanjiLevel = payload;
         },
         setKanjiGameOver: (state, { payload }) => {
+            if (payload) {
+                const correctPercent = Math.round(state.correctCount * 100 / state.completedCount);
+                const scores = JSON.parse(localStorage.getItem('scores'));
+                let newScores = [];
+                if (scores) {
+                    newScores = scores.filter(score => score["level"] != state.kanjiLevel)
+                }
+                newScores.push({
+                    level: state.kanjiLevel,
+                    percent: correctPercent,
+                    date: new Date()
+                })
+                localStorage.setItem('scores', JSON.stringify(newScores));
+            }
             state.gameOver = payload;
         },
         addWrongAnswer: (state, { payload }) => {
