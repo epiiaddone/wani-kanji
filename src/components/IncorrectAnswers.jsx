@@ -129,7 +129,7 @@ const Wrapper = styled.main`
 .game-over__btn{
     margin-top: 2rem;
     text-align: center;
-
+    margin-bottom:3rem;
 }
 
 `;

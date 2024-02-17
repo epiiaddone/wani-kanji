@@ -50,6 +50,19 @@ a {
     --kanji-dark: #DD0093;
     --kanji-light: #F6C;
 
+
+    /* score colors */
+    --score-90-color: rgb(40, 170, 10);
+    --score-80-color: rgb(60, 150, 10);
+    --score-70-color: rgb(80, 130, 10);
+    --score-60-color: rgb(100, 110, 10);
+    --score-50-color: rgb(120, 90, 10);
+    --score-40-color: rgb(140, 70, 10);
+    --score-30-color: rgb(160, 50, 10);
+    --score-20-color: rgb(180, 30, 10);
+    --score-10-color: rgb(200, 10, 10);
+    --score-0-color: rgb(220, 0, 10);
+
     /* fonts  */
     --headingFont: 'Roboto Condensed', Sans-Serif;
     --bodyFont: 'Cabin', Sans-Serif;
@@ -110,4 +123,84 @@ body {
 
 .full-page {
     min-height: 100vh;
+}
+
+.score-90-bg {
+    background-color: var(--score-90-color);
+}
+
+.score-80-bg {
+    background-color: var(--score-80-color);
+}
+
+.score-70-bg {
+    background-color: var(--score-70-color);
+}
+
+.score-60-bg {
+    background-color: var(--score-60-color);
+}
+
+.score-50-bg {
+    background-color: var(--score-50-color);
+}
+
+.score-40-bg {
+    background-color: var(--score-40-color);
+}
+
+.score-30-bg {
+    background-color: var(--score-30-color);
+}
+
+.score-20-bg {
+    background-color: var(--score-20-color);
+}
+
+.score-10-bg {
+    background-color: var(--score-10-color);
+}
+
+.score-0-bg {
+    background-color: var(--score-0-color);
+}
+
+.score-90-text {
+    color: var(--score-90-color);
+}
+
+.score-80-text {
+    color: var(--score-80-color);
+}
+
+.score-70-text {
+    color: var(--score-70-color);
+}
+
+.score-60-text {
+    color: var(--score-60-color);
+}
+
+.score-50-text {
+    color: var(--score-50-color);
+}
+
+.score-40-text {
+    color: var(--score-40-color);
+}
+
+.score-30-text {
+    color: var(--score-30-color);
+}
+
+.score-20-text {
+    color: var(--score-20-color);
+}
+
+.score-10-text {
+    color: var(--score-10-color);
+}
+
+.score-0-text {
+    color: var(--score-0-color);
 }

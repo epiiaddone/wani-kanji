@@ -387,6 +387,7 @@ flex-wrap:wrap;
     font-size:3rem;
     text-transform:uppercase;
     font-weight:bold;
+    margin-bottom:3rem;
 }
 
 .links{

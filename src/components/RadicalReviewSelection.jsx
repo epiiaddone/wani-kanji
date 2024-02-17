@@ -22,6 +22,18 @@ export const RadicalReviewSelection = () => {
         if (radical.level >= beginningLevel && radical.level <= lastLevel) radicalAmount++;
     }
 
+    const localStorageRadicals = JSON.parse(localStorage.getItem('radical-mistakes'));
+    localStorageRadicals?.sort((a, b) => {
+        return radicalData[a]['level'] - radicalData[b]['level'];
+    })
+
+    const radicalMistakeLevels = [];
+    localStorageRadicals?.forEach(radicalID => {
+        if (!radicalMistakeLevels.includes(radicalData[radicalID].level)) {
+            radicalMistakeLevels.push(radicalData[radicalID].level)
+        }
+    })
+
     return (
         <Wrapper>
             <div className="section-title">Radical Review</div>
@@ -60,21 +72,29 @@ export const RadicalReviewSelection = () => {
                     {!expanded && <div className="mistakes--icon" onClick={() => setExpanded(true)}><MdOutlineKeyboardArrowDown /></div>}
                     {expanded && <div className="mistakes--icon" onClick={() => setExpanded(false)}><MdOutlineKeyboardArrowUp /></div>}
                 </div>
-                <div className={expanded ? "mistakes--container mistakes--container__open" : "mistakes--container"}>{
-                    JSON.parse(localStorage.getItem('radical-mistakes')).map((radicalID) => {
-                        return (
-                            <div className="mistakes--radical" key={radicalID}>
-                                <div className="mistakes--radical__character">
-                                    {radicalData[radicalID].characters === 'null' ?
-                                        <img className="mistakes--image" src={radicalData[radicalID].image} />
-                                        : radicalData[radicalID].characters}
+                <div className={expanded ? "mistakes--container mistakes--container__open" : "mistakes--container"}>
+                    {
+                        radicalMistakeLevels.map(number => {
+                            return (
+                                <div className="mistakes--level"><span>Level: {number}</span>
+                                    {localStorageRadicals?.map((radicalID) => {
+                                        if (radicalData[radicalID].level == number) {
+                                            return (
+                                                <div className="mistakes--radical" key={radicalID}>
+                                                    <div className="mistakes--radical__character">
+                                                        {radicalData[radicalID].characters === 'null' ?
+                                                            <img className="mistakes--image" src={radicalData[radicalID].image} />
+                                                            : radicalData[radicalID].characters}
+                                                    </div>
+                                                    <div>{radicalData[radicalID].slug}</div>
+                                                </div>
+                                            )
+                                        }
+                                    })}
                                 </div>
-                                <div>{radicalData[radicalID].slug}</div>
-                                <div>Level:{radicalData[radicalID].level}</div>
-                            </div>
-                        )
-                    })
-                }</div>
+                            )
+                        })
+                    }</div>
             </div>
         </Wrapper >
     )
@@ -153,14 +173,30 @@ select{
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
-    gap:1.5rem;
+    gap:2rem;
     height:0;
     transition: height 1s ease;
     overflow:hidden;
+    flex-direction: column;
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .mistakes--container__open{
     height:auto;
+}
+
+.mistakes--level{
+    display:flex;
+    flex-wrap:wrap;
+    gap:1rem;
+}
+
+.mistakes--level span{
+color: var(--primary-600);
+    font-weight: bold;
+    font-size: 1.2rem;
 }
 
 .mistakes--radical{

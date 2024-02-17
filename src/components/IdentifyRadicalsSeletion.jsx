@@ -7,6 +7,7 @@ import { useState } from 'react';
 import { MdOutlineKeyboardArrowUp } from "react-icons/md";
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 import { ButtonOrder } from '../utils/ButtonOrder';
+import { getScoreColorClassName } from '../utils/getScoreColors';
 
 
 export const IdentifyRadicalsSelection = () => {
@@ -27,19 +28,18 @@ export const IdentifyRadicalsSelection = () => {
 
     const localScores = JSON.parse(localStorage.getItem('scores'));
     if (buttonOrder === ButtonOrder.NUMERICAL_ORDER) {
-        console.log("button order for numerical")
-        localScores?.sort((a, b) => { return parseInt(a["level"]) <= parseInt(b["level"]) });
+        localScores?.sort((a, b) => { return parseInt(a["level"]) - parseInt(b["level"]) });
     } else if (buttonOrder === ButtonOrder.LOWEST_SCORE) {
         localScores?.sort((a, b) => {
-            console.log(parseInt(a["percent"]) <= parseInt(b["percent"]))
-            return parseInt(a["percent"]) <= parseInt(b["percent"])
+            return parseInt(a["percent"]) - parseInt(b["percent"])
         });
     } else {
-        localScores?.sort((a, b) => Date(a["date"]) <= Date(b["date"]));
+        localScores?.sort((a, b) => {
+            let dateA = new Date(a["date"]);
+            let dateB = new Date(b["date"]);
+            return dateA.getTime() - dateB.getTime();
+        })
     }
-    console.log(localScores);
-
-
 
     return (
         <Wrapper>
@@ -90,7 +90,10 @@ export const IdentifyRadicalsSelection = () => {
                     <div className="scores--list">
                         {localScores?.map(score => {
                             return (
-                                <div key={score["level"]}>
+                                <div
+                                    key={score["level"]}
+                                    className={getScoreColorClassName(score["percent"], "bg")}
+                                >
                                     {score["level"] + ": " + score["percent"] + "%"}
                                 </div>
                             )
@@ -224,6 +227,14 @@ box-shadow: var(--shadow-2);
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom:2rem;
+}
+
+.scores--list div{
+    padding:0.5px;
+    border-radius:0.5rem;
+    width:7rem;
+    text-align:center;
 }
 `;
