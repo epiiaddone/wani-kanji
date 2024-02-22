@@ -15,6 +15,7 @@ import {
 } from '../features/identifyRadicals/identifyRadicalsSlice';
 import { Mnemonic } from './Mnemonic';
 import { fetchVocab } from '../api/fetchVocab';
+import { RadicalSvg } from './RadicalSvg';
 
 
 
@@ -216,7 +217,7 @@ export const KanjiDisplay = ({ kanji }) => {
                                             >
                                                 <div className="radical--characters">
                                                     {radicalData[radicalID].characters === 'null' ?
-                                                        <img className="radical--image" src={radicalData[radicalID].image} />
+                                                        <RadicalSvg radicalSlug={radicalData[radicalID].slug} />
                                                         : radicalData[radicalID].characters}
                                                 </div>
                                                 <div className="radical--slug">{radicalData[radicalID].slug}</div>

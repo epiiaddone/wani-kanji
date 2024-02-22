@@ -10,6 +10,7 @@ import {
     incrementQuestionNumber,
     setGameOver
 } from '../features/radicalReview/radicalReviewSlice';
+import { RadicalSvg } from './RadicalSvg';
 
 
 export const RadicalDisplay = ({ radicals }) => {
@@ -77,7 +78,7 @@ export const RadicalDisplay = ({ radicals }) => {
                     <div>
                         <div className="question">
                             <div className="question--character">{currentQuestion.characters === 'null' ?
-                                <img className="character-img" src={currentQuestion.image} />
+                                <RadicalSvg radicalSlug={currentQuestion.slug} />
                                 : currentQuestion.characters}
                             </div>
                             <div className="question--slug">{questionStatus === "false" && currentQuestion.slug}</div>
@@ -118,11 +119,6 @@ const Wrapper = styled.main`
 background-color: var(--radical);
 color:white;
 position:relative;
-}
-
-.character-img{
-    height:6rem;
-    color:white;
 }
 
 .false-answer{
@@ -192,6 +188,11 @@ position:relative;
     position: absolute;
     bottom: 3rem;
     right: 2rem;
+}
+
+.radical--image{
+    height:6rem;
+    color:white;
 }
 
 `;
