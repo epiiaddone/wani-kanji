@@ -16,6 +16,7 @@ export const RadicalReviewSelection = () => {
 
     const optionsArray = [];
     for (let i = 1; i <= 60; i++) optionsArray.push(i);
+    optionsArray.push(100);
 
     let radicalAmount = 0;
     for (const [id, radical] of Object.entries(radicalData)) {
