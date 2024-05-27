@@ -3125,4 +3125,60 @@ export const radicalData = {
         'level': 100,
         'characters': '折'
     },
+    10134: {
+        'slug': 'duty',
+        'level': 100,
+        'characters': '任'
+    },
+    10135: {
+        'slug': 'broom',
+        'level': 100,
+        'characters': '帚'
+    },
+    10136: {
+        'slug': 'trust',
+        'level': 100,
+        'characters': '頼'
+    },
+    10137: {
+        'slug': 'prefect',
+        'level': 100,
+        'characters': '完'
+    },
+    10138: {
+        'slug': 'squad',
+        'level': 100,
+        'characters': '隊'
+    },
+    10139: {
+        'slug': 'demand',
+        'level': 100,
+        'characters': '需'
+    },
+    10140: {
+        'slug': 'task',
+        'level': 100,
+        'characters': '務'
+    },
+    10141: {
+        'slug': 'boast',
+        'level': 100,
+        'characters': '喬'
+    },
+    10142: {
+        'slug': 'shoot',
+        'level': 100,
+        'characters': '射'
+    },
+    10143: {
+        'slug': 'think',
+        'level': 100,
+        'characters': '考'
+    },
+    10144: {
+        'slug': 'robust',
+        'level': 100,
+        'characters': '壮'
+    },
+
 }
