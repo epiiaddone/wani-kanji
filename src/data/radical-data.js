@@ -2901,7 +2901,7 @@ export const radicalData = {
         'characters': '列'
     },
     10090: {
-        'slug': 'row',
+        'slug': 'in season',
         'level': 100,
         'characters': '旬'
     },
@@ -3180,5 +3180,9 @@ export const radicalData = {
         'level': 100,
         'characters': '壮'
     },
-
+    10145: {
+        'slug': 'grandchild',
+        'level': 100,
+        'characters': '孫'
+    }
 }
