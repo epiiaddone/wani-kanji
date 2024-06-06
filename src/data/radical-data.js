@@ -3184,5 +3184,35 @@ export const radicalData = {
         'slug': 'grandchild',
         'level': 100,
         'characters': '孫'
+    },
+    10146: {
+        'slug': 'how many',
+        'level': 100,
+        'characters': '幾'
+    },
+    10147: {
+        'slug': 'normal',
+        'level': 100,
+        'characters': '普'
+    },
+    10148: {
+        'slug': 'ride',
+        'level': 100,
+        'characters': '乗'
+    },
+    10149: {
+        'slug': 'excel',
+        'level': 100,
+        'characters': '秀'
+    },
+    10150: {
+        'slug': 'get a position',
+        'level': 100,
+        'characters': '就'
+    },
+    10151: {
+        'slug': 'ritual',
+        'level': 100,
+        'characters': '式'
     }
 }
