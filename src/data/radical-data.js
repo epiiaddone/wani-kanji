@@ -3211,8 +3211,14 @@ export const radicalData = {
         'characters': '就'
     },
     10151: {
-        'slug': 'ritual',
+        'slug': 'committee',
         'level': 100,
-        'characters': '式'
+        'characters': '委'
+    },
+    10152: {
+        'slug': 'prolong',
+        'level': 100,
+        'characters': '延'
     }
+
 }
