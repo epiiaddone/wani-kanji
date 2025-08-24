@@ -83,7 +83,10 @@ export const KanjiDisplay = ({ kanji }) => {
     const checkRadicals = (e) => {
         let radicalNames = [];
         currentQuestion.component_subject_ids.forEach(
-            id => radicalNames.push(radicalData[id].slug));
+            id => {
+                if(radicalData[id]) radicalNames.push(radicalData[id].slug);
+                else console.log(`radical data for ${id} not found`);
+            });
 
         let newRadicalsCorrect = [];
 
