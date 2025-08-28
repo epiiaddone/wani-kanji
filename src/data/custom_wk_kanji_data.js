@@ -1,0 +1,16741 @@
+export const custom_wk_kanji_data = {
+    440: {
+        "slug": "一",
+        "level": 1,
+        "component_subject_ids": [1],
+        "amalgamation_subject_ids": [2467, 2468, 2477, 2510, 2544, 2588, 2627, 2660, 2665, 2672, 2679, 2721, 2730, 2751, 2959, 3048, 3256, 3335, 3348, 3349, 3372, 3481, 3527, 3528, 3656, 3663, 4133, 4173, 4258, 4282, 4563, 4615, 4701, 4823, 4906, 5050, 5224, 5237, 5349, 5362, 5838, 6010, 6029, 6150, 6169, 6209, 6210, 6346, 6584, 6614, 6723, 6811, 6851, 7037, 7293, 7305, 7451, 7561, 7617, 7734, 7780, 7927, 8209, 8214, 8414, 8456, 8583, 8709, 8896, 8921, 9056, 9103, 9268],
+        "meanings": ["One"],
+        "meaning_mnemonic": `Lying on the **r[ground]r** is something that looks just like the ground, the number **k[One]k**. Why is this One lying down? It's been shot by the number two. It's lying there, bleeding out and dying. The number One doesn't have long to live.`
+    },
+    441: {
+        "slug": "二",
+        "level": 1,
+        "component_subject_ids": [7],
+        "amalgamation_subject_ids": [2473, 2474, 2476, 2545, 2589, 2628, 2683, 2712, 2960, 3049, 3153, 3237, 3339, 3347, 3373, 3374, 4141, 4826, 5238, 6048, 6615, 6992, 7515, 7565, 8897],
+        "meanings": ["Two"],
+        "meaning_mnemonic": `The kanji **k[two]k** and the radical **r[two]r** are the exact same things. Therefore, you know the kanji for two already!`
+    },
+    442: {
+        "slug": "九",
+        "level": 1,
+        "component_subject_ids": [11],
+        "amalgamation_subject_ids": [2471, 2472, 2864, 7614],
+        "meanings": ["Nine"],
+        "meaning_mnemonic": `Nice! This kanji is the same as the radical that looks just like it (down to the meaning, even!). The radical is **r[nine]r** and the kanji is **k[nine]k**, making the meaning of this kanji really easy to remember as long as you know the radical first.`
+    },
+    443: {
+        "slug": "七",
+        "level": 1,
+        "component_subject_ids": [4],
+        "amalgamation_subject_ids": [2469, 2470, 7562, 9055],
+        "meanings": ["Seven"],
+        "meaning_mnemonic": `Lucky for you (as is the case with many of the lower-stroke kanji), this kanji is the same as the radical you've already learned. The radical that makes up this kanji is **r[seven]r** and the kanji (which is exactly the same) is also **k[seven]k**. So, if you know the radical, you know the meaning of the kanji as well.`
+    },
+    444: {
+        "slug": "人",
+        "level": 1,
+        "component_subject_ids": [9],
+        "amalgamation_subject_ids": [2475, 2476, 2477, 2478, 2479, 2488, 2502, 2582, 2604, 2632, 2655, 2674, 2691, 2715, 2719, 2782, 2887, 2989, 2995, 3014, 3061, 3069, 3141, 3202, 3232, 3254, 3264, 3356, 3358, 3402, 3407, 3412, 3420, 3452, 3540, 3606, 3621, 3699, 3708, 3724, 3748, 3793, 3862, 3898, 3899, 3907, 3936, 4130, 4153, 4158, 4203, 4257, 4305, 4344, 4365, 4385, 4433, 4909, 4964, 4982, 4985, 5014, 5144, 5224, 5474, 5510, 5524, 5733, 6029, 6154, 6209, 6260, 6283, 6450, 6613, 6870, 7218, 7462, 7465, 7517, 7560, 7757, 7783, 8005, 8255, 8384, 8551, 8604, 8659, 8735, 8805, 8987, 9042, 9155],
+        "meanings": ["Person"],
+        "meaning_mnemonic": `Remember how the radical version of this kanji meant **r[person]r** because it's a person walking from the side with their arms down? Well this is a **k[person]k** too!`
+    },
+    445: {
+        "slug": "入",
+        "level": 1,
+        "component_subject_ids": [12],
+        "amalgamation_subject_ids": [2480, 2481, 2498, 2671, 2790, 2831, 3036, 3039, 3592, 3869, 4105, 4180, 4312, 4354, 4590, 4976, 5212, 5248, 5370, 5388, 5507, 5674, 5880, 5914, 6553, 6850, 6966, 6995, 7116, 7267, 7628, 8733, 9269],
+        "meanings": ["Enter"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[enter]r** first! If you know the radical, you know this kanji means **k[enter]k** as well.`
+    },
+    446: {
+        "slug": "八",
+        "level": 1,
+        "component_subject_ids": [2],
+        "amalgamation_subject_ids": [2482, 2483, 4172, 7615],
+        "meanings": ["Eight"],
+        "meaning_mnemonic": `This isn't exactly the same as the **r[fins]r** radical, but it's close. Sometimes this will happen (where we have to use a slightly "modified radical" version of the original), so it's good to understand that now, early on. In this case, we have fins. How many fins? **k[Eight]k** fins. How do you know that? Because you caught four fish with two fins each.`
+    },
+    447: {
+        "slug": "力",
+        "level": 1,
+        "component_subject_ids": [13],
+        "amalgamation_subject_ids": [2484, 2807, 2855, 2970, 2991, 2998, 3081, 3104, 3269, 3536, 3661, 3722, 4018, 4176, 4211, 4266, 4397, 4523, 4808, 5135, 5296, 6100, 6597, 7197, 8689, 8733, 8958],
+        "meanings": ["Power", "Strength", "Ability"],
+        "meaning_mnemonic": `The radical and the meaning of this kanji are the same. Both are **k[power]k**.`
+    },
+    448: {
+        "slug": "十",
+        "level": 1,
+        "component_subject_ids": [15],
+        "amalgamation_subject_ids": [2485, 2524, 2530, 2543, 2566, 2590, 2630, 3237, 3374, 4253, 6992, 7565, 7616, 9255],
+        "meanings": ["Ten"],
+        "meaning_mnemonic": `This **r[cross]r** is the symbol for the number **k[ten]k**. A good way to remember this is to think about all the religions that have crosses and also important sets of tens. `
+    },
+    449: {
+        "slug": "三",
+        "level": 1,
+        "component_subject_ids": [377],
+        "amalgamation_subject_ids": [2486, 2487, 2488, 2713, 2836, 3553, 4171, 4260, 5239, 5844, 7456, 7563, 7678, 9159, 9169, 9255],
+        "meanings": ["Three"],
+        "meaning_mnemonic": `**r[three]r** = **k[Three]k**`
+    },
+    450: {
+        "slug": "上",
+        "level": 1,
+        "component_subject_ids": [325],
+        "amalgamation_subject_ids": [2489, 2490, 2491, 2492, 2539, 2817, 2939, 3304, 3441, 3461, 3745, 4051, 4743, 4825, 4910, 5841, 6038, 6086, 6544, 7087, 7459, 7577, 7598, 7968, 8959, 9238],
+        "meanings": ["Above", "Up", "Over"],
+        "meaning_mnemonic": `**r[above]r** = **k[above]k**`
+    },
+    451: {
+        "slug": "下",
+        "level": 1,
+        "component_subject_ids": [436],
+        "amalgamation_subject_ids": [2493, 2494, 2495, 2496, 2538, 2848, 3201, 3396, 3410, 3446, 3818, 4104, 4824, 5099, 5428, 5441, 6087, 6185, 7004, 7086, 7329, 7371, 8640, 8663, 8960, 8977, 9249, 9261],
+        "meanings": ["Below", "Down", "Under", "Beneath"],
+        "meaning_mnemonic": `**r[below]r** = **k[below]k**`
+    },
+    452: {
+        "slug": "口",
+        "level": 1,
+        "component_subject_ids": [16],
+        "amalgamation_subject_ids": [2497, 2498, 2558, 2611, 3402, 3432, 3439, 3458, 3891, 4246, 4360, 5622, 5690, 5942, 6938, 7021, 7685, 8812, 8961, 9299],
+        "meanings": ["Mouth"],
+        "meaning_mnemonic": `The **r[mouth]r** radical and the **k[mouth]k** kanji are exactly the same!`
+    },
+    453: {
+        "slug": "大",
+        "level": 1,
+        "component_subject_ids": [18],
+        "amalgamation_subject_ids": [2499, 2500, 2501, 2502, 2602, 2661, 2741, 2792, 2812, 2815, 3001, 3016, 3085, 3332, 3436, 3581, 3731, 3751, 3918, 3952, 4052, 4129, 4206, 4249, 4405, 4525, 4536, 4727, 4842, 4868, 4987, 5013, 5045, 5193, 5202, 5259, 5274, 5424, 5425, 5481, 5518, 5642, 5823, 5961, 6085, 6822, 7035, 7077, 7151, 7224, 7304, 7416, 7528, 7609, 7676, 7784, 7915, 7974, 8270, 8401, 8559, 8574, 8576, 8659, 8661, 8666, 8668, 8694, 9029, 9102],
+        "meanings": ["Big", "Large"],
+        "meaning_mnemonic": `The **r[big]r** radical and the **k[big]k** kanji are exactly the same!`
+    },
+    454: {
+        "slug": "女",
+        "level": 1,
+        "component_subject_ids": [19],
+        "amalgamation_subject_ids": [2503, 2512, 2514, 2554, 2555, 3678, 4435, 4872, 6030, 6978, 7518, 7583, 8475, 8515, 8735],
+        "meanings": ["Woman"],
+        "meaning_mnemonic": `The radical for **r[woman]r** and the kanji for **k[woman]k** are exactly the same.`
+    },
+    455: {
+        "slug": "山",
+        "level": 1,
+        "component_subject_ids": [20],
+        "amalgamation_subject_ids": [2504, 2505, 2549, 3392, 3652, 4440, 5475, 5490, 5923, 5925, 6534, 6708, 7858, 8140, 8233, 8410, 8678, 8957, 8962, 9041],
+        "meanings": ["Mountain"],
+        "meaning_mnemonic": `The **r[mountain]r** radical and the **k[mountain]k** kanji are the same.`
+    },
+    456: {
+        "slug": "川",
+        "level": 1,
+        "component_subject_ids": [21],
+        "amalgamation_subject_ids": [2506, 3993, 4620, 5495, 5978, 6117, 6930, 7073, 7413, 9120],
+        "meanings": ["River"],
+        "meaning_mnemonic": `The **r[river]r** radical and the **k[river]k** kanji are the same as each other!`
+    },
+    457: {
+        "slug": "工",
+        "level": 1,
+        "component_subject_ids": [25],
+        "amalgamation_subject_ids": [2791, 2811, 3033, 3037, 3084, 3193, 7560, 8855],
+        "meanings": ["Construction", "Industry"],
+        "meaning_mnemonic": `The **r[construction]r** radical and the **k[construction]k** kanji are the same!
+    
+    This kanji also means **k[industry]k**, which is what construction is, if you think about it. It's all part of the construction industry.`
+    },
+    458: {
+        "slug": "刀",
+        "level": 2,
+        "component_subject_ids": [24],
+        "amalgamation_subject_ids": [2507, 3399],
+        "meanings": ["Sword", "Katana"],
+        "meaning_mnemonic": `The radical and the meaning of this kanji are almost the same! The radical is **r[sword]r**, but we're learning Japanese, so can you name a Japanese **k[sword]k**? That's right, the most common is a **k[katana]k**, which happens to be the meaning of this kanji as well.`
+    },
+    459: {
+        "slug": "土",
+        "level": 2,
+        "component_subject_ids": [17],
+        "amalgamation_subject_ids": [2508, 2849, 4054, 4541, 7048, 7061, 7089, 7155, 7673, 7972, 7999, 8753, 9015, 9127],
+        "meanings": ["Dirt", "Soil", "Earth", "Ground"],
+        "meaning_mnemonic": `The **r[dirt]r** radical and the **k[dirt]k** kanji are the same!`
+    },
+    460: {
+        "slug": "千",
+        "level": 2,
+        "component_subject_ids": [32],
+        "amalgamation_subject_ids": [2509, 2510, 2533, 2565, 2780, 2933, 7534],
+        "meanings": ["Thousand"],
+        "meaning_mnemonic": `This kanji looks like and means the same thing as the radical, which makes it particularly easy to remember.`
+    },
+    461: {
+        "slug": "夕",
+        "level": 2,
+        "component_subject_ids": [33],
+        "amalgamation_subject_ids": [2511, 4119, 6173],
+        "meanings": ["Evening"],
+        "meaning_mnemonic": `The **r[evening]r** radical and the **k[evening]k** kanji are the same. If you know the radical you know the meaning of the kanji.`
+    },
+    462: {
+        "slug": "子",
+        "level": 2,
+        "component_subject_ids": [34],
+        "amalgamation_subject_ids": [2512, 2513, 2514, 2551, 2553, 2684, 3080, 3220, 3324, 3403, 3408, 3640, 3779, 3965, 4176, 4281, 4316, 4371, 4411, 4753, 4965, 4995, 5089, 5192, 5454, 5662, 5938, 6140, 6256, 6572, 6750, 6792, 6835, 6957, 6989, 7100, 7111, 7154, 7356, 7702, 8022, 8466, 9104],
+        "meanings": ["Child", "Kid"],
+        "meaning_mnemonic": `The **r[child]r** radical and the **k[child]k** kanji are exactly the same.`
+    },
+    463: {
+        "slug": "小",
+        "level": 2,
+        "component_subject_ids": [35],
+        "amalgamation_subject_ids": [2515, 2737, 3290, 3411, 3449, 3469, 4038, 4250, 5046, 5700, 5764, 5827, 6249, 6862, 6956, 7665, 7735, 8871],
+        "meanings": ["Small", "Little"],
+        "meaning_mnemonic": `The **r[small]r** radical and the **k[small]k** kanji are exactly the same.`
+    },
+    464: {
+        "slug": "丁",
+        "level": 2,
+        "component_subject_ids": [27],
+        "amalgamation_subject_ids": [3124, 6237, 6527, 6983, 7493],
+        "meanings": ["Street"],
+        "meaning_mnemonic": `The kanji and the radical that look like this are exactly the same. They are both **k[street]k**.`
+    },
+    465: {
+        "slug": "了",
+        "level": 2,
+        "component_subject_ids": [6],
+        "amalgamation_subject_ids": [3169, 3672, 5715],
+        "meanings": ["Finish", "Complete", "End"],
+        "meaning_mnemonic": `Think about it this way. There is a famous fishing lure inventor, working on his best work ever. He’s old, and he’s been trying to make the best fishing lure for the last 50 years, and knows this will be his last invention. Then he figures it out. He takes one **r[barb]r**, and connects the end of it to the top of another **r[barb]r**. When he does this, he knows his work is finally **k[finish]k**ed.`
+    },
+    467: {
+        "slug": "丸",
+        "level": 2,
+        "component_subject_ids": [223],
+        "amalgamation_subject_ids": [2517, 2518, 6099, 7729],
+        "meanings": ["Circle", "Circular", "Round"],
+        "meaning_mnemonic": `**r[circle]r** = **k[circle]k**.`
+    },
+    468: {
+        "slug": "才",
+        "level": 2,
+        "component_subject_ids": [264],
+        "amalgamation_subject_ids": [2519, 2536, 3721, 6377, 7381],
+        "meanings": ["Talent"],
+        "meaning_mnemonic": `**r[talent]r** = **k[talent]k**.`
+    },
+    469: {
+        "slug": "中",
+        "level": 2,
+        "component_subject_ids": [49],
+        "amalgamation_subject_ids": [2520, 2521, 2615, 2626, 2664, 2726, 2882, 2899, 3190, 3284, 3303, 3442, 3451, 3474, 3769, 3771, 3942, 4273, 4681, 4862, 5062, 5095, 5157, 5245, 5427, 5515, 5923, 6088, 6253, 6607, 6610, 7079, 7466, 7551, 7569, 7576, 7728, 7732, 7804, 8272, 8974],
+        "meanings": ["Middle", "In", "Inside", "Center"],
+        "meaning_mnemonic": `The radical **r[Middle]r** and the kanji **k[Middle]k** are both the same. So if you know one, you know the other.`
+    },
+    470: {
+        "slug": "五",
+        "level": 2,
+        "component_subject_ids": [39],
+        "amalgamation_subject_ids": [2522, 2523, 2524, 2525, 2526, 2629, 2682, 3546, 4110, 4253],
+        "meanings": ["Five"],
+        "meaning_mnemonic": `The **r[five]r** radical and the **k[five]k** kanji are the same.`
+    },
+    471: {
+        "slug": "六",
+        "level": 2,
+        "component_subject_ids": [8, 2],
+        "amalgamation_subject_ids": [2527, 2528, 2529, 2530, 2531],
+        "meanings": ["Six"],
+        "meaning_mnemonic": `Just imagine a beast with a **r[lid]r** for a head and **r[fins]r** for feet, running around looking as insane as possible (really imagine it!). When it runs up to you, it shows you the top of its lid-head. On it is written the numbers 666. Why? Because it's a spawn of the devil, and the number **k[six]k** is the devil's number.`
+    },
+    472: {
+        "slug": "円",
+        "level": 2,
+        "component_subject_ids": [29, 8],
+        "amalgamation_subject_ids": [2532, 2533, 2534, 2933, 3528, 6205, 6588, 6619],
+        "meanings": ["Yen", "Round", "Circle"],
+        "meaning_mnemonic": `The combination of radicals for this kanji may not be obvious at first, but if you look carefully you'll see it. The **r[lid]r** is inside the **r[head]r** for this kanji because it's holding something in. Imagine the top of someone's head being closed by a lid. Open that lid up and peer inside... it's full of **k[yen]k** coins, the currency of Japan!`
+    },
+    473: {
+        "slug": "天",
+        "level": 2,
+        "component_subject_ids": [40],
+        "amalgamation_subject_ids": [2535, 2536, 2676, 2883, 3986, 4795, 5661, 6884, 7406, 7464, 7762, 8676, 9009, 9267],
+        "meanings": ["Heaven"],
+        "meaning_mnemonic": `The radical **r[heaven]r** is the same as the kanji **k[heaven]k**, making this an easy kanji to memorize.`
+    },
+    474: {
+        "slug": "手",
+        "level": 2,
+        "component_subject_ids": [41],
+        "amalgamation_subject_ids": [2537, 2538, 2539, 2560, 2568, 2819, 2851, 2964, 2999, 3138, 3205, 3404, 3422, 3513, 3549, 3567, 3571, 3629, 4061, 4264, 4353, 4402, 4438, 5030, 6276, 6458, 6472, 6596, 6771, 6948, 7167, 7193, 7467, 7726, 7770, 8286, 8506, 8737, 8814, 9082, 9238, 9270],
+        "meanings": ["Hand", "Doer"],
+        "meaning_mnemonic": `The **r[hand]r** radical and the **k[hand]k** kanji are identical in looks and meaning! That should make things easy!`
+    },
+    475: {
+        "slug": "文",
+        "level": 2,
+        "component_subject_ids": [42],
+        "amalgamation_subject_ids": [2540, 2659, 2660, 2661, 2809, 2846, 3283, 3346, 3411, 3580, 3658, 3774, 3786, 4075, 4327, 4612, 5519, 5994, 7632, 7750, 8303, 8696, 8706, 8740],
+        "meanings": ["Writing", "Sentence"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[writing]r** first! If you know the radical, you know this kanji means **k[writing]k** as well.`
+    },
+    476: {
+        "slug": "日",
+        "level": 2,
+        "component_subject_ids": [22],
+        "amalgamation_subject_ids": [2523, 2529, 2541, 2563, 2570, 2594, 2647, 2652, 2728, 2746, 2748, 2759, 2784, 2843, 2852, 2856, 2965, 3046, 3164, 3210, 3712, 3762, 3850, 3948, 3983, 4054, 4055, 4056, 4057, 4058, 4116, 4361, 4362, 4659, 4680, 4688, 4969, 5185, 5246, 5295, 5353, 5357, 5934, 6048, 6175, 6362, 6693, 7515, 7561, 7562, 7563, 7565, 7587, 7593, 7614, 7615, 7616, 7899, 8265, 8709, 8816, 9131, 9169],
+        "meanings": ["Sun", "Day"],
+        "meaning_mnemonic": `The **r[sun]r** radical and **k[sun]k** kanji are the same, huzzah! Also, if you want to remember **k[day]k** as well, you can just think about how a day is the time it takes for the sun to cross the sky.`
+    },
+    477: {
+        "slug": "月",
+        "level": 2,
+        "component_subject_ids": [43],
+        "amalgamation_subject_ids": [2522, 2528, 2542, 2543, 2544, 2545, 2562, 2595, 2650, 2651, 2702, 2745, 2758, 2783, 2825, 2949, 4056, 4674, 4817, 4888, 5358, 6172, 6990, 7325, 9169, 9241],
+        "meanings": ["Moon", "Month"],
+        "meaning_mnemonic": `The **k[moon]k** kanji is made up of the **r[moon]r** radical. This kanji is also used to mean **k[month]k**.`
+    },
+    478: {
+        "slug": "木",
+        "level": 2,
+        "component_subject_ids": [23],
+        "amalgamation_subject_ids": [2546, 3692, 3694, 4057, 4679, 7993, 8034, 8218, 8692, 9011],
+        "meanings": ["Tree", "Wood"],
+        "meaning_mnemonic": `This is another kanji that is the same as the radical. Both **r[tree]r** and **k[tree]k** are the same in looks and meaning.`
+    },
+    479: {
+        "slug": "水",
+        "level": 2,
+        "component_subject_ids": [45],
+        "amalgamation_subject_ids": [2547, 2774, 3366, 3397, 3630, 3972, 4058, 4289, 4335, 4347, 5334, 5445, 5587, 6116, 6284, 6401, 6512, 6516, 6928, 7016, 7121, 7201, 7207, 7307, 7310, 7425, 7619, 7624, 7728, 7871, 8001, 8297, 8376, 8633],
+        "meanings": ["Water"],
+        "meaning_mnemonic": `The **r[water]r** radical and the **k[water]k** kanji are the same.`
+    },
+    480: {
+        "slug": "火",
+        "level": 2,
+        "component_subject_ids": [46],
+        "amalgamation_subject_ids": [2548, 2549, 2695, 4300, 4336, 4361, 6138, 7176, 7211, 7484, 7740, 7816, 7868, 8723, 9010],
+        "meanings": ["Fire"],
+        "meaning_mnemonic": `The **r[fire]r** radical and the **k[fire]k** kanji are the same as each other.`
+    },
+    481: {
+        "slug": "犬",
+        "level": 2,
+        "component_subject_ids": [47],
+        "amalgamation_subject_ids": [2550, 2551, 3502, 5405, 7910, 8296],
+        "meanings": ["Dog"],
+        "meaning_mnemonic": `The **r[dog]r** radical and **k[dog]k** kanji are exactly the same!`
+    },
+    482: {
+        "slug": "王",
+        "level": 2,
+        "component_subject_ids": [48],
+        "amalgamation_subject_ids": [2552, 2553, 2554, 2555, 7355, 7618, 7751, 8068, 8662, 9009, 9013],
+        "meanings": ["King"],
+        "meaning_mnemonic": `The **r[king]r** radical and the **k[king]k** kanji are the same!`
+    },
+    483: {
+        "slug": "出",
+        "level": 2,
+        "component_subject_ids": [20],
+        "amalgamation_subject_ids": [2556, 2557, 2558, 2880, 3040, 3418, 3433, 3435, 3461, 3506, 3980, 4071, 4380, 4566, 4684, 4977, 5027, 5335, 5340, 5508, 5509, 5915, 5940, 6402, 6561, 6675, 6936, 6959, 7274, 7423, 7872, 7903, 8086, 8660, 9020, 9083, 9084, 9131, 9154],
+        "meanings": ["Exit"],
+        "meaning_mnemonic": `There are two **r[mountains]r** in front of you... and probably a bunch more around you too. You are in a pass, and don't know how to get out. You are frantically looking for the **k[exit]k** before you freeze to death. The most important thing is to find the exit from this mountain range - your life depends on it.`
+    },
+    484: {
+        "slug": "右",
+        "level": 2,
+        "component_subject_ids": [26, 16],
+        "amalgamation_subject_ids": [2559, 2560, 3574, 3953, 6779, 8693, 8717],
+        "meanings": ["Right"],
+        "meaning_mnemonic": `**r[Narwhal]r** **r[mouth]r**s are on the **k[right]k** side of their head. In fact, some people didn't think they had mouths at all because they weren't looking from the right. Rookie mistake.
+    
+    See how the "mouth" radical is to the right of the "narwhal" radical? That should help you remember that this means **k[right]k**.`
+    },
+    485: {
+        "slug": "四",
+        "level": 2,
+        "component_subject_ids": [16, 28],
+        "amalgamation_subject_ids": [2561, 2562, 2563, 2564, 2565, 2566, 2681, 2837, 2885, 3237, 3374, 3671, 6810, 7854],
+        "meanings": ["Four"],
+        "meaning_mnemonic": `Imagine contorting yourself in such a way that your **r[legs]r** end up inside your **r[mouth]r**. You have bent your body in all the wrong ways in order to achieve this. In fact, if you look at yourself, you look like a square now... You're just a person with **k[four]k** sides.`
+    },
+    486: {
+        "slug": "左",
+        "level": 2,
+        "component_subject_ids": [26, 25],
+        "amalgamation_subject_ids": [2567, 2568, 3572, 3954, 6778, 7652, 8585, 8693],
+        "meanings": ["Left"],
+        "meaning_mnemonic": `**r[Narwhal]r**s do **r[construction]r** with their **k[left]k** hands (or flippers, I guess). That's because all narwhals are left-handed!`
+    },
+    487: {
+        "slug": "本",
+        "level": 2,
+        "component_subject_ids": [50],
+        "amalgamation_subject_ids": [2569, 2570, 2677, 2679, 2833, 2856, 2865, 3108, 3164, 3210, 3329, 3336, 3642, 3670, 3712, 3911, 4429, 4680, 4876, 4877, 5911, 6244, 6832, 6881, 7149, 7766, 8031, 8736, 8749],
+        "meanings": ["Book", "Origin", "Real", "Main"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[book]r** first! If you know the radical, you know this kanji means **k[book]k** as well.
+    
+    Take note that the second, third, and fourth meanings of this kanji are **k[origin]k**, **k[real]k**, and **k[main]k**. You can figure this out by thinking about how books mainly have their origins in real life.`
+    },
+    488: {
+        "slug": "正",
+        "level": 2,
+        "component_subject_ids": [1, 44],
+        "amalgamation_subject_ids": [2571, 2572, 2739, 2904, 4095, 4205, 4311, 4467, 4476, 7382, 7654, 8642, 9069, 9241],
+        "meanings": ["Correct"],
+        "meaning_mnemonic": `There is a line on the **r[ground]r** so you **r[stop]r**, making a giant sign pop up that says **k[CORRECT]k**! You obeyed the rules of the road and did the correct thing. Good on you.`
+    },
+    489: {
+        "slug": "玉",
+        "level": 2,
+        "component_subject_ids": [48, 3],
+        "amalgamation_subject_ids": [2573, 2574, 2575, 2584, 2798, 6302],
+        "meanings": ["Ball"],
+        "meaning_mnemonic": `The **r[king]r** has something in his hand that he's **r[drop]r**ping... but it bounces too! He's bouncing a **k[ball]k**.`
+    },
+    490: {
+        "slug": "田",
+        "level": 2,
+        "component_subject_ids": [51],
+        "amalgamation_subject_ids": [2580, 5871, 5930, 6316, 6524, 6735, 7537, 9167],
+        "meanings": ["Rice Paddy", "Rice Field", "Field"],
+        "meaning_mnemonic": `The **r[rice paddy]r** radical and the **k[rice paddy]k** kanji are the same, making this one super easy to remember, at least meaning-wise.`
+    },
+    491: {
+        "slug": "白",
+        "level": 2,
+        "component_subject_ids": [52],
+        "amalgamation_subject_ids": [2581, 2582, 2986, 3514, 3878, 4081, 5322, 7034, 7521, 8688, 9110],
+        "meanings": ["White"],
+        "meaning_mnemonic": `The radical **r[white]r** and the kanji **k[white]k** are the same.`
+    },
+    492: {
+        "slug": "目",
+        "level": 2,
+        "component_subject_ids": [53],
+        "amalgamation_subject_ids": [2583, 2584, 2872, 3480, 3481, 3553, 3603, 3713, 3912, 6237, 6332, 7372, 7737, 8386, 8489, 8539, 8600, 8699, 8712, 9161],
+        "meanings": ["Eye"],
+        "meaning_mnemonic": `The **r[eye]r** radical and **k[eye]k** kanji are the same as each other, so now you know them both.`
+    },
+    493: {
+        "slug": "石",
+        "level": 4,
+        "component_subject_ids": [54],
+        "amalgamation_subject_ids": [2585, 5632, 5778, 6522, 6535, 6697, 7058, 8302, 8573, 8726, 9151],
+        "meanings": ["Stone"],
+        "meaning_mnemonic": `The **r[stone]r** radical and **k[stone]k** kanji are the same thing!`
+    },
+    494: {
+        "slug": "立",
+        "level": 2,
+        "component_subject_ids": [55],
+        "amalgamation_subject_ids": [2586, 2587, 2636, 2771, 3009, 3015, 3716, 3918, 4312, 4439, 4899, 4953, 5076, 5116, 5457, 7536, 7876, 7891, 9081, 9237],
+        "meanings": ["Stand"],
+        "meaning_mnemonic": `The radical **r[stand]r** and the kanji **k[stand]k** are the same thing, so now you know them both.`
+    },
+    495: {
+        "slug": "万",
+        "level": 3,
+        "component_subject_ids": [8763, 24],
+        "amalgamation_subject_ids": [2588, 2589, 2590, 2680, 6993, 7462, 7519, 7768],
+        "meanings": ["Ten Thousand"],
+        "meaning_mnemonic": `You cut the **r[leaf]r** with your **r[sword]r** into **k[ten thousand]k** pieces!`
+    },
+    497: {
+        "slug": "今",
+        "level": 3,
+        "component_subject_ids": [238],
+        "amalgamation_subject_ids": [2593, 2594, 2595, 2752, 2890, 2979, 3123, 3414, 3417, 3444, 3761, 3765, 5607, 8703],
+        "meanings": ["Now"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[now]r** first! If you know the radical, you know this kanji means **k[now]k** as well.`
+    },
+    498: {
+        "slug": "元",
+        "level": 3,
+        "component_subject_ids": [64],
+        "amalgamation_subject_ids": [2596, 2675, 3783, 3934, 6227, 6867, 7960, 7977, 8215, 9142, 9143],
+        "meanings": ["Origin"],
+        "meaning_mnemonic": `The **r[origin]r** radical and the **k[origin]k** kanji are the same!`
+    },
+    499: {
+        "slug": "公",
+        "level": 10,
+        "component_subject_ids": [2, 140],
+        "amalgamation_subject_ids": [2642, 2832, 3186, 3248, 3824, 4085, 4288, 4427, 4528, 4535, 5176, 7842, 8193],
+        "meanings": ["Public"],
+        "meaning_mnemonic": `You have **r[fins]r** in **r[private]r**. But, you want the world to see them, so you take them **k[public]k**.`
+    },
+    500: {
+        "slug": "内",
+        "level": 3,
+        "component_subject_ids": [29, 9],
+        "amalgamation_subject_ids": [2663, 2710, 2808, 2830, 3955, 3967, 4185, 4512, 5389, 5500, 5720, 5913, 6211, 6351, 6388, 7844, 9150],
+        "meanings": ["Inside", "Within"],
+        "meaning_mnemonic": `There's a **r[person]r** **k[inside]k** your **r[head]r**.`
+    },
+    501: {
+        "slug": "分",
+        "level": 3,
+        "component_subject_ids": [2, 24],
+        "amalgamation_subject_ids": [2597, 2598, 2599, 2600, 2673, 2700, 2755, 2770, 3405, 3741, 4072, 4159, 4357, 4468, 5128, 5412, 6605, 6660, 6845, 7533, 7749, 8052, 8628, 9070],
+        "meanings": ["Part", "Minute"],
+        "meaning_mnemonic": `The **r[fins]r** that fell onto my **r[sword]r** were sliced into two **k[part]k**s.`
+    },
+    502: {
+        "slug": "切",
+        "level": 3,
+        "component_subject_ids": [4, 24],
+        "amalgamation_subject_ids": [2601, 2602, 2603, 2818, 3225, 3404, 4070, 5077, 5078, 5083, 5087, 5272, 5348, 5691, 5692, 5833, 5842],
+        "meanings": ["Cut"],
+        "meaning_mnemonic": `If you have **r[seven]r** **r[swords]r**, there's only so much you can do with them. The main thing? Probably using them to **k[cut]k** something.`
+    },
+    503: {
+        "slug": "午",
+        "level": 3,
+        "component_subject_ids": [5, 61],
+        "amalgamation_subject_ids": [2909, 2913],
+        "meanings": ["Noon"],
+        "meaning_mnemonic": `The **r[slide]r** is **r[dry]r** at **k[noon]k**. The sun is brightest at noon, so it dries the morning dew off the slide, making noon the perfect time to slide.`
+    },
+    504: {
+        "slug": "友",
+        "level": 3,
+        "component_subject_ids": [26, 30],
+        "amalgamation_subject_ids": [2604, 3226, 3251, 4151],
+        "meanings": ["Friend"],
+        "meaning_mnemonic": `A **r[narwhal]r** sitting on a **r[stool]r** is your **k[friend]k**.`
+    },
+    505: {
+        "slug": "太",
+        "level": 3,
+        "component_subject_ids": [18, 3],
+        "amalgamation_subject_ids": [2605, 2606, 2658, 3294, 3371, 5354, 5662, 7356, 8433, 9099],
+        "meanings": ["Fat"],
+        "meaning_mnemonic": `You have a **r[big]r** person here, with an extra **r[drop]r** of something below their thigh, hanging down. That's **k[fat]k** right there. This person has fat hanging off their fat.`
+    },
+    506: {
+        "slug": "少",
+        "level": 3,
+        "component_subject_ids": [35, 5],
+        "amalgamation_subject_ids": [2607, 2608, 2666, 7078, 7518, 8271],
+        "meanings": ["Few", "A Little"],
+        "meaning_mnemonic": `You have a **r[small]r** **r[slide]r**. The thing about small slides is that they can only fit a **k[few]k** people at a time.`
+    },
+    507: {
+        "slug": "引",
+        "level": 3,
+        "component_subject_ids": [36, 8761],
+        "amalgamation_subject_ids": [2609, 3405, 4765, 5270, 5721, 6632, 6844, 7716, 8744],
+        "meanings": ["Pull"],
+        "meaning_mnemonic": `If you have a **r[bow]r** and a **r[stick]r** you need to **k[pull]k** the two back together to shoot it. If you can't pull it, you won't be shooting anything.`
+    },
+    508: {
+        "slug": "心",
+        "level": 3,
+        "component_subject_ids": [65],
+        "amalgamation_subject_ids": [2610, 2860, 2973, 3019, 3026, 3520, 3563, 3564, 3588, 3614, 3638, 3709, 3735, 3992, 4000, 4033, 4374, 5305, 5563, 5718, 6749, 7709, 7745, 7765, 7774, 9145],
+        "meanings": ["Heart"],
+        "meaning_mnemonic": `The radical **r[heart]r** and the kanji **k[heart]k** are the same. Rejoice and let your heart be free!`
+    },
+    509: {
+        "slug": "戸",
+        "level": 3,
+        "component_subject_ids": [73],
+        "amalgamation_subject_ids": [2611, 5247, 6479, 6670, 6769, 6833, 6883, 8734, 9254],
+        "meanings": ["Door"],
+        "meaning_mnemonic": `The radical and the kanji for **k[door]k** are the same!`
+    },
+    510: {
+        "slug": "方",
+        "level": 3,
+        "component_subject_ids": [66],
+        "amalgamation_subject_ids": [2612, 2701, 2716, 2717, 2766, 2853, 2858, 2897, 3216, 3419, 3437, 3450, 3499, 3555, 3773, 4030, 4106, 7463, 8300],
+        "meanings": ["Direction", "Way"],
+        "meaning_mnemonic": `The radical and the kanji for **k[direction]k** are the same! Huzzah!
+    
+    There is also another meaning too, though. This can also mean **k[way]k** as well. Think of it this way: When you move in one direction in your life, you are developing your own way. "The way of [your name here]."`
+    },
+    511: {
+        "slug": "牛",
+        "level": 3,
+        "component_subject_ids": [126],
+        "amalgamation_subject_ids": [2619, 2768, 3403, 4646, 5754],
+        "meanings": ["Cow"],
+        "meaning_mnemonic": `The radical and the kanji for **k[cow]k** are exactly the same! That makes it easy to remember, so long as you know your radicals well enough.`
+    },
+    512: {
+        "slug": "父",
+        "level": 3,
+        "component_subject_ids": [68],
+        "amalgamation_subject_ids": [2617, 2618, 3551, 5542, 5723, 6000, 7613, 8524],
+        "meanings": ["Father", "Dad"],
+        "meaning_mnemonic": `The radical and the kanji for **k[father]k** are the same.`
+    },
+    513: {
+        "slug": "毛",
+        "level": 3,
+        "component_subject_ids": [67],
+        "amalgamation_subject_ids": [2616, 2878, 3409, 3416, 4194, 5767, 6818, 8874, 9264],
+        "meanings": ["Fur", "Hair"],
+        "meaning_mnemonic": `**k[Fur]k** and **r[fur]r** are the same as each other, so the meaning of this kanji should be simple. This can also mean **k[hair]k**, too, though more like furry hair.`
+    },
+    514: {
+        "slug": "止",
+        "level": 3,
+        "component_subject_ids": [44],
+        "amalgamation_subject_ids": [2613, 2614, 2615, 2646, 4126, 4156, 4312, 4333, 4585, 5261, 5513, 5980, 6142, 6199, 7042],
+        "meanings": ["Stop"],
+        "meaning_mnemonic": `The **r[stop]r** radical is the same as the **k[stop]k** kanji.`
+    },
+    515: {
+        "slug": "兄",
+        "level": 5,
+        "component_subject_ids": [16, 28],
+        "amalgamation_subject_ids": [2620, 2621, 2821, 5748, 7717],
+        "meanings": ["Older Brother", "Big Brother", "Elder Brother"],
+        "meaning_mnemonic": `Who's someone who's just a **r[mouth]r** with **r[legs]r**? That's your know-it-all **k[older brother]k**, who won't shut up about anything.`
+    },
+    516: {
+        "slug": "冬",
+        "level": 3,
+        "component_subject_ids": [60, 7],
+        "amalgamation_subject_ids": [2622, 3415, 6542],
+        "meanings": ["Winter"],
+        "meaning_mnemonic": `We have the **r[winter]r** radical and the **r[two]r** radical (though it's sort of slanted). What's two times the winter radical, if radicals are just a part of a kanji? Two times would be enough to create the entire kanji, which is also **k[winter]k**.`
+    },
+    517: {
+        "slug": "北",
+        "level": 3,
+        "component_subject_ids": [123, 8761, 57],
+        "amalgamation_subject_ids": [2623, 2779, 2898, 7474, 8014, 9055],
+        "meanings": ["North"],
+        "meaning_mnemonic": `If you rub an **r[ice]r** **r[stick]r** against a **r[spoon]r**, the spoon will always point **k[north]k**. This is because the ice stick creates a magnetic field that makes the spoon act like a compass needle. That's science, friends!`
+    },
+    518: {
+        "slug": "半",
+        "level": 3,
+        "component_subject_ids": [8765, 61],
+        "amalgamation_subject_ids": [2597, 2624, 2960, 4671, 5062, 5463, 6895, 8899],
+        "meanings": ["Half"],
+        "meaning_mnemonic": `A **r[triceratops]r** is lying out to **r[dry]r**. But it's so big, and it's laying on its side, so only **k[half]k** of it gets dry.`
+    },
+    519: {
+        "slug": "古",
+        "level": 3,
+        "component_subject_ids": [69],
+        "amalgamation_subject_ids": [2625, 2626, 2827, 3122, 3809, 7414, 7568, 8037],
+        "meanings": ["Old"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[old]r** first! If you know the radical, you know this kanji means **k[old]k** as well.
+    
+    Note: This "old" does not refer to people. Think of it as "old things" instead.`
+    },
+    520: {
+        "slug": "台",
+        "level": 3,
+        "component_subject_ids": [140, 16],
+        "amalgamation_subject_ids": [2627, 2628, 2629, 2630, 6005, 6091, 6285, 6764, 7455, 7567, 7651, 7742],
+        "meanings": ["Machine"],
+        "meaning_mnemonic": `You have a **r[private]r** **r[mouth]r** that's a **k[machine]k**. But you have to keep your machine mouth private because it would scare all the non-machine people around you.`
+    },
+    521: {
+        "slug": "外",
+        "level": 3,
+        "component_subject_ids": [33, 10],
+        "amalgamation_subject_ids": [2631, 2632, 2633, 2634, 2828, 2886, 2887, 2918, 2938, 3008, 3421, 3655, 3875, 3956, 3975, 4272, 4373, 4513, 4555, 5424, 5435, 6298, 6389, 7270, 7730, 7845, 8110, 8118, 8952, 9152],
+        "meanings": ["Outside"],
+        "meaning_mnemonic": `You're known to get the ailment **r[evening]r** **r[toe]r**, which is when your toe catches on fire after getting really, really hot (imagine this happening, ouch!). The only way to fix it is to cool your toe down, and the best way to do that is to go **k[outside]k**.`
+    },
+    522: {
+        "slug": "市",
+        "level": 3,
+        "component_subject_ids": [8, 102],
+        "amalgamation_subject_ids": [2635, 2636, 2637, 4530, 4938, 7457],
+        "meanings": ["City"],
+        "meaning_mnemonic": `You lift the **r[lid]r** off a manhole and there's a **r[towel]r** with the name of a **k[city]k** on it.`
+    },
+    523: {
+        "slug": "広",
+        "level": 3,
+        "component_subject_ids": [62, 140],
+        "amalgamation_subject_ids": [2638, 3344, 4083, 4378, 8760, 8945],
+        "meanings": ["Wide"],
+        "meaning_mnemonic": `The **r[canopy]r** you use in **r[private]r** is very **k[wide]k**.`
+    },
+    524: {
+        "slug": "母",
+        "level": 3,
+        "component_subject_ids": [22, 3],
+        "amalgamation_subject_ids": [2639, 2640, 3552, 5543, 5723, 6513, 7409, 8420, 8525],
+        "meanings": ["Mother", "Mom"],
+        "meaning_mnemonic": `The **r[sun]r** lets out one **r[drop]r**, and then another **r[drop]r**. The drops dance together in the air, combine, and when they hit the ground, up sprouts your **k[mother]k**!`
+    },
+    525: {
+        "slug": "用",
+        "level": 3,
+        "component_subject_ids": [71],
+        "amalgamation_subject_ids": [2641, 2642, 2722, 2810, 3083, 3533, 3736, 3893, 4032, 4064, 4516, 5527, 5745, 6269, 6379, 6460, 7579, 7669, 7679, 7733, 7774, 8802],
+        "meanings": ["Task", "Use"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[task]r** first! If you know the radical, you know this kanji means **k[task]k** as well.`
+    },
+    526: {
+        "slug": "矢",
+        "level": 3,
+        "component_subject_ids": [72],
+        "amalgamation_subject_ids": [2643, 4293, 5105],
+        "meanings": ["Arrow"],
+        "meaning_mnemonic": `The **r[arrow]r** radical and the **k[arrow]k** kanji are the same. Sort of a "straight" shot to memorizing this kanji, you know?`
+    },
+    527: {
+        "slug": "世",
+        "level": 4,
+        "component_subject_ids": [83],
+        "amalgamation_subject_ids": [2711, 2712, 2713, 3133, 3442, 3782, 3867, 5331, 8893, 9154, 9159],
+        "meanings": ["World", "Generation"],
+        "meaning_mnemonic": `The **r[world]r** radical and the **k[world]k** kanji are the same, but there is another really important meaning you need to know: **k[generation]k**. 
+    
+    Think of it this way: the world is just made up of many different generations of people, plants, and animals all getting along together.`
+    },
+    528: {
+        "slug": "主",
+        "level": 4,
+        "component_subject_ids": [154],
+        "amalgamation_subject_ids": [2714, 2715, 3004, 3214, 3968, 4395, 4477, 4506, 4556, 4864, 5146, 5219, 5705, 5716, 5724, 5962, 6370, 6705, 7153, 8266, 8492, 8676],
+        "meanings": ["Master", "Main"],
+        "meaning_mnemonic": `The radical **r[master]r** and the kanji **k[master]k** have the same meanings!
+    
+    This kanji also means **k[main]k** because the master is the main person of a dojo or household or business.`
+    },
+    529: {
+        "slug": "他",
+        "level": 4,
+        "component_subject_ids": [75, 77],
+        "amalgamation_subject_ids": [2718, 2719, 3041, 4396, 6400, 9088, 9155],
+        "meanings": ["Other"],
+        "meaning_mnemonic": `The **r[leader]r** of **r[alligators]r**... she's no ordinary leader, that's for sure. She's not a politician.. she's not a queen... She's one of the **k[Other]k** Ones, a group of strange, eccentric people who become leaders of animals.`
+    },
+    530: {
+        "slug": "代",
+        "level": 5,
+        "component_subject_ids": [75, 79],
+        "amalgamation_subject_ids": [2720, 2721, 2722, 3443, 3445, 4252, 4849, 5148, 7537, 7753, 8167, 9078, 9255, 9256],
+        "meanings": ["Substitute", "Replace", "Period", "Age"],
+        "meaning_mnemonic": `The **r[leader]r** for the **r[ceremony]r** can't come so you need a **k[substitute]k** to **k[replace]k** them ASAP!
+    
+    This kanji has another meaning too. The leader can't come to the ceremony because they forgot what **k[period]k** of time it was. If they think they're in the wrong **k[age]k**, they won't come because they're trying to lead some monkeys in the ceremony instead.`
+    },
+    531: {
+        "slug": "写",
+        "level": 4,
+        "component_subject_ids": [76, 1, 8766],
+        "amalgamation_subject_ids": [2723, 2724, 3853, 5552, 6201],
+        "meanings": ["Copy"],
+        "meaning_mnemonic": `The **r[beggar]r** is pointing his **r[forehead]r** up at you, his feet trapped in the **r[ground]r**. What diabolical scheme are you planning with this poor beggar you trapped? Turns out, you're planning to **k[copy]k** him to have your own version of him.`
+    },
+    532: {
+        "slug": "去",
+        "level": 4,
+        "component_subject_ids": [17, 140],
+        "amalgamation_subject_ids": [2667, 4493, 4661, 6483, 8653, 9250],
+        "meanings": ["Past"],
+        "meaning_mnemonic": `If someone tries to dig up **r[private]r** **r[dirt]r** on you, tell them no thanks, that stuff is in the **k[past]k**. Some things should stay in the past. Not everyone needs to know everything about your life and your past.`
+    },
+    533: {
+        "slug": "号",
+        "level": 4,
+        "component_subject_ids": [16, 1, 14],
+        "amalgamation_subject_ids": [2725, 3047, 3734, 4132, 5204, 7675, 8803],
+        "meanings": ["Number"],
+        "meaning_mnemonic": `There's a **r[mouth]r** in the **r[ground]r** (in our case, it's a hatch), and inside is some kind of **r[prison]r** you can't quite get to. If you've ever seen Lost, this will sound familiar... on the hatch, there's actually a series of **k[number]k**s that you don't understand.`
+    },
+    534: {
+        "slug": "央",
+        "level": 4,
+        "component_subject_ids": [18, 29],
+        "amalgamation_subject_ids": [2726],
+        "meanings": ["Center", "Centre"],
+        "meaning_mnemonic": `If someone has a **r[big]r** **r[head]r** you have to try to focus on the **k[center]k** of it when you talk to them.`
+    },
+    535: {
+        "slug": "平",
+        "level": 4,
+        "component_subject_ids": [61, 8767],
+        "amalgamation_subject_ids": [2678, 2727, 2728, 2862, 3093, 3294, 4157, 5485, 6970, 7631, 7973, 8256, 8407, 9100],
+        "meanings": ["Flat", "Peace"],
+        "meaning_mnemonic": `If you want to **r[dry]r** your **r[horns]r** you need to lay them **k[flat]k**. If they aren't flat they'll always be a little damp somewhere and you'll never have a moment's **k[peace]k**.`
+    },
+    536: {
+        "slug": "打",
+        "level": 4,
+        "component_subject_ids": [63, 27],
+        "amalgamation_subject_ids": [2688, 2729, 2730, 5139, 6071, 6244, 6420, 7252],
+        "meanings": ["Hit"],
+        "meaning_mnemonic": `Take your **r[fingers]r** to the **r[street]r** to **k[hit]k** some people! Street fingers are for curling into a fist. And that street fist wants to do some hitting!`
+    },
+    537: {
+        "slug": "氷",
+        "level": 4,
+        "component_subject_ids": [3, 45],
+        "amalgamation_subject_ids": [2731, 2732, 4944],
+        "meanings": ["Ice"],
+        "meaning_mnemonic": `Add a **r[drop]r** of something magical to **r[water]r** and suddenly it turns into big block of **k[ice]k**, just like that.`
+    },
+    538: {
+        "slug": "申",
+        "level": 4,
+        "component_subject_ids": [15, 16],
+        "amalgamation_subject_ids": [2733, 2734, 5730],
+        "meanings": ["Say Humbly"],
+        "meaning_mnemonic": `There’s a **r[cross]r** in your **r[mouth]r**, so the things you say are very pious. Everything you say, you **k[say humbly]k**.`
+    },
+    539: {
+        "slug": "皮",
+        "level": 5,
+        "component_subject_ids": [5, 81],
+        "amalgamation_subject_ids": [2735, 2769, 4594, 6497, 7827, 7958, 7959, 9264],
+        "meanings": ["Skin"],
+        "meaning_mnemonic": `**r[Slide]r** down a **r[branch]r** and your **k[skin]k** will come off. Unlike what Tarzan will make you believe, you can't just slide around on branches, they're rough and painful and if you do it your skin will come sliding off and it will hurt.`
+    },
+    540: {
+        "slug": "皿",
+        "level": 4,
+        "component_subject_ids": [84],
+        "amalgamation_subject_ids": [2736, 2737, 4114, 5652],
+        "meanings": ["Plate", "Dish"],
+        "meaning_mnemonic": `The **k[plate]k** kanji and the **r[plate]r** radical are exactly the same, like two matching pieces of china.`
+    },
+    541: {
+        "slug": "礼",
+        "level": 4,
+        "component_subject_ids": [80, 211],
+        "amalgamation_subject_ids": [2738, 2942, 6392, 6492],
+        "meanings": ["Thanks", "Etiquette"],
+        "meaning_mnemonic": `What do you get if you lend a **r[spirit]r** your **r[umbrella]r**? **k[Thanks]k**, of course! Especially if that spirit is Totoro, the spirit of the forest.`
+    },
+    542: {
+        "slug": "休",
+        "level": 4,
+        "component_subject_ids": [75, 23],
+        "amalgamation_subject_ids": [2644, 2645, 2646, 2647, 2793, 2953, 3415, 3760, 4019, 5034, 7108, 7447, 8670],
+        "meanings": ["Rest"],
+        "meaning_mnemonic": `The **r[leader]r** is next to the **r[tree]r**. What is he doing? He's leaning against it, **k[rest]k**ing.`
+    },
+    543: {
+        "slug": "先",
+        "level": 4,
+        "component_subject_ids": [5, 17, 28],
+        "amalgamation_subject_ids": [2648, 2649, 2650, 2651, 2652, 2653, 2978, 3438, 4048, 4634, 4831, 5061, 5400, 5541, 6787, 6872, 7147, 8746],
+        "meanings": ["Previous", "Ahead", "Past", "Former"],
+        "meaning_mnemonic": `**r[Slide]r** some **r[dirt]r** on your **r[legs]r** so you can feel like you're from a **k[previous]k** time. Everything from the past is in the dirt. Dead people, dinosaur bones, your mom's secrets in a box from her past life. All these things come back to you as you slide the dirt all over your legs.`
+    },
+    544: {
+        "slug": "名",
+        "level": 4,
+        "component_subject_ids": [33, 16],
+        "amalgamation_subject_ids": [2655, 2656, 2867, 2869, 2929, 3042, 3109, 3122, 3157, 3460, 3501, 4020, 4027, 4233, 4394, 4896, 5159, 5954, 6278, 6439, 7377, 7631, 8598, 8919],
+        "meanings": ["Name", "Famous"],
+        "meaning_mnemonic": `What is the **r[evening]r** **r[mouth]r**? Imagine a mouth that’s up in the night sky. It’s just there, talking, and only comes out at night. It only appears in one area of the world (what area would you choose? Imagine yourself going to that place to see the “night mouth.”), and appears only one month out of the year (more on this in a second). The “evening mouth” is the most famous thing in the _____ area (this is the area you choose). He’s so **k[famous]k** that everybody knows his **k[name]k** (“Evening Mouth.”).`
+    },
+    545: {
+        "slug": "字",
+        "level": 4,
+        "component_subject_ids": [78, 34],
+        "amalgamation_subject_ids": [2656, 2657, 2658, 2659, 2660, 2661, 3067, 3194, 3411, 3426, 3811, 4501, 5744, 5787, 7632, 7750, 7829, 8740],
+        "meanings": ["Letter", "Character", "Symbol"],
+        "meaning_mnemonic": `The **r[roof]r** **r[child]r** stands upon the roof, holding up a single **k[letter]k**, a single **k[character]k**, a single **k[symbol]k** for the world to see.`
+    },
+    546: {
+        "slug": "年",
+        "level": 4,
+        "component_subject_ids": [8762, 126],
+        "amalgamation_subject_ids": [2662, 2663, 2664, 2665, 2666, 2667, 2744, 2760, 2785, 2789, 2802, 2826, 2829, 2844, 2873, 2948, 3413, 3441, 3444, 3446, 3665, 4103, 4252, 4591, 4673, 4833, 4889, 5148, 5360, 6158, 6874, 7417, 7475, 7768, 8347, 8497, 8651, 8739, 8751, 9268],
+        "meanings": ["Year"],
+        "meaning_mnemonic": `The **r[cow]r** part of this kanji is slightly altered, but I think you can see where it is. The **r[gun]r** looks just fine, though. Think back to a fake memory you have living on the farm. You have your gun, and you gotta use it on a cow (ruh roh). Once a **k[year]k** on New Year's, you have to go out and shoot one of the cows. It's only a yearly shooting, though, so at least there's that respite.`
+    },
+    547: {
+        "slug": "早",
+        "level": 4,
+        "component_subject_ids": [22, 15],
+        "amalgamation_subject_ids": [2668, 2669, 3160, 3439, 5094, 6481, 7524, 8091, 8515],
+        "meanings": ["Early", "Fast", "Quick"],
+        "meaning_mnemonic": `When the **r[sun]r** is over the **r[cross]r** it's time to go to church... which is so darn **k[early]k**. And if you want to get to church early, you need to be **k[fast]k**, otherwise you'll be too late.`
+    },
+    548: {
+        "slug": "気",
+        "level": 4,
+        "component_subject_ids": [82, 31],
+        "amalgamation_subject_ids": [2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679, 2795, 3078, 3132, 3230, 3331, 3390, 3452, 3471, 3508, 3651, 3667, 3739, 3882, 3949, 4724, 4794, 4847, 4884, 4984, 5332, 5393, 5682, 5777, 5939, 5984, 6399, 6915, 6922, 6932, 7015, 7300, 7450, 7636, 7674, 7721, 7727, 7762, 7921, 8440, 8694, 8982],
+        "meanings": ["Energy", "Spirit"],
+        "meaning_mnemonic": `You're looking for a **r[treasure]r**, but no normal treasure... a treasure that's a stash of **r[energy]r**. Not gold, money, or anything like that. Imagine yourself finding it, and opening up a treasure chest. Out bursts a **k[spirit]k** ball of **k[energy]k** like you've never seen.`
+    },
+    549: {
+        "slug": "百",
+        "level": 4,
+        "component_subject_ids": [8763, 22],
+        "amalgamation_subject_ids": [2680, 2681, 2682, 2683, 7456, 7522],
+        "meanings": ["Hundred"],
+        "meaning_mnemonic": `There is a **r[leaf]r** growing out of the **r[sun]r**! You fly out into space to check it out and when you get closer you see that it isn't just one leaf, it's a **k[hundred]k**! That makes sense, you wouldn't be able to see just one leaf on the sun from where you were on earth.`
+    },
+    550: {
+        "slug": "竹",
+        "level": 4,
+        "component_subject_ids": [85],
+        "amalgamation_subject_ids": [2684, 2685],
+        "meanings": ["Bamboo"],
+        "meaning_mnemonic": `The **r[bamboo]r** radical and the **k[bamboo]k** kanji are exactly the same!`
+    },
+    551: {
+        "slug": "糸",
+        "level": 4,
+        "component_subject_ids": [86],
+        "amalgamation_subject_ids": [2686, 3416, 8486],
+        "meanings": ["Thread"],
+        "meaning_mnemonic": `The **r[thread]r** radical and **k[thread]k** are the same in looks as well as in meaning.`
+    },
+    552: {
+        "slug": "耳",
+        "level": 4,
+        "component_subject_ids": [88],
+        "amalgamation_subject_ids": [2687, 2688, 9036],
+        "meanings": ["Ear", "Ears"],
+        "meaning_mnemonic": `The **r[ear]r** radical and **k[ear]k** kanji are the same in looks as well as meaning.`
+    },
+    553: {
+        "slug": "虫",
+        "level": 4,
+        "component_subject_ids": [89],
+        "amalgamation_subject_ids": [2689, 3383, 3409, 3477, 3937, 9039, 9040],
+        "meanings": ["Insect", "Bug"],
+        "meaning_mnemonic": `The **r[insect]r** radical and **k[insect]k** are the same in looks as well as and meaning.`
+    },
+    554: {
+        "slug": "村",
+        "level": 4,
+        "component_subject_ids": [23, 74],
+        "amalgamation_subject_ids": [2690, 2691],
+        "meanings": ["Village"],
+        "meaning_mnemonic": `Someone’s taking **r[measurements]r** of the **r[trees]r**… Why is someone taking measurements of trees? These people are planning to take the trees and cut them down to make their **k[village]k**.`
+    },
+    555: {
+        "slug": "男",
+        "level": 4,
+        "component_subject_ids": [51, 13],
+        "amalgamation_subject_ids": [2692, 3408, 3412, 3680, 4633, 8985],
+        "meanings": ["Man"],
+        "meaning_mnemonic": `**r[Rice paddy]r** **r[power]r** comes from a **k[man]k**. One man, in fact. He's running on a big wheel next to the rice paddy and providing all of the power for the rice to grow and be harvested.`
+    },
+    556: {
+        "slug": "町",
+        "level": 4,
+        "component_subject_ids": [51, 27],
+        "amalgamation_subject_ids": [2693, 3410, 8695, 9152],
+        "meanings": ["Town"],
+        "meaning_mnemonic": `When you see both a **r[rice paddy]r** and a **r[street]r** in the same place, you have the makings of a whole **k[town]k**!`
+    },
+    557: {
+        "slug": "花",
+        "level": 4,
+        "component_subject_ids": [90, 75, 57],
+        "amalgamation_subject_ids": [2694, 2695, 2696, 5472, 7072, 7296, 7446, 7814, 7831, 8593, 8609],
+        "meanings": ["Flower"],
+        "meaning_mnemonic": `A **r[leader]r** with a **r[spoon]r** is planting **r[flowers]r** so that one day this place may be full of beautiful **k[flower]k**s.`
+    },
+    558: {
+        "slug": "見",
+        "level": 4,
+        "component_subject_ids": [91],
+        "amalgamation_subject_ids": [2696, 2697, 2698, 2699, 2700, 2701, 2702, 3136, 3317, 3453, 3476, 3509, 3554, 5025, 5242, 5404, 5790, 5957, 6148, 6935, 7237, 7540, 7600, 7627, 7677, 7747, 7864],
+        "meanings": ["See"],
+        "meaning_mnemonic": `The radical **r[see]r** and the kanji **k[see]k** are exactly the same!`
+    },
+    559: {
+        "slug": "貝",
+        "level": 4,
+        "component_subject_ids": [94],
+        "amalgamation_subject_ids": [2703],
+        "meanings": ["Shellfish", "Shell"],
+        "meaning_mnemonic": `The **r[shellfish]r** radical and the **k[shellfish]k** kanji are the same! It can be just the **k[shell]k** part too.`
+    },
+    560: {
+        "slug": "赤",
+        "level": 4,
+        "component_subject_ids": [92],
+        "amalgamation_subject_ids": [2704, 2705, 4505, 7520, 8641],
+        "meanings": ["Red"],
+        "meaning_mnemonic": `The radical for **r[red]r** and the kanji for **k[red]k** are the same thing!`
+    },
+    561: {
+        "slug": "足",
+        "level": 4,
+        "component_subject_ids": [95],
+        "amalgamation_subject_ids": [2706, 2707, 2708, 2925, 3440, 4490, 4816, 6257, 7139, 7477, 8743, 8818],
+        "meanings": ["Foot", "Leg", "Sufficient"],
+        "meaning_mnemonic": `The radical for **r[foot]r** and the kanji for **k[foot]k** are exactly the same.
+    
+    That being said, there's also another meaning you should keep in mind, which is **k[sufficient]k**. If you think about it, one foot should be **k[sufficient]k** enough to walk around with if you hop.`
+    },
+    562: {
+        "slug": "車",
+        "level": 4,
+        "component_subject_ids": [93],
+        "amalgamation_subject_ids": [2709, 2710, 3077, 3173, 3308, 3626, 4112, 4351, 4576, 5151, 5465, 5753, 5935, 6364, 7118, 7154, 7469, 7482, 9048],
+        "meanings": ["Car"],
+        "meaning_mnemonic": `The radical **r[car]r** and the kanji **k[car]k** are exactly the same.`
+    },
+    563: {
+        "slug": "不",
+        "level": 4,
+        "component_subject_ids": [96],
+        "amalgamation_subject_ids": [2708, 2739, 2861, 2896, 3314, 3452, 3737, 3775, 3832, 3847, 3892, 3893, 3915, 3927, 3928, 4080, 4134, 4332, 4357, 4490, 4612, 4686, 4776, 4839, 4927, 5055, 5172, 5230, 5314, 5367, 5379, 5766, 6376, 6563, 6564, 6568, 6782, 6971, 7150, 7196, 7258, 7571, 7596, 7713, 7835, 7861, 7912, 8000, 8363, 8468, 8580],
+        "meanings": ["Not"],
+        "meaning_mnemonic": `The radical **r[not]r** and the kanji **k[not]k** are the same thing! That makes it easy... Not!`
+    },
+    564: {
+        "slug": "仕",
+        "level": 4,
+        "component_subject_ids": [75, 97],
+        "amalgamation_subject_ids": [2716, 2717, 3482, 3500, 7670, 8191, 9034, 9278],
+        "meanings": ["Doing", "Do"],
+        "meaning_mnemonic": `The **r[leader]r** **r[samurai]r** didn't become leader by sitting around not taking action. He got to where he is by **k[doing]k**.`
+    },
+    565: {
+        "slug": "交",
+        "level": 5,
+        "component_subject_ids": [8, 68],
+        "amalgamation_subject_ids": [2740, 2967, 3050, 3463, 3466, 3975, 4017, 4716, 5888, 6634, 7730, 8334, 9078, 9116],
+        "meanings": ["Mix", "Mingle"],
+        "meaning_mnemonic": `You put a **r[lid]r** on your **r[father]r**. But, he won't taste good alone, so you **k[mix]k** in some other ingredients. They **k[mingle]k** inside the pot with him.`
+    },
+    566: {
+        "slug": "会",
+        "level": 5,
+        "component_subject_ids": [155],
+        "amalgamation_subject_ids": [2741, 2742, 2834, 3076, 3343, 3506, 3548, 3660, 3785, 4103, 4330, 4484, 4580, 4754, 4937, 5138, 5228, 5569, 5578, 5717, 6139, 6149, 6463, 7011, 7523, 7580, 7582, 7648, 7705, 7850, 8750, 9061],
+        "meanings": ["Meet", "Meeting"],
+        "meaning_mnemonic": `The **r[meet]r** radical and the **k[meet]k** kanji are the same!`
+    },
+    567: {
+        "slug": "光",
+        "level": 5,
+        "component_subject_ids": [8765, 101],
+        "amalgamation_subject_ids": [2743, 2744, 2745, 2746, 3850, 4013, 4014, 4553, 4783, 4871, 7221, 8738],
+        "meanings": ["Sunlight", "Light"],
+        "meaning_mnemonic": `You see a **r[triceratops]r** in the distance. But, it's odd. It's perfectly **r[pi]r** shaped (that is, circular). Some kind of piceratops, if you will. The reason they are this shape is because they want to absorb as much **k[sunlight]k** (or just **k[light]k** is fine, too) as possible. They evolved to be round so they don't have any corners casting a shadow.`
+    },
+    568: {
+        "slug": "同",
+        "level": 5,
+        "component_subject_ids": [121, 1],
+        "amalgamation_subject_ids": [2747, 2748, 2962, 3247, 3547, 3942, 5117, 5854, 5963, 6179, 8024, 8264, 9061],
+        "meanings": ["Same"],
+        "meaning_mnemonic": `There's a **r[mustache]r** on the **r[ground]r**. Upon closer inspection, you see that the mustache on the ground is exactly the **k[same]k** as yours!`
+    },
+    569: {
+        "slug": "回",
+        "level": 5,
+        "component_subject_ids": [16],
+        "amalgamation_subject_ids": [2749, 2750, 2751, 2752, 2753, 2786, 2871, 3176, 3260, 3438, 3464, 3468, 3544, 3945, 3946, 4848, 4916, 5133, 5152, 6361, 6391, 6484, 6562, 8371, 8453, 9037],
+        "meanings": ["Times", "Revolve"],
+        "meaning_mnemonic": `There's a **r[mouth]r** inside a **r[mouth]r**. But if you look even closer (not actually, but we're pretending), you can see another mouth inside that mouth... and another one inside of that one! It keeps going and going. Can you count the number of **k[times]k** there's a mouth inside a mouth? This kanji also means **k[revolve]k** too. Think of each "time" a thing happens, it loops back around and comes back to the beginning, revolving around again another time.`
+    },
+    570: {
+        "slug": "多",
+        "level": 5,
+        "component_subject_ids": [33],
+        "amalgamation_subject_ids": [2754, 2755, 4282, 4672, 7552],
+        "meanings": ["Many", "Much", "Lots Of"],
+        "meaning_mnemonic": `How many **r[evenings]r** are there? There are **k[many]k**.`
+    },
+    571: {
+        "slug": "当",
+        "level": 5,
+        "component_subject_ids": [8765, 105],
+        "amalgamation_subject_ids": [2756, 2757, 3426, 3465, 3609, 3835, 4669, 4876, 4877, 5378, 6969, 7623, 7677, 8236],
+        "meanings": ["Correct", "Right", "Success"],
+        "meaning_mnemonic": `There's a **r[triceratops]r** and a **r[wolverine]r**. What are they doing together? You'd think they'd fight, but they took their battle to another venue... they're competing in a game show! One of them answers a question, and the host says, "**k[Success]k**! You're **k[correct]k**!"`
+    },
+    572: {
+        "slug": "毎",
+        "level": 5,
+        "component_subject_ids": [8762, 107],
+        "amalgamation_subject_ids": [2753, 2758, 2759, 2760, 3125, 3766, 7570, 9091],
+        "meanings": ["Every", "Each"],
+        "meaning_mnemonic": `You see some **r[windows]r**... you have a **r[gun]r**. What do you think you're going to do with this gun? Of course, you're going to shoot the windows... **k[every]k** single one of them. **k[Each]k** and every one.`
+    },
+    573: {
+        "slug": "池",
+        "level": 8,
+        "component_subject_ids": [77, 103],
+        "amalgamation_subject_ids": [2761, 3079],
+        "meanings": ["Pond"],
+        "meaning_mnemonic": `The poor **r[alligator]r** was taken far inland by a **r[tsunami]r**. Now his only source of water is a tiny **k[pond]k** that barely fits his body, and doesn't even provide much food.`
+    },
+    574: {
+        "slug": "米",
+        "level": 5,
+        "component_subject_ids": [98],
+        "amalgamation_subject_ids": [2762, 2888, 3430, 3431, 3963, 5244, 7812, 8307],
+        "meanings": ["Rice", "America"],
+        "meaning_mnemonic": `The **r[rice]r** radical and **k[rice]k** are the same in looks as well as in meaning. This also refers to "America," maybe because America is covered in rice or fields or something?`
+    },
+    575: {
+        "slug": "羽",
+        "level": 5,
+        "component_subject_ids": [213],
+        "amalgamation_subject_ids": [2763],
+        "meanings": ["Feather", "Feathers", "Wing", "Wings"],
+        "meaning_mnemonic": `The **r[feather]r** radical and **k[feather]k** are the same in looks as well as in meaning.`
+    },
+    576: {
+        "slug": "考",
+        "level": 5,
+        "component_subject_ids": [104, 8766],
+        "amalgamation_subject_ids": [2764, 2765, 2766, 6190, 7568],
+        "meanings": ["Think", "Consider"],
+        "meaning_mnemonic": `In a **r[coffin]r** is someone **r[begging]r**. But, it won't work. You won't listen. So, the man in the coffin just begins to **k[think]k**: What could I have done better in my life? Why am I in this situation? How will I get out? Think, damnit, think!!`
+    },
+    577: {
+        "slug": "肉",
+        "level": 5,
+        "component_subject_ids": [108],
+        "amalgamation_subject_ids": [2767, 2768, 2769, 3119, 4118, 4971, 5532, 5591, 5628, 8176, 8512],
+        "meanings": ["Meat"],
+        "meaning_mnemonic": `The **r[meat]r** radical and **k[meat]k** are the same in looks as well as in meaning.`
+    },
+    578: {
+        "slug": "自",
+        "level": 5,
+        "component_subject_ids": [109],
+        "amalgamation_subject_ids": [2770, 2771, 2930, 3021, 3173, 3607, 3610, 3733, 3864, 3909, 3910, 4002, 4035, 4238, 4416, 4511, 4637, 4683, 4759, 4972, 5547, 5565, 5731, 5794, 5882, 6012, 6042, 6095, 7124, 7469, 7571, 7594, 7885, 7997, 8079, 8129, 9160],
+        "meanings": ["Self", "Oneself"],
+        "meaning_mnemonic": `The **r[self]r** radical and **k[self]k** are the same in looks as well as in meaning. `
+    },
+    579: {
+        "slug": "色",
+        "level": 5,
+        "component_subject_ids": [110],
+        "amalgamation_subject_ids": [2772, 2773, 2774, 2922, 2987, 3618, 3632, 4880, 5533, 5651, 6789, 6861, 7137, 7199, 7271, 8387, 9106, 9109],
+        "meanings": ["Color"],
+        "meaning_mnemonic": `The **r[color]r** radical and **k[color]k** are the same in looks as well as in meaning.`
+    },
+    580: {
+        "slug": "行",
+        "level": 5,
+        "component_subject_ids": [111],
+        "amalgamation_subject_ids": [2775, 2776, 2777, 2841, 2905, 3179, 3327, 3334, 3633, 3653, 3654, 3841, 3887, 3890, 4296, 4641, 5108, 5303, 5908, 6174, 6375, 6934, 7240, 7418, 7692, 7980, 8354, 8367, 8480, 8650, 9243, 9281],
+        "meanings": ["Go"],
+        "meaning_mnemonic": `The **r[go]r** radical and the **k[go]k** kanji are exactly the same!`
+    },
+    581: {
+        "slug": "西",
+        "level": 5,
+        "component_subject_ids": [112],
+        "amalgamation_subject_ids": [2778, 2779, 3951, 3959, 4053, 6889, 7690, 8007],
+        "meanings": ["West"],
+        "meaning_mnemonic": `The **r[west]r** radical and the **k[west]k** kanji are the same. Isn't that nice?`
+    },
+    582: {
+        "slug": "何",
+        "level": 5,
+        "component_subject_ids": [75, 113],
+        "amalgamation_subject_ids": [2780, 2781, 2782, 2783, 2784, 2785, 2786, 2961, 4108, 5440, 7602, 7682, 8415, 8719],
+        "meanings": ["What"],
+        "meaning_mnemonic": `Our **r[leader]r** has a **r[lip ring]r**. Wait, our leader has a lip ring? **k[WHAT]k**??`
+    },
+    583: {
+        "slug": "体",
+        "level": 5,
+        "component_subject_ids": [75, 50],
+        "amalgamation_subject_ids": [2806, 2807, 2808, 2875, 3027, 3152, 3573, 4162, 4424, 5268, 5355, 5536, 5646, 5969, 6083, 7134, 7250, 7622, 7649, 7734, 8446, 8661, 9097],
+        "meanings": ["Body"],
+        "meaning_mnemonic": `The **r[leader]r** has a **r[book]r** all about the human **k[body]k**. Knowing about bodies is a privilege. One that only leaders get—it helps them control all their subjects, like you.`
+    },
+    584: {
+        "slug": "作",
+        "level": 5,
+        "component_subject_ids": [75, 122],
+        "amalgamation_subject_ids": [2805, 2809, 2810, 2811, 2812, 2955, 3031, 3307, 3422, 3450, 3819, 3966, 4678, 5345, 5645, 5680, 5855, 6317, 7574, 7820, 8184, 8435],
+        "meanings": ["Make"],
+        "meaning_mnemonic": `The **r[leader]r**'s **r[key]r** is the key that **k[make]k**s all the other keys. It's sort of like the one ring to rule them all, the one ring to bind them... except with keys.`
+    },
+    585: {
+        "slug": "図",
+        "level": 5,
+        "component_subject_ids": [16, 31, 123],
+        "amalgamation_subject_ids": [2813, 2850, 3879, 4041, 5258, 7752, 8700],
+        "meanings": ["Diagram"],
+        "meaning_mnemonic": `The **r[treasure]r**s are in the **r[mouth]r** where there’s **r[ice]r**. How cryptic! You want to find the treasure, that’s for sure (treasure is great!). It is somewhere where there is ice, so maybe the arctic? What you are looking at is a **k[diagram]k** which will guide you there.`
+    },
+    586: {
+        "slug": "声",
+        "level": 5,
+        "component_subject_ids": [97, 37, 8761],
+        "amalgamation_subject_ids": [2814, 2815, 3517, 3938, 6961, 7735],
+        "meanings": ["Voice"],
+        "meaning_mnemonic": `You have a **r[samurai]r** with a **r[flag]r** on a **r[stick]r**. On his flag is this symbol, the kanji for **k[voice]k**. Why does he have that there? He feels like his Shogun isn't giving him and his fellow Samurai a voice, so he's brought a flag with the word "voice" written on it to protest.`
+    },
+    587: {
+        "slug": "売",
+        "level": 9,
+        "component_subject_ids": [97, 76, 28],
+        "amalgamation_subject_ids": [2816, 2817, 2818, 2819, 3134, 3355, 3456, 4758, 4759, 4973, 5132, 7466, 7621, 8075],
+        "meanings": ["Sell"],
+        "meaning_mnemonic": `There’s a **r[samurai]r** with (just) his **r[forehead]r** and **r[legs]r**. Everything in between is missing. What happened to everything in between? He was low on money, so he had to **k[sell]k** it all, leaving him with only the top and the bottom.`
+    },
+    588: {
+        "slug": "弟",
+        "level": 5,
+        "component_subject_ids": [8767, 36, 8761, 5],
+        "amalgamation_subject_ids": [2820, 2821, 7717],
+        "meanings": ["Younger Brother", "Little Brother"],
+        "meaning_mnemonic": `There is someone with a **r[bow]r** and a **r[stick]r**, wearing **r[horns]r**, going down a **r[slide]r**. What type of person do you imagine? I'd say someone who's an immature boy. That would be your **k[younger brother]k**.`
+    },
+    589: {
+        "slug": "形",
+        "level": 5,
+        "component_subject_ids": [171, 38],
+        "amalgamation_subject_ids": [2822, 2823, 3420, 4187, 4661, 5714, 5849, 7481, 7672, 7678, 7679, 7704],
+        "meanings": ["Shape", "Form", "Appearance"],
+        "meaning_mnemonic": `You're walking at night when you discover a **r[lantern]r** covered entirely in **r[hair]r**, making it a very strange **k[shape]k**. In fact, this is a **k[form]k** you'd never expect a lantern to take.`
+    },
+    590: {
+        "slug": "来",
+        "level": 5,
+        "component_subject_ids": [1, 98],
+        "amalgamation_subject_ids": [2824, 2825, 2826, 2827, 2828, 2829, 2946, 3418, 3421, 3461, 4888, 4889, 4890, 4914, 5959, 8239, 8322, 8698, 8736, 9066],
+        "meanings": ["Come", "Next"],
+        "meaning_mnemonic": `There's **r[rice]r** spread out all over the **r[ground]r**. This will cause the Predator to **k[come]k** because he loves kome (rice). Then once he's gone, the **k[next]k** Predator will come to eat.`
+    },
+    591: {
+        "slug": "社",
+        "level": 5,
+        "component_subject_ids": [80, 17],
+        "amalgamation_subject_ids": [2830, 2831, 2832, 2833, 2834, 2907, 3299, 3342, 3343, 4518, 4937, 5509, 5569, 5717, 6139, 6463, 8337, 9054, 9084],
+        "meanings": ["Company"],
+        "meaning_mnemonic": `Plant a **r[spirit]r** in the **r[dirt]r** before you start your **k[company]k** and it will be successful. That's what all the great, old Japanese companies did back in the olden days. That's why companies like Mitsubishi have been around for hundreds of years. They planted a spirit in the dirt to help their company grow, and grow it did!`
+    },
+    592: {
+        "slug": "角",
+        "level": 5,
+        "component_subject_ids": [14, 71],
+        "amalgamation_subject_ids": [2835, 2836, 2837, 3126, 3685, 4696, 7678, 8403],
+        "meanings": ["Angle", "Corner", "Antler"],
+        "meaning_mnemonic": `In **r[prison]r**, your **r[task]r** is to bend things into different **k[angle]k**s and then put them in the **k[corner]k**. No one will tell you why you're doing this, but you get a couple cents an hour to do it, so you aren't going to complain.`
+    },
+    593: {
+        "slug": "言",
+        "level": 5,
+        "component_subject_ids": [117],
+        "amalgamation_subject_ids": [2838, 3000, 3419, 3437, 3863, 5173, 5635, 5737, 5840, 6248, 6277, 7458, 7492, 7644, 7696],
+        "meanings": ["Say"],
+        "meaning_mnemonic": `The **r[say]r** radical and the **k[say]k** kanji are the same!`
+    },
+    594: {
+        "slug": "谷",
+        "level": 5,
+        "component_subject_ids": [2, 8764, 16],
+        "amalgamation_subject_ids": [2839, 6468, 8356, 8630],
+        "meanings": ["Valley"],
+        "meaning_mnemonic": `There's a **r[hat]r** decorated with **r[fins]r** and (presumably fish) **r[mouth]r**s on it. Who wears strange hats like this? Turns out, the **k[valley]k** people are the ones who wear these. I'm talking about the "Valley Girls" of California, Hollywood / LA. They're into the crazy fashion, and they'll wear anything if it's deemed "cool" or something like that.`
+    },
+    595: {
+        "slug": "走",
+        "level": 5,
+        "component_subject_ids": [124],
+        "amalgamation_subject_ids": [2840, 2841, 3464, 4213, 4399, 4502, 8122, 8443, 8450],
+        "meanings": ["Run"],
+        "meaning_mnemonic": `The radical **r[run]r** and the kanji **k[run]k** are exactly the same!`
+    },
+    596: {
+        "slug": "近",
+        "level": 5,
+        "component_subject_ids": [114, 115],
+        "amalgamation_subject_ids": [2842, 2843, 2844, 3236, 3434, 3447, 3487, 4712, 6448, 6848, 6873, 7529, 7625, 7753, 7846, 8742],
+        "meanings": ["Near", "Close"],
+        "meaning_mnemonic": `Someone on a **r[scooter]r** has an **r[axe]r**, and they're getting **k[near]k** to you really fast! Oh no, they're so **k[close]k** now, you need to get out of here!`
+    },
+    597: {
+        "slug": "里",
+        "level": 5,
+        "component_subject_ids": [125],
+        "amalgamation_subject_ids": [3647, 6549, 9042, 9043],
+        "meanings": ["Hometown", "Village"],
+        "meaning_mnemonic": `The **r[village]r** you always think of first is your **k[hometown]k**. `
+    },
+    598: {
+        "slug": "麦",
+        "level": 5,
+        "component_subject_ids": [210, 60],
+        "amalgamation_subject_ids": [2845, 5700, 6525],
+        "meanings": ["Wheat", "Barley", "Oats"],
+        "meaning_mnemonic": `The **r[life]r** radical is without the slide (as it sometimes is), but when you combine that with the **r[winter]r** radical, you have life during winter. What gives you life during the winter? It's the **k[wheat]k** you store away.`
+    },
+    599: {
+        "slug": "学",
+        "level": 5,
+        "component_subject_ids": [8769, 34],
+        "amalgamation_subject_ids": [2787, 2788, 2789, 2790, 2791, 2792, 2793, 2920, 2951, 2973, 3002, 3032, 3033, 3068, 3166, 3379, 3436, 3449, 3451, 3469, 3474, 3852, 3918, 4029, 4059, 4216, 4344, 4354, 4851, 4954, 5114, 5440, 6575, 6754, 7345, 7568, 7637, 8064, 8595, 8666, 8668, 8696, 8711, 8745],
+        "meanings": ["Study", "Learn", "Learning"],
+        "meaning_mnemonic": `You have a wild **r[viking]r** **r[child]r** you have to take care of. He won't do anything but **k[study]k**, surprisingly. You can't get him to eat, use the bathroom, or anything else. He just wants to study.`
+    },
+    600: {
+        "slug": "林",
+        "level": 5,
+        "component_subject_ids": [23],
+        "amalgamation_subject_ids": [2794],
+        "meanings": ["Forest", "Grove"],
+        "meaning_mnemonic": `You have a **r[tree]r** and another **r[tree]r**. You basically have yourself a **k[forest]k**!`
+    },
+    601: {
+        "slug": "空",
+        "level": 5,
+        "component_subject_ids": [78, 28, 25],
+        "amalgamation_subject_ids": [2795, 2796, 3063, 3388, 3448, 3981, 5276, 5398, 5935, 6513, 6664, 6827, 7427, 7676, 7815, 8108, 8115, 9082, 9245],
+        "meanings": ["Sky", "Empty"],
+        "meaning_mnemonic": `Giving a **r[roof]r** **r[legs]r** is the kind of **r[construction]r** you do. You make it so a roof can be in the **k[sky]k**. In addition to meaning "sky", this kanji often means **k[empty]k**. Think about it - there's nothing more empty than the sky!`
+    },
+    602: {
+        "slug": "金",
+        "level": 5,
+        "component_subject_ids": [118],
+        "amalgamation_subject_ids": [2797, 2798, 2799, 2983, 3131, 3191, 3593, 3625, 3974, 4066, 4362, 4430, 4462, 4495, 4772, 4811, 4975, 4989, 5150, 5195, 5382, 5997, 6064, 6414, 6817, 7023, 7345, 7620, 7967, 8147, 8487, 9256],
+        "meanings": ["Gold"],
+        "meaning_mnemonic": `The **r[gold]r** radical and the **k[gold]k** kanji are the same!`
+    },
+    603: {
+        "slug": "雨",
+        "level": 5,
+        "component_subject_ids": [119],
+        "amalgamation_subject_ids": [2800, 6836, 9254, 9267, 9271],
+        "meanings": ["Rain"],
+        "meaning_mnemonic": `The radical for **r[rain]r** and the kanji for **k[rain]k** are the same thing.`
+    },
+    604: {
+        "slug": "青",
+        "level": 5,
+        "component_subject_ids": [120],
+        "amalgamation_subject_ids": [2801, 2802, 3181, 3448, 5924, 9087],
+        "meanings": ["Blue", "Young"],
+        "meaning_mnemonic": `The **r[blue]r** radical and the **k[blue]k** kanji are exactly the same.
+    
+    Additionally, this can also mean **k[young]k**. You can remember this by the **r[life]r** radical inside of **r[blue]r** symbolizing the birth and growth of something new, and therefore young.`
+    },
+    605: {
+        "slug": "草",
+        "level": 5,
+        "component_subject_ids": [90, 22, 15],
+        "amalgamation_subject_ids": [2803, 6642, 6678, 7289, 7566, 7670, 8009],
+        "meanings": ["Grass", "Weed"],
+        "meaning_mnemonic": `You plant your **r[flowers]r** in the light of the **r[sun]r** in the shape of a **r[cross]r**, but it's too hot—the sun is too strong—and you end up with **k[grass]k**. Flowers can't grow in these conditions.`
+    },
+    606: {
+        "slug": "音",
+        "level": 5,
+        "component_subject_ids": [55, 22],
+        "amalgamation_subject_ids": [2804, 3072, 3135, 3521, 4253, 4364, 5206, 5387, 5553, 5854, 6014, 8125, 8300],
+        "meanings": ["Sound"],
+        "meaning_mnemonic": `For some reason, you are **r[stand]r**ing on the **r[sun]r**. It's obviously very hot, but the thing you notice most is the **k[sound]k** of you burning up.`
+    },
+    607: {
+        "slug": "化",
+        "level": 6,
+        "component_subject_ids": [75, 57],
+        "amalgamation_subject_ids": [2846, 3178, 3467, 3494, 3749, 3880, 3926, 3927, 7063, 7346, 7998, 8017, 8706, 9239],
+        "meanings": ["Change"],
+        "meaning_mnemonic": `A **r[leader]r** with a **r[spoon]r** is a powerful thing. Even something like a spoon when given to the right man or woman can make great **k[change]k** in the world.`
+    },
+    608: {
+        "slug": "地",
+        "level": 6,
+        "component_subject_ids": [17, 77],
+        "amalgamation_subject_ids": [2847, 2848, 2849, 2850, 2974, 3197, 3201, 3742, 3874, 4341, 4510, 4521, 4560, 5377, 5428, 5461, 5489, 5685, 5776, 5805, 5912, 6032, 6736, 6921, 7459, 7504, 7566, 7569, 7595, 7732, 7738, 7819, 8310, 8473, 8669],
+        "meanings": ["Earth", "Ground", "Land"],
+        "meaning_mnemonic": `A **r[dirt]r** **r[alligator]r** lives in the **k[earth]k**, not the water. They can swim through the earth itself! Which is pretty scary.
+    
+    You can think of this word as **k[ground]k** too, because that's kind of what earth is made of.`
+    },
+    609: {
+        "slug": "両",
+        "level": 6,
+        "component_subject_ids": [1, 29, 20],
+        "amalgamation_subject_ids": [2851, 2852, 2853, 3030, 3957, 5035, 7482, 7781, 8715],
+        "meanings": ["Both"],
+        "meaning_mnemonic": `Under the **r[ground]r**, which you dug into, you found two great finds. You found **k[both]k** a **r[mountain]r** and a **r[head]r**, two strange things to find underground.`
+    },
+    610: {
+        "slug": "全",
+        "level": 6,
+        "component_subject_ids": [8764, 48],
+        "amalgamation_subject_ids": [2854, 2855, 2856, 2857, 2884, 3028, 3341, 3431, 3454, 3608, 3673, 3846, 3915, 4786, 5221, 5824, 6151, 6894, 7460, 7599],
+        "meanings": ["All", "Whole"],
+        "meaning_mnemonic": `**r[Kings]r** with **r[hats]r**. Did you know that **k[all]k** kings wear hats?`
+    },
+    611: {
+        "slug": "向",
+        "level": 6,
+        "component_subject_ids": [3, 121],
+        "amalgamation_subject_ids": [2858, 3428, 3485, 3496, 6080, 6183, 7530, 8300],
+        "meanings": ["Yonder", "Facing"],
+        "meaning_mnemonic": `A **r[drop]r** hits your **r[mustache]r**. Where did it come from? "Ah, it came from **k[yonder]k**," you say, **k[facing]k** that way.`
+    },
+    612: {
+        "slug": "安",
+        "level": 6,
+        "component_subject_ids": [78, 19],
+        "amalgamation_subject_ids": [2857, 2859, 2860, 2861, 2862, 3456, 4549, 6713, 6739, 8708],
+        "meanings": ["Relax", "Cheap"],
+        "meaning_mnemonic": `With a **r[roof]r** over her head, a **r[woman]r** can **k[relax]k**. She doesn't have to worry about rain or snow or finding a place to sleep. The roof also happened to be super **k[cheap]k**, so she can even relax about her finances.`
+    },
+    613: {
+        "slug": "州",
+        "level": 6,
+        "component_subject_ids": [3, 21],
+        "amalgamation_subject_ids": [2863, 2864, 2865],
+        "meanings": ["State", "Province", "County"],
+        "meaning_mnemonic": `Think about Japan. Japan is a country made up of islands. They're basically three **r[drop]r** **r[drop]r** **r[drop]r**s in the large **r[river]r** that is the Pacific Ocean. These are Japan's **k[states]k** or **k[province]k**s.`
+    },
+    614: {
+        "slug": "曲",
+        "level": 6,
+        "component_subject_ids": [16, 106],
+        "amalgamation_subject_ids": [2866, 2867, 3429, 3462, 4379, 8324, 8462],
+        "meanings": ["Music", "Bend"],
+        "meaning_mnemonic": `**r[Twenty]r** **r[mouths]r** are together. That's a lot of mouths. What do they do? They sing beautiful **k[music]k** together.`
+    },
+    615: {
+        "slug": "有",
+        "level": 6,
+        "component_subject_ids": [26, 43],
+        "amalgamation_subject_ids": [2868, 2869, 3249, 3770, 4321, 4394, 4599, 5175, 5909, 7496, 8713],
+        "meanings": ["Have"],
+        "meaning_mnemonic": `A **r[narwhal]r** and a **r[moon]r** is all you **k[have]k**. Imagine one of each under your arms.`
+    },
+    616: {
+        "slug": "次",
+        "level": 6,
+        "component_subject_ids": [123, 142],
+        "amalgamation_subject_ids": [2870, 2871, 2872, 2873, 3427],
+        "meanings": ["Next"],
+        "meaning_mnemonic": `You **r[lack]r** **r[ice]r**. So you go to the store and see if they have any. Nope, no ice. So, now you go to the **k[next]k** store. Is there ice here? Nope. Next!`
+    },
+    617: {
+        "slug": "死",
+        "level": 6,
+        "component_subject_ids": [132, 57],
+        "amalgamation_subject_ids": [2874, 2875, 2876, 2944, 3750, 3840, 4138, 5125, 6058, 6692, 7186, 7525, 8605],
+        "meanings": ["Death"],
+        "meaning_mnemonic": `If the **r[yakuza]r** hands you a **r[spoon]r**, **k[death]k** is coming for you. It's the death spoon, a sign that the yakuza is coming to cause your death.`
+    },
+    618: {
+        "slug": "羊",
+        "level": 6,
+        "component_subject_ids": [136],
+        "amalgamation_subject_ids": [2877, 2878],
+        "meanings": ["Sheep"],
+        "meaning_mnemonic": `The **r[sheep]r** radical and the **k[sheep]k** kanji are the same in looks as well in meaning.`
+    },
+    619: {
+        "slug": "血",
+        "level": 6,
+        "component_subject_ids": [137],
+        "amalgamation_subject_ids": [2879, 2880, 3363, 4050, 4267, 4481, 4587, 4685, 4720, 5476, 5537, 5740, 5996, 8674],
+        "meanings": ["Blood"],
+        "meaning_mnemonic": `The **r[blood]r** radical and **k[blood]k** are the same in looks as well as in meaning.`
+    },
+    620: {
+        "slug": "京",
+        "level": 6,
+        "component_subject_ids": [8, 16, 35],
+        "amalgamation_subject_ids": [3350, 3351, 3423, 3836],
+        "meanings": ["Capital"],
+        "meaning_mnemonic": `There is a **r[lid]r** covering all the **r[mouth]r**s that are too **r[small]r** to feed themselves, forming the **k[capital]k**. All of the small mouths come together and create a place where everyone can support each other.`
+    },
+    621: {
+        "slug": "国",
+        "level": 6,
+        "component_subject_ids": [16, 48, 3],
+        "amalgamation_subject_ids": [2881, 2882, 2883, 2884, 2885, 2886, 2887, 2888, 2934, 3004, 3787, 4000, 4470, 4681, 4730, 5177, 5294, 5323, 5633, 5973, 6449, 6612, 6671, 7029, 7153, 7618, 7942, 8204, 8238, 8337, 9046, 9122],
+        "meanings": ["Country"],
+        "meaning_mnemonic": `The **r[mouth]r** of the **r[king]r** extends all the way around him (like in this kanji). Where his mouth reaches, that is his **k[country]k**, give or take a few **r[drop]r**s.`
+    },
+    622: {
+        "slug": "夜",
+        "level": 6,
+        "component_subject_ids": [8, 75, 60, 3],
+        "amalgamation_subject_ids": [2889, 2890, 3365, 6477],
+        "meanings": ["Night", "Evening"],
+        "meaning_mnemonic": `A **r[leader]r** is wearing a **r[lid]r** and is standing outside in **r[winter]r**. Plus it's raining and she's covered in **r[drop]r**s of water. On top of all this, it's **k[night]k**.`
+    },
+    623: {
+        "slug": "妹",
+        "level": 6,
+        "component_subject_ids": [19, 134],
+        "amalgamation_subject_ids": [2891, 2892],
+        "meanings": ["Younger Sister", "Little Sister"],
+        "meaning_mnemonic": `Who's that **r[woman]r** pretending to be a **r[jet]r**? That's my **k[younger sister]k**. *Sigh*`
+    },
+    624: {
+        "slug": "姉",
+        "level": 6,
+        "component_subject_ids": [19, 267],
+        "amalgamation_subject_ids": [2891, 2893, 7526],
+        "meanings": ["Older Sister", "Big Sister", "Elder Sister"],
+        "meaning_mnemonic": `The only **r[woman]r** in this **r[city]r** is your **k[older sister]k**. She's the only woman surrounded by a bunch of men, but she's following her dreams in the big city.`
+    },
+    625: {
+        "slug": "店",
+        "level": 6,
+        "component_subject_ids": [62, 143],
+        "amalgamation_subject_ids": [2894, 2993, 3340, 4088, 5278, 5619, 6674, 8029],
+        "meanings": ["Shop", "Store"],
+        "meaning_mnemonic": `A long time ago, someone put up a **r[canopy]r** over their **r[fortune]r** telling booth and created the first **k[shop]k**. This **k[store]k** was fortune-based, but since then lots of different stores have popped up!`
+    },
+    626: {
+        "slug": "明",
+        "level": 6,
+        "component_subject_ids": [22, 43],
+        "amalgamation_subject_ids": [2895, 2896, 3022, 3848, 3947, 4037, 4062, 4350, 5339, 5934, 6147, 6445, 6568, 6570, 6682, 7130, 7219, 7258, 7823, 7848, 9258],
+        "meanings": ["Bright"],
+        "meaning_mnemonic": `The **r[sun]r** AND the **r[moon]r** are out? With both their light-powers combined, it's incredibly **k[bright]k** outside.`
+    },
+    627: {
+        "slug": "東",
+        "level": 6,
+        "component_subject_ids": [23, 22],
+        "amalgamation_subject_ids": [2897, 2898, 2899, 2900, 3350, 3423, 3458, 3522, 3836, 3958, 6641, 8516],
+        "meanings": ["East"],
+        "meaning_mnemonic": `Behind that **r[tree]r** the **r[sun]r** is rising in the **k[east]k**. The sun always rises in the east, so if you head that way, past the tree, you'll be going east too.`
+    },
+    628: {
+        "slug": "歩",
+        "level": 6,
+        "component_subject_ids": [44, 35, 5],
+        "amalgamation_subject_ids": [2901, 3056, 5468, 5613, 7451, 7687],
+        "meanings": ["Walk"],
+        "meaning_mnemonic": `You **r[stop]r** at a **r[small]r** **r[slide]r**. What were you doing before you stopped here? You were **k[walk]k**ing.`
+    },
+    629: {
+        "slug": "画",
+        "level": 6,
+        "component_subject_ids": [8763, 51, 127],
+        "amalgamation_subject_ids": [3526, 3595, 3596, 3791, 3876, 4475, 5442, 6202, 7201, 7380],
+        "meanings": ["Drawing", "Picture", "Painting"],
+        "meaning_mnemonic": `There's a close-up of a **r[leaf]r** in a **r[rice paddy]r** inside of a **r[box]r**. Wait, it's not a box, this whole thing is just a **k[drawing]k**.`
+    },
+    630: {
+        "slug": "直",
+        "level": 6,
+        "component_subject_ids": [56, 15, 53],
+        "amalgamation_subject_ids": [2902, 2903, 2904, 2905, 3243, 3453, 4107, 4930, 5277, 5392, 5462, 5630, 6854, 8327, 9280],
+        "meanings": ["Fix", "Direct"],
+        "meaning_mnemonic": `You accidentally stab your **r[cross]r** into the **r[eye]r** of a **r[lion]r**. This is a terrible thing you did and you need to **k[fix]k** it right now. I'll be **k[direct]k** with you, this is something you have to fix on your own.`
+    },
+    631: {
+        "slug": "知",
+        "level": 6,
+        "component_subject_ids": [72, 16],
+        "amalgamation_subject_ids": [3459, 3497, 3977, 4004, 4022, 4042, 5817, 6031, 6129, 8697],
+        "meanings": ["Know"],
+        "meaning_mnemonic": `Just before saying something important, you take an **r[arrow]r** to the **r[mouth]r** which seals your lips together, making it so you can't talk. Someone doesn't want you to share what you **k[know]k** with someone else.`
+    },
+    632: {
+        "slug": "長",
+        "level": 6,
+        "component_subject_ids": [138],
+        "amalgamation_subject_ids": [2906, 2907, 3455, 3623, 3646, 4621, 4875, 5101, 5309, 5606, 5893, 7243, 8097, 8603, 8675, 8900],
+        "meanings": ["Long", "Leader"],
+        "meaning_mnemonic": `The **r[long]r** radical and the **k[long]k** kanji are the same! 
+    
+    This kanji also means **k[leader]k**, because the longer a person is, the better a leader they'll be. Or maybe it was... the longer they've been somewhere? Whatever, longness = leaderness, you know?`
+    },
+    633: {
+        "slug": "前",
+        "level": 6,
+        "component_subject_ids": [8767, 1, 43, 128],
+        "amalgamation_subject_ids": [2908, 2909, 2940, 3457, 3460, 3644, 3873, 3934, 3996, 4787, 4848, 5132, 6119, 7531, 7557, 7623],
+        "meanings": ["Front", "Before"],
+        "meaning_mnemonic": `There are some **r[horns]r** on the **r[ground]r** and a **r[moon]r** **r[knife]r** in **k[front]k** of you. When you try to move, they always rotate around with you, staying right in front. You can't escape these objects, for some reason.
+    
+    This kanji means **k[before]k** too. Something that's in front of you is before you, after all.`
+    },
+    634: {
+        "slug": "南",
+        "level": 6,
+        "component_subject_ids": [15, 29, 8767, 61],
+        "amalgamation_subject_ids": [2900, 2910, 3430, 3432, 5041, 6300, 8013, 8222, 8649],
+        "meanings": ["South"],
+        "meaning_mnemonic": `The **r[cross]r** you're holding above your **r[head]r** to keep your **r[horns]r** **r[dry]r** keeps pulling you **k[south]k**. Probably because it's warmer in the south of Japan, so it's easier to keep things dry.`
+    },
+    635: {
+        "slug": "室",
+        "level": 6,
+        "component_subject_ids": [78, 1, 140, 17],
+        "amalgamation_subject_ids": [2972, 3024, 3095, 3116, 3296, 3584, 4259, 5664, 6530, 7527, 7675, 7705, 8168, 8665],
+        "meanings": ["Room"],
+        "meaning_mnemonic": `On the **r[dirt]r** you've made a **r[roof]r** over the **r[ground]r** where you can be in **r[private]r**. This is your **k[room]k**! That's really all a room is, you know? A covered, private place where you can have some time to yourself.`
+    },
+    636: {
+        "slug": "後",
+        "level": 6,
+        "component_subject_ids": [99, 87, 60],
+        "amalgamation_subject_ids": [2911, 2912, 2913, 3235, 3783, 4832, 7235, 7255, 7554, 7708, 7896, 8801],
+        "meanings": ["Behind", "After", "Back", "Later"],
+        "meaning_mnemonic": `If you **r[loiter]r** around to **r[poop]r** in **r[winter]r** you never know what could be happening **k[behind]k** you. **k[After]k** you're done you could turn **k[back]k** to see something really crazy that you missed because you took so long to poop in the cold.`
+    },
+    637: {
+        "slug": "思",
+        "level": 6,
+        "component_subject_ids": [51, 65],
+        "amalgamation_subject_ids": [2914, 3433, 3435, 3545, 4332, 5403, 6466, 7535, 8617],
+        "meanings": ["Think", "Thought"],
+        "meaning_mnemonic": `In a **r[rice paddy]r** you find a **r[heart]r** and it makes you **k[think]k**. You think a lot of **k[thought]k**s like, "Whose heart is this? Why is it in a rice paddy? Why am I thinking out loud?"`
+    },
+    638: {
+        "slug": "星",
+        "level": 6,
+        "component_subject_ids": [22, 210],
+        "amalgamation_subject_ids": [2915, 5140, 5550, 7619, 7620, 7673, 7879, 8662, 9009, 9010, 9011, 9013, 9055],
+        "meanings": ["Star"],
+        "meaning_mnemonic": `The **r[sun]r** that gives **r[life]r** is our very own **k[star]k** (which we happen to call the sun). Of course, all the other stars are probably giving life to other planets as well.`
+    },
+    639: {
+        "slug": "活",
+        "level": 6,
+        "component_subject_ids": [103, 174],
+        "amalgamation_subject_ids": [2916, 3715, 6324, 7674, 7679, 7733, 8748],
+        "meanings": ["Lively"],
+        "meaning_mnemonic": `A **r[tsunami]r** of **r[tongue]r**s is coming at you. As it washes over you, you feel each individual tongue moving around on your body, licking you. They make you feel so... **k[lively]k**!`
+    },
+    640: {
+        "slug": "海",
+        "level": 6,
+        "component_subject_ids": [103, 8762, 107],
+        "amalgamation_subject_ids": [2917, 2918, 2984, 3276, 3794, 5799, 5885, 6121, 6927, 7474, 7569, 8355, 8409, 8647, 8662],
+        "meanings": ["Sea", "Ocean"],
+        "meaning_mnemonic": `A **r[tsunami]r** is coming, so you point your **r[gun]r** out the **r[window]r** at it. "You better turn back, **k[sea]k**, or I'll shoot!"`
+    },
+    641: {
+        "slug": "点",
+        "level": 6,
+        "component_subject_ids": [143, 131],
+        "amalgamation_subject_ids": [2919, 2927, 2957, 3070, 3155, 3168, 3246, 4716, 4819, 5588, 6489, 6622, 7006, 7122, 7681, 7800, 8385, 8938],
+        "meanings": ["Point"],
+        "meaning_mnemonic": `Your **r[fortune]r** **r[boil]r**s down to a single **k[point]k** in time. One point in time determines how the rest of your future will go.`
+    },
+    642: {
+        "slug": "科",
+        "level": 6,
+        "component_subject_ids": [135, 129],
+        "amalgamation_subject_ids": [2920, 7476, 7958, 8699],
+        "meanings": ["Science", "Course", "Department"],
+        "meaning_mnemonic": `You scoop some **r[grain]r**s into a **r[ladle]r** to do **k[science]k**. You're doing experiments on these grains in your science **k[course]k**.`
+    },
+    643: {
+        "slug": "茶",
+        "level": 6,
+        "component_subject_ids": [90, 8764, 130],
+        "amalgamation_subject_ids": [2921, 2922, 3120, 3389, 4023, 4088, 5781, 8211, 8383, 9000],
+        "meanings": ["Tea"],
+        "meaning_mnemonic": `You come across an **r[angel]r** wearing a **r[hat]r** that's covered in **r[flowers]r**. So, you do the only natural thing. You take this angel, chop him up into tiny pieces, and dry him out. Then, you make **k[tea]k** out of all the dried up angel bits. You wear the hat, though.`
+    },
+    644: {
+        "slug": "食",
+        "level": 6,
+        "component_subject_ids": [139],
+        "amalgamation_subject_ids": [2923, 3087, 3094, 3295, 3535, 3771, 3896, 3970, 4150, 5478, 5592, 5830, 6905, 7308, 7489, 7866, 7914, 8340, 8671],
+        "meanings": ["Eat", "Meal"],
+        "meaning_mnemonic": `The radical for **r[eat]r** and the kanji for **k[eat]k** are the same! Lucky you.`
+    },
+    645: {
+        "slug": "首",
+        "level": 6,
+        "component_subject_ids": [156],
+        "amalgamation_subject_ids": [2924, 2925, 2926, 3257, 4647, 7242, 8488, 8737, 8741],
+        "meanings": ["Neck"],
+        "meaning_mnemonic": `The radical **r[neck]r** and the kanji **k[neck]k** are exactly the same!`
+    },
+    646: {
+        "slug": "欠",
+        "level": 7,
+        "component_subject_ids": [142],
+        "amalgamation_subject_ids": [2927, 3479, 3979, 4080, 5299, 7092, 7626, 7664, 7949, 8951],
+        "meanings": ["Lack"],
+        "meaning_mnemonic": `This kanji is the same as the radical it comes from. **r[Lack]r** becomes **k[Lack]k**!`
+    },
+    647: {
+        "slug": "氏",
+        "level": 7,
+        "component_subject_ids": [147],
+        "amalgamation_subject_ids": [2928, 2929, 5803, 5897, 5948, 8291, 9124],
+        "meanings": ["Family Name", "Last Name", "Surname"],
+        "meaning_mnemonic": `Your **r[clan]r** is where you get your name. But not your given name, your **k[family name]k**. That's why people have names that mean "in a rice paddy" and "near the ferry crossing." The location of your clan determined your **k[surname]k**! Hope your ancestors didn't live on "Poo Lake" or something.`
+    },
+    648: {
+        "slug": "由",
+        "level": 7,
+        "component_subject_ids": [15, 16],
+        "amalgamation_subject_ids": [2930, 2931, 7571, 9066, 9067, 9068, 9069],
+        "meanings": ["Reason"],
+        "meaning_mnemonic": `A giant **r[cross]r** with a **r[mouth]r** stands above you. "I am **k[reason]k**!" it says to you. It is the Cross of Reason.`
+    },
+    649: {
+        "slug": "札",
+        "level": 7,
+        "component_subject_ids": [23, 211],
+        "amalgamation_subject_ids": [2932, 2933, 8800, 8803, 8806, 8808, 8811],
+        "meanings": ["Bill", "Tag", "Label", "Note"],
+        "meaning_mnemonic": `The **r[tree]r** has an **r[umbrella]r**, and it's holding it over his head, which is strange, because trees normally like water... turns out, it's not water falling on him, but dollar **k[bills]k** floating down.`
+    },
+    650: {
+        "slug": "民",
+        "level": 7,
+        "component_subject_ids": [16, 147],
+        "amalgamation_subject_ids": [2934, 2996, 3199, 3362, 5179, 5565, 7331, 8092, 8145, 8275, 8695],
+        "meanings": ["Peoples", "People", "Nation"],
+        "meaning_mnemonic": `The **r[mouth]r** **r[clan]r** are a group of **k[people]k**. They are the **k[people]k** of a **k[nation]k**.`
+    },
+    651: {
+        "slug": "辺",
+        "level": 7,
+        "component_subject_ids": [114, 24],
+        "amalgamation_subject_ids": [2935, 2936, 7736, 8683],
+        "meanings": ["Area", "Side"],
+        "meaning_mnemonic": `While riding your **r[scooter]r**, you take your **r[sword]r** and cut out an **k[area]k** on the ground.  You carefully cut all the **k[side]k**s as you go. This area's all yours now!`
+    },
+    652: {
+        "slug": "付",
+        "level": 7,
+        "component_subject_ids": [75, 74],
+        "amalgamation_subject_ids": [2937, 3229, 3471, 3475, 3476, 3493, 3508, 3511, 3577, 4949, 5250, 7453, 7625, 7658, 8213],
+        "meanings": ["Attach"],
+        "meaning_mnemonic": `You have to take the **r[measurement]r** of a **r[leader]r**. Imagine yourself measuring that leader's height and then coming up short. This is not good, you think. Leaders need to be at least six feet tall. So, to make the leader tall enough, you **k[attach]k** another head to the top of the leader's head.`
+    },
+    653: {
+        "slug": "以",
+        "level": 7,
+        "component_subject_ids": [56, 3, 9],
+        "amalgamation_subject_ids": [2938, 2939, 2940, 8663, 8801, 8810],
+        "meanings": ["From", "Since", "Compared With", "With", "By Means Of"],
+        "meaning_mnemonic": `The **r[lion]r** drops a **r[drop]r** of saliva onto this **r[person]r** **k[from]k** above. The person is in a much worse place **k[compared with]k** where they were before, **k[since]k** they only just recently fell into this pit.`
+    },
+    654: {
+        "slug": "失",
+        "level": 7,
+        "component_subject_ids": [5, 146],
+        "amalgamation_subject_ids": [2941, 2942, 3687, 3998, 4006, 4206, 4574, 5967, 6577],
+        "meanings": ["Fault"],
+        "meaning_mnemonic": `That **r[slide]r** is your **r[husband]r**'s only **k[fault]k**. He loves that slide, more than you, and it's the only thing you don't like about him.`
+    },
+    655: {
+        "slug": "必",
+        "level": 7,
+        "component_subject_ids": [65, 5],
+        "amalgamation_subject_ids": [2943, 2944, 3146, 3154, 6157, 6543, 7955, 8169],
+        "meanings": ["Certain"],
+        "meaning_mnemonic": `The **r[slide]r** coming out of the patient's **r[heart]r** is there because a mad scientist is testing to see if it's a good way to drain the body of blood. The patient is alive now... but they are definitely slated for **k[certain]k** death.`
+    },
+    656: {
+        "slug": "未",
+        "level": 7,
+        "component_subject_ids": [134],
+        "amalgamation_subject_ids": [2945, 2946, 3020, 5304, 5655, 7239],
+        "meanings": ["Not Yet"],
+        "meaning_mnemonic": `You're flying in a **r[jet]r**. Even though it's one of the fastest things on earth, your child is sitting in the back asking, "Are we there yet? Are we there yet?" You have to keep responding. "**k[Not yet]k**! Not yet! NOT YET!"`
+    },
+    657: {
+        "slug": "末",
+        "level": 7,
+        "component_subject_ids": [134],
+        "amalgamation_subject_ids": [2947, 2948, 2949, 2980],
+        "meanings": ["End"],
+        "meaning_mnemonic": `This kanji uses a modified **r[jet]r** radical. The front area of the wing is wider than the middle area of the wing. This may seem counterintuitive, but by doing this they can fit so much more jet fuel. The jet zooms off and keeps going for a long, long time, until it reaches the **k[end]k** of the earth.`
+    },
+    658: {
+        "slug": "校",
+        "level": 7,
+        "component_subject_ids": [23, 8, 68],
+        "amalgamation_subject_ids": [2950, 2951, 3469, 3473, 3474, 8428, 8711],
+        "meanings": ["School"],
+        "meaning_mnemonic": `Next to the **r[tree]r**, a **r[lid]r** is put on your **r[father]r**. "Hello child," he says. "This is your new **k[school]k**." `
+    },
+    659: {
+        "slug": "夏",
+        "level": 7,
+        "component_subject_ids": [8763, 53, 60],
+        "amalgamation_subject_ids": [2952, 2953, 6541],
+        "meanings": ["Summer"],
+        "meaning_mnemonic": `The **r[eye]r** **r[leaf]r** grows only in the **r[winter]r**. Every other leaf, however, will do the opposite, which is to grow in the **k[summer]k**.`
+    },
+    660: {
+        "slug": "家",
+        "level": 7,
+        "component_subject_ids": [78, 233],
+        "amalgamation_subject_ids": [2954, 2955, 3090, 3321, 3361, 3908, 3933, 4067, 4683, 4873, 5697, 6447, 7188, 7657, 7712, 8702],
+        "meanings": ["House", "Home"],
+        "meaning_mnemonic": `Under this **r[roof]r** is a **r[pig]r**. Your pig, because it's your **k[house]k**! You keep your pig inside where it's nice and warm. He's a member of your family, so he deserves to live in your **k[home]k** too.`
+    },
+    661: {
+        "slug": "弱",
+        "level": 7,
+        "component_subject_ids": [36, 123],
+        "amalgamation_subject_ids": [2956, 2957, 3477, 3478, 4034, 6435],
+        "meanings": ["Weak"],
+        "meaning_mnemonic": `You have two **r[bow]r**s but they're both covered in **r[ice]r**. This has made them very **k[weak]k**.`
+    },
+    662: {
+        "slug": "時",
+        "level": 7,
+        "component_subject_ids": [22, 192],
+        "amalgamation_subject_ids": [2958, 2959, 2960, 2961, 2962, 3059, 3380, 3510, 3789, 4693, 4717, 4748, 4796, 4849, 5148, 5835, 6122, 6953, 7005, 7033, 7461, 8049, 8091],
+        "meanings": ["Time", "O'clock", "Hour"],
+        "meaning_mnemonic": `The **r[sun]r** is used in a **r[temple]r** to tell **k[time]k**. They don't have clocks or cell phones, they have sun dials and good old fashioned "looking up and seeing where the sun is right now."
+    
+    This also can mean **k[o' clock]k**, as in "five o'clock" It's used when measuring what time it is in Japanese.`
+    },
+    663: {
+        "slug": "紙",
+        "level": 7,
+        "component_subject_ids": [86, 147],
+        "amalgamation_subject_ids": [2963, 2964, 3917, 6271, 6952, 7102],
+        "meanings": ["Paper"],
+        "meaning_mnemonic": `The **r[thread]r** that ties you to your **r[clan]r** is **k[paper]k**. Your papers, that is.`
+    },
+    664: {
+        "slug": "記",
+        "level": 7,
+        "component_subject_ids": [117, 228],
+        "amalgamation_subject_ids": [2965, 3599, 3904, 4699, 4742, 5208, 7166, 7203, 7587, 7684, 8304, 8815],
+        "meanings": ["Write Down", "Record"],
+        "meaning_mnemonic": `What you **r[say]r** to **r[oneself]r** (yourself), you decide to **k[write down]k**. Whether this is in the form of a journal, diary, or blog, you feel the need to **k[record]k** these important thoughts in some way.`
+    },
+    665: {
+        "slug": "通",
+        "level": 7,
+        "component_subject_ids": [114, 141, 71],
+        "amalgamation_subject_ids": [2966, 2967, 3246, 3470, 4760, 5419, 5480, 5603, 5693, 5814, 6634, 6635, 7514, 7632, 7725, 7741, 7928, 8119, 8146],
+        "meanings": ["Pass Through"],
+        "meaning_mnemonic": `There's a **r[scooter]r** with your **r[mama]r** carrying a **r[task]r** she needs to get done. You see her **k[pass through]k**, hurrying by to get that task done.`
+    },
+    666: {
+        "slug": "高",
+        "level": 7,
+        "component_subject_ids": [8, 16, 121],
+        "amalgamation_subject_ids": [2950, 2968, 3234, 3301, 3473, 3483, 4481, 4551, 6159, 6480, 6747, 7607, 7703, 8056, 8090, 8532, 8711, 9022],
+        "meanings": ["Tall", "Expensive", "High"],
+        "meaning_mnemonic": `There's a **r[lid]r** on your **r[mouth]r** and **r[mustache]r**, covering up all your talking holes. This is because you kept saying how **k[tall]k** and **k[expensive]k** you are.`
+    },
+    667: {
+        "slug": "強",
+        "level": 7,
+        "component_subject_ids": [36, 140, 89],
+        "amalgamation_subject_ids": [2969, 2970, 3221, 3320, 3886, 4415, 5251, 5344, 9145],
+        "meanings": ["Strong", "Strength"],
+        "meaning_mnemonic": `You have a **r[private]r** **r[bow]r** made of **r[insect]r**s that's extremely **k[strong]k**. Insect bodies are really durable, so they make for strong bows. You also have to be strong to use it, since it was made just for strong arms.`
+    },
+    668: {
+        "slug": "教",
+        "level": 7,
+        "component_subject_ids": [418, 60],
+        "amalgamation_subject_ids": [2971, 2972, 3286, 3730, 4145, 4196, 4608, 4929, 5225, 7476, 7572, 7712, 8045, 9240],
+        "meanings": ["Teach"],
+        "meaning_mnemonic": `A **r[teacher]r** in **r[winter]r** is happiest because they get to **k[teach]k**! The kids can't go out and play because it's too cold. They all have to come in and stay warm as the teacher teaches!`
+    },
+    669: {
+        "slug": "理",
+        "level": 7,
+        "component_subject_ids": [48, 125],
+        "amalgamation_subject_ids": [2931, 2973, 2974, 3709, 3710, 3902, 3903, 3907, 4328, 4329, 4423, 4466, 4478, 4719, 4854, 4860, 4964, 5112, 5127, 5425, 5792, 7196, 7547, 7639, 7862, 8064, 8065, 8292, 8682, 9005],
+        "meanings": ["Reason"],
+        "meaning_mnemonic": `The **r[king]r**'s **r[village]r** is the **k[reason]k** he's king. Without the village there would be no reason to have a king in the first place.`
+    },
+    670: {
+        "slug": "組",
+        "level": 7,
+        "component_subject_ids": [86, 419],
+        "amalgamation_subject_ids": [2975, 5071, 6311, 8664, 9278],
+        "meanings": ["Group", "Association", "Team"],
+        "meaning_mnemonic": `Sew **r[thread]r** through your **r[top hat]r** and to the top hats of other people you know and you'll turn into a **k[group]k** of top hat wearing people. You're all connected by the thread now, so everyone will assume you're a group, even if that's all you guys have going for yourselves.`
+    },
+    671: {
+        "slug": "船",
+        "level": 7,
+        "component_subject_ids": [149, 2, 16],
+        "amalgamation_subject_ids": [2976, 2977, 4352, 4386, 5699, 5869, 6033, 6053, 6509, 7581, 7622, 8321, 8613],
+        "meanings": ["Boat", "Ship", "Vessel"],
+        "meaning_mnemonic": `Your **r[boat]r** has **r[fins]r** and a **r[mouth]r**! It's still a **k[boat]k** though.`
+    },
+    672: {
+        "slug": "週",
+        "level": 7,
+        "component_subject_ids": [114, 169],
+        "amalgamation_subject_ids": [2978, 2979, 2980, 4890, 7323, 8698],
+        "meanings": ["Week"],
+        "meaning_mnemonic": `Use a **r[scooter]r** to travel the **r[circumference]r** of the world and it will take you a full **k[week]k**. Seven whole days!`
+    },
+    673: {
+        "slug": "雪",
+        "level": 7,
+        "component_subject_ids": [119, 105],
+        "amalgamation_subject_ids": [2981],
+        "meanings": ["Snow"],
+        "meaning_mnemonic": `The **r[rain]r** is hated so much by **r[wolverine]r**s, so they always want to live in the **k[snow]k**.`
+    },
+    674: {
+        "slug": "魚",
+        "level": 7,
+        "component_subject_ids": [150],
+        "amalgamation_subject_ids": [2982, 2983, 2984, 3121, 4804, 6838],
+        "meanings": ["Fish"],
+        "meaning_mnemonic": `The radical **r[fish]r** and the kanji **k[fish]k** are exactly the same!`
+    },
+    675: {
+        "slug": "鳥",
+        "level": 7,
+        "component_subject_ids": [151],
+        "amalgamation_subject_ids": [2985, 2986, 4117, 6859],
+        "meanings": ["Bird"],
+        "meaning_mnemonic": `The **r[bird]r** radical and the **k[bird]k** kanji are the same!`
+    },
+    676: {
+        "slug": "黄",
+        "level": 7,
+        "component_subject_ids": [152],
+        "amalgamation_subject_ids": [2987, 8643],
+        "meanings": ["Yellow"],
+        "meaning_mnemonic": `The radical **r[yellow]r** and the kanji **k[yellow]k** are exactly the same!`
+    },
+    677: {
+        "slug": "黒",
+        "level": 7,
+        "component_subject_ids": [153],
+        "amalgamation_subject_ids": [2988, 2989, 3514, 3854, 4121, 5788, 6954, 7069, 7470, 8555],
+        "meanings": ["Black"],
+        "meaning_mnemonic": `The radical **r[black]r** and the kanji **k[black]k** are exactly the same.`
+    },
+    678: {
+        "slug": "支",
+        "level": 8,
+        "component_subject_ids": [81],
+        "amalgamation_subject_ids": [2992, 2993, 3012, 4568, 4870, 7578, 8728],
+        "meanings": ["Support", "Branch"],
+        "meaning_mnemonic": `The **r[branch]r** radical and the **k[branch]k** kanji are the same! This kanji also means **k[support]k**. To remember it, think about a tree with lots of branches. The branches support each other and the trunk of the tree. If you were to climb the tree, the branches would be able to support your weight too!`
+    },
+    679: {
+        "slug": "住",
+        "level": 8,
+        "component_subject_ids": [75, 154],
+        "amalgamation_subject_ids": [2994, 2995, 2996, 3043, 4638, 5180, 5181],
+        "meanings": ["Dwell", "Reside", "Dwelling"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[master]r**s gets to choose the place they **k[dwell]k**. So they **k[reside]k** in a huge mansion on the top of the mountain, surrounded by all the other masters in their smaller dwellings.`
+    },
+    680: {
+        "slug": "助",
+        "level": 8,
+        "component_subject_ids": [419, 13],
+        "amalgamation_subject_ids": [2997, 2998, 2999, 3000, 3488, 4236, 4567, 4865, 8464],
+        "meanings": ["Help"],
+        "meaning_mnemonic": `With **r[top hat]r** **r[power]r**, you're able to **k[help]k** anyone.`
+    },
+    681: {
+        "slug": "医",
+        "level": 8,
+        "component_subject_ids": [217, 72],
+        "amalgamation_subject_ids": [3001, 3002, 3003, 3382, 3480, 4609, 4957, 4988, 5998],
+        "meanings": ["Medicine"],
+        "meaning_mnemonic": `You're in a **r[cage]r** and you've been shot by an **r[arrow]r**. Obviously things are looking pretty bad. You need some **k[medicine]k** if you hope to live.`
+    },
+    682: {
+        "slug": "君",
+        "level": 8,
+        "component_subject_ids": [105, 5, 16],
+        "amalgamation_subject_ids": [3004, 3005, 3006, 5695],
+        "meanings": ["Buddy"],
+        "meaning_mnemonic": `A **r[wolverine]r** is going down a **r[slide]r** into your **r[mouth]r**. Why is he going into your mouth, though? You're opening it really wide, because you're screaming "**k[BUDDY]k**!!! You're so excited to see your wolverine buddy-pal again. You thought he was dead.`
+    },
+    683: {
+        "slug": "対",
+        "level": 8,
+        "component_subject_ids": [42, 74],
+        "amalgamation_subject_ids": [3007, 3008, 3009, 3010, 4219, 4663, 4722, 5189, 6080, 6207, 7487, 7760, 7764],
+        "meanings": ["Versus", "Opposite"],
+        "meaning_mnemonic": `You want to take a **r[measurement]r** of what you're **r[writing]r** to make sure it's long enough to hand in to your professor, when you realize it's the **k[opposite]k** of what you should be doing. You don't measure writing, you check things like word count and page numbers. Now it's going to be you **k[versus]k** the teacher on who determines how long this thing you're writing should be.`
+    },
+    684: {
+        "slug": "局",
+        "level": 8,
+        "component_subject_ids": [37, 8780, 16],
+        "amalgamation_subject_ids": [3011, 3012, 4026, 5203],
+        "meanings": ["Bureau", "Department"],
+        "meaning_mnemonic": `Your nation's **r[flag]r** sits on top of a **r[cape]r**d **r[mouth]r**. This is the symbol for the "**k[Bureau]k** of Secret Things." It's a special **k[department]k** of your government made to keep things hidden.`
+    },
+    685: {
+        "slug": "役",
+        "level": 8,
+        "component_subject_ids": [99, 160],
+        "amalgamation_subject_ids": [3013, 3014, 3015, 3016, 4614, 7238, 7680, 7737, 9242],
+        "meanings": ["Service", "Duty"],
+        "meaning_mnemonic": `You **r[loiter]r** around with a **r[weapon]r** because you're currently doing your **k[service]k** and **k[duty]k** to your country. You're standing guard outside, waiting just in case something will happen.`
+    },
+    686: {
+        "slug": "投",
+        "level": 8,
+        "component_subject_ids": [63, 160],
+        "amalgamation_subject_ids": [3025, 3493, 4432, 4782, 5728, 6501, 8010, 8814],
+        "meanings": ["Throw"],
+        "meaning_mnemonic": `In your **r[fingers]r** is a **r[weapon]r**, so you **k[throw]k** it. Maybe you're angry and you threw the weapon at a person you don't like. Maybe you're a pacifist and you threw it away so no one else could use it. Either way, when you have a weapon in your fingers you have to throw it.`
+    },
+    687: {
+        "slug": "決",
+        "level": 8,
+        "component_subject_ids": [103, 9, 157],
+        "amalgamation_subject_ids": [3017, 3018, 3019, 3020, 3021, 3101, 3492, 3505, 4074, 4465, 5418, 5528, 5626, 6659],
+        "meanings": ["Decide", "Decision"],
+        "meaning_mnemonic": `You have at your disposal a **r[tsunami]r** and a **r[hook]r** to assassinate this **r[person]r**. Which weapon will you choose. **k[Decide]k** now!`
+    },
+    688: {
+        "slug": "究",
+        "level": 8,
+        "component_subject_ids": [170, 11],
+        "amalgamation_subject_ids": [3022, 3023, 3024, 3486, 5038, 5498],
+        "meanings": ["Research"],
+        "meaning_mnemonic": `You dig **r[nine]r** **r[hole]r**s for your **k[research]k**. You should always do research with nine variables so you can compare them and so there's an uneven number.`
+    },
+    689: {
+        "slug": "身",
+        "level": 8,
+        "component_subject_ids": [109, 5],
+        "amalgamation_subject_ids": [3026, 3027, 3028, 3864, 4951, 5134, 5158, 5503, 6062, 8027, 8879, 9020],
+        "meanings": ["Somebody", "Someone", "Body"],
+        "meaning_mnemonic": `The self radical is a bit modified, with things sticking out, but that’s because it’s falling down a slide.
+    
+    Sure, it’s your**r[self]r** who’s tumbling down the **r[slide]r**… at least that’s how it feels to you. Who are you? What are you? All you know is you’re **k[somebody]k**, but you don’t know who that somebody is.`
+    },
+    690: {
+        "slug": "者",
+        "level": 8,
+        "component_subject_ids": [104, 22],
+        "amalgamation_subject_ids": [3003, 3030, 3031, 3032, 3033, 3145, 3272, 3382, 3480, 3725, 3890, 3899, 4008, 4231, 4306, 4319, 4382, 4398, 4487, 4793, 5181, 5423, 5564, 5601, 5679, 5842, 5947, 6076, 6101, 6159, 6358, 6460, 6563, 6754, 6756, 6784, 7412, 7485, 7499, 7924, 8112, 8281, 8552],
+        "meanings": ["Someone", "Somebody"],
+        "meaning_mnemonic": `A **r[coffin]r** has been left out in the **r[sun]r** for too long. When dead bodies are out in the sun like this, they really begin to decompose. You are wondering who this person is, though. You can't tell because it's fallen apart too much. You look on the coffin. There's a label, but it only says "**k[someone]k**."`
+    },
+    691: {
+        "slug": "研",
+        "level": 8,
+        "component_subject_ids": [54, 171],
+        "amalgamation_subject_ids": [3023, 3024, 3486, 5113, 7500],
+        "meanings": ["Sharpen"],
+        "meaning_mnemonic": `A **r[stone]r** **r[lantern]r** is an excellent way to **k[sharpen]k** anything, even in the dark. Your knives, your forks, your spoons, and even your sword.`
+    },
+    692: {
+        "slug": "馬",
+        "level": 8,
+        "component_subject_ids": [165],
+        "amalgamation_subject_ids": [2990, 2991, 6019, 6155, 6281, 7192, 7778, 9050, 9105],
+        "meanings": ["Horse"],
+        "meaning_mnemonic": `The **r[horse]r** radical and the **k[horse]k** kanji are exactly the same! Huzzah!`
+    },
+    693: {
+        "slug": "森",
+        "level": 8,
+        "component_subject_ids": [23],
+        "amalgamation_subject_ids": [3029],
+        "meanings": ["Forest", "Woods"],
+        "meaning_mnemonic": `This kanji is just the **r[tree]r** radical three times. Just based off this, you should be able to figure it out. This kanji means "**k[forest]k**."`
+    },
+    694: {
+        "slug": "場",
+        "level": 8,
+        "component_subject_ids": [17, 172],
+        "amalgamation_subject_ids": [3034, 3035, 3036, 3037, 3309, 3498, 4314, 4596, 4645, 4863, 4938, 5617, 5779, 5811, 5945, 6364, 6601, 6679, 7215, 7641, 7680, 7743, 8062, 9237],
+        "meanings": ["Location", "Place"],
+        "meaning_mnemonic": `**r[Dirt]r** makes it **r[easy]r** to identify your **k[location]k**. If you know that, you can go from **k[place]k** to place.`
+    },
+    695: {
+        "slug": "朝",
+        "level": 8,
+        "component_subject_ids": [15, 22, 43],
+        "amalgamation_subject_ids": [3044, 3045, 3046, 3935, 4861, 5359, 6171, 7070, 7570, 8703],
+        "meanings": ["Morning"],
+        "meaning_mnemonic": `There's a **r[cross]r** sticking out the top of the **r[sun]r** and another **r[cross]r** sticking out the bottom. The **r[moon]r** is off to the right. That's because it's the **k[morning]k**, which is when the sun and moon switch over. Those crosses are making sure the sun stays high in the sky for the rest of the day.`
+    },
+    696: {
+        "slug": "番",
+        "level": 8,
+        "component_subject_ids": [164, 51],
+        "amalgamation_subject_ids": [3047, 3048, 3049, 3050, 3481, 3553, 4094, 4248, 4287, 5204, 8664, 8803],
+        "meanings": ["Number In A Series", "Turn", "Ordinal Number"],
+        "meaning_mnemonic": `You have to **r[sickle]r** the **r[rice paddy]r** today because it's your **k[turn]k**. This kanji also means **k[number in a series]k**, which is a lot like a turn. For example, you're number 3, so your turn will be number 3.`
+    },
+    697: {
+        "slug": "答",
+        "level": 8,
+        "component_subject_ids": [85, 216],
+        "amalgamation_subject_ids": [3051, 3052, 9037],
+        "meanings": ["Answer", "Response", "Reply"],
+        "meaning_mnemonic": `"Does the **r[bamboo]r** shirt **r[suit]r** me?" you ask... but nobody will **k[answer]k**.`
+    },
+    698: {
+        "slug": "絵",
+        "level": 8,
+        "component_subject_ids": [86, 155],
+        "amalgamation_subject_ids": [3053, 5331, 6036, 6965, 7114, 8740],
+        "meanings": ["Drawing", "Painting"],
+        "meaning_mnemonic": `Using just **r[thread]r** **r[meeting]r** the paper (with a little ink on the end) you create a masterpiece of a **k[drawing]k** (or a **k[painting]k**).`
+    },
+    699: {
+        "slug": "買",
+        "level": 8,
+        "component_subject_ids": [163, 94],
+        "amalgamation_subject_ids": [3054, 3512, 5371],
+        "meanings": ["Buy"],
+        "meaning_mnemonic": `There are some **r[shellfish]r** in a **r[net]r** that you can **k[buy]k**. You can't just buy loose shellfish. You can only buy the ones that are in the net, bagged up and ready for your money.`
+    },
+    700: {
+        "slug": "道",
+        "level": 8,
+        "component_subject_ids": [114, 156],
+        "amalgamation_subject_ids": [3055, 3056, 3057, 3089, 3195, 3298, 3487, 4092, 4101, 4734, 5279, 5290, 5494, 5890, 6254, 6279, 6729, 7399, 7474, 7624, 8606, 8686, 8962],
+        "meanings": ["Road", "Street", "Path", "Way"],
+        "meaning_mnemonic": `Aim the **r[scooter]r**'s **r[neck]r** at the **k[road]k**! Scooters are only meant for driving on **k[street]k**s and **k[path]k**s, and if you go the wrong **k[way]k**, you'll probably break your own neck!`
+    },
+    701: {
+        "slug": "間",
+        "level": 8,
+        "component_subject_ids": [214, 22],
+        "amalgamation_subject_ids": [3058, 3059, 3060, 3061, 3062, 3063, 3241, 3489, 4882, 4931, 5026, 5202, 7032, 7182, 7324, 7603, 7691, 8344, 8757, 8873, 8978],
+        "meanings": ["Interval", "Interval of Time", "Interval of Space"],
+        "meaning_mnemonic": `There's a **r[gate]r** that the **r[sun]r** goes through at a regular **k[interval]k**. There is an **k[interval of time]k** in the sense that the sun goes through it at the same time every day. And there is an **k[interval of space]k** in the sense that it has to go through the space between the gate posts.`
+    },
+    702: {
+        "slug": "雲",
+        "level": 8,
+        "component_subject_ids": [119, 159],
+        "amalgamation_subject_ids": [3064],
+        "meanings": ["Cloud"],
+        "meaning_mnemonic": `A **r[rain]r** **r[cloud]r** is still a **k[cloud]k**! It's probably going to rain on you soon though, so I hope you have a jacket or an umbrella.`
+    },
+    703: {
+        "slug": "数",
+        "level": 8,
+        "component_subject_ids": [98, 19, 60],
+        "amalgamation_subject_ids": [3065, 3066, 3067, 3068, 3069, 3070, 3206, 4109, 4237, 5133, 5306, 5551, 5714, 7338, 8739],
+        "meanings": ["Count", "Number", "Amount"],
+        "meaning_mnemonic": `In the **r[winter]r**, the **r[woman]r** has to go through all the **r[rice]r** and **k[count]k** each individual grain. Once she's counted all of them, she'll have an **k[amount]k** / **k[number]k** so that she can split them up accordingly.`
+    },
+    704: {
+        "slug": "楽",
+        "level": 8,
+        "component_subject_ids": [52, 123, 23],
+        "amalgamation_subject_ids": [3071, 3072, 3073, 3147, 3484, 3491, 3534, 5040, 5819, 6176, 6452, 6802, 7659, 8279, 8451, 8452, 8495, 8616, 8676],
+        "meanings": ["Comfort", "Ease", "Pleasure"],
+        "meaning_mnemonic": `The **r[white]r** **r[ice]r** **r[tree]r** is a magical tree. When you eat its ice flowers it gives you incredible amounts of **k[comfort]k**, **k[ease]k**, and **k[pleasure]k**.`
+    },
+    705: {
+        "slug": "話",
+        "level": 8,
+        "component_subject_ids": [117, 174],
+        "amalgamation_subject_ids": [3074, 3075, 3076, 3370, 3495, 3555, 3636, 3785, 4287, 6351, 6565, 6715, 7115, 7169, 7746, 8149],
+        "meanings": ["Talk", "Speak"],
+        "meaning_mnemonic": `**r[Say]r** it with your **r[tongue]r**. If you do, you'll be able to **k[talk]k**. You'll be able to **k[speak]k**.`
+    },
+    706: {
+        "slug": "電",
+        "level": 8,
+        "component_subject_ids": [119, 51, 211],
+        "amalgamation_subject_ids": [3075, 3077, 3078, 3079, 3080, 3081, 3203, 3280, 3560, 4287, 4371, 4586, 5385, 5804, 5945, 6287, 6368, 6469, 6565, 6904, 7169, 7228, 8982],
+        "meanings": ["Electricity"],
+        "meaning_mnemonic": `You're standing in the middle of a **r[rice paddy]r** in the **r[rain]r** with an **r[umbrella]r**. You're standing here because there's nothing else that's very tall around you. You want to get hit by **k[electricity]k** (aka lightning) to show that it exists.`
+    },
+    707: {
+        "slug": "所",
+        "level": 8,
+        "component_subject_ids": [73, 115],
+        "amalgamation_subject_ids": [3035, 3038, 3039, 3040, 3041, 3042, 3043, 3315, 3486, 4418, 4698, 4809, 6049, 6057, 7011, 7447, 7742, 8050, 8326, 8742, 9123],
+        "meanings": ["Place"],
+        "meaning_mnemonic": `You're taking an **r[axe]r** to a **r[door]r**. You're absolutely crazy. "I HATE THIS **k[PLACE]k**!!" you keep yelling as you smash in the door.`
+    },
+    708: {
+        "slug": "事",
+        "level": 9,
+        "component_subject_ids": [15, 16, 105],
+        "amalgamation_subject_ids": [3082, 3083, 3084, 3085, 3086, 3087, 3103, 3500, 3520, 3539, 3752, 3812, 3932, 3941, 4021, 4418, 4437, 4920, 4934, 6059, 6333, 7125, 7684, 7740, 7747, 7912, 7982, 8076, 8535, 8702],
+        "meanings": ["Action", "Matter", "Thing"],
+        "meaning_mnemonic": `You put a **r[cross]r** in the **r[mouth]r** of a **r[wolverine]r**. What a strange **k[action]k**. Why would you do such a **k[thing]k**? The fact of the **k[matter]k** is that you're not too sure why you put that cross in the wolverine's mouth.`
+    },
+    709: {
+        "slug": "使",
+        "level": 9,
+        "component_subject_ids": [75, 1, 167],
+        "amalgamation_subject_ids": [3088, 3499, 5727, 7159, 7464, 8159, 8802],
+        "meanings": ["Use"],
+        "meaning_mnemonic": `A good **r[leader]r** can put the **r[ground]r**'s **r[history]r** to great **k[use]k**. You are a good leader. You have studied the ground and dirt of the earth your entire life. You know the history of the ground and you know how to use it to lead your people.`
+    },
+    710: {
+        "slug": "具",
+        "level": 9,
+        "component_subject_ids": [53, 1, 2],
+        "amalgamation_subject_ids": [3089, 3090, 7739],
+        "meanings": ["Tool"],
+        "meaning_mnemonic": `An **r[eye]r** and **r[fins]r** litter the **r[ground]r**. What happened? You killed a fish. You must hide the murder **k[tool]k** before someone finds out it was you.`
+    },
+    711: {
+        "slug": "受",
+        "level": 9,
+        "component_subject_ids": [8772, 76, 30],
+        "amalgamation_subject_ids": [3091, 3511, 4163, 4539, 6023, 6218, 8187, 8396, 8434, 8943, 9269],
+        "meanings": ["Accept", "Receive"],
+        "meaning_mnemonic": `You’re sitting on a **r[stool]r** and someone **r[cleat]r**s you in the **r[forehead]r** as part of an **k[accept]k**ance ritual. It’s for the most prestigious Spanish soccer club in the world. You got knocked off the stool, and the cleats really hurt your forehead, but you’re just glad to have been accepted.
+    
+    This kanji also means **k[receive]k**, which is quite similar to accept. It shouldn't be too hard to remember.`
+    },
+    712: {
+        "slug": "和",
+        "level": 9,
+        "component_subject_ids": [135, 16],
+        "amalgamation_subject_ids": [3092, 3093, 3094, 3095, 3096, 3788, 5605, 6051, 6730, 8089, 8338],
+        "meanings": ["Peace", "Japanese Style"],
+        "meaning_mnemonic": `When everyone has **r[grain]r** in their **r[mouth]r**, you will have **k[peace]k**. That is the **k[Japanese style]k** of doing things.`
+    },
+    713: {
+        "slug": "始",
+        "level": 10,
+        "component_subject_ids": [19, 417],
+        "amalgamation_subject_ids": [3097, 3098, 3099, 4375],
+        "meanings": ["Begin", "Start"],
+        "meaning_mnemonic": `If you give a **r[woman]r** a **r[machine]r** she'll **k[begin]k** learning how to use it right away. She'll also get it to **k[start]k** before anyone else could. Women are really good at starting up new machines!`
+    },
+    714: {
+        "slug": "定",
+        "level": 9,
+        "component_subject_ids": [78, 229],
+        "amalgamation_subject_ids": [3100, 3101, 3158, 3207, 3291, 3505, 4426, 4479, 4675, 4728, 4745, 4973, 5432, 5625, 5791, 5849, 5850, 6603, 7694, 7786, 7824, 8378, 8484],
+        "meanings": ["Determine"],
+        "meaning_mnemonic": `A **r[roof]r** is **r[correct]r** only if you **k[determine]k** that it is.`
+    },
+    715: {
+        "slug": "実",
+        "level": 9,
+        "component_subject_ids": [78, 8779],
+        "amalgamation_subject_ids": [3102, 3103, 3104, 3830, 4164, 4271, 4469, 4644, 5638, 5991, 6286, 6547, 7483, 8148, 8223, 8341],
+        "meanings": ["Truth", "Reality"],
+        "meaning_mnemonic": `Climb onto the **r[roof]r** in **r[spring]r** to see the **k[truth]k**. The world is waking back up from winter and revealing the **k[reality]k** of what it is all around you. `
+    },
+    716: {
+        "slug": "服",
+        "level": 9,
+        "component_subject_ids": [43, 145, 30],
+        "amalgamation_subject_ids": [3096, 3105, 3293, 4413, 5384, 5689, 6569, 6753, 6755, 7328, 7611, 8263],
+        "meanings": ["Clothes", "Clothing"],
+        "meaning_mnemonic": `Take the **r[moon]r** **r[stamp]r** on the **r[stool]r** in front of you and use it on all of your **k[clothes]k**. Now even if you sell or lose a piece of **k[clothing]k**, you'll be able to find it again by checking for your special moon stamp.`
+    },
+    717: {
+        "slug": "泳",
+        "level": 9,
+        "component_subject_ids": [103, 8820],
+        "amalgamation_subject_ids": [3106, 7683],
+        "meanings": ["Swim"],
+        "meaning_mnemonic": `If a **r[tsunami]r** is going to last an **r[eternity]r** you better learn how to **k[swim]k** now. We'll be under water for the rest of time and if you can't swim you're not gonna make it.`
+    },
+    718: {
+        "slug": "物",
+        "level": 9,
+        "component_subject_ids": [126, 173],
+        "amalgamation_subject_ids": [3107, 3108, 3109, 3114, 3213, 3353, 3381, 3395, 3512, 3518, 3860, 3995, 4010, 4031, 4061, 4294, 4387, 4520, 5137, 5154, 5391, 5415, 5479, 5616, 5699, 5920, 5948, 6045, 6353, 6423, 6536, 6649, 6786, 7294, 7313, 7489, 7586, 7627, 7655, 8305, 8556, 8701, 8745, 8807],
+        "meanings": ["Thing"],
+        "meaning_mnemonic": `A **r[wing]r**ed **r[cow]r** is flying in the air. What a strange **k[thing]k**! You’ve heard of flying pigs before, but cows? This is a new and strange thing indeed! Cows with wings! What a silly thing to imagine.`
+    },
+    719: {
+        "slug": "苦",
+        "level": 9,
+        "component_subject_ids": [90, 69],
+        "amalgamation_subject_ids": [3110, 3111, 3271, 3507, 3513, 8933],
+        "meanings": ["Suffering"],
+        "meaning_mnemonic": `**r[Old]r** **r[flowers]r** are **k[suffering]k** because they're old.`
+    },
+    720: {
+        "slug": "表",
+        "level": 9,
+        "component_subject_ids": [210, 8770],
+        "amalgamation_subject_ids": [4376, 4377, 4643, 5835, 7379, 7538, 7573],
+        "meanings": ["Express"],
+        "meaning_mnemonic": `Sometimes **r[life]r** gives you a **r[kick]r**, and you have to **k[express]k** yourself to deal with it!`
+    },
+    721: {
+        "slug": "部",
+        "level": 9,
+        "component_subject_ids": [175, 176],
+        "amalgamation_subject_ids": [3118, 7460, 7532, 7533, 8665, 8741],
+        "meanings": ["Part", "Department", "Club"],
+        "meaning_mnemonic": `The **r[clown]r** **r[building]r** is over in that **k[part]k** of town. We keep the clown part as separate as we can from the rest of the normal people. In fact, the entire clown education **k[department]k** and their clown **k[club]k**s have to stay in their part, they can't come in ours.`
+    },
+    722: {
+        "slug": "乗",
+        "level": 9,
+        "component_subject_ids": [135, 16],
+        "amalgamation_subject_ids": [3112, 3113, 3114, 3498, 6143, 7991, 9048, 9049, 9050],
+        "meanings": ["Ride"],
+        "meaning_mnemonic": `You put a **r[grain]r** in your **r[mouth]r** and let it take a **k[ride]k**. This kanji has the same radicals as <ja>和</ja>, but this time the grain is <I>in</I> your mouth, which is why there's little pieces of grain sticking out of the <ja>口</ja> part ;)`
+    },
+    723: {
+        "slug": "客",
+        "level": 9,
+        "component_subject_ids": [78, 60, 16],
+        "amalgamation_subject_ids": [3115, 3116, 4554, 4871, 8240, 9049],
+        "meanings": ["Guest", "Customer"],
+        "meaning_mnemonic": `Under your **r[roof]r** in **r[winter]r** there are more **r[mouth]r**s to feed because you let **k[guest]k**s stay with you when it's cold. Some of them aren't family, so they have to pay to stay under your roof and get food. Those are **k[customer]k**s.`
+    },
+    724: {
+        "slug": "屋",
+        "level": 9,
+        "component_subject_ids": [37, 1, 140, 17],
+        "amalgamation_subject_ids": [3117, 3118, 3119, 3120, 3121, 3122, 3330, 5100, 5104, 5192, 6415, 7149, 7577, 7808, 8063],
+        "meanings": ["Roof", "Shop", "Store"],
+        "meaning_mnemonic": `Some of your **r[private]r** **r[dirt]r** is on the **r[ground]r**, so you stick a **r[flag]r** into it. Then on this private land you claimed, you build a **k[roof]k**. Under the roof you also build some **k[shop]k**s and **k[store]k**s.`
+    },
+    725: {
+        "slug": "度",
+        "level": 9,
+        "component_subject_ids": [8787, 30],
+        "amalgamation_subject_ids": [3123, 3124, 3125, 3126, 3127, 3161, 3387, 4342, 4414, 4573, 4746, 4893, 5052, 5183, 5188, 6429, 7222, 7493, 7578, 7605, 7682, 8012, 9022],
+        "meanings": ["Degree", "Occurrence"],
+        "meaning_mnemonic": `A **r[yurt]r**'s **r[stool]r** is always placed at certain **k[degree]k**s. The degrees change depending on specific **k[occurrence]k**s.`
+    },
+    727: {
+        "slug": "持",
+        "level": 9,
+        "component_subject_ids": [63, 192],
+        "amalgamation_subject_ids": [3130, 3131, 3132, 3803, 3882, 3949, 6003, 6146, 7497, 7745, 9044],
+        "meanings": ["Hold"],
+        "meaning_mnemonic": `You need to get your **r[fingers]r** around a **r[temple]r** if you want to **k[hold]k** it. Is the temple too big? Hold smaller temples you can buy in the temple's souvenir shop.`
+    },
+    728: {
+        "slug": "界",
+        "level": 9,
+        "component_subject_ids": [51, 166],
+        "amalgamation_subject_ids": [3133, 3723, 4731, 4744, 7012, 7446, 8893, 9014],
+        "meanings": ["World"],
+        "meaning_mnemonic": `All the **r[rice paddies]r** are **r[jammed in]r**to the **k[world]k**.`
+    },
+    729: {
+        "slug": "発",
+        "level": 9,
+        "component_subject_ids": [168, 171],
+        "amalgamation_subject_ids": [3134, 3135, 3136, 3188, 4376, 4380, 4755, 5784, 5796, 5988, 6092, 6430, 6591, 6593, 7017, 7466, 7911, 7970, 8421],
+        "meanings": ["Departure"],
+        "meaning_mnemonic": `Once you remove the **r[lantern]r** from the **r[tent]r**, we will be ready for **k[departure]k**. We can’t leave the lantern inside of the tent; that’s a fire hazard. We’d best take it with us before the departure. Don’t you agree?`
+    },
+    730: {
+        "slug": "相",
+        "level": 9,
+        "component_subject_ids": [23, 53],
+        "amalgamation_subject_ids": [3137, 3138, 5887, 6722, 7701, 8267],
+        "meanings": ["Mutual", "Minister"],
+        "meaning_mnemonic": `You need to look a **r[tree]r** in the **r[eye]r** to gain a **k[mutual]k** respect for each other. Stand up straight, look the tree directly in its eye(s). If it looks right back, you know things are mutual.`
+    },
+    731: {
+        "slug": "県",
+        "level": 9,
+        "component_subject_ids": [53, 56, 35],
+        "amalgamation_subject_ids": [3139, 4004, 4440, 4532, 4875, 5496, 5911, 5978, 6020, 6117, 6141, 6281, 6302, 6355, 6459, 7792, 8139, 8218],
+        "meanings": ["Prefecture"],
+        "meaning_mnemonic": `The **r[eye]r** of a **r[small]r** **r[lion]r** gazes upon the **k[prefecture]k** that will one day become his. He’s a small lion, but once he grows up, everything reflected in his eye will be his prefecture to rule over.`
+    },
+    732: {
+        "slug": "美",
+        "level": 9,
+        "component_subject_ids": [136, 18],
+        "amalgamation_subject_ids": [3140, 3141, 3727, 3916, 5501, 6442, 8722],
+        "meanings": ["Beauty", "Beautiful"],
+        "meaning_mnemonic": `A **r[sheep]r** that's **r[big]r** is a true **k[beauty]k**. Big is **k[beautiful]k**, and that's all the more true for sheep.`
+    },
+    733: {
+        "slug": "負",
+        "level": 9,
+        "component_subject_ids": [14, 94],
+        "amalgamation_subject_ids": [3142, 3143, 3502, 4670],
+        "meanings": ["Lose"],
+        "meaning_mnemonic": `When you're in **r[prison]r**, whoever ends up with the **r[shellfish]r** will **k[lose]k**. It's the game all prisoners play. It's like keep away from the shellfish. And if you end up with the shellfish BZZZZTT that's it, you're the loser.`
+    },
+    734: {
+        "slug": "送",
+        "level": 9,
+        "component_subject_ids": [114, 8767, 40],
+        "amalgamation_subject_ids": [3148, 3149, 3175, 3509, 7422, 8755],
+        "meanings": ["Send"],
+        "meaning_mnemonic": `On its **r[scooter]r**, a **r[horn]r**ed creature from **r[heaven]r** will take things you want to **k[send]k** there.`
+    },
+    735: {
+        "slug": "重",
+        "level": 9,
+        "component_subject_ids": [188],
+        "amalgamation_subject_ids": [3150, 3151, 3152, 3153, 6307, 7662, 7777, 8247],
+        "meanings": ["Heavy"],
+        "meaning_mnemonic": `The **r[heavy]r** radical and the **k[heavy]k** kanji are the same.`
+    },
+    736: {
+        "slug": "談",
+        "level": 9,
+        "component_subject_ids": [117, 46],
+        "amalgamation_subject_ids": [3137, 3814, 4921, 6717, 6777, 7487],
+        "meanings": ["Talk"],
+        "meaning_mnemonic": `You  **r[say]r** things around a  **r[fire]r**. In fact there are two  **r[fire]r**s, and you're **k[talk]k**ing with a group of people, all sitting around two nice campfires.`
+    },
+    737: {
+        "slug": "要",
+        "level": 9,
+        "component_subject_ids": [424, 19],
+        "amalgamation_subject_ids": [3151, 3154, 3155, 3924, 3925, 5287, 6156, 6334, 6726, 7303, 7478],
+        "meanings": ["Need"],
+        "meaning_mnemonic": `A **r[woman]r** who pilots a **r[helicopter]r** will have the insatiable **k[need]k** for something. She doesn't know what it is. But she needs it. And that's why she's flying around looking for it!`
+    },
+    738: {
+        "slug": "勝",
+        "level": 9,
+        "component_subject_ids": [43, 8819, 13],
+        "amalgamation_subject_ids": [3143, 3144, 3145, 3146, 3147, 3504, 3567, 4007, 4635, 6794, 7894],
+        "meanings": ["Win", "Victory"],
+        "meaning_mnemonic": `The **r[moon]r** grants a **r[gladiator]r** its **r[power]r** so he will **k[win]k**! **k[Victory]k** will be his!`
+    },
+    739: {
+        "slug": "仮",
+        "level": 9,
+        "component_subject_ids": [75, 218],
+        "amalgamation_subject_ids": [3156, 3157, 3158, 3799, 4040, 5159, 6208, 6278, 7631],
+        "meanings": ["Temporary"],
+        "meaning_mnemonic": `Your **r[leader]r** is very **r[anti]r**-everything, making it all **k[temporary]k**. You get a new shirt, "I'm anti shirts!" she yells, and out it goes.`
+    },
+    740: {
+        "slug": "起",
+        "level": 10,
+        "component_subject_ids": [124, 228],
+        "amalgamation_subject_ids": [3159, 3562, 3889, 6266, 6580, 6775, 7402, 7788, 8178, 8479],
+        "meanings": ["Wake Up"],
+        "meaning_mnemonic": `**r[Run]r** into **r[oneself]r** in a dream and you'll definitely **k[wake up]k**.`
+    },
+    741: {
+        "slug": "速",
+        "level": 10,
+        "component_subject_ids": [114, 219],
+        "amalgamation_subject_ids": [3160, 3161, 5313, 7190, 7472],
+        "meanings": ["Fast"],
+        "meaning_mnemonic": `You jump on your **r[scooter]r** with a big **r[bundle]r** to go as **k[fast]k** as you can! You have a bundle of pizzas in here, and they need to be delivered as fast as you can get them there!`
+    },
+    742: {
+        "slug": "配",
+        "level": 10,
+        "component_subject_ids": [182, 228],
+        "amalgamation_subject_ids": [3162, 3520, 3563, 3564, 4152, 6189, 7412],
+        "meanings": ["Distribute"],
+        "meaning_mnemonic": `You don't want to keep all the **r[alcohol]r** to yourself (**r[oneself]r**), so you **k[distribute]k** it to all of your friends. Heck, not just your friends, to everyone you can find!`
+    },
+    743: {
+        "slug": "酒",
+        "level": 10,
+        "component_subject_ids": [103, 182],
+        "amalgamation_subject_ids": [3163, 3164, 3515, 3516, 4016, 4983, 5104, 9018, 9019],
+        "meanings": ["Alcohol"],
+        "meaning_mnemonic": `A **r[tsunami]r** is an **r[alcohol]r**ic beverage containing a lot of **k[alcohol]k**. It’s 3 different kinds of rums, pineapple juice, and grenadine. It’ll hit you like a tsunami though. This alcoholic drink has a kick to it.`
+    },
+    744: {
+        "slug": "院",
+        "level": 10,
+        "component_subject_ids": [176, 78, 64],
+        "amalgamation_subject_ids": [3165, 3166, 4068, 5093, 5194, 6273, 7628, 8087, 8666, 8668],
+        "meanings": ["Institution"],
+        "meaning_mnemonic": `This **r[building]r** has a **r[roof]r** and will teach you about the **r[origin]r** of many things. It's an **k[institution]k**!`
+    },
+    745: {
+        "slug": "終",
+        "level": 10,
+        "component_subject_ids": [86, 60, 7],
+        "amalgamation_subject_ids": [3167, 3168, 3169, 3170, 3559, 3560, 6062, 8946],
+        "meanings": ["End", "Finish"],
+        "meaning_mnemonic": `The **r[thread]r** of **r[winter]r** splits in **r[two]r** when the year comes to an **k[end]k**. One half symbolizes the year you were just in, and the other symbolizes the new year beginning, cutting winter in half and **k[finish]k**ing off the year.`
+    },
+    746: {
+        "slug": "習",
+        "level": 10,
+        "component_subject_ids": [213, 52],
+        "amalgamation_subject_ids": [3171, 3619, 3905, 4813, 4915],
+        "meanings": ["Learn"],
+        "meaning_mnemonic": `You find some **r[white]r** **r[feathers]r** and you want to **k[learn]k** more about where they came from and what they're made of.`
+    },
+    747: {
+        "slug": "転",
+        "level": 10,
+        "component_subject_ids": [93, 159],
+        "amalgamation_subject_ids": [3172, 3173, 3174, 3175, 3176, 3549, 3556, 3945, 3946, 7316, 8932, 9018],
+        "meanings": ["Revolve"],
+        "meaning_mnemonic": `If your **r[car]r** runs into a **r[cloud]r** you'll **k[revolve]k** around it instead of going straight through. Clouds are really hard to see through, so even though you're trying not to, you revolve in a tight circle up and around the cloud anyway.`
+    },
+    748: {
+        "slug": "進",
+        "level": 10,
+        "component_subject_ids": [114, 240],
+        "amalgamation_subject_ids": [3177, 3178, 3179, 5032, 6325, 7468, 8083, 8230, 8939],
+        "meanings": ["Advance"],
+        "meaning_mnemonic": `You give your **r[scooter]r** to a **r[turkey]r** so that it can **k[advance]k**. The turkey was trying and failing to walk through a crowded street, so out of the goodness of your heart you gave it a scooter so it could advance.`
+    },
+    749: {
+        "slug": "落",
+        "level": 10,
+        "component_subject_ids": [90, 103, 180],
+        "amalgamation_subject_ids": [3180, 3550, 3558, 3798, 4142, 7091, 7635, 7666, 7901, 7948, 8353, 8575],
+        "meanings": ["Fall"],
+        "meaning_mnemonic": `A violent **r[tsunami]r** causes **r[flowers]r** to be ripped from the branches of trees and they swirl around and **r[kiss]r** your face gently as they **k[fall]k**. With the tsunami came a great windy storm that blew many flowers all about. It’s a pretty sight amongst all the destruction.`
+    },
+    750: {
+        "slug": "葉",
+        "level": 10,
+        "component_subject_ids": [90, 83, 23],
+        "amalgamation_subject_ids": [3181, 3550, 3698, 4143, 6248, 7492, 7534, 7629, 7696],
+        "meanings": ["Leaf", "Leaves"],
+        "meaning_mnemonic": `In the **r[world]r** of **r[flowers]r** and **r[tree]r**s, the most important thing is the **k[leaf]k**. **k[Leaves]k** are how flowers and trees get their nutrients from the sun! `
+    },
+    751: {
+        "slug": "軽",
+        "level": 10,
+        "component_subject_ids": [93, 179],
+        "amalgamation_subject_ids": [3182, 8578, 9270],
+        "meanings": ["Lightweight", "Light", "Light Weight"],
+        "meaning_mnemonic": `For a **r[car]r**, a **r[tombstone]r** is **k[lightweight]k**. Cars are very strong, you see, so something heavy like a tombstone is no match for them. All cars find tombstones to be **k[light]k** and easy to transport.`
+    },
+    752: {
+        "slug": "運",
+        "level": 10,
+        "component_subject_ids": [114, 76, 93],
+        "amalgamation_subject_ids": [3174, 3183, 3184, 3274, 3354, 3549, 3950, 4945, 7421, 7698, 8750, 9018],
+        "meanings": ["Carry", "Luck"],
+        "meaning_mnemonic": `While riding your **r[scooter]r**, you bang your **r[forehead]r** on the **r[car]r** in front. Your scooter's wrecked, so you have to **k[carry]k** it home. You'll need a lot of **k[luck]k** to get that scooter home safely.`
+    },
+    753: {
+        "slug": "開",
+        "level": 10,
+        "component_subject_ids": [214, 171],
+        "amalgamation_subject_ids": [3185, 3186, 3187, 3188, 3278, 3561, 4375, 4756, 4891, 5620, 6703, 7283, 8117],
+        "meanings": ["Open"],
+        "meaning_mnemonic": `A **r[gate]r** with a **r[lantern]r** is **k[open]k** for you. That's convenient, since it's pretty dark out and you might not have seen the open gate without the lantern's help.`
+    },
+    754: {
+        "slug": "集",
+        "level": 10,
+        "component_subject_ids": [240, 23],
+        "amalgamation_subject_ids": [3189, 3190, 3191, 3284, 3557, 4179, 5422, 5611, 6065, 6253, 6282, 7499, 7693],
+        "meanings": ["Collect", "Gather"],
+        "meaning_mnemonic": `You chase a **r[turkey]r** up a **r[tree]r** to **k[collect]k** it. At least, you will once you've **k[gather]k**ed enough turkeys into this one tree.`
+    },
+    755: {
+        "slug": "飲",
+        "level": 10,
+        "component_subject_ids": [139, 142],
+        "amalgamation_subject_ids": [3192, 3516, 3518, 3548, 3895, 7536, 9018, 9019],
+        "meanings": ["Drink"],
+        "meaning_mnemonic": `You can **r[eat]r** all you want, but you'll still **r[lack]r** something to **k[drink]k**. You can't live just from eating, you have to drink things too!`
+    },
+    756: {
+        "slug": "業",
+        "level": 10,
+        "component_subject_ids": [8768, 136, 2],
+        "amalgamation_subject_ids": [3187, 3193, 3200, 3706, 3913, 3914, 3929, 4486, 4527, 4546, 4597, 4657, 4862, 4913, 4928, 5011, 6054, 6378, 6539, 7574],
+        "meanings": ["Business"],
+        "meaning_mnemonic": `If a **r[sheep]r** is having trouble trying to eat a fish with **r[spikes]r** on its **r[fins]r**, then the sheep probably has no **k[business]k** trying to eat it in the first place. Don’t sheep usually eat like, grass and stuff? What is this sheep doing trying to eat a fish with spikes on its fins? What silly business this is.`
+    },
+    757: {
+        "slug": "漢",
+        "level": 10,
+        "component_subject_ids": [103, 8774],
+        "amalgamation_subject_ids": [3194, 8127],
+        "meanings": ["Chinese", "China"],
+        "meaning_mnemonic": `A **r[tsunami]r** hit ancient **r[China]r** and formed the **k[Chinese]k** country we know now as... **k[China]k**!`
+    },
+    758: {
+        "slug": "路",
+        "level": 10,
+        "component_subject_ids": [95, 180],
+        "amalgamation_subject_ids": [3195, 3196, 3197, 5090, 5464],
+        "meanings": ["Road"],
+        "meaning_mnemonic": `If you’ve been walking all day, nobody is going to want to **r[kiss]r** your **r[foot]r** if you’ve been walking barefoot down a dirt **k[road]k**. Your feet are filthy, sweaty, and stinky. Nobody is going to want to kiss those feet.`
+    },
+    759: {
+        "slug": "農",
+        "level": 10,
+        "component_subject_ids": [185, 183],
+        "amalgamation_subject_ids": [3199, 3200, 7743, 7821, 8588],
+        "meanings": ["Farming", "Agriculture"],
+        "meaning_mnemonic": `You blast your **r[music]r** loud so it causes a **r[landslide]r**, revealing the perfect soil for **k[farming]k**! Musically moved dirt is perfect for **k[agriculture]k**.`
+    },
+    760: {
+        "slug": "鉄",
+        "level": 10,
+        "component_subject_ids": [118, 275],
+        "amalgamation_subject_ids": [3201, 3202, 3203, 3717, 6538, 8981],
+        "meanings": ["Iron"],
+        "meaning_mnemonic": `You look at some **r[gold]r** and notice a **r[fault]r** in it. You scrape at the fault and see that it's just sprayed with gold paint. It's not gold, it's (comparatively) worthless **k[iron]k**!`
+    },
+    761: {
+        "slug": "歌",
+        "level": 10,
+        "component_subject_ids": [113, 142],
+        "amalgamation_subject_ids": [3204, 3205, 3566, 3622, 3654, 4049, 4235, 5812, 6007, 6371, 6373, 7702, 8143, 8324, 9118],
+        "meanings": ["Song", "Sing"],
+        "meaning_mnemonic": `If you **r[lack]r** a **r[lip ring]r** (or two in this case) it's going to make it way easier for you to **k[sing]k** a **k[song]k**.`
+    },
+    762: {
+        "slug": "算",
+        "level": 10,
+        "component_subject_ids": [85, 53, 106],
+        "amalgamation_subject_ids": [3206, 3207, 3792, 5529, 5746, 7301, 7339, 8743, 8744, 8754, 8756],
+        "meanings": ["Calculate", "Calculation"],
+        "meaning_mnemonic": `If you get stabbed in the **r[eye]r** **r[twenty]r** times with **r[bamboo]r**, you’re going to have a hard time beginning to **k[calculate]k** where anything is. Taking a bamboo shoot to the eye is no pleasant experience, especially if done twenty times. You’d be blinded for sure. And a newly blinded person is going to have one heck of a time calculating where everything is without the power of sight.`
+    },
+    763: {
+        "slug": "聞",
+        "level": 10,
+        "component_subject_ids": [214, 88],
+        "amalgamation_subject_ids": [3208, 3209, 3519, 8657],
+        "meanings": ["Hear"],
+        "meaning_mnemonic": `If you press your **r[ear]r** up to a **r[gate]r**, you’re likely to **k[hear]k** what’s going on on the other side. The other people on the other side won’t know you are listening to their conversation because you are so sneaky and clever. They’ve no idea you’re on the other side of the gate hearing every word they say.`
+    },
+    764: {
+        "slug": "語",
+        "level": 10,
+        "component_subject_ids": [117, 39, 16],
+        "amalgamation_subject_ids": [3210, 3211, 3212, 3213, 3214, 3421, 3653, 3744, 3784, 5257, 5602, 5647, 5654, 5852, 5854, 5948, 6299, 6320, 7330, 7458, 7686],
+        "meanings": ["Language"],
+        "meaning_mnemonic": `What you **r[say]r** between **r[five]r** **r[mouth]r**s is a **k[language]k**. As long as there are five different people saying these same words with their five mouths, it's considered its own language.`
+    },
+    765: {
+        "slug": "読",
+        "level": 10,
+        "component_subject_ids": [117, 439],
+        "amalgamation_subject_ids": [3215, 3216, 3521, 4144, 4986, 5372, 5516, 7485],
+        "meanings": ["Read"],
+        "meaning_mnemonic": `You have to **r[say]r** what you’re **r[sell]r**ing because people don’t like to **k[read]k**. If they walk right by and don’t read, you better say what you have for sale so they’ll know! Read it out loud to them.`
+    },
+    766: {
+        "slug": "鳴",
+        "level": 10,
+        "component_subject_ids": [16, 151],
+        "amalgamation_subject_ids": [3217, 3517, 3565, 5019],
+        "meanings": ["Chirp"],
+        "meaning_mnemonic": `When a **r[bird]r** opens its **r[mouth]r**, you’re most likely to hear a **k[chirp]k**. This is how birds communicate. They open their mouths and let out a series of chirps. Chirp chirp chirp!`
+    },
+    767: {
+        "slug": "線",
+        "level": 10,
+        "component_subject_ids": [86, 52, 45],
+        "amalgamation_subject_ids": [3196, 3218, 4379, 4500, 4630, 5800, 7270, 8016, 8182],
+        "meanings": ["Line"],
+        "meaning_mnemonic": `If someone falls overboard while you're **r[white]r** **r[water ]r***r[afting, you can use a long piece of **r[thread]r** as a life **k[line]k**. Sure it might be thin, but a line of thread is better than nothing. Throw them a line and drag them back aboard! Those white water rapids are vicious.`
+    },
+    768: {
+        "slug": "横",
+        "level": 10,
+        "component_subject_ids": [23, 152],
+        "amalgamation_subject_ids": [3219, 5168, 5770, 6631],
+        "meanings": ["Side", "Horizontal"],
+        "meaning_mnemonic": `The **r[tree]r** marked with a **r[yellow]r** X on the **k[side]k** of the house is going to get cut down. You’ve marked it with a yellow X so the hired help knows which tree to cut down. There are a lot of trees on the side of the house, but the tree marked with a yellow X is the only one in danger of causing damage to your roof in the event of a storm.`
+    },
+    769: {
+        "slug": "調",
+        "level": 10,
+        "component_subject_ids": [117, 169],
+        "amalgamation_subject_ids": [3220, 3221, 3222, 7685],
+        "meanings": ["Investigate", "Tone"],
+        "meaning_mnemonic": `You **r[say]r** something about the **r[circumference]r** of this area. You've looked around this whole area, making a big circle around it, because you are trying to **k[investigate]k** something that happened here. You also say this thing in a really quiet **k[tone]k** of voice, because you don't want the person or thing you're investigating to know you're on to them.`
+    },
+    770: {
+        "slug": "親",
+        "level": 10,
+        "component_subject_ids": [55, 23, 91],
+        "amalgamation_subject_ids": [3223, 3224, 3225, 3226, 3551, 3552, 4161, 4757, 5938, 6564, 6716, 6934, 7749, 8561, 8667, 9002, 9292],
+        "meanings": ["Parent", "Intimacy"],
+        "meaning_mnemonic": `If you're **r[stand]r**ing under a **r[tree]r** and you **r[see]r** your **k[parent]k**, it's a good chance for a moment of **k[intimacy]k**.`
+    },
+    771: {
+        "slug": "頭",
+        "level": 10,
+        "component_subject_ids": [181, 184],
+        "amalgamation_subject_ids": [3227, 5057, 7900, 8851, 8853, 8870],
+        "meanings": ["Head"],
+        "meaning_mnemonic": `If a **r[geoduck]r** eats lots of **r[beans]r**, its **k[head]k** will grow larger. To a geoduck, beans are a brain food, so by eating beans, a geoduck’s head will grow incredibly large. Geoducks already look strange enough as it is, let alone with engorged heads.`
+    },
+    772: {
+        "slug": "顔",
+        "level": 10,
+        "component_subject_ids": [55, 116, 38, 184],
+        "amalgamation_subject_ids": [3228, 3229, 3857, 7491, 7750, 8223],
+        "meanings": ["Face"],
+        "meaning_mnemonic": `Here you **r[stand]r**, a **r[hair]r**’s breadth away from the edge of a **r[cliff]r**, when out of nowhere a **r[geoduck]r** slaps you right in the **k[face]k**. Geoducks are gross, and you back away from the edge of the cliff you were standing but a hair’s breadth away from just before. Your face is all gooey from the geoduck’s slimy residue.`
+    },
+    773: {
+        "slug": "病",
+        "level": 10,
+        "component_subject_ids": [187, 186],
+        "amalgamation_subject_ids": [3165, 3230, 3231, 3232, 3679, 5351, 5584, 5677, 6582, 6984, 7432, 7575, 7959, 8124],
+        "meanings": ["Sick", "Sickness", "Ill", "Illness"],
+        "meaning_mnemonic": `A **r[sick]r** stick of **r[dynamite]r** is going to be **k[sick]k** forever. Unfortunately there are no medicines that are effective on sticks of dynamite, so once they contract a sickness, they’re sick for good.`
+    },
+    774: {
+        "slug": "最",
+        "level": 10,
+        "component_subject_ids": [22, 88, 30],
+        "amalgamation_subject_ids": [3170, 3233, 3234, 3235, 3236, 3259, 3261, 3360, 3367, 6566, 7708, 8154],
+        "meanings": ["Most"],
+        "meaning_mnemonic": `Let the **r[sun]r** shine into your **r[ear]r** while sitting on a **r[stool]r** and make sure **k[most]k** of it gets in your head. You want to fill your brain with the most sun anyone ever has.`
+    },
+    850: {
+        "slug": "生",
+        "level": 3,
+        "component_subject_ids": [210],
+        "amalgamation_subject_ids": [2576, 2577, 2578, 2579, 2653, 2665, 2788, 2916, 3407, 3436, 3449, 3451, 3473, 3715, 3806, 3827, 4059, 4195, 4498, 4659, 4969, 5154, 5326, 5548, 5571, 6225, 6346, 6432, 6471, 6640, 6903, 6980, 7189, 7429, 7500, 7617, 7671, 7731, 7738, 8196, 8668, 8701, 8745, 9141],
+        "meanings": ["Life"],
+        "meaning_mnemonic": `The **r[life]r** radical and the **k[life]k** kanji are the same, so hopefully you now just know them both.`
+    },
+    851: {
+        "slug": "亡",
+        "level": 6,
+        "component_subject_ids": [212],
+        "amalgamation_subject_ids": [2876, 3406, 6224, 6358, 6741, 6918],
+        "meanings": ["Death", "Deceased"],
+        "meaning_mnemonic": `The radical **r[death]r** and the kanji **k[death]k** are the same.`
+    },
+    853: {
+        "slug": "風",
+        "level": 7,
+        "component_subject_ids": [177, 5, 89],
+        "amalgamation_subject_ids": [2977, 3092, 3292, 3425, 3570, 6686, 6998, 7110, 7368, 7567, 7957, 8062, 8063, 8123, 8372],
+        "meanings": ["Wind", "Style"],
+        "meaning_mnemonic": `There is an **r[insect]r** **r[slid]r**ing around under your **r[table]r**, being blown by the **k[wind]k**. You try to grab the insect but it keeps sliding past your hand because the wind is so strong. It’s going to start blowing you around under the table too!`
+    },
+    854: {
+        "slug": "予",
+        "level": 9,
+        "component_subject_ids": [141, 27],
+        "amalgamation_subject_ids": [3100, 3543, 3718, 4084, 4090, 4337, 5865, 7630, 7762, 8298, 8479, 8480],
+        "meanings": ["Beforehand"],
+        "meaning_mnemonic": `What does your **r[mama]r** tell you to do in the **r[street]r**? Look before you cross! You gotta do it **k[beforehand]k**, or it could be too late.`
+    },
+    855: {
+        "slug": "反",
+        "level": 8,
+        "component_subject_ids": [116, 30],
+        "amalgamation_subject_ids": [3010, 4457, 4564, 4623, 5165, 5783, 6081, 7767, 8681],
+        "meanings": ["Anti"],
+        "meaning_mnemonic": `The **r[stool]r** is in the **r[cliff]r**. If someone has a stool deep inside a cliff, they are most likely pretty **k[anti]k** society, hiding away like that.`
+    },
+    856: {
+        "slug": "々",
+        "level": 2,
+        "component_subject_ids": [14, 3],
+        "amalgamation_subject_ids": [2521, 2650, 2669, 2773, 3265, 3427, 3447, 3478, 3510, 3601, 4227, 4232, 4366, 4508, 5048, 5390, 5614, 5843, 6796, 6950, 7388, 7405, 7448, 7517, 7855, 7981, 8095, 8253, 8481, 8493, 8731, 8817, 8843, 8998, 9142, 9165],
+        "meanings": ["Repeater", "Repetition", "Reduplication", "Iteration Mark"],
+        "meaning_mnemonic": `This is a strange kanji because it doesn't really mean anything at all. In fact, what it does is it repeats the kanji that comes before it. For example: <ja>人々</ja> is actually <ja>人人</ja>. This kanji shows up whenever there's a repeating kanji, because it's often easier to write than writing a more complicated kanji twice. That's why this kanji is the **k[repeater]k**. It repeats what comes before it.
+    
+    To remember that this kanji is the repeater, though, think of a **r[drop]r** of water dripping into a **r[prison]r**. Drip drop drip drop. It does that over and over again, driving the prisoners nuts. But it never stops. It just repeats over and over.`
+    },
+    857: {
+        "slug": "新",
+        "level": 9,
+        "component_subject_ids": [55, 23, 115],
+        "amalgamation_subject_ids": [3209, 3472, 3538, 3781, 3821, 4630, 4802, 5303, 5327, 6004, 6147, 6412, 6566, 6962, 6986, 7475, 7689, 8167, 8651],
+        "meanings": ["New"],
+        "meaning_mnemonic": `There's a **r[stand]r**ing **r[tree]r** that you're taking an **r[axe]r** to. You're going to cut down this tree to let a **k[new]k** tree grow.`
+    },
+    858: {
+        "slug": "返",
+        "level": 9,
+        "component_subject_ids": [114, 218],
+        "amalgamation_subject_ids": [3086, 3482, 3490, 3523, 3554, 3738, 5857, 6226, 6340, 7231, 7540, 8441],
+        "meanings": ["Return"],
+        "meaning_mnemonic": `Your **r[scooter]r** is **r[anti]r** scoot. It doesn't want to run. So you have to **k[return]k** it.`
+    },
+    913: {
+        "slug": "求",
+        "level": 10,
+        "component_subject_ids": [1, 45, 3],
+        "amalgamation_subject_ids": [3707, 3708, 3924, 3925, 4600, 5285, 5302, 5590],
+        "meanings": ["Request"],
+        "meaning_mnemonic": `On the **r[ground]r** is a **r[water]r** **r[drop]r** you spilled, so I **k[request]k** you wipe it up. I would do it myself, but you're the one who spilled it, so I'm requesting you do it and take responsibility for your mistake.`
+    },
+    923: {
+        "slug": "私",
+        "level": 6,
+        "component_subject_ids": [135, 140],
+        "amalgamation_subject_ids": [3714, 3715, 3716, 3717, 3864, 3918, 4129, 4240, 4529, 7840],
+        "meanings": ["I", "Private"],
+        "meaning_mnemonic": `Your **r[private]r** **r[grain]r**s are meant to stay **k[private]k**! You shouldn't be sharing them with the whole town, they're just for you.
+    
+    This kanji also means **k[I]k**. Why? Because what's more private than you? I mean, I! Basically, some things are only the business of you (I) and those things should be private.`
+    },
+    966: {
+        "slug": "取",
+        "level": 6,
+        "component_subject_ids": [88, 30],
+        "amalgamation_subject_ids": [3691, 3817, 4070, 4071, 4072, 4073, 4074, 5036, 6255, 6348, 6941, 7066, 7290, 8289, 8293, 8545, 9057],
+        "meanings": ["Take"],
+        "meaning_mnemonic": `There's an **r[ear]r** just sitting on a **r[stool]r**. Nobody's watching, so, you **k[take]k** it.`
+    },
+    983: {
+        "slug": "保",
+        "level": 9,
+        "component_subject_ids": [75, 16, 23],
+        "amalgamation_subject_ids": [3801, 3802, 3803, 3804, 3805, 3806, 3807, 4395, 4607, 4997, 7497],
+        "meanings": ["Preserve", "Guarantee"],
+        "meaning_mnemonic": `The **r[mouth]r** of a **r[tree]r** **r[leader]r** is all about trying to **k[preserve]k** the trees. In fact, she **k[guarantee]k**s that she will preserve the trees if it's the last thing she does.`
+    },
+    1029: {
+        "slug": "試",
+        "level": 9,
+        "component_subject_ids": [117, 79, 25],
+        "amalgamation_subject_ids": [4147, 4148, 4149, 4150, 4165, 4354, 6032],
+        "meanings": ["Try", "Attempt"],
+        "meaning_mnemonic": `If you want to **r[say]r** something at a **r[ceremony]r** for **r[construction]r** workers you're going to have to **k[try]k** really hard. Construction is loud, so if you want to be heard you have to **k[attempt]k** to be louder than the drilling and smashing and digging and handing out of awards.`
+    },
+    1048: {
+        "slug": "験",
+        "level": 9,
+        "component_subject_ids": [165, 8785],
+        "amalgamation_subject_ids": [4162, 4163, 4164, 4165, 4318, 4319, 4354, 5991, 6032],
+        "meanings": ["Test"],
+        "meaning_mnemonic": `A **r[horse]r** and a **r[squid]r** are taking a **k[test]k**.`
+    },
+    1520: {
+        "slug": "宝",
+        "level": 4,
+        "component_subject_ids": [78, 48, 3],
+        "amalgamation_subject_ids": [5631, 5632, 5633, 5846],
+        "meanings": ["Treasure"],
+        "meaning_mnemonic": `Under his **r[roof]r**, the **r[king]r** stares into a **r[drop]r** of water containing his greatest **k[treasure]k**. Just kidding, the king has way more treasure than that. The drop of water is just reflecting what's around him: mounds and mounds of treasure, stacked all the way up to the roof.`
+    },
+    8884: {
+        "slug": "斤",
+        "level": 5,
+        "component_subject_ids": [115],
+        "amalgamation_subject_ids": [8895, 8896, 8897],
+        "meanings": ["Axe", "Bread Loaf Counter"],
+        "meaning_mnemonic": `The **r[axe]r** radical and the **k[axe]k** kanji are exactly the same, with one minor difference. This kanji is also used as the **k[bread loaf counter]k**, probably because bread was so big and hard in the past that they had to use axes to slice them.`
+    },
+    9051: {
+        "slug": "頁",
+        "level": 10,
+        "component_subject_ids": [184],
+        "amalgamation_subject_ids": [9052],
+        "meanings": ["Page"],
+        "meaning_mnemonic": `Did you know that those strange **r[geoduck]r** creatures were once used to make **k[page]k**s? Okay maybe not, but it makes for a memorable image!`
+    },
+    726: {
+        "slug": "待",
+        "level": 12,
+        "component_subject_ids": [99, 192],
+        "amalgamation_subject_ids": [3128, 3129, 3378, 3503, 3584, 3944, 5029, 7688, 7935, 8040, 8677],
+        "meanings": ["Wait"],
+        "meaning_mnemonic": `People who **r[loiter]r** around the **r[temple]r** are probably just trying to **k[wait]k**. They don't mean to look like they're up to no good, but it's hard to wait without looking suspicious when you're waiting outside a temple.`
+    },
+    775: {
+        "slug": "争",
+        "level": 11,
+        "component_subject_ids": [14, 105, 6],
+        "amalgamation_subject_ids": [3238, 3239, 3240],
+        "meanings": ["Conflict"],
+        "meaning_mnemonic": `If you keep a **r[wolverine]r** in a **r[prison]r** with **r[barb]r**s, you’re likely to get into a **k[conflict]k** with animal rights groups. Wolverines aren’t meant to be kept in cages, let alone barbed prisons. There’s going to be some sort of conflict here, and animal activist groups are not going to be happy with you.`
+    },
+    776: {
+        "slug": "仲",
+        "level": 11,
+        "component_subject_ids": [75, 49],
+        "amalgamation_subject_ids": [3241, 3242, 3243, 3244, 3312],
+        "meanings": ["Relationship"],
+        "meaning_mnemonic": `A **r[middle]r** of the road **r[leader]r** is likely to have an average **k[relationship]k** with everyone. He doesn’t really take sides in matters, and just stays in the middle. This makes him seem like sort of a wishy washy people pleaser, and as such his relationships with people are rarely anything more than average.`
+    },
+    777: {
+        "slug": "伝",
+        "level": 11,
+        "component_subject_ids": [75, 159],
+        "amalgamation_subject_ids": [3245, 3571, 3582, 4039, 4154, 4537, 4658, 5584, 5634, 5968, 6140, 7544, 8079, 8815],
+        "meanings": ["Transmit", "Tell"],
+        "meaning_mnemonic": `The **r[leader]r** has a **r[cloud]r** that he uses to **k[transmit]k** all of the messages he needs to send to his people. The cloud floats above him and when he wants to tell people something he just whispers into the cloud and it transmits his message really, really loudly to all of them.`
+    },
+    778: {
+        "slug": "共",
+        "level": 11,
+        "component_subject_ids": [8775, 2],
+        "amalgamation_subject_ids": [3246, 3247, 3248, 3249, 4306, 5566, 7496],
+        "meanings": ["Together"],
+        "meaning_mnemonic": `The card game fish are best at is **r[blackjack]r** because they can easily hold the cards with their **r[fins]r** **k[together]k**. In blackjack you don't have to have a huge hand, full of cards. It's just a few, so fish fins can keep them together and just hit or stay.`
+    },
+    779: {
+        "slug": "好",
+        "level": 11,
+        "component_subject_ids": [19, 34],
+        "amalgamation_subject_ids": [3250, 3251, 3515, 3575, 3581, 3702, 3897, 5305],
+        "meanings": ["Like"],
+        "meaning_mnemonic": `There is a **r[woman]r** and a **r[child]r** in front of you. You **k[like]k** them very much.`
+    },
+    780: {
+        "slug": "成",
+        "level": 11,
+        "component_subject_ids": [194, 24],
+        "amalgamation_subject_ids": [3252, 3253, 3674, 4798, 5545, 5556, 5656, 5742, 7771, 8422],
+        "meanings": ["Become"],
+        "meaning_mnemonic": `When a **r[drunkard]r** holds a **r[sword]r** it **k[becomes]k** something else. The drunkard doesn't become a swordsman, they're still just a drunkard. But the sword in their hands does.`
+    },
+    781: {
+        "slug": "老",
+        "level": 11,
+        "component_subject_ids": [104, 57],
+        "amalgamation_subject_ids": [3254, 5540, 6160, 7095, 7342, 8232, 8469],
+        "meanings": ["Elderly"],
+        "meaning_mnemonic": `By the time you finish digging a **r[coffin]r** hole with nothing but a **r[spoon]r**, you’ll be an old **k[elderly]k** person. Digging with nothing but a spoon takes a long time, especially when the hole needs to be big enough for a coffin. You might as well be digging it for yourself at this rate. By the time you finish, you’ll be all wrinkled and elderly and just about ready to keel over.`
+    },
+    782: {
+        "slug": "位",
+        "level": 11,
+        "component_subject_ids": [75, 55],
+        "amalgamation_subject_ids": [3255, 3256, 3257, 3349, 4247, 4515],
+        "meanings": ["Rank"],
+        "meaning_mnemonic": `A **r[leader]r** **r[stand]r**s at the highest **k[rank]k** in an organization. The leader is of the highest rank and stands above all others.`
+    },
+    783: {
+        "slug": "低",
+        "level": 11,
+        "component_subject_ids": [75, 147, 1],
+        "amalgamation_subject_ids": [3258, 3259],
+        "meanings": ["Low"],
+        "meaning_mnemonic": `The **r[leader]r** of your **r[clan]r** wants to live close to the **r[ground]r** so he demands you get **k[low]k**. Low, low, with your belly to the ground. That way you're always below him, since he's the leader.`
+    },
+    784: {
+        "slug": "初",
+        "level": 11,
+        "component_subject_ids": [80, 24],
+        "amalgamation_subject_ids": [3260, 3261, 3302, 3568, 3569, 5342, 7687, 9035, 9036],
+        "meanings": ["First"],
+        "meaning_mnemonic": `If you want a **r[spirit]r** **r[sword]r**, you have to be the **k[first]k** one to find it. Do you really think the first person to come across a spirit sword wouldn't want it?! No. So if you're any place but first, you're not getting anything.`
+    },
+    785: {
+        "slug": "別",
+        "level": 11,
+        "component_subject_ids": [16, 24, 128],
+        "amalgamation_subject_ids": [3262, 3263, 3264, 3265, 3266, 4174, 4715, 4908, 7495, 7744, 8142],
+        "meanings": ["Separate"],
+        "meaning_mnemonic": `In your **r[mouth]r** you put a **r[sword]r** and a **r[knife]r**. Now that you have them in there, you have to make them **k[separate]k** from each other.`
+    },
+    786: {
+        "slug": "利",
+        "level": 11,
+        "component_subject_ids": [135, 128],
+        "amalgamation_subject_ids": [3267, 3268, 3325, 3572, 3574, 4434, 5174, 6411, 7337, 9128],
+        "meanings": ["Profit", "Benefit", "Advantage"],
+        "meaning_mnemonic": `Cut **r[grain]r**s with a **r[knife]r** to make them smaller and you'll make a great **k[profit]k**. By cutting them, now you can get three grains worth of money for what was once a single grain. `
+    },
+    787: {
+        "slug": "努",
+        "level": 11,
+        "component_subject_ids": [19, 30, 13],
+        "amalgamation_subject_ids": [3269],
+        "meanings": ["Toil"],
+        "meaning_mnemonic": `A **r[woman]r** of **r[power]r** sits on a **r[stool]r** while her servants **k[toil]k** away in the kitchen. They are toiling away preparing a feast for this woman of power while she kicks back on her cozy stool. She’s a queen and deserves to be pampered.`
+    },
+    788: {
+        "slug": "労",
+        "level": 11,
+        "component_subject_ids": [8769, 13],
+        "amalgamation_subject_ids": [3270, 3271, 3272, 6900],
+        "meanings": ["Labor"],
+        "meaning_mnemonic": `A **r[Viking]r** in a position of **r[power]r** does not need to **k[labor]k** in the fields. Labor is for the weak! A Viking of power takes what he wants, and need not labor for it. A powerful Viking plunders all and takes what he wants!`
+    },
+    789: {
+        "slug": "命",
+        "level": 11,
+        "component_subject_ids": [189, 16],
+        "amalgamation_subject_ids": [3273, 3274, 3275, 4593, 4873, 5892, 6170, 6192, 6346],
+        "meanings": ["Fate", "Life"],
+        "meaning_mnemonic": `**r[Orders]r** coming from your **r[mouth]r** will determine the **k[fate]k** of your soldiers. You are their commanding officer and your orders determine their **k[life]k** and death.`
+    },
+    790: {
+        "slug": "岸",
+        "level": 11,
+        "component_subject_ids": [20, 116, 61],
+        "amalgamation_subject_ids": [3276, 5798],
+        "meanings": ["Coast", "Shore"],
+        "meaning_mnemonic": `The **r[mountain]r** on top of the **r[cliff]r** is **r[dry]r** from the **k[coast]k** below. Just from looking at the raging **k[shore]k** below, you'd think everything would be wet, it's splashing everywhere!`
+    },
+    791: {
+        "slug": "放",
+        "level": 11,
+        "component_subject_ids": [66, 60],
+        "amalgamation_subject_ids": [3149, 3277, 3278, 3583, 3635, 3895, 3896, 5785, 5946, 6499, 7697, 8444, 8550],
+        "meanings": ["Release"],
+        "meaning_mnemonic": `When **r[winter]r** comes your **r[direction]r**, the trees must **k[release]k** their leaves for the coming cold.`
+    },
+    792: {
+        "slug": "昔",
+        "level": 11,
+        "component_subject_ids": [8775, 22],
+        "amalgamation_subject_ids": [3279, 7746],
+        "meanings": ["Long Ago", "Long Time Ago"],
+        "meaning_mnemonic": `You’ve been playing **r[blackjack]r** in the **r[sun]r** since **k[long ago]k**. This is the longest game of blackjack you’ve ever played and it feels like ages since you started. You’ve been sitting out in the sun playing blackjack since long, long ago.`
+    },
+    793: {
+        "slug": "波",
+        "level": 11,
+        "component_subject_ids": [103, 195],
+        "amalgamation_subject_ids": [3280, 5995, 6014, 6770, 7490, 8135],
+        "meanings": ["Wave"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits your **r[skin]r** and creates smaller **k[wave]k**s. Those hit you too!`
+    },
+    794: {
+        "slug": "注",
+        "level": 11,
+        "component_subject_ids": [103, 154],
+        "amalgamation_subject_ids": [3281, 3282, 3283, 3580, 5782, 7849],
+        "meanings": ["Pour"],
+        "meaning_mnemonic": `A **r[tsunami]r** **r[master]r** has the power to **k[pour]k** water wherever he pleases. Tsunami masters are masters over the most powerful water force in the universe, so it makes sense that they have the ability to pour water at will, wherever they please. Best not tick off the master, unless you want a tsunami poured on your head.`
+    },
+    795: {
+        "slug": "育",
+        "level": 11,
+        "component_subject_ids": [8776, 43],
+        "amalgamation_subject_ids": [3285, 3286, 3573, 3576, 8085],
+        "meanings": ["Nurture", "Raise"],
+        "meaning_mnemonic": `Give **r[trash]r** to the **r[moon]r** and it will **k[nurture]k** and **k[raise]k** that trash like it's its own little moon baby.`
+    },
+    796: {
+        "slug": "拾",
+        "level": 11,
+        "component_subject_ids": [63, 216],
+        "amalgamation_subject_ids": [3287],
+        "meanings": ["Pick Up"],
+        "meaning_mnemonic": `You see something that would **r[suit]r** you so you use your **r[fingers]r** and **k[pick up]k** the thing you want. You can pick up anything you think suits you. A shiny rock. A new pair of pants. Anything!`
+    },
+    797: {
+        "slug": "指",
+        "level": 11,
+        "component_subject_ids": [63, 57, 22],
+        "amalgamation_subject_ids": [3288, 3289, 3290, 3291, 3900, 4268, 4534, 4628, 4909, 5797, 5947, 5987, 6144, 7576, 7711, 8134, 8667, 8746],
+        "meanings": ["Finger"],
+        "meaning_mnemonic": `Try to use your **r[fingers]r** to **r[spoon]r** out some of the **r[sun]r** and you'll come back with just one **k[finger]k**.`
+    },
+    798: {
+        "slug": "洋",
+        "level": 11,
+        "component_subject_ids": [103, 136],
+        "amalgamation_subject_ids": [3292, 3293, 3294, 3295, 3296, 7690],
+        "meanings": ["Western Style", "Ocean"],
+        "meaning_mnemonic": `A **r[sheep]r** rides a **r[tsunami]r** in classic **k[Western style]k**. And by Western style I mean the sheep is dressed in a cowboy outfit and has put a saddle atop the tsunami wave to ride it. It’s a tsunami rodeo and this crazy sheep is riding that tsunami wave in classic Western style. 
+        
+        This kanji also means **k[ocean]k**, because presumably the people from the "West" who have "Western Style" came from across the ocean. They're the "Ocean People" in this sense. You'll want to be familiar with this meaning for vocab later on.`
+    },
+    799: {
+        "slug": "神",
+        "level": 11,
+        "component_subject_ids": [80, 190],
+        "amalgamation_subject_ids": [3297, 3298, 3299, 3570, 3872, 5187, 5350, 5351, 5773, 5978, 7583, 8251, 8337, 8705],
+        "meanings": ["God"],
+        "meaning_mnemonic": `You should have a **r[spirit]r** that's **r[humble]r** when before a **k[god]k**. You never really have to act all nice and humble before anyone else, but if you meet a god... well... you should probably lower yourself appropriately. They can smite you and all that.`
+    },
+    800: {
+        "slug": "秒",
+        "level": 11,
+        "component_subject_ids": [135, 198],
+        "amalgamation_subject_ids": [3300, 4990],
+        "meanings": ["Second"],
+        "meaning_mnemonic": `You only got a **r[few]r** **r[grain]r**s on your plate. It only takes you a  **k[second]k** to eat them. It can't take any longer because there were so few.`
+    },
+    801: {
+        "slug": "級",
+        "level": 11,
+        "component_subject_ids": [86, 193],
+        "amalgamation_subject_ids": [3301, 3302, 3303, 3304],
+        "meanings": ["Level", "Grade", "Rank"],
+        "meaning_mnemonic": `There are pieces of **r[thread]r** on each **r[escalator]r** showing you what **k[level]k** they go to in your school. Each escalator takes you to a different **k[grade]k**, so make sure you follow the right thread or you'll end up in a class that's either way above or way below your level.`
+    },
+    802: {
+        "slug": "追",
+        "level": 11,
+        "component_subject_ids": [114, 8777, 3],
+        "amalgamation_subject_ids": [3305, 3577, 3579, 5722, 8053, 8199],
+        "meanings": ["Follow", "Chase"],
+        "meaning_mnemonic": `On a **r[scooter]r** there is a **r[bear]r** with a **r[drop]r** on its head trying to **k[follow]k** and **k[chase]k** you! You accidentally splashed it with water and it's not happy about it. You're on your own scooter, luckily, but that doesn't make this any less terrifying.`
+    },
+    803: {
+        "slug": "戦",
+        "level": 11,
+        "component_subject_ids": [199, 194],
+        "amalgamation_subject_ids": [3239, 3306, 3307, 3308, 3309, 3578, 4167, 6082, 6110, 6590, 6756, 7897, 8566],
+        "meanings": ["War", "Battle"],
+        "meaning_mnemonic": `Even a **r[simple]r** **r[drunkard]r** can start a **k[war]k**. In fact, it's really common for one simple drunk person to offend an entire country into declaring war.`
+    },
+    804: {
+        "slug": "競",
+        "level": 11,
+        "component_subject_ids": [55, 191],
+        "amalgamation_subject_ids": [3240, 3310, 8033],
+        "meanings": ["Compete"],
+        "meaning_mnemonic": `**r[Stand]r**ing next to your **r[older brother]r** is another **r[stand]r**ing **r[older brother]r** of yours. They're trying to **k[compete]k**, to see which of them can stand the straightest and tallest.`
+    },
+    805: {
+        "slug": "良",
+        "level": 11,
+        "component_subject_ids": [3, 196],
+        "amalgamation_subject_ids": [3244, 3311, 3312, 3892, 3897, 3927, 4739, 5977, 6141],
+        "meanings": ["Good"],
+        "meaning_mnemonic": `A **r[drop]r** of water to a **r[root]r** is **k[good]k**. It's good for the roots to grow and live and thrive. And what's good for roots is good for our plants and us humans too.`
+    },
+    806: {
+        "slug": "功",
+        "level": 11,
+        "component_subject_ids": [25, 13],
+        "amalgamation_subject_ids": [3253, 5544],
+        "meanings": ["Achievement", "Accomplishment"],
+        "meaning_mnemonic": `Using your **r[construction]r** **r[power]r** you build something great. A true **k[achievement]k** built for the achievement of making kanji learning easier!`
+    },
+    807: {
+        "slug": "特",
+        "level": 11,
+        "component_subject_ids": [126, 192],
+        "amalgamation_subject_ids": [3266, 3313, 3683, 3851, 4740, 4917, 4952, 7893, 8804],
+        "meanings": ["Special"],
+        "meaning_mnemonic": `This **r[cow]r** **r[temple]r** is **k[special]k**. This cow must have been very important to have an entire temple dedicated to it.`
+    },
+    808: {
+        "slug": "便",
+        "level": 11,
+        "component_subject_ids": [75, 1, 51, 31],
+        "amalgamation_subject_ids": [3268, 3314, 3315, 4999, 5203, 5204, 5205, 5597],
+        "meanings": ["Convenience", "Convenient"],
+        "meaning_mnemonic": `A **r[leader]r** stands upon the **r[ground]r** of the **r[rice paddy]r**. She is searching for **r[treasure]r**. It is said that this treasure here in this rice field will make things much easier for the leader (that's what leaders really want, after all). If she gets this treasure, it will be a great **k[convenience]k** for her, because convenience is everything when you're the leader.`
+    },
+    809: {
+        "slug": "働",
+        "level": 11,
+        "component_subject_ids": [75, 188, 13],
+        "amalgamation_subject_ids": [3270, 3272, 3316],
+        "meanings": ["Work"],
+        "meaning_mnemonic": `A **r[leader]r** with a lot of **r[power]r** can move **r[heavy]r** things with hardly any **k[work]k**. By power, I mean a lot of strength because this leader is very strong and moving heavy things is no problem for her. Her power allows the leader to move heavy things with little to no work at all.`
+    },
+    810: {
+        "slug": "令",
+        "level": 11,
+        "component_subject_ids": [189],
+        "amalgamation_subject_ids": [3275],
+        "meanings": ["Orders"],
+        "meaning_mnemonic": `If you know the radical meaning **r[orders]r** you know the kanji meaning **k[orders]k** as well!`
+    },
+    811: {
+        "slug": "意",
+        "level": 11,
+        "component_subject_ids": [197, 65],
+        "amalgamation_subject_ids": [3282, 3317, 3318, 4043, 4200, 4239, 4373, 4449, 4774, 4936, 5522, 5909, 6517, 6546, 6714, 7395, 7488, 7579, 7752, 8259, 8357, 8669],
+        "meanings": ["Idea"],
+        "meaning_mnemonic": `The **r[sound]r** of your **r[heart]r** gives me an **k[idea]k**. The methodic thump thump thumping of a heart puts me in a trance that gives me great ideas. It’s a very inspirational sound, the sound of a heart is. It gives me an idea. 
+        
+        Alternatively, you could look at this kanji and see a "stand" radical and something that kind of (almost) looks like the kanji for "think." When you stand up and think, you come up with your very own **k[idea]k**s!`
+    },
+    812: {
+        "slug": "味",
+        "level": 11,
+        "component_subject_ids": [16, 134],
+        "amalgamation_subject_ids": [3318, 3319, 3973, 4483, 5501, 5546, 5741, 5904, 6046, 6656, 6668, 6951, 7150, 7463, 8526],
+        "meanings": ["Flavor", "Taste"],
+        "meaning_mnemonic": `What is the **r[jet]r** of your **r[mouth]r**? It's **k[flavor]k**. It's what shoots your mouth off, which explains why it hurts so much when you eat something awesome.`
+    },
+    813: {
+        "slug": "勉",
+        "level": 12,
+        "component_subject_ids": [208, 13],
+        "amalgamation_subject_ids": [3320, 3886],
+        "meanings": ["Exertion"],
+        "meaning_mnemonic": `You’ll have to **r[excuse]r** me, having all this **r[power]r** puts a lot of strain and **k[exertion]k** on my body. My power comes from exertion of muscle, so please excuse me if I start to perspire.`
+    },
+    814: {
+        "slug": "庭",
+        "level": 12,
+        "component_subject_ids": [62, 206, 48],
+        "amalgamation_subject_ids": [3321, 3322, 7712],
+        "meanings": ["Garden"],
+        "meaning_mnemonic": `There's a **r[canopy]r** and a man called the **r[Yoga]r** **r[King]r** standing in the middle of your **k[garden]k**.`
+    },
+    815: {
+        "slug": "息",
+        "level": 12,
+        "component_subject_ids": [109, 65],
+        "amalgamation_subject_ids": [3323, 3324, 3325, 5450, 8308],
+        "meanings": ["Breath"],
+        "meaning_mnemonic": `Imagining one’s **r[self]r** without a **r[heart]r** can make it hard to draw **k[breath]k**. Without a heart, you’d have no blood pumping and you would start to die. This would make it increasingly harder to draw breath and get oxygen to stay alive.`
+    },
+    816: {
+        "slug": "旅",
+        "level": 12,
+        "component_subject_ids": [66, 8762, 8778],
+        "amalgamation_subject_ids": [3326, 3327, 3641, 3887, 3890, 5131, 5303],
+        "meanings": ["Trip", "Travel"],
+        "meaning_mnemonic": `If your friendly neighborhood **r[tofu]r** takes a **r[gun]r** and points it in your **r[direction]r**, you might want to take a **k[trip]k**. This tofu obviously has something wrong with it. If it’s taking a gun and pointing it in your direction, now’s probably a good time to get away and take that trip you’d been talking about.`
+    },
+    817: {
+        "slug": "根",
+        "level": 12,
+        "component_subject_ids": [23, 196],
+        "amalgamation_subject_ids": [3328, 3329, 3330, 3331, 3332, 6491, 6696, 8038, 8565],
+        "meanings": ["Root"],
+        "meaning_mnemonic": `A **r[tree]r** **r[root]r** is still just a **k[root]k**!`
+    },
+    818: {
+        "slug": "流",
+        "level": 12,
+        "component_subject_ids": [103, 8776, 21],
+        "amalgamation_subject_ids": [3333, 3334, 3335, 3336, 3653, 3654, 3883, 6688, 7393, 8478, 8548, 8631],
+        "meanings": ["Stream"],
+        "meaning_mnemonic": `A **r[tsunami]r** lifts all the **r[trash]r** out of the **r[river]r** and it **k[stream]k**s out onto the shores.`
+    },
+    819: {
+        "slug": "消",
+        "level": 12,
+        "component_subject_ids": [103, 8765, 43],
+        "amalgamation_subject_ids": [3337, 3650, 3880, 3881, 3926, 3927, 4517, 8212],
+        "meanings": ["Extinguish"],
+        "meaning_mnemonic": `A long time ago a huge **r[tsunami]r** swept a **r[triceratops]r** up into the **r[moon]r** and **k[extinguish]k**ed its life.`
+    },
+    820: {
+        "slug": "倍",
+        "level": 12,
+        "component_subject_ids": [75, 175],
+        "amalgamation_subject_ids": [3338, 3339],
+        "meanings": ["Double", "Times", "Multiply"],
+        "meaning_mnemonic": `A **r[leader]r** who hires his own personal **r[clown]r** will likely **k[double]k** his entertainment. Clowns are funny and make people laugh, so the leader decided to hire one. Since that time, the leader’s amount of mirth has doubled. 
+        
+        This also means **k[times]k**, which makes sense when you think about the kind of math you'll need to double something. What is A * 2? It's A doubled, first of all, but you're using multiplication. You're "timesing" something.`
+    },
+    821: {
+        "slug": "員",
+        "level": 12,
+        "component_subject_ids": [16, 94],
+        "amalgamation_subject_ids": [3340, 3341, 3342, 3343, 3645, 3960, 4408, 4580, 4598, 4818, 5568, 7580, 7581, 7706],
+        "meanings": ["Member"],
+        "meaning_mnemonic": `A **r[shellfish]r** with a **r[mouth]r** is a **k[member]k** of the invertebrate family. Yes, shellfish do have mouths, look it up!`
+    },
+    822: {
+        "slug": "島",
+        "level": 12,
+        "component_subject_ids": [151, 20],
+        "amalgamation_subject_ids": [3344, 3616, 5496, 6020, 6648, 7537, 7634, 7874],
+        "meanings": ["Island"],
+        "meaning_mnemonic": `A **r[bird]r** sits upon a **r[mountain]r**. If you look at the radicals, the bird is quite large and the mountain quite small. Think of this in the mnemonic as well. The reason the mountain is small is because you can only see the top of it, sticking out of the water. On it is the bird. This small mountain with the bird on it is an **k[island]k**.`
+    },
+    823: {
+        "slug": "祭",
+        "level": 12,
+        "component_subject_ids": [43, 30, 207],
+        "amalgamation_subject_ids": [3345, 8706, 8816],
+        "meanings": ["Festival"],
+        "meaning_mnemonic": `Under the **r[moon]r**, there’s a **r[stool]r** with a **r[jackhammer]r** on it. It’s all there for the **k[festival]k**. Festivals need activities, and at this festival, you can stand on a stool in the moonlight and use a jackhammer to make a lot of noise. Perfect for a festival!`
+    },
+    824: {
+        "slug": "章",
+        "level": 12,
+        "component_subject_ids": [55, 201],
+        "amalgamation_subject_ids": [3346, 3347, 8071, 8136],
+        "meanings": ["Chapter"],
+        "meaning_mnemonic": `You **r[stand]r** at a podium **r[early]r** in the morning to practice reading the **k[chapter]k** from your latest book.`
+    },
+    825: {
+        "slug": "第",
+        "level": 12,
+        "component_subject_ids": [85, 202],
+        "amalgamation_subject_ids": [3347, 3348, 3349, 4906, 5050, 5976],
+        "meanings": ["Ordinal Number Prefix", "Ordinal Prefix", "Number"],
+        "meaning_mnemonic": `**r[Bamboo]r**'s **r[younger brother]r** is counted with an **k[ordinal number prefix]k**. An ordinal number is one that represents a position or rank in sequential order (like first, second, third, etc.). We use this ordinal number prefix before counting these things in Japanese sometimes. Like with bamboo, going down in order toward the youngest.`
+    },
+    826: {
+        "slug": "都",
+        "level": 12,
+        "component_subject_ids": [203, 176],
+        "amalgamation_subject_ids": [3350, 3351, 3649, 4706, 7457, 7582, 8586],
+        "meanings": ["Metropolis"],
+        "meaning_mnemonic": `**r[Someone]r** decided to build a bunch of **r[building]r**s and turn them into a **k[metropolis]k**. You don't know who they are, but now an absolute ton of other someones you don't know also live here in these buildings and work in this busy metropolis.`
+    },
+    827: {
+        "slug": "動",
+        "level": 12,
+        "component_subject_ids": [188, 13],
+        "amalgamation_subject_ids": [3352, 3353, 3354, 3587, 3884, 3909, 3910, 4234, 4238, 4396, 4611, 4759, 4926, 6326, 6599, 7469, 7481, 7494, 7541, 7586, 7692, 8431, 8748, 8750, 8758],
+        "meanings": ["Move"],
+        "meaning_mnemonic": `When something is **r[heavy]r**, you need a lot of **r[power]r** to **k[move]k** it. It’s not going to move unless you use a lot of power. That thing is heavy and unless you use all the power you got, it’s not moving.`
+    },
+    828: {
+        "slug": "商",
+        "level": 12,
+        "component_subject_ids": [55, 121, 28],
+        "amalgamation_subject_ids": [3355, 3356, 3822, 5278],
+        "meanings": ["Merchandise"],
+        "meaning_mnemonic": `A **r[stand]r**ing **r[mustache]r** with **r[legs]r** is able to sell **k[merchandise]k**. Most mustaches can’t stand because they don’t have legs. This mustache, however, does. It also has a keen business sense, which is why it’s selling merchandise.`
+    },
+    829: {
+        "slug": "悪",
+        "level": 12,
+        "component_subject_ids": [204, 65],
+        "amalgamation_subject_ids": [3357, 3358, 3360, 3651, 3659, 3882, 3891, 3969, 4178, 4274, 5102, 6868, 6916, 6951, 6975, 7347, 7359, 7710, 7763, 8228, 8360, 8621, 8655, 8669, 9239],
+        "meanings": ["Bad", "Evil"],
+        "meaning_mnemonic": `In **r[Asia]r** they assume everyone's **r[heart]r** is automatically **k[bad]k** and **k[evil]k**.`
+    },
+    830: {
+        "slug": "族",
+        "level": 12,
+        "component_subject_ids": [66, 8762, 72],
+        "amalgamation_subject_ids": [3361, 3362, 3363, 4399, 5663, 5750],
+        "meanings": ["Tribe", "Family"],
+        "meaning_mnemonic": `If someone is headed in your **r[direction]r** with a **r[gun]r**, nock an **r[arrow]r** in your bow and gather your **k[tribe]k** behind you because it’s about to get real! This man with a gun is headed your direction and he doesn’t even know what you and your tribe are gonna do to him. If he gets any closer, you’re likely to shoot that arrow right at him.`
+    },
+    831: {
+        "slug": "深",
+        "level": 12,
+        "component_subject_ids": [103, 101, 23],
+        "amalgamation_subject_ids": [3364, 3365, 3366, 3367, 5836, 7585, 7610, 8620],
+        "meanings": ["Deep"],
+        "meaning_mnemonic": `The force of a **r[tsunami]r** is enough to put a gash in a **r[tree]r** about **r[pi]r** (3.14) feet **k[deep]k**. Tsunamis are pretty powerful, so the force of the water alone is enough to cut into a tree several feet deep.`
+    },
+    832: {
+        "slug": "球",
+        "level": 12,
+        "component_subject_ids": [48, 399],
+        "amalgamation_subject_ids": [3368, 3369, 5539, 6700, 6907, 7504],
+        "meanings": ["Sphere", "Ball"],
+        "meaning_mnemonic": `The **r[king]r** **r[request]r**s a **k[sphere]k**! He didn't say what kind though, so you're going to have to figure it out and bring him the right kind of sphere.`
+    },
+    833: {
+        "slug": "童",
+        "level": 12,
+        "component_subject_ids": [55, 125],
+        "amalgamation_subject_ids": [3370, 4943, 5119, 8144],
+        "meanings": ["Juvenile"],
+        "meaning_mnemonic": `The people who **r[stand]r** in your **r[village]r** are **k[juvenile]k**s. They aren't babies, who crawl, and they aren't adults who sit in front of their computers all day. They're juveniles who stand.`
+    },
+    834: {
+        "slug": "陽",
+        "level": 12,
+        "component_subject_ids": [176, 172],
+        "amalgamation_subject_ids": [3371, 5354, 7636],
+        "meanings": ["Sunshine", "Sunlight"],
+        "meaning_mnemonic": `A **r[building]r** has **r[easy]r** access to **k[sunshine]k**. It's big and tall, so the **k[sunlight]k** shines right onto its roof.`
+    },
+    835: {
+        "slug": "階",
+        "level": 12,
+        "component_subject_ids": [176, 161, 52],
+        "amalgamation_subject_ids": [3372, 3373, 3374, 5047, 5049, 7452],
+        "meanings": ["Floor", "Story"],
+        "meaning_mnemonic": `Look at a **r[building]r** and **r[compare]r** the **r[white]r** parts. Each of those white parts is a **k[floor]k**. Multi-**k[story]k** buildings have tons of different floors that you can see from the outside.`
+    },
+    836: {
+        "slug": "寒",
+        "level": 12,
+        "component_subject_ids": [78, 8779, 123],
+        "amalgamation_subject_ids": [3375],
+        "meanings": ["Cold"],
+        "meaning_mnemonic": `The **r[roof]r**, even though it's almost **r[spring]r**, is still covered in **r[ice]r** so it's **k[cold]k**. Inside the house is cold, outside the house is cold. Everything is cold!`
+    },
+    837: {
+        "slug": "悲",
+        "level": 17,
+        "component_subject_ids": [209, 65],
+        "amalgamation_subject_ids": [3376, 3797, 5808, 7084, 7695, 7793, 7983],
+        "meanings": ["Sad"],
+        "meaning_mnemonic": `A **r[criminal]r**'s **r[heart]r** will always be **k[sad]k**. No one chooses a life of crime if they're happy. And even if they seem like they're doing fine on the outside, deep down they're really sad.`
+    },
+    838: {
+        "slug": "暑",
+        "level": 12,
+        "component_subject_ids": [22, 203],
+        "amalgamation_subject_ids": [3377, 5856, 8162],
+        "meanings": ["Hot", "Hot Weather"],
+        "meaning_mnemonic": `When **r[someone]r** goes out in the **r[sun]r**, they get **k[hot]k**. That’s just how it is. Someone standing out in the sun for a long time will inevitably get hot. The sun is hot, and it makes you get hot too.`
+    },
+    839: {
+        "slug": "期",
+        "level": 12,
+        "component_subject_ids": [205, 43],
+        "amalgamation_subject_ids": [3378, 3379, 3380, 3400, 3942, 3944, 4749, 5310, 6060, 7638, 7691, 8091],
+        "meanings": ["Period Of Time", "Time Period"],
+        "meaning_mnemonic": `A **r[crab]r** left on the **r[moon]r** for a **k[period of time]k** will surely die. Crabs aren’t meant for the moon, let alone outer space. Why would you take a crab to the moon? You take it outside the spaceship for any period of time and it will surely die.`
+    },
+    840: {
+        "slug": "植",
+        "level": 12,
+        "component_subject_ids": [23, 8821],
+        "amalgamation_subject_ids": [3381, 6498, 7748],
+        "meanings": ["Plant"],
+        "meaning_mnemonic": `If you want to **r[fix]r** a **r[tree]r** you have to **k[plant]k** it. It's pretty obvious that digging up the tree broke it. So fix it by planting it again. That is how plants work.`
+    },
+    841: {
+        "slug": "歯",
+        "level": 12,
+        "component_subject_ids": [44, 127, 98],
+        "amalgamation_subject_ids": [3382, 3383, 3384, 7143],
+        "meanings": ["Tooth", "Teeth"],
+        "meaning_mnemonic": `**r[Stop]r**! That **r[box]r** of **r[rice]r** is actually full of **k[teeth]k**! I know it says "rice" on the cover, but I promise you those are all teeth and if you bite into them you'll break a **k[tooth]k** of your own.`
+    },
+    842: {
+        "slug": "温",
+        "level": 12,
+        "component_subject_ids": [103, 22, 84],
+        "amalgamation_subject_ids": [3385, 3386, 3387, 3888, 4847, 5594, 6581, 8954, 9065],
+        "meanings": ["Warm"],
+        "meaning_mnemonic": `After a **r[tsunami]r**, any **r[plate]r** left out in the **r[sun]r** will be sure to get **k[warm]k**. The tsunami knocked this plate out of the kitchen, and now it’s just sitting outside in the sun. The sun heats things, so the plate is getting really warm.`
+    },
+    843: {
+        "slug": "港",
+        "level": 12,
+        "component_subject_ids": [103, 269, 228],
+        "amalgamation_subject_ids": [3388, 6115, 8704],
+        "meanings": ["Harbor", "Port", "Harbour"],
+        "meaning_mnemonic": `There's a **r[tsunami]r** coming and you want to be **r[together]r** with it by **r[yourself]r** (oneself) so you go to the **k[harbor]k**.`
+    },
+    844: {
+        "slug": "湯",
+        "level": 12,
+        "component_subject_ids": [103, 172],
+        "amalgamation_subject_ids": [3389, 3390, 5559, 6228, 8747],
+        "meanings": ["Hot Water"],
+        "meaning_mnemonic": `If there's a **r[tsunami]r** it's **r[easy]r** to get **k[hot water]k**. Just stick your hand out the window as the tsunami goes by and poof! That water's HOT.`
+    },
+    845: {
+        "slug": "登",
+        "level": 12,
+        "component_subject_ids": [168, 181],
+        "amalgamation_subject_ids": [3391, 3392, 3652, 5207, 5380],
+        "meanings": ["Climb"],
+        "meaning_mnemonic": `You're in a **r[tent]r** eating **r[beans]r** because you're trying to **k[climb]k** a mountain! When you climb, you sleep in a tent and eat only beans (the ultimate climbing food).`
+    },
+    846: {
+        "slug": "着",
+        "level": 12,
+        "component_subject_ids": [136, 53],
+        "amalgamation_subject_ids": [3393, 3394, 3395, 3396, 3397, 3798, 3885, 5037, 6068, 6571, 7062, 7394, 8225, 8817],
+        "meanings": ["Wear", "Arrive"],
+        "meaning_mnemonic": `There are **r[sheep]r** right before your **r[eye]r**s, because they just love what you **k[wear]k**. It's a little known fact that sheep are fashionistas, and they **k[arrive]k** daily to admire your style. These sheep are so stylish they wear their tail to one side - in the latest fashion (check out the sheep radical - the tail is sweeping stylishly to the left!).`
+    },
+    847: {
+        "slug": "短",
+        "level": 12,
+        "component_subject_ids": [72, 181],
+        "amalgamation_subject_ids": [3398, 3399, 3400, 6331, 6849],
+        "meanings": ["Short"],
+        "meaning_mnemonic": `If you shoot a tall stalk of **r[beans]r** with an **r[arrow]r**, the bean plant will go from tall to **k[short]k**. When the beans are hit with that arrow, it severs the plant in two, and you are left with a stalk of beans that is much shorter than before.`
+    },
+    848: {
+        "slug": "野",
+        "level": 12,
+        "component_subject_ids": [125, 339],
+        "amalgamation_subject_ids": [3369, 4959, 5097, 5477, 5649, 6677, 8226, 8648],
+        "meanings": ["Field"],
+        "meaning_mnemonic": `The **r[village]r** **r[beforehand]r** (what the village was before it was a village) was a **k[field]k**.`
+    },
+    849: {
+        "slug": "泉",
+        "level": 12,
+        "component_subject_ids": [52, 45],
+        "amalgamation_subject_ids": [3386, 3401],
+        "meanings": ["Spring", "Fountain"],
+        "meaning_mnemonic": `**r[White]r** **r[water]r** shoots out from a **k[spring]k** in the ground. Due to the force the water shoots from the spring, the water looks white with all the air bubbles.`
+    },
+    852: {
+        "slug": "合",
+        "level": 12,
+        "component_subject_ids": [216],
+        "amalgamation_subject_ids": [3034, 3424, 3489, 3497, 3584, 3649, 3700, 3790, 3928, 4149, 4422, 4538, 4616, 5408, 5708, 5992, 6181, 6374, 6457, 6946, 7441, 7688, 7739, 8019, 8700, 9262],
+        "meanings": ["Suit", "Fit", "Join"],
+        "meaning_mnemonic": `The radical **r[suit]r** and the kanji **k[suit]k** are exactly the same! This kanji can also mean **k[join]k** which makes sense. When something suits you well, like a hat or something, it joins together with you quite well too. Join me, my hat! You suit my head well. It just **k[fit]k**s, you know?`
+    },
+    859: {
+        "slug": "問",
+        "level": 13,
+        "component_subject_ids": [214, 16],
+        "amalgamation_subject_ids": [3530, 3531, 4451, 4737, 5080, 5437, 6359, 6712, 7384, 7637, 8623, 9257, 9262],
+        "meanings": ["Problem", "Question"],
+        "meaning_mnemonic": `If you run into a **r[gate]r** **r[mouth]r** first, you’re going to have a **k[problem]k**. Smashing your mouth into a gate is going to hurt. A lot. The problem you’re now in is one of getting to a hospital and having your mouth sewn back on. The **k[question]k** is, how are you going to get to the hospital?`
+    },
+    860: {
+        "slug": "宿",
+        "level": 13,
+        "component_subject_ids": [78, 75, 239],
+        "amalgamation_subject_ids": [3537, 3538, 4881, 6616],
+        "meanings": ["Lodge"],
+        "meaning_mnemonic": `The **r[roof]r** under which the **r[leader]r** can house one **r[hundred]r** of his people is at the local **k[lodge]k**.`
+    },
+    861: {
+        "slug": "想",
+        "level": 13,
+        "component_subject_ids": [23, 53, 65],
+        "amalgamation_subject_ids": [3524, 3543, 3544, 3545, 3589, 3990, 7083, 7694, 8607],
+        "meanings": ["Concept"],
+        "meaning_mnemonic": `On this **r[tree]r** there is an **r[eye]r** inside a **r[heart]r** that was drawn trying to express some sort of **k[concept]k**. Unfortunately, concepts like this, especially concept art, has never been your strong suit.`
+    },
+    862: {
+        "slug": "感",
+        "level": 13,
+        "component_subject_ids": [5, 194, 8781, 65],
+        "amalgamation_subject_ids": [3542, 3546, 3547, 3585, 3586, 3587, 3588, 3589, 3590, 4036, 4583, 4697, 5312, 5451, 5583, 6406, 6824, 6917, 6973, 7348, 7386, 7483, 7710, 8458, 8619, 8620],
+        "meanings": ["Feeling"],
+        "meaning_mnemonic": `Down a **r[slide]r**, a **r[drunkard]r** comes and places a **r[creeper]r** into your **r[heart]r**. Your entire body is filled with a **k[feeling]k**. A feeling you don't like.`
+    },
+    863: {
+        "slug": "整",
+        "level": 13,
+        "component_subject_ids": [219, 60, 229],
+        "amalgamation_subject_ids": [3591, 3902, 3903, 5487, 7754],
+        "meanings": ["Arrange", "Organize"],
+        "meaning_mnemonic": `Putting your wood in **r[bundle]r**s for **r[winter]r** is the **r[correct]r** way to **k[arrange]k** it. You want to make sure you **k[organize]k** all of your wood before winter comes, or the loose logs could get blown away in the first winter storm.`
+    },
+    864: {
+        "slug": "暗",
+        "level": 13,
+        "component_subject_ids": [22, 55],
+        "amalgamation_subject_ids": [3597, 3598, 3599, 3904, 7179, 8562],
+        "meanings": ["Dark"],
+        "meaning_mnemonic": `If you yourself are a **r[sun]r**, and you **r[stand]r** next to another **r[sun]r**, no area around you will be **k[dark]k**. The two suns are very bright and standing right next to each other, so all the area will be lit up and nothing will be dark.`
+    },
+    865: {
+        "slug": "様",
+        "level": 13,
+        "component_subject_ids": [23, 136, 45],
+        "amalgamation_subject_ids": [3600, 3601, 3602, 4800, 5749, 6343, 6418, 6830, 7449, 7751, 8705],
+        "meanings": ["Formal Name Title", "Formal Name Ender", "Manner"],
+        "meaning_mnemonic": `A **r[sheep]r** in the **r[water]r** by a **r[tree]r** has the **k[formal name title]k** of Sir Wilburt Coddington III. When he’s not in his castle, Sir Wilburt Coddington III enjoys playing in water and by trees. He’s a royal sheep. 
+        
+        This can also mean **k[manner]k**, as in "manner" of doing things. Someone who has a formal name title has a different manner of doing things.`
+    },
+    866: {
+        "slug": "橋",
+        "level": 13,
+        "component_subject_ids": [23, 40, 16, 121],
+        "amalgamation_subject_ids": [3604, 8625],
+        "meanings": ["Bridge"],
+        "meaning_mnemonic": `A **r[tree]r** from **r[heaven]r** with a **r[mustache]r** above his **r[mouth]r** valiantly crosses a **k[bridge]k**. This holy tree from heaven was sent down to earth to cross this very bridge. It is the tree’s angelic mission. Also the tree has a mouth and a mustache.`
+    },
+    867: {
+        "slug": "福",
+        "level": 15,
+        "component_subject_ids": [80, 8824],
+        "amalgamation_subject_ids": [3616, 3855, 4326, 5895, 6314, 6463, 6647],
+        "meanings": ["Luck", "Fortune"],
+        "meaning_mnemonic": `When a **r[spirit]r** decides to live in your **r[scarecrow]r**, you'll be granted good **k[luck]k** and good **k[fortune]k**. Crows won't hang out in your farm. Everything you grow will become large and delicious. But not everyone is so lucky that a spirit will decide to live in their scarecrow. So maybe the luck was in you all along!`
+    },
+    868: {
+        "slug": "緑",
+        "level": 13,
+        "component_subject_ids": [86, 105, 45],
+        "amalgamation_subject_ids": [3617, 3618],
+        "meanings": ["Green"],
+        "meaning_mnemonic": `If you see a **r[wolverine]r** in the **r[water]r** playing with a piece of **r[thread]r**, there’s no doubt that it’s **k[green]k**. Wolverines love green thread. Almost as much as they love the water.`
+    },
+    869: {
+        "slug": "練",
+        "level": 13,
+        "component_subject_ids": [86, 224],
+        "amalgamation_subject_ids": [3619, 3905, 4113, 4135],
+        "meanings": ["Practice"],
+        "meaning_mnemonic": `Pointing a **r[thread]r** to the **r[east]r**, you **k[practice]k** your navigation skills. You’ve discovered a method to tell direction using just a thread, so you point it to the east in order to find your way. The method takes practice though, so you’re sure to practice every day.`
+    },
+    870: {
+        "slug": "詩",
+        "level": 13,
+        "component_subject_ids": [117, 192],
+        "amalgamation_subject_ids": [3620, 3621, 3622, 8076],
+        "meanings": ["Poem"],
+        "meaning_mnemonic": `What you **r[say]r** at a **r[temple]r** is a **k[poem]k**. It has to be a poem, because if you say anything else it's just plain disrespectful. All of the monks and priests at this temple have to read and recite poems all day, and if they can do it forever, you can while you're visiting.`
+    },
+    871: {
+        "slug": "銀",
+        "level": 13,
+        "component_subject_ids": [118, 196],
+        "amalgamation_subject_ids": [3630, 3631, 3632, 3633, 4098, 8103],
+        "meanings": ["Silver"],
+        "meaning_mnemonic": `At the **r[root]r** of **r[gold]r**, there is **k[silver]k**. Gold is basically just silver leveled up. That's why gold is first place, and silver is second. If you just scratch gold really good, you'll find that at its root, there's silver hidden just underneath.`
+    },
+    872: {
+        "slug": "題",
+        "level": 13,
+        "component_subject_ids": [22, 229, 184],
+        "amalgamation_subject_ids": [3530, 3537, 3635, 3636, 3895, 3896, 4547],
+        "meanings": ["Topic"],
+        "meaning_mnemonic": `If you use the **r[sun]r**, you can find the **r[correct]r** **r[geoduck]r**. That's the **k[topic]k** of today's lecture.`
+    },
+    873: {
+        "slug": "館",
+        "level": 13,
+        "component_subject_ids": [139, 78, 8777],
+        "amalgamation_subject_ids": [3592, 3596, 3641, 3642, 3879, 3916, 5137, 8412],
+        "meanings": ["Public Building"],
+        "meaning_mnemonic": `**r[Eat]r**ing on this **r[roof]r** is a **r[bear]r**, which is how you know this is a **k[public building]k**. The law says that all bears are allowed to eat on the roofs of public buildings. In Japan at least, I don't know where bears are supposed to eat in wherever you're from.`
+    },
+    874: {
+        "slug": "駅",
+        "level": 13,
+        "component_subject_ids": [165, 215],
+        "amalgamation_subject_ids": [3643, 3644, 3645, 3646, 4099, 4576],
+        "meanings": ["Station", "Train Station"],
+        "meaning_mnemonic": `A **r[horse]r** and a **r[shrimp]r** are sitting next to each other. They are both at the train **k[station]k**, waiting for a train to come and take them home.`
+    },
+    875: {
+        "slug": "億",
+        "level": 13,
+        "component_subject_ids": [75, 221],
+        "amalgamation_subject_ids": [3527, 3528, 3529],
+        "meanings": ["Hundred Million"],
+        "meaning_mnemonic": `A cult **r[leader]r** has a great **r[idea]r** to recruit a **k[hundred million]k** new members. Since he’s the guy with all the ideas, he is the leader of the cult. His idea is to give every new member a free puppy. He’ll have a hundred million new recruits in no time.`
+    },
+    876: {
+        "slug": "器",
+        "level": 13,
+        "component_subject_ids": [18, 227],
+        "amalgamation_subject_ids": [3532, 3533, 3534, 3535, 3893, 3961, 4371, 4733, 5990, 6866, 6920, 6974, 7126, 7320, 8361, 8451, 8554, 8629],
+        "meanings": ["Container", "Vessel", "Tool"],
+        "meaning_mnemonic": `**r[Big]r** **r[products]r** need to be put in a big **k[container]k**. A small container just won’t do. These products are big and they need a big container to be contained in.`
+    },
+    877: {
+        "slug": "士",
+        "level": 13,
+        "component_subject_ids": [97],
+        "amalgamation_subject_ids": [3536, 3962, 4606, 4735, 5111, 5490, 6272, 7191, 8315, 8484],
+        "meanings": ["Samurai"],
+        "meaning_mnemonic": `The **r[samurai]r** radical and the **k[samurai]k** kanji are the same!`
+    },
+    878: {
+        "slug": "料",
+        "level": 13,
+        "component_subject_ids": [98, 129],
+        "amalgamation_subject_ids": [3592, 3593, 3693, 3710, 3907, 4024, 4431, 4821, 5064, 6791, 7247, 8011, 8671, 8679, 8691],
+        "meanings": ["Fee", "Material"],
+        "meaning_mnemonic": `You have a **r[rice]r** **r[ladle]r** that's specifically for paying the rice **k[fee]k**. Each scoop of something has an extra fee tacked on, so when you use a **k[material]k**, there's a fee you have to pay in that material as well.`
+    },
+    879: {
+        "slug": "標",
+        "level": 13,
+        "component_subject_ids": [23, 424, 207],
+        "amalgamation_subject_ids": [3603],
+        "meanings": ["Signpost"],
+        "meaning_mnemonic": `You see a **r[tree]r** with a **r[helicopter]r** and a **r[jackhammer]r** tied to it. You look closer, because this is an odd sight, and realize that there is a sign here too. It's telling you to beware of helicopters and jackhammers in this woods. It's a poorly made **k[signpost]k**!`
+    },
+    880: {
+        "slug": "殺",
+        "level": 13,
+        "component_subject_ids": [31, 23, 160],
+        "amalgamation_subject_ids": [3598, 3605, 3606, 3607, 3898, 3899, 4829, 5731, 6180, 6329, 6913, 6987, 7046, 8039, 8210, 9040],
+        "meanings": ["Kill"],
+        "meaning_mnemonic": `There's **r[treasure]r** in this **r[tree]r** so you take out your **r[weapon]r** and **k[kill]k** it.`
+    },
+    881: {
+        "slug": "然",
+        "level": 13,
+        "component_subject_ids": [43, 47, 131],
+        "amalgamation_subject_ids": [3591, 3608, 3609, 3610, 4961, 5669, 6012, 7411, 8368, 8727],
+        "meanings": ["Nature"],
+        "meaning_mnemonic": `Under a misshapen crescent **r[moon]r**, a **r[dog]r** **r[boil]r**s as much **k[nature]k** as it can find.`
+    },
+    882: {
+        "slug": "熱",
+        "level": 13,
+        "component_subject_ids": [222, 223, 131],
+        "amalgamation_subject_ids": [3611, 3612, 3613, 3614, 5253, 7210],
+        "meanings": ["Heat", "Fever"],
+        "meaning_mnemonic": `Your **r[womb]r** spins in a **r[circle]r** and starts to **r[boil]r** with **k[heat]k**. Uh oh, I think you have a **k[fever]k**.`
+    },
+    883: {
+        "slug": "課",
+        "level": 13,
+        "component_subject_ids": [117, 235],
+        "amalgamation_subject_ids": [3623],
+        "meanings": ["Section"],
+        "meaning_mnemonic": `I always **r[say]r** the **r[fruit]r** **k[section]k** at the grocery should be at the front of the store. It’s the perfect place for the fruit section, I say.`
+    },
+    884: {
+        "slug": "賞",
+        "level": 13,
+        "component_subject_ids": [8769, 16, 94],
+        "amalgamation_subject_ids": [3625, 4772, 5525, 6443],
+        "meanings": ["Prize"],
+        "meaning_mnemonic": `Shoot a **r[shellfish]r** that's in the **r[mouth]r** of a **r[Viking]r** at the fair and you'll win a **k[prize]k**. The game is to shoot the shellfish in the Viking's mouth and knock it over.`
+    },
+    885: {
+        "slug": "輪",
+        "level": 13,
+        "component_subject_ids": [93, 8764, 1, 226],
+        "amalgamation_subject_ids": [3626, 3627, 3900, 3901, 8243],
+        "meanings": ["Wheel", "Ring", "Loop", "Circle"],
+        "meaning_mnemonic": `For your **r[car]r** you use a **r[hat]r**, some **r[ground]r** and a **r[bookshelf]r** to build a new **k[wheel]k**. I mean, it's generally **k[ring]k** and **k[loop]k** shaped, it just needs to be a **k[circle]k**, so it should work, right?`
+    },
+    886: {
+        "slug": "選",
+        "level": 13,
+        "component_subject_ids": [114, 228, 269],
+        "amalgamation_subject_ids": [3628, 3629, 4410, 4581, 6200, 6349, 7273, 8804],
+        "meanings": ["Choose"],
+        "meaning_mnemonic": `You want to get a **r[scooter]r**, so you have one self (**r[oneself]r**) and another self working **r[together]r** to **k[choose]k**. The two tiny yous sit on each of your shoulders, like angel and devil, and argue about which scooter you should choose.`
+    },
+    887: {
+        "slug": "鏡",
+        "level": 13,
+        "component_subject_ids": [118, 55, 91],
+        "amalgamation_subject_ids": [3634, 6574, 7473],
+        "meanings": ["Mirror"],
+        "meaning_mnemonic": `You can **r[see]r** **r[gold]r** if you **r[stand]r** in front of a **k[mirror]k**. Yes, you are made of gold. You’re so great and valuable, standing in front of that mirror. It’s not hard to see, especially in a mirror – you’re golden.`
+    },
+    888: {
+        "slug": "願",
+        "level": 14,
+        "component_subject_ids": [230, 184],
+        "amalgamation_subject_ids": [3637, 3638, 3675, 3690, 3894, 3941, 4124, 5286, 6339],
+        "meanings": ["Request"],
+        "meaning_mnemonic": `The **r[original]r** **r[geoduck]r** had a **k[request]k**. He wants there to be more geoducks in the world!`
+    },
+    889: {
+        "slug": "養",
+        "level": 13,
+        "component_subject_ids": [136, 8822, 2],
+        "amalgamation_subject_ids": [3639, 3640, 6746, 7233, 8465, 8514],
+        "meanings": ["Foster"],
+        "meaning_mnemonic": `**r[Sheep]r** **r[fins]r** are **r[good]r** for **k[foster]k**ing children. The sheep have been genetically combined with fish, so the sheep have fins (and they've lost their tails - which is why the tail part of the sheep radical is missing in this kanji!). These sheep fins are very rich in nutrients and as such are very good for foster children that need to grow up big and strong.`
+    },
+    890: {
+        "slug": "像",
+        "level": 13,
+        "component_subject_ids": [75, 8823],
+        "amalgamation_subject_ids": [3524, 3525, 3526, 3808, 5926, 8490],
+        "meanings": ["Statue", "Image"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[elephant]r**s was so great, they made a **k[statue]k** of him. This **k[image]k** of him looks down on all the other elephants at all times.`
+    },
+    891: {
+        "slug": "情",
+        "level": 13,
+        "component_subject_ids": [232, 120],
+        "amalgamation_subject_ids": [3539, 3540, 3541, 3542, 3611, 4089, 6436, 7538, 7640, 7953, 8078, 8672],
+        "meanings": ["Feeling", "Emotion"],
+        "meaning_mnemonic": `Your **r[soul]r** is **r[blue]r**. As in, it's sad and not feeling well. This is because your soul changes colors depending on your **k[feeling]k**s or what **k[emotion]k**s you're expressing.`
+    },
+    892: {
+        "slug": "謝",
+        "level": 13,
+        "component_subject_ids": [117, 234, 74],
+        "amalgamation_subject_ids": [3590, 3624, 6710, 8167, 8691],
+        "meanings": ["Apologize"],
+        "meaning_mnemonic": `You thought it would be a good idea to **r[say]r** the **r[body]r** **r[measurement]r**s of everyone in your village and now you have to **k[apologize]k**.`
+    },
+    893: {
+        "slug": "映",
+        "level": 13,
+        "component_subject_ids": [22, 231],
+        "amalgamation_subject_ids": [3525, 3594, 3595, 3596, 3906],
+        "meanings": ["Reflect", "Reflection"],
+        "meaning_mnemonic": `The **r[sun]r** in the **r[center]r** of the sky gives off its light, which **k[reflect]k**s off of everything around it.`
+    },
+    894: {
+        "slug": "疑",
+        "level": 13,
+        "component_subject_ids": [57, 141, 72, 420],
+        "amalgamation_subject_ids": [3531, 4186, 4286, 4398, 9244],
+        "meanings": ["Doubt"],
+        "meaning_mnemonic": `When you get home from school, your **r[mama]r** says to hang your **r[spoon]r**s and **r[arrow]r**s on the **r[coat rack]r**. That doesn't sound like something your mama would say, and you begin to **k[doubt]k** that she's your mama at all! She usually takes them and washes them in the sink. You doubt you could hang them on the coat rack even if you tried.`
+    },
+    895: {
+        "slug": "皆",
+        "level": 13,
+        "component_subject_ids": [161, 52],
+        "amalgamation_subject_ids": [3602, 3615],
+        "meanings": ["All", "Everyone", "Everything", "Everybody"],
+        "meaning_mnemonic": `If you **r[compare]r** **r[white]r** light to the other colors you'll realize... white consists of **k[all]k** the colors in one. It contains all the colors in the spectrum in one color. It is the one color that is **k[everything]k**.`
+    },
+    896: {
+        "slug": "例",
+        "level": 14,
+        "component_subject_ids": [75, 132, 128],
+        "amalgamation_subject_ids": [3655, 3656, 3657, 3658, 3659, 4218, 7880],
+        "meanings": ["Example"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[yakuza]r** shows you his **r[knife]r**. He says, "This is an **k[example]k** of a knife."`
+    },
+    897: {
+        "slug": "卒",
+        "level": 14,
+        "component_subject_ids": [8, 9, 15],
+        "amalgamation_subject_ids": [3913, 3914, 3929],
+        "meanings": ["Graduate"],
+        "meaning_mnemonic": `A **r[person]r** puts a **r[lid]r** on their **r[cross]r** after they **k[graduate]k**. It’s a symbolic gesture, putting the lid over the cross, but it’s just what you do when you graduate around these parts.`
+    },
+    898: {
+        "slug": "協",
+        "level": 14,
+        "component_subject_ids": [15, 13],
+        "amalgamation_subject_ids": [3660, 3661, 3922, 3923, 8484],
+        "meanings": ["Cooperation"],
+        "meaning_mnemonic": `Next to the **r[cross]r** we combine our **r[power]r** **r[power]r** **r[power]r** so that we have **k[cooperation]k**. And with our powers combined, we become stronger than we ever could have been apart, lifting the cross above our heads!`
+    },
+    899: {
+        "slug": "参",
+        "level": 14,
+        "component_subject_ids": [140, 18, 38],
+        "amalgamation_subject_ids": [3662, 4368, 4381, 4382, 5752, 6028, 8805],
+        "meanings": ["Participate"],
+        "meaning_mnemonic": `You can't keep **r[big]r** **r[hair]r** **r[private]r**, so you end up having to **k[participate]k** in everything. Can you imagine people asking for volunteers and you trying to look inconspicuous with your big hair sticking up and out and all over? Of course they're going to notice you and make you participate.`
+    },
+    900: {
+        "slug": "周",
+        "level": 14,
+        "component_subject_ids": [169],
+        "amalgamation_subject_ids": [3663, 3664, 3665, 7584, 7638, 8456],
+        "meanings": ["Circumference"],
+        "meaning_mnemonic": `The **r[circumference]r** radical and the **k[circumference]k** kanji are the same!`
+    },
+    901: {
+        "slug": "囲",
+        "level": 14,
+        "component_subject_ids": [16, 246],
+        "amalgamation_subject_ids": [3664, 3666, 3667, 6528, 6624, 7009],
+        "meanings": ["Surround"],
+        "meaning_mnemonic": `The **r[mouth]r** of a **r[well]r** will **k[surround]k** you if you fall into it. The mouth of a well is the opening of the well, and if you fall into that well, the mouth as well as the rest of the well will surround you.`
+    },
+    902: {
+        "slug": "固",
+        "level": 14,
+        "component_subject_ids": [16, 69],
+        "amalgamation_subject_ids": [3668, 3669, 3931, 4394, 7645, 8188],
+        "meanings": ["Hard"],
+        "meaning_mnemonic": `A **r[mouth]r** that is **r[old]r** is going to be **k[hard]k**.`
+    },
+    903: {
+        "slug": "季",
+        "level": 14,
+        "component_subject_ids": [135, 34],
+        "amalgamation_subject_ids": [3671, 4182, 5214],
+        "meanings": ["Seasons"],
+        "meaning_mnemonic": `A **r[grain]r**'s **r[child]r** will grow with the **k[seasons]k**. In spring the grain is born, it grows in summer, is harvested in fall, and dies in winter.`
+    },
+    904: {
+        "slug": "完",
+        "level": 14,
+        "component_subject_ids": [78, 64],
+        "amalgamation_subject_ids": [3672, 3673, 3674, 3915, 7643, 9006],
+        "meanings": ["Perfect"],
+        "meaning_mnemonic": `The **r[roof]r** that became the **r[origin]r** of all roofs was **k[perfect]k**. It was tall and wide so it could fit and protect everyone. And the dimensions were perfect too.`
+    },
+    905: {
+        "slug": "希",
+        "level": 14,
+        "component_subject_ids": [31, 26, 102],
+        "amalgamation_subject_ids": [3919, 3920],
+        "meanings": ["Wish"],
+        "meaning_mnemonic": `There is a **r[treasure]r** on top of a **r[narwhal]r** who wears a **r[towel]r** that will grant your greatest **k[wish]k**.`
+    },
+    906: {
+        "slug": "念",
+        "level": 14,
+        "component_subject_ids": [238, 65],
+        "amalgamation_subject_ids": [3675, 3676, 4123, 4557, 7302, 7587, 7963, 8304],
+        "meanings": ["Thought"],
+        "meaning_mnemonic": `If you live in the **r[now]r**, there’s a good chance your **r[heart]r** controls your **k[thought]k** process. You don’t have time to think with your brain, you need an answer now so you use your heart to make decisions and thought process.`
+    },
+    907: {
+        "slug": "折",
+        "level": 14,
+        "component_subject_ids": [63, 115],
+        "amalgamation_subject_ids": [3684, 3685, 3686, 3912, 3917, 7755],
+        "meanings": ["Fold", "Bend", "Break"],
+        "meaning_mnemonic": `If your **r[fingers]r** are strong enough, you can take an **r[axe]r** and **k[fold]k** it in half. But be careful not to **k[bend]k** it too far, or you might just **k[break]k** it!`
+    },
+    908: {
+        "slug": "望",
+        "level": 14,
+        "component_subject_ids": [212, 43, 48],
+        "amalgamation_subject_ids": [3687, 3688, 3689, 3690, 3919, 3920, 5191, 5523, 6893, 8889],
+        "meanings": ["Hope"],
+        "meaning_mnemonic": `Causing **r[death]r** at every turn, the **r[moon]r** **r[king]r** sits inside his moon, getting ready to cause death on anything in his sights. Sounds a lot like the Death Star from a certain movie. One of which is "Star Wars: A New **k[Hope]k**."`
+    },
+    909: {
+        "slug": "材",
+        "level": 14,
+        "component_subject_ids": [23, 264],
+        "amalgamation_subject_ids": [3691, 3692, 3693, 3694, 4442, 6336],
+        "meanings": ["Lumber", "Material", "Timber"],
+        "meaning_mnemonic": `A **r[tree]r** to a **r[genius]r** immediately becomes **k[lumber]k**. They can look at the tree and see more: the ability to turn it into lumber into **k[material]k** and use it for a million different things.`
+    },
+    910: {
+        "slug": "束",
+        "level": 14,
+        "component_subject_ids": [219],
+        "amalgamation_subject_ids": [3695, 3696, 3720, 8317],
+        "meanings": ["Bundle"],
+        "meaning_mnemonic": `The **r[bundle]r** radical and the **k[bundle]k** kanji are the same!`
+    },
+    911: {
+        "slug": "松",
+        "level": 14,
+        "component_subject_ids": [23, 237],
+        "amalgamation_subject_ids": [3697, 3698],
+        "meanings": ["Pine", "Pine Tree"],
+        "meaning_mnemonic": `When climbing a **r[tree]r** in **r[public]r**, it’s best to choose a **k[pine]k**. Pine trees offer the most coverage, so you’ll be able to hide, even out in public.`
+    },
+    912: {
+        "slug": "残",
+        "level": 14,
+        "component_subject_ids": [132, 8782],
+        "amalgamation_subject_ids": [3676, 3704, 3705, 3706, 3844, 3930, 4256, 4676, 8041, 8163],
+        "meanings": ["Remainder"],
+        "meaning_mnemonic": `**r[Yakuza]r** **r[bars]r** barely exist. The **k[remainder]k** of them aren't even in Japan.`
+    },
+    914: {
+        "slug": "的",
+        "level": 14,
+        "component_subject_ids": [52, 236],
+        "amalgamation_subject_ids": [3711, 3712, 3713, 3801, 3809, 3910, 3911, 4424, 4579, 4658, 4704, 4864, 5008, 5136, 5196, 5350, 5355, 5392, 5401, 5809, 6012, 6150, 6151, 6170, 7494, 7752, 7753, 8065, 8275, 8582],
+        "meanings": ["Target", "-al"],
+        "meaning_mnemonic": `A **r[white]r** guy jumps into a **r[pool]r** with a **k[target]k** painted on the bottom. He’s aiming for the bullseye.`
+    },
+    915: {
+        "slug": "約",
+        "level": 14,
+        "component_subject_ids": [86, 236],
+        "amalgamation_subject_ids": [3696, 3718, 3719, 3720, 4453, 5965, 6126, 7276, 8379, 8594],
+        "meanings": ["Promise"],
+        "meaning_mnemonic": `You tie a **r[thread]r** on your finger before jumping in the **r[pool]r** to remind yourself of the **k[promise]k** you made to your mother. The thread represents the promise you made to mow the lawn after you finished swimming in the pool.`
+    },
+    916: {
+        "slug": "芸",
+        "level": 14,
+        "component_subject_ids": [90, 159],
+        "amalgamation_subject_ids": [3723, 3724, 3725, 3726, 3908, 7321, 7508],
+        "meanings": ["Art", "Performance"],
+        "meaning_mnemonic": `You put **r[flowers]r** on a **r[cloud]r** and call it **k[art]k**. Not everyone agrees that your flower cloud art is actually art, but you know it is.`
+    },
+    917: {
+        "slug": "基",
+        "level": 14,
+        "component_subject_ids": [205, 17],
+        "amalgamation_subject_ids": [3670, 3911, 4622, 6206, 7286],
+        "meanings": ["Foundation"],
+        "meaning_mnemonic": `**r[Crab]r**s in the **r[dirt]r** make a great **k[foundation]k** for a seaside hut. It's right on the seashore, where all the crabs dig their holes in the dirt. But as they get old and die, their bodies form a strong base. Perfect for the foundation of a building like this!`
+    },
+    918: {
+        "slug": "性",
+        "level": 14,
+        "component_subject_ids": [232, 210],
+        "amalgamation_subject_ids": [3678, 3679, 3680, 3701, 4363, 5659, 6470, 7207, 7212, 7539, 7639, 7883, 7888],
+        "meanings": ["Gender", "Nature", "Sex"],
+        "meaning_mnemonic": `Each **r[life]r** has a **r[soul]r**, and that soul determines what **k[gender]k** you are. It's not so much about your body parts, it's more about what's inside that matters.`
+    },
+    919: {
+        "slug": "技",
+        "level": 15,
+        "component_subject_ids": [63, 81],
+        "amalgamation_subject_ids": [3681, 3682, 3683, 3921, 7506],
+        "meanings": ["Skill", "Technique"],
+        "meaning_mnemonic": `You can **r[branch]r** out your **r[fingers]r**. It's your special **k[skill]k** that requires some good **k[technique]k**s. Your fingers branch out into smaller fingers and you can hold things really well. You can type super-duper fast. And you can win any tickle fight. These are skills you have thanks to your branching fingers.`
+    },
+    920: {
+        "slug": "格",
+        "level": 14,
+        "component_subject_ids": [23, 180],
+        "amalgamation_subject_ids": [3699, 3700, 3701, 3702, 3703, 3928, 7650, 8752],
+        "meanings": ["Status"],
+        "meaning_mnemonic": `If you **r[kiss]r** a **r[tree]r**, your **k[status]k** will change to, “In a relationship with a tree.”`
+    },
+    921: {
+        "slug": "能",
+        "level": 14,
+        "component_subject_ids": [140, 43, 57],
+        "amalgamation_subject_ids": [3682, 3721, 3722, 3723, 4363, 4839, 4840, 5946, 8749],
+        "meanings": ["Ability"],
+        "meaning_mnemonic": `You keep some **r[private]r** **r[spoon]r**s on the **r[moon]r** and they give you a special **k[ability]k**. It's the ability to predict the future! The moon spoons reflect the knowledge of time and space into your brain. Now that's a cool ability!`
+    },
+    922: {
+        "slug": "術",
+        "level": 15,
+        "component_subject_ids": [111, 130, 3],
+        "amalgamation_subject_ids": [3726, 3727, 3908, 3916, 3921, 6977, 7023],
+        "meanings": ["Technique", "Art"],
+        "meaning_mnemonic": `There **r[go]r** some **r[angel]r**s with **r[drop]r**s on their shoulders. Carrying drops like that requires **k[technique]k**. It’s a real **k[art]k**.`
+    },
+    924: {
+        "slug": "骨",
+        "level": 14,
+        "component_subject_ids": [121, 76, 43],
+        "amalgamation_subject_ids": [3686, 3703, 3728, 6519, 6673, 8249, 9089],
+        "meanings": ["Bone"],
+        "meaning_mnemonic": `If you have a **r[mustache]r** and you hit your **r[forehead]r** on the **r[moon]r**, you’re probably going to break a **k[bone]k**. Ok, so it doesn’t matter so much if you have a mustache, but if you’re travelling fast enough to make it to the moon, you’re definitely breaking a bone if you run into it.`
+    },
+    925: {
+        "slug": "妥",
+        "level": 14,
+        "component_subject_ids": [8772, 19],
+        "amalgamation_subject_ids": [3922, 3923],
+        "meanings": ["Gentle"],
+        "meaning_mnemonic": `A **r[woman]r** with **r[cleat]r**s is walking on someone's back, but she doesn't want to hurt him. She has to be very **k[gentle]k**. Cleats are sharp and pointy, and not designed for back walking, so she's being extra, special gentle right now.`
+    },
+    926: {
+        "slug": "雰",
+        "level": 14,
+        "component_subject_ids": [119, 247],
+        "amalgamation_subject_ids": [3667],
+        "meanings": ["Atmosphere"],
+        "meaning_mnemonic": `**r[Part]r** **r[rain]r**, part other stuff. I imagine this is what people thought the **k[atmosphere]k** was made out of thousands of years ago.`
+    },
+    927: {
+        "slug": "頑",
+        "level": 14,
+        "component_subject_ids": [64, 184],
+        "amalgamation_subject_ids": [3669, 4767, 5017, 7280],
+        "meanings": ["Stubborn"],
+        "meaning_mnemonic": `The **r[origin]r** of the **r[geoduck]r** is a pretty **k[stubborn]k** one. The geoduck race is so stubborn that it refused to evolve into an animal that made any sense. Hence, the origin of the geoduck is one of stubbornness.`
+    },
+    928: {
+        "slug": "寺",
+        "level": 15,
+        "component_subject_ids": [192],
+        "amalgamation_subject_ids": [3943, 4127],
+        "meanings": ["Temple"],
+        "meaning_mnemonic": `The **r[temple]r** radical and the **k[temple]k** kanji are exactly the same! Brilliant.`
+    },
+    929: {
+        "slug": "岩",
+        "level": 15,
+        "component_subject_ids": [20, 54],
+        "amalgamation_subject_ids": [3754, 7206, 8564],
+        "meanings": ["Boulder"],
+        "meaning_mnemonic": `A **r[mountain]r** **r[stone]r** is probably going to be a really big stone. We're talking about a **k[boulder]k** here.`
+    },
+    930: {
+        "slug": "帰",
+        "level": 15,
+        "component_subject_ids": [128, 105, 76, 102],
+        "amalgamation_subject_ids": [3755, 6551, 8947, 9044],
+        "meanings": ["Return", "Return Home"],
+        "meaning_mnemonic": `A **r[knife]r** got stuck in **r[Wolverine]r**'s **r[forehead]r**, and he has a **r[towel]r** wrapped around it to stop the bleeding, but he really needs to **k[return home]k**.`
+    },
+    931: {
+        "slug": "春",
+        "level": 15,
+        "component_subject_ids": [8779, 22],
+        "amalgamation_subject_ids": [3759, 3760, 5016, 9087],
+        "meanings": ["Spring"],
+        "meaning_mnemonic": `When you see the **r[spring]r** **r[sun]r** you know it's finally the  **k[spring]k** season.`
+    },
+    932: {
+        "slug": "昼",
+        "level": 15,
+        "component_subject_ids": [215, 22, 1],
+        "amalgamation_subject_ids": [3763, 3940, 4489, 8670],
+        "meanings": ["Noon"],
+        "meaning_mnemonic": `The **r[sun]r** rises from the **r[ground]r**, and on top of it is a giant **r[shrimp]r**. It doesn't do anything except for every day right at **k[noon]k**, when it tells you the time. "Hey guyz, it's **k[noon]k**, mmk?"`
+    },
+    933: {
+        "slug": "晴",
+        "level": 15,
+        "component_subject_ids": [22, 120],
+        "amalgamation_subject_ids": [3767, 4441, 8707],
+        "meanings": ["Clear Up"],
+        "meaning_mnemonic": `The **r[sun]r** is out, the sky is **r[blue]r**, things have begun to **k[clear up]k**!`
+    },
+    934: {
+        "slug": "秋",
+        "level": 15,
+        "component_subject_ids": [135, 46],
+        "amalgamation_subject_ids": [3780],
+        "meanings": ["Autumn", "Fall"],
+        "meaning_mnemonic": `**r[Grain]r**s look like they're on **r[fire]r** in **k[autumn]k**. They all turn red and orange and brown, the colors of fire. It's also fun to set grains on fire in Autumn, since it's getting colder.`
+    },
+    935: {
+        "slug": "計",
+        "level": 15,
+        "component_subject_ids": [117, 15],
+        "amalgamation_subject_ids": [3789, 3790, 3791, 3792, 4255, 4693, 8229],
+        "meanings": ["Measure", "Measurement"],
+        "meaning_mnemonic": `If you want to **r[say]r** how big a **r[cross]r** is, you have to **k[measure]k** it. You can't say the size of something without measuring it first.`
+    },
+    936: {
+        "slug": "列",
+        "level": 15,
+        "component_subject_ids": [132, 128],
+        "amalgamation_subject_ids": [5107, 7543, 7951, 8168, 8392, 9281],
+        "meanings": ["Row"],
+        "meaning_mnemonic": `Take your **r[yakuza]r** **r[knife]r** and put it in a **k[row]k** with the others.`
+    },
+    937: {
+        "slug": "区",
+        "level": 15,
+        "component_subject_ids": [217, 31],
+        "amalgamation_subject_ids": [3740, 3741, 3742, 4559],
+        "meanings": ["District", "Ward"],
+        "meaning_mnemonic": `This **r[cage]r** with **r[treasure]r** in it is actually a map of the **k[district]k** the treasure is in.`
+    },
+    938: {
+        "slug": "坂",
+        "level": 15,
+        "component_subject_ids": [17, 218],
+        "amalgamation_subject_ids": [3746],
+        "meanings": ["Slope"],
+        "meaning_mnemonic": `This is **r[anti]r** **r[dirt]r**. The dirt is becoming not dirt as it goes on, forming a... **k[slope]k**! Really what is the air above a slope but anti dirt?`
+    },
+    939: {
+        "slug": "式",
+        "level": 15,
+        "component_subject_ids": [79, 25],
+        "amalgamation_subject_ids": [3758, 3914, 4762, 4937, 4938, 5505, 6136, 6493],
+        "meanings": ["Ritual", "Ceremony", "Equation"],
+        "meaning_mnemonic": `To **r[construct]r** a whole **r[ceremony]r**, you can’t just make it up on the spot. That is not a ceremony. A ceremony has a past. A ceremony is done a certain way because that’s the way it’s always been done. In short, to build a ceremony, you have to create a **k[ritual]k** first. Then, the ritual can be constructed into a bigger, more lavish **k[ceremony]k**.
+        
+        This kanji also means **k[equation]k** for some reason. Just think of a ceremony that involves doing math and coming up with equations. How strange would that be? Pretend you're at this ceremony.`
+    },
+    940: {
+        "slug": "信",
+        "level": 15,
+        "component_subject_ids": [75, 117],
+        "amalgamation_subject_ids": [3732, 3733, 3734, 3735, 3736, 3737, 3738, 4197, 5091, 6016, 6217, 6635, 7407, 8192],
+        "meanings": ["Believe", "Trust"],
+        "meaning_mnemonic": `You **r[say]r** to your **r[leader]r**, “**k[Believe]k** and **k[trust]k** in me, I’m responsible.” The leader doesn’t think you can handle your duties, so this is why you said this to him. You want him to believe and trust you. You can handle this task.`
+    },
+    941: {
+        "slug": "勇",
+        "level": 15,
+        "component_subject_ids": [141, 243],
+        "amalgamation_subject_ids": [3739, 7589, 8370],
+        "meanings": ["Courage", "Bravery", "Valor", "Valour"],
+        "meaning_mnemonic": `When a **r[mama]r** stands with a **r[man]r**, it gives him **k[courage]k**.`
+    },
+    942: {
+        "slug": "単",
+        "level": 15,
+        "component_subject_ids": [199],
+        "amalgamation_subject_ids": [3743, 3744, 5765, 5936],
+        "meanings": ["Simple"],
+        "meaning_mnemonic": `The **r[simple]r** radical and the **k[simple]k** kanji are the same!`
+    },
+    943: {
+        "slug": "司",
+        "level": 15,
+        "component_subject_ids": [8780, 8781],
+        "amalgamation_subject_ids": [3745, 5891],
+        "meanings": ["Director"],
+        "meaning_mnemonic": `A **r[creeper]r** inside of a **r[cape]r**, who are they? They’re the **k[director]k** of a movie. They try to look all mysterious, but you know it’s just so people go see their movies and think they’re cool. Really they’re just a creep deep down.`
+    },
+    944: {
+        "slug": "変",
+        "level": 15,
+        "component_subject_ids": [92, 60],
+        "amalgamation_subject_ids": [3747, 3748, 3749, 3750, 3751, 3752, 3932, 4571, 5328, 5688, 5983, 5985, 7588, 7701, 8587],
+        "meanings": ["Change", "Strange"],
+        "meaning_mnemonic": `If the snow in **r[winter]r** was **r[red]r** instead of white, that’d be a **k[strange]k** **k[change]k** wouldn’t you say? White snow is normal, red would just be strange. Can you imagine what it would be like if the winter snow changed to the color of red?`
+    },
+    945: {
+        "slug": "夫",
+        "level": 15,
+        "component_subject_ids": [146],
+        "amalgamation_subject_ids": [3753, 4280, 4282, 5145, 7151, 7277],
+        "meanings": ["Husband"],
+        "meaning_mnemonic": `The **r[husband]r** radical and the **k[husband]k** kanji are the same. How useful, unlike some husbands, I'd imagine.`
+    },
+    946: {
+        "slug": "建",
+        "level": 15,
+        "component_subject_ids": [206, 220],
+        "amalgamation_subject_ids": [3756, 3757, 3933, 3994, 3995, 3996, 4428, 4892, 6705],
+        "meanings": ["Build", "Construct"],
+        "meaning_mnemonic": `Your magic **r[yoga]r** **r[brush]r** lets you **k[build]k** what's in your mind's eye.`
+    },
+    947: {
+        "slug": "昨",
+        "level": 15,
+        "component_subject_ids": [22, 122],
+        "amalgamation_subject_ids": [3761, 3762, 8709, 8751, 9268],
+        "meanings": ["Previous", "Yesterday"],
+        "meaning_mnemonic": `With the right **r[key]r** you can unlock the **r[sun]r** to **k[yesterday]k**, or a **k[previous]k** day. The sun is in charge of the day changes, so if you use a key to unlock it, you can control the flow of time and return to yesterday, or a previous day in the past. Behold the power of the sun.`
+    },
+    948: {
+        "slug": "毒",
+        "level": 15,
+        "component_subject_ids": [210, 107],
+        "amalgamation_subject_ids": [3768, 3769, 3770, 3771, 3772, 4993],
+        "meanings": ["Poison"],
+        "meaning_mnemonic": `To throw **r[life]r** out the **r[window]r**, use **k[poison]k**.`
+    },
+    949: {
+        "slug": "法",
+        "level": 15,
+        "component_subject_ids": [103, 244],
+        "amalgamation_subject_ids": [3773, 3774, 3775, 4223, 4610, 4624, 4667, 5155, 5275, 6976, 7159, 7375, 7556, 8546],
+        "meanings": ["Method", "Law"],
+        "meaning_mnemonic": `**r[Tsunami]r**s in the **r[past]r** changed the **k[method]k**s and **k[law]k**s of today.`
+    },
+    950: {
+        "slug": "泣",
+        "level": 15,
+        "component_subject_ids": [103, 55],
+        "amalgamation_subject_ids": [3776, 3937, 3938],
+        "meanings": ["Cry"],
+        "meaning_mnemonic": `If you **r[stand]r** in front of a **r[tsunami]r**, you’re going to **k[cry]k**. That tsunami is going to hit you hard, and rip you right off the ground on which you stand. Who wouldn't cry?`
+    },
+    951: {
+        "slug": "浅",
+        "level": 15,
+        "component_subject_ids": [103, 8782],
+        "amalgamation_subject_ids": [3777],
+        "meanings": ["Shallow"],
+        "meaning_mnemonic": `If you visit a **r[bar]r** after a **r[tsunami]r**, you’ll be hanging out in **k[shallow]k** water. After a tsunami, you want to relax with a drink at the bar. Unfortunately, tsunamis cause floods, and the bar floor is immersed in shallow water.`
+    },
+    952: {
+        "slug": "紀",
+        "level": 15,
+        "component_subject_ids": [86, 228],
+        "amalgamation_subject_ids": [3782, 3783, 3934],
+        "meanings": ["Account", "Narrative"],
+        "meaning_mnemonic": `The **r[thread]r** you weave together to tell others about **r[oneself]r** is the **k[account]k** of your life. It's your very own **k[narrative]k**, tying everything you've been through together.`
+    },
+    953: {
+        "slug": "英",
+        "level": 15,
+        "component_subject_ids": [90, 231],
+        "amalgamation_subject_ids": [3784, 3785, 3786, 3787, 3788, 5293, 5604, 6299],
+        "meanings": ["England", "English"],
+        "meaning_mnemonic": `There are many **r[flowers]r** in the **r[center]r** of **k[England]k**. It may seem rainy and gray at first, but if you walk right to the center you'll see all the flowers that grow there in the center of the country.
+        
+        This kanji also means **k[English]k**, which is pretty similar to England. Just imagine all the people of England walking to the center, where the flowers are, and speaking English to them to help them grow.`
+    },
+    954: {
+        "slug": "軍",
+        "level": 15,
+        "component_subject_ids": [76, 93],
+        "amalgamation_subject_ids": [3793, 3794, 5209, 5482, 5960, 6365, 6511, 6648, 7542],
+        "meanings": ["Army"],
+        "meaning_mnemonic": `You run into someone's **r[forehead]r** with your **r[car]r**. The big forehead you hit is Kim Jong Un's. You know that now you're going to have the whole North Korean **k[army]k** coming after you.`
+    },
+    955: {
+        "slug": "飯",
+        "level": 15,
+        "component_subject_ids": [139, 218],
+        "amalgamation_subject_ids": [3795, 3796, 3935, 3939, 3940, 6304, 7126, 9275],
+        "meanings": ["Meal", "Food"],
+        "meaning_mnemonic": `If you're **r[anti]r**-**r[eat]r** your **k[meal]k** will just sit in front of you, uneaten. Food is meant to be eaten! Stop trying to fast and take a bite.`
+    },
+    956: {
+        "slug": "仏",
+        "level": 15,
+        "component_subject_ids": [75, 140],
+        "amalgamation_subject_ids": [3729, 3730, 3731, 3808, 3810, 4069, 4196, 7297],
+        "meanings": ["Buddha"],
+        "meaning_mnemonic": `Your **r[private]r** **r[leader]r** is **k[Buddha]k**. You don't feel the need to tell everyone. But when you're alone you give your time to Buddha and let him lead your life.`
+    },
+    957: {
+        "slug": "築",
+        "level": 15,
+        "component_subject_ids": [85, 241, 23],
+        "amalgamation_subject_ids": [3757, 3781, 3933, 9027],
+        "meanings": ["Construct", "Build"],
+        "meaning_mnemonic": `You **r[saw]r** down a **r[bamboo]r** **r[tree]r** to **k[construct]k** and **k[build]k** a building. Bamboo trees are great for construction, so you saw down a bunch of bamboo trees to build this new building.`
+    },
+    958: {
+        "slug": "晩",
+        "level": 15,
+        "component_subject_ids": [22, 208],
+        "amalgamation_subject_ids": [3764, 3765, 3766, 3939, 8503],
+        "meanings": ["Night", "Evening"],
+        "meaning_mnemonic": `The **r[sun]r** has an **r[excuse]r** for disappearing at **k[night]k**. The sun gets really tired, same as anyone else – so when night rolls around the sun excuses itself and goes to sleep. It’s a valid excuse.`
+    },
+    959: {
+        "slug": "猫",
+        "level": 15,
+        "component_subject_ids": [144, 90, 51],
+        "amalgamation_subject_ids": [3778, 3779, 4229, 5395],
+        "meanings": ["Cat"],
+        "meaning_mnemonic": `If you see an **r[animal]r** among the **r[flowers]r** in a **r[rice paddy]r**, chances are it’s a **k[cat]k**. Cats love rice paddy flowers, almost as much as they love catnip.`
+    },
+    960: {
+        "slug": "園",
+        "level": 16,
+        "component_subject_ids": [16, 8784],
+        "amalgamation_subject_ids": [3824, 3825, 4980, 5347, 5377, 6919, 7040, 7586],
+        "meanings": ["Garden", "Park"],
+        "meaning_mnemonic": `You examine the **r[mouth]r** of a **r[zombie]r** and find a small **k[garden]k** in there. There are even benches... it looks like a **k[park]k**.`
+    },
+    961: {
+        "slug": "曜",
+        "level": 16,
+        "component_subject_ids": [22, 105, 240],
+        "amalgamation_subject_ids": [3948, 4054, 4055, 4056, 4057, 4058, 4361, 4362],
+        "meanings": ["Weekday", "Day Of The Week"],
+        "meaning_mnemonic": `As the **r[sun]r** rises over the hills, the ferocious **r[wolverine]r** stalks a **r[turkey]r** on a **k[weekday]k** morning. The wolverine hunts turkeys for a living, but on the weekends, he likes to play racquetball at the local gym. That’s why the turkey is getting hunted on a weekday.`
+    },
+    962: {
+        "slug": "書",
+        "level": 16,
+        "component_subject_ids": [220, 22],
+        "amalgamation_subject_ids": [3843, 3865, 3879, 4062, 4104, 4105, 4106, 4107, 4142, 4143, 4188, 4350, 4355, 4447, 4539, 4589, 5732, 5769, 5774, 6600, 6704, 7052, 7476, 7704],
+        "meanings": ["Write", "Writing"],
+        "meaning_mnemonic": `Why would you try to take a **r[brush]r** to the **r[sun]r**? It's almost too obvious, because you want to **k[write]k** something down.`
+    },
+    963: {
+        "slug": "遠",
+        "level": 16,
+        "component_subject_ids": [114, 8784],
+        "amalgamation_subject_ids": [3868, 4713, 5534, 6188, 6344, 6847, 7327, 7699, 8116, 8818],
+        "meanings": ["Far"],
+        "meaning_mnemonic": `You see a **r[scooter]r** with a **r[zombie]r** on it, going really **k[far]k** away. Someone tied that zombie to the scooter and now it's far off in the distance, groaning and growling.`
+    },
+    964: {
+        "slug": "門",
+        "level": 16,
+        "component_subject_ids": [214],
+        "amalgamation_subject_ids": [3831, 3869, 7113, 7756],
+        "meanings": ["Gates", "Gate"],
+        "meaning_mnemonic": `The radical for **r[gate]r** and the kanji for **k[gates]k** are the same!`
+    },
+    965: {
+        "slug": "係",
+        "level": 16,
+        "component_subject_ids": [75, 1, 86],
+        "amalgamation_subject_ids": [3800, 3871],
+        "meanings": ["Connection"],
+        "meaning_mnemonic": `A psychic **r[leader]r** can pick a **r[thread]r** up off the **r[ground]r** and make a **k[connection]k** with the person that it came from. This leader is very powerful, so even a thread is enough for them to make a psychic connection with the person who was wearing the thread.`
+    },
+    967: {
+        "slug": "品",
+        "level": 16,
+        "component_subject_ids": [227],
+        "amalgamation_subject_ids": [3818, 3819, 3820, 3821, 3822, 3844, 4051, 4677, 4738, 5346, 6157, 7480, 7777, 8150, 8671, 8807],
+        "meanings": ["Product", "Article", "Goods", "Products"],
+        "meaning_mnemonic": `The **r[products]r** radical and the **k[product]k** kanji are exactly the same! Productive!`
+    },
+    968: {
+        "slug": "守",
+        "level": 16,
+        "component_subject_ids": [78, 74],
+        "amalgamation_subject_ids": [3801, 3828, 3829, 4093, 4094, 4287, 4395, 7702],
+        "meanings": ["Protect"],
+        "meaning_mnemonic": `Your **r[roof]r** needs **r[measurement]r**s done every year to make sure it will **k[protect]k** you properly.`
+    },
+    969: {
+        "slug": "幸",
+        "level": 16,
+        "component_subject_ids": [8, 178],
+        "amalgamation_subject_ids": [3832, 3833, 3855, 7698, 8673],
+        "meanings": ["Happiness"],
+        "meaning_mnemonic": `Put a **r[lid]r** on something **r[spicy]r** and you'll cook up pure **k[happiness]k**.`
+    },
+    970: {
+        "slug": "急",
+        "level": 16,
+        "component_subject_ids": [14, 105, 65],
+        "amalgamation_subject_ids": [3838, 3839, 3840, 3841, 3851, 4460, 5271, 5465, 6077, 7545, 8058],
+        "meanings": ["Hurry", "Sudden"],
+        "meaning_mnemonic": `A **r[wolverine]r**'s **r[heart]r** is in **r[prison]r**, so you need to **k[hurry]k** to set it free. But don't be too **k[sudden]k**, or its heart won't survive. And the wolverine's death will be on you.`
+    },
+    971: {
+        "slug": "真",
+        "level": 16,
+        "component_subject_ids": [8773, 1, 2],
+        "amalgamation_subject_ids": [3830, 3853, 3854, 5484, 5616, 5889, 6999, 7340, 8061, 8250],
+        "meanings": ["Reality"],
+        "meaning_mnemonic": `If the **r[pope]r** spends all day staring at **r[fins]r** on the **r[ground]r**, he’s going to lose touch with **k[reality]k**. He should be focusing on his popish duties, but instead he’s looking at the fish fins he dropped, and now can’t eat because they’re dirty. Silly pope. You can’t let this one thing get you down. You have other things to do.`
+    },
+    972: {
+        "slug": "箱",
+        "level": 16,
+        "component_subject_ids": [85, 23, 53],
+        "amalgamation_subject_ids": [3858, 3859, 5195, 5205],
+        "meanings": ["Box"],
+        "meaning_mnemonic": `Having a keen **r[eye]r** for woodworking, you can tell that the **r[bamboo]r** from that **r[tree]r** over there will make an excellent **k[box]k**. Boxes made from bamboo trees are very sturdy and fashionable. You have an eye for fashion as well, you see.`
+    },
+    973: {
+        "slug": "荷",
+        "level": 16,
+        "component_subject_ids": [90, 75, 113],
+        "amalgamation_subject_ids": [3860, 4061, 8806],
+        "meanings": ["Luggage"],
+        "meaning_mnemonic": `The **r[lip ring]r** wearing **r[leader]r** of the **r[Flowers]r** Gang does not carry his own **k[luggage]k** anywhere. He is so powerful, respected, and feared that people always carry his luggage for him wherever he goes. You might not think a leader of a gang called the Flowers would be intimidating, but he is.`
+    },
+    974: {
+        "slug": "面",
+        "level": 16,
+        "component_subject_ids": [250],
+        "amalgamation_subject_ids": [3799, 3873, 3874, 3875, 3876, 3878, 4262, 4846, 4932, 5160, 5267, 7249, 7315, 7491, 7641, 8498],
+        "meanings": ["Face", "Surface"],
+        "meaning_mnemonic": `The **r[face]r** radical and the **k[face]k** kanji are the same! But this isn't just a face like the one you're looking at your computer/phone with. It's the **k[surface]k** kind of face too!`
+    },
+    975: {
+        "slug": "典",
+        "level": 16,
+        "component_subject_ids": [185, 2],
+        "amalgamation_subject_ids": [3809, 3810, 3811, 3812, 4704, 7642],
+        "meanings": ["Rule"],
+        "meaning_mnemonic": `If you play **r[music]r** with your **r[fins]r**, one **k[rule]k** is that you must be a fish. You can’t play music using fish fins that don’t belong to you. That’s the rule. And it’s also rude.`
+    },
+    976: {
+        "slug": "喜",
+        "level": 17,
+        "component_subject_ids": [421, 16],
+        "amalgamation_subject_ids": [3823, 5807, 5894, 7591],
+        "meanings": ["Rejoice", "Delighted", "Pleased"],
+        "meaning_mnemonic": `If there is a **r[drum]r** in your **r[mouth]r** it's time to **k[rejoice]k**! And because of your mouth drum your rejoicing will be loud and booming!`
+    },
+    977: {
+        "slug": "府",
+        "level": 16,
+        "component_subject_ids": [62, 248],
+        "amalgamation_subject_ids": [3834, 4860, 7608],
+        "meanings": ["Government"],
+        "meaning_mnemonic": `A **r[canopy]r** **r[attach]r**ing your entire country is the **k[government]k**. They loom over you all and try to keep you all organized and together under their control.`
+    },
+    978: {
+        "slug": "治",
+        "level": 16,
+        "component_subject_ids": [103, 417],
+        "amalgamation_subject_ids": [3842, 3845, 3846, 3847, 3848, 5999, 6147, 8224, 8708, 8927],
+        "meanings": ["Cure", "Heal", "Reign", "Rule"],
+        "meaning_mnemonic": `After a **r[tsunami]r**, use this **r[machine]r** to **k[cure]k** the people and the country from the damage. **k[Heal]k**ing machines are all over Japan just in case a tsunami does way more damage than they can handle. 
+        
+        Oh, and whoever cures and heals the most people will be able to **k[rule]k** over them once everything starts going back to normal. So keep that in mind, kay?`
+    },
+    979: {
+        "slug": "浴",
+        "level": 16,
+        "component_subject_ids": [103, 249],
+        "amalgamation_subject_ids": [3849, 3850, 6651, 8377],
+        "meanings": ["Bathe"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits a **r[valley]r**, filling it up with water. Lucky for you, you're a giant, so you just lay down in the valley and use it to **k[bathe]k**.`
+    },
+    980: {
+        "slug": "笑",
+        "level": 16,
+        "component_subject_ids": [85, 40],
+        "amalgamation_subject_ids": [3856, 3857, 4060, 4063, 6094],
+        "meanings": ["Laugh"],
+        "meaning_mnemonic": `**r[Bamboo]r** **r[heaven]r** is a place for **k[laugh]k**ing. Bamboo is a very jolly plant, and they love to laugh. Even after death in bamboo heaven, the bamboo continue to laugh joyfully. Bamboo heaven is truly a place of laughter.`
+    },
+    981: {
+        "slug": "辞",
+        "level": 16,
+        "component_subject_ids": [174, 178],
+        "amalgamation_subject_ids": [3865, 3866, 3867, 4601, 5114, 6487, 6495, 7642, 7704, 8358],
+        "meanings": ["Quit", "Word"],
+        "meaning_mnemonic": `When your **r[tongue]r** becomes too **r[spicy]r** for you to bear, it’s time to **k[quit]k** the jalapeño eating contest. You’ve been eating them for three hours now and the spiciness from the peppers is really burning your tongue. Throw in the towel, it’s time to quit the contest.
+        
+        This kanji has another meaning too:
+        
+        Eating isn't the only thing that makes your **r[tongue]r** **r[spicy]r**, so do certain **k[word]k**s. Say your favorite words out loud right now. Feel them on your tongue. Words are the spicy food of language!`
+    },
+    982: {
+        "slug": "関",
+        "level": 16,
+        "component_subject_ids": [214, 8767, 40],
+        "amalgamation_subject_ids": [3870, 3871, 3951, 4053, 4374, 7647, 7811, 8979, 9021],
+        "meanings": ["Related", "Connected"],
+        "meaning_mnemonic": `This **r[gate]r** of **r[horns]r** will take you to **r[heaven]r**. These horns are **k[related]k** and **k[connected]k** to heaven in some way.`
+    },
+    984: {
+        "slug": "弁",
+        "level": 16,
+        "component_subject_ids": [140, 106],
+        "amalgamation_subject_ids": [3835, 3836, 3837, 4052, 4053, 4099, 4606, 6056, 7352, 8536],
+        "meanings": ["Dialect", "Speech"],
+        "meaning_mnemonic": `If you listened in to the **r[private]r** lives of **r[twenty]r** people, all of them would have different **k[dialect]k**s and ways of **k[speech]k**. Whether they actually use these dialects with you is another story. But when they're alone, or with other people who are from the same place, their speech will be different.`
+    },
+    985: {
+        "slug": "政",
+        "level": 16,
+        "component_subject_ids": [229, 60],
+        "amalgamation_subject_ids": [3834, 3842, 4543, 5156, 5567, 7030, 7657],
+        "meanings": ["Politics", "Government"],
+        "meaning_mnemonic": `It's **r[correct]r** in **r[winter]r** to focus on **k[politics]k** and the **k[government]k**. Elections are happening, in the new year politicians are being sworn in. Winter is government time! `
+    },
+    986: {
+        "slug": "留",
+        "level": 16,
+        "component_subject_ids": [140, 24, 51],
+        "amalgamation_subject_ids": [3829, 3852, 4059, 4094, 4287, 6365, 7502, 7503],
+        "meanings": ["Detain"],
+        "meaning_mnemonic": `A group of **r[private]r** **r[sword]r** guys are in your **r[rice paddy]r**. You must **k[detain]k** them at once! Private sword guys are people who work for private companies and use their swords on people. They're basically paid assassins. And you're going to detain them!`
+    },
+    987: {
+        "slug": "証",
+        "level": 16,
+        "component_subject_ids": [117, 229],
+        "amalgamation_subject_ids": [3805, 3861, 3862, 3863, 3947, 4062, 6106, 6490],
+        "meanings": ["Evidence", "Proof"],
+        "meaning_mnemonic": `What I **r[say]r** is **r[correct]r** 100%! You may use it as **k[evidence]k** in this murder case.`
+    },
+    988: {
+        "slug": "険",
+        "level": 16,
+        "component_subject_ids": [176, 8785],
+        "amalgamation_subject_ids": [3804, 3813, 3815],
+        "meanings": ["Risky", "Steep"],
+        "meaning_mnemonic": `Going into a **r[building]r** made by a **r[squid]r** is **k[risky]k**. First of all, squids only have tentacles, no bones, and they make all of their buildings out of risky materials like kelp and sharp coral.`
+    },
+    989: {
+        "slug": "危",
+        "level": 16,
+        "component_subject_ids": [14, 116, 158],
+        "amalgamation_subject_ids": [3815, 3816, 4297, 8567],
+        "meanings": ["Dangerous"],
+        "meaning_mnemonic": `There is a **r[prison]r** on a **r[cliff]r** surrounded by **r[snake]r**s. Now that's a **k[dangerous]k** place. If you try to escape the prison you either fall to your death off the cliff or get bitten/squeezed to death by the snakes. Can you think of anything more dangerous than this? I can't.`
+    },
+    990: {
+        "slug": "存",
+        "level": 16,
+        "component_subject_ids": [26, 8761, 34],
+        "amalgamation_subject_ids": [3802, 3826, 3827, 4269, 4482, 5417, 6018],
+        "meanings": ["Exist", "Suppose"],
+        "meaning_mnemonic": `If a **r[narwhal]r** **r[stick]r**s a **r[child]r** with its horn then you have to admit that it **k[exist]k**s. We know some of you have been doubting narwhals and whether they're real. Well now your kid is a kabob, so do you believe they exist now? I **k[suppose]k** you do.`
+    },
+    991: {
+        "slug": "専",
+        "level": 16,
+        "component_subject_ids": [15, 51, 74],
+        "amalgamation_subject_ids": [3831, 5164],
+        "meanings": ["Specialty"],
+        "meaning_mnemonic": `Sticking a **r[cross]r** into a **r[rice paddy]r** to get its **r[measurement]r**s is your **k[specialty]k**. Most people get really confused when they have to measure their rice paddies, but that's where you come in. You plant a cross right in the middle, look down it from one end to the other, and voila! You know the measurements immediately. That's why it's your specialty!`
+    },
+    992: {
+        "slug": "冒",
+        "level": 16,
+        "component_subject_ids": [22, 53],
+        "amalgamation_subject_ids": [3813],
+        "meanings": ["Dare"],
+        "meaning_mnemonic": `When the **r[sun]r** gets in your **r[eye]r**, I **k[dare]k** you to stare at it. I dare you to look right at the sun. I dare you.`
+    },
+    993: {
+        "slug": "冗",
+        "level": 16,
+        "component_subject_ids": [76, 177],
+        "amalgamation_subject_ids": [3814],
+        "meanings": ["Superfluous", "Unnecessary", "Uselessness"],
+        "meaning_mnemonic": `A **r[forehead]r** **r[table]r** is completely **k[superfluous]k**.`
+    },
+    994: {
+        "slug": "阪",
+        "level": 16,
+        "component_subject_ids": [176, 218],
+        "amalgamation_subject_ids": [3872, 3952, 4052],
+        "meanings": ["Heights", "Slope"],
+        "meaning_mnemonic": `If you're **r[anti]r**-**r[building]r**, you're probably afraid of **k[heights]k** and **k[slopes]k**. The only downside to a building is that they're high and if you fall off of them you could die. So if someone says they're anti-building, they're really just anti-heights.`
+    },
+    995: {
+        "slug": "原",
+        "level": 17,
+        "component_subject_ids": [230],
+        "amalgamation_subject_ids": [3964, 3965, 3966, 4176, 4705, 5931, 6256, 6467, 6750, 7334, 8008, 9113],
+        "meanings": ["Original", "Fundamental", "Field"],
+        "meaning_mnemonic": `The **r[original]r** radical and the **k[original]k** kanji are the same!
+        
+        This kanji can also mean **k[field]k**, probably because that's what everything originally looked like before humans: just a bunch of fields.`
+    },
+    996: {
+        "slug": "細",
+        "level": 17,
+        "component_subject_ids": [86, 51],
+        "amalgamation_subject_ids": [4025, 4348, 5366, 6910, 8020, 8023, 8855],
+        "meanings": ["Thin", "Detailed"],
+        "meaning_mnemonic": `A **r[rice paddy]r** that's like a **r[thread]r** is extremely **k[thin]k**, but also **k[detailed]k**.`
+    },
+    997: {
+        "slug": "薬",
+        "level": 17,
+        "component_subject_ids": [90, 251],
+        "amalgamation_subject_ids": [4028, 4029, 4030, 4031, 4032, 5143, 5264, 5265, 6382, 6383],
+        "meanings": ["Medicine", "Drug", "Drugs"],
+        "meaning_mnemonic": `**r[Flowers]r** can be used for **r[comfort]r**, but also for **k[medicine]k**. Sure, it’s a comfort to smell flowers because they smell nice, but one can also use them as medicine to heal people.`
+    },
+    998: {
+        "slug": "鼻",
+        "level": 17,
+        "component_subject_ids": [109, 51, 106],
+        "amalgamation_subject_ids": [4046, 4047, 4048, 4049, 4050, 4315, 5402],
+        "meanings": ["Nose"],
+        "meaning_mnemonic": `You are all by your lonesome **r[self]r** and you have to check **r[twenty]r** **r[rice paddie]r**s. The thing you have to check is the smell of all the rice paddies to see if they're ready for harvest. At each one, you open up your **k[nose]k** and smell deeply.`
+    },
+    999: {
+        "slug": "側",
+        "level": 17,
+        "component_subject_ids": [75, 94, 128],
+        "amalgamation_subject_ids": [3953, 3954, 3955, 3956, 3957, 3958, 3959, 7548],
+        "meanings": ["Side"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[shellfish]r** has a **r[knife]r** in its **k[side]k**. It's fine though, don't worry, it's just a reminder that he won the great shellfish war back when they were trying to choose the new leader.`
+    },
+    1000: {
+        "slug": "兵",
+        "level": 17,
+        "component_subject_ids": [115, 1, 2],
+        "amalgamation_subject_ids": [3960, 3961, 3962, 3963, 4347, 5211, 5872, 5990, 6485, 7194, 7546, 8132, 8183],
+        "meanings": ["Soldier"],
+        "meaning_mnemonic": `If you set a fish on the **r[ground]r** and chop its **r[fins]r** off with an **r[axe]r**, you’re probably a **k[soldier]k**. Only soldiers have access to axes, and you like to eat fish, but first you have to set it on the ground to chop its fins off.`
+    },
+    1001: {
+        "slug": "堂",
+        "level": 17,
+        "component_subject_ids": [8769, 16, 17],
+        "amalgamation_subject_ids": [3970, 6419],
+        "meanings": ["Hall", "Public Chamber"],
+        "meaning_mnemonic": `A **r[Viking]r** will empty his **r[mouth]r** of all its **r[dirt]r** in the great **k[hall]k**. They all get together in some kind of **k[public chamber]k** and dish all the dirt (literal and figurative) that they've got.`
+    },
+    1002: {
+        "slug": "塩",
+        "level": 17,
+        "component_subject_ids": [17, 8762, 16, 84],
+        "amalgamation_subject_ids": [3971, 3972, 3973, 8388],
+        "meanings": ["Salt"],
+        "meaning_mnemonic": `What's that in the  **r[dirt ]r**, a  **r[gun ]r**? It has its  **r[mouth]r** wide open, almost like it's hungry. And what does one serve a hungry gun? A  **r[plate]r** of **k[salt]k**, of course!
+        
+        `
+    },
+    1003: {
+        "slug": "席",
+        "level": 17,
+        "component_subject_ids": [8787, 102],
+        "amalgamation_subject_ids": [3978, 3979, 3980, 3981, 4097, 4251],
+        "meanings": ["Seat"],
+        "meaning_mnemonic": `In a **r[yurt]r** you use a **r[towel]r** as a **k[seat]k**.`
+    },
+    1004: {
+        "slug": "敗",
+        "level": 17,
+        "component_subject_ids": [94, 60],
+        "amalgamation_subject_ids": [4005, 4006, 4007, 4008, 4206, 5831, 7985, 8201],
+        "meanings": ["Failure", "Defeat"],
+        "meaning_mnemonic": `A **r[shellfish]r** that can't live through **r[winter]r** is a **k[failure]k**. Any proper shellfish would survive through the winter, so this is quite an embarrassing **k[defeat]k**.`
+    },
+    1005: {
+        "slug": "果",
+        "level": 17,
+        "component_subject_ids": [235],
+        "amalgamation_subject_ids": [3969, 4010, 4011, 4346, 4806, 5008, 5199, 5670, 5902, 6496, 7759, 8365],
+        "meanings": ["Fruit"],
+        "meaning_mnemonic": `The **r[fruit]r** radical and the **k[fruit]k** kanji are exactly the same! Bodacious!`
+    },
+    1006: {
+        "slug": "栄",
+        "level": 17,
+        "component_subject_ids": [8769, 23],
+        "amalgamation_subject_ids": [4012, 4013, 4014, 4033, 6428, 6440],
+        "meanings": ["Prosper", "Flourish"],
+        "meaning_mnemonic": `A **r[Viking]r** with enough **r[tree]r**s will **k[prosper]k**. Vikings need trees to build their boats and homes, and they **k[flourish]k** when they have enough.`
+    },
+    1007: {
+        "slug": "梅",
+        "level": 17,
+        "component_subject_ids": [23, 8762, 107],
+        "amalgamation_subject_ids": [4015, 4016, 4214, 9271],
+        "meanings": ["Ume", "Japanese Plum"],
+        "meaning_mnemonic": `Aiming your **r[gun]r** out the **r[window]r**, you shoot at a **r[tree]r** filled with **k[ume]k**, **k[Japanese plum]k**s. This is, in your opinion, the best way to harvest the plums – shooting at them out your window with a gun.`
+    },
+    1008: {
+        "slug": "無",
+        "level": 17,
+        "component_subject_ids": [252],
+        "amalgamation_subject_ids": [4018, 4019, 4020, 4021, 4022, 4023, 4024, 4239, 4290, 4406, 4463, 4595, 4710, 4750, 4923, 5157, 5671, 6776, 6912, 7180, 7318, 7373, 7547, 7590, 7644, 7727, 8128, 8330, 8547, 8619, 9085, 9086],
+        "meanings": ["Nothing"],
+        "meaning_mnemonic": `The **r[nothing]r** radical and the **k[nothing]k** kanji are exactly the same! Woah!`
+    },
+    1009: {
+        "slug": "結",
+        "level": 17,
+        "component_subject_ids": [86, 253],
+        "amalgamation_subject_ids": [4011, 4026, 4799, 5043, 5069, 5126, 5301, 5505, 5512, 7643],
+        "meanings": ["Bind", "Tie"],
+        "meaning_mnemonic": `You use a **r[thread]r** for **r[good luck]r** by **k[bind]k**ing two fingers together. You **k[tie]k** them nice and tight.`
+    },
+    1010: {
+        "slug": "因",
+        "level": 17,
+        "component_subject_ids": [16, 18],
+        "amalgamation_subject_ids": [3964, 3967, 3968, 3969],
+        "meanings": ["Cause"],
+        "meaning_mnemonic": `Your **r[big]r** **r[mouth]r** is the **k[cause]k** of all your problems.`
+    },
+    1011: {
+        "slug": "常",
+        "level": 17,
+        "component_subject_ids": [8769, 16, 102],
+        "amalgamation_subject_ids": [3982, 3983, 3984, 4045, 4245, 4246, 5815, 7882, 8724],
+        "meanings": ["Normal", "Ordinary", "Usual"],
+        "meaning_mnemonic": `A **r[viking]r** with a **r[mouth]r** **r[towel]r** is a totally **k[normal]k** thing. It's **k[ordinary]k**.`
+    },
+    1012: {
+        "slug": "識",
+        "level": 17,
+        "component_subject_ids": [117, 197, 194],
+        "amalgamation_subject_ids": [3984, 4042, 4043, 4239, 6517],
+        "meanings": ["Discerning", "Discriminating", "Know"],
+        "meaning_mnemonic": `If you **r[sound]r** like a **r[drunkard]r** when you **r[say]r** things, people will not think of you as a **k[discerning]k** person. "AWh yeah, that game is greatttt," you say in your drunken slurs. But, really, it sounds like you think all games are great, which isn't all that **k[discriminating]k** of you at all.`
+    },
+    1013: {
+        "slug": "非",
+        "level": 17,
+        "component_subject_ids": [209],
+        "amalgamation_subject_ids": [4009, 4045, 4245, 4246, 4339, 4841, 8254],
+        "meanings": ["Injustice", "Negative", "Mistake"],
+        "meaning_mnemonic": `A **r[criminal]r** has done an **k[injustice]k** on the world or other people. Being a criminal is a **k[negative]k** thing, and even if it was just a **k[mistake]k**, it was still a crime.`
+    },
+    1014: {
+        "slug": "干",
+        "level": 17,
+        "component_subject_ids": [61],
+        "amalgamation_subject_ids": [3985, 3986, 3987, 4214, 6621, 8109],
+        "meanings": ["Dry"],
+        "meaning_mnemonic": `The **r[dry]r** radical and the **k[dry]k** kanji are the same!`
+    },
+    1015: {
+        "slug": "是",
+        "level": 17,
+        "component_subject_ids": [22, 229],
+        "amalgamation_subject_ids": [4009],
+        "meanings": ["Absolutely"],
+        "meaning_mnemonic": `The **r[sun]r** is **r[correct]r**, **k[absolutely]k**. The mighty sun is never wrong. It is absolutely correct, always.`
+    },
+    1016: {
+        "slug": "渉",
+        "level": 17,
+        "component_subject_ids": [103, 245],
+        "amalgamation_subject_ids": [3987, 4017],
+        "meanings": ["Ford", "Wade"],
+        "meaning_mnemonic": `A **r[tsunami]r** is coming, and you want to **r[walk]r** over it, so you have to **k[ford]k** it. You don’t walk across a tsunami, you **k[wade]k** across it.`
+    },
+    1017: {
+        "slug": "虚",
+        "level": 17,
+        "component_subject_ids": [254, 8768],
+        "amalgamation_subject_ids": [4033, 4034, 6321, 7758],
+        "meanings": ["Void"],
+        "meaning_mnemonic": `A **r[tiger]r**, clad in **r[spikes]r**, exists in the **k[void]k**. This tiger is from another dimension where tigers rule the earth, clad in armor with spikes. The void has allowed this tiger to cross dimensional planes.`
+    },
+    1018: {
+        "slug": "官",
+        "level": 17,
+        "component_subject_ids": [78, 8777],
+        "amalgamation_subject_ids": [3974, 3975, 4184, 4383, 4531, 4709, 5118, 5401, 7841],
+        "meanings": ["Government"],
+        "meaning_mnemonic": `Under this **r[roof]r** is a **r[bear]r** who works for the **k[government]k**. If you saw a bear out in the wild you might be afraid and try to run, but if you see a bear inside a building under a roof, don't be scared! It's just a government bear.`
+    },
+    1019: {
+        "slug": "察",
+        "level": 17,
+        "component_subject_ids": [78, 8825],
+        "amalgamation_subject_ids": [3976, 3977, 4044, 4349, 4383, 4708, 5281],
+        "meanings": ["Guess"],
+        "meaning_mnemonic": `If you're on the **r[roof]r** of the **r[festival]r** you'll have to **k[guess]k** what's actually going on below you. You can kind of see that there are rides and maybe food? It smells like food. But you have to guess on the specifics because you're above it and not in it.`
+    },
+    1020: {
+        "slug": "底",
+        "level": 17,
+        "component_subject_ids": [62, 147, 1],
+        "amalgamation_subject_ids": [3991, 3992, 3993, 6478, 8729],
+        "meanings": ["Bottom"],
+        "meaning_mnemonic": `Under a **r[canopy]r** your **r[clan]r** digs in the **r[ground]r**, trying to get to the **k[bottom]k**. They want to build a nice home your entire clan can live in, but they need to get to the bottom before they'll start building.`
+    },
+    1021: {
+        "slug": "愛",
+        "level": 17,
+        "component_subject_ids": [8772, 76, 65, 60],
+        "amalgamation_subject_ids": [3999, 4000, 4001, 4002, 4004, 4077, 7106, 7700, 7757, 7792, 7794, 8672],
+        "meanings": ["Love"],
+        "meaning_mnemonic": `Putting on **r[cleats]r** in the **r[heart]r** of **r[winter]r** and braving the harsh elements just to plant a kiss on your sweetheart’s **r[forehead]r** – that’s **k[love]k**. Sure, you could see them another day, but you need to plant this smooch on their forehead today, so you get some cleats for better grip on the winter snow and you keep thoughts of your dear in your heart as you travel to see your love.`
+    },
+    1022: {
+        "slug": "署",
+        "level": 17,
+        "component_subject_ids": [163, 203],
+        "amalgamation_subject_ids": [4027, 4349],
+        "meanings": ["Government Office", "Political Office", "Office"],
+        "meaning_mnemonic": `This **r[net]r** is for **r[someone]r** who works in a **k[government office]k**. You'll also take someone from a **k[political office]k**.`
+    },
+    1023: {
+        "slug": "警",
+        "level": 17,
+        "component_subject_ids": [255, 60, 117],
+        "amalgamation_subject_ids": [4044, 4184, 4349, 4383, 4707, 4708, 6398, 6865, 7592],
+        "meanings": ["Warn", "Admonish"],
+        "meaning_mnemonic": `You have a **r[poem]r** about **r[winter]r** that you **r[say]r** to **k[warn]k** people against going outside. It's cold and dangerous in winter! You **k[admonish]k** anyone and everyone you see going out there with your scary winter poem.`
+    },
+    1024: {
+        "slug": "恋",
+        "level": 17,
+        "component_subject_ids": [92, 65],
+        "amalgamation_subject_ids": [3997, 3998, 4001, 4203, 9035],
+        "meanings": ["Romance", "Love"],
+        "meaning_mnemonic": `A **r[red]r** **r[heart]r** is the symbol of **k[romance]k** and **k[love]k**. Red hearts are very romantic and giving a red heart to your sweetheart is a great way to romance them.`
+    },
+    1025: {
+        "slug": "覚",
+        "level": 17,
+        "component_subject_ids": [8769, 91],
+        "amalgamation_subject_ids": [3989, 4035, 4036, 4711, 7282, 7550, 8332, 8712],
+        "meanings": ["Memorize", "Awake"],
+        "meaning_mnemonic": `**r[Viking]r** **r[see]r**, Viking **k[memorize]k**. That’s how Vikings learn things. They see something, and then they memorize it. Quite simple, really.
+        
+        It can also mean **k[awake]k**. Just remember that a viking can't see if it isn't awake. There won't be anything to memorize if their eyes are still closed, after all!`
+    },
+    1026: {
+        "slug": "説",
+        "level": 17,
+        "component_subject_ids": [117, 422],
+        "amalgamation_subject_ids": [4037, 4038, 4039, 4040, 4041, 4201, 4350, 4388, 5201, 7486],
+        "meanings": ["Theory"],
+        "meaning_mnemonic": `What do you **r[say]r** to a **r[guard]r**? Your **k[theory]k** about how the thing he's guarding isn't even real. Yeah, you have this whole thing figured out. You have for a while. At this point, it's only fair that you tell your theory to the guard who's wasting his time.`
+    },
+    1027: {
+        "slug": "幻",
+        "level": 17,
+        "component_subject_ids": [87, 8780],
+        "amalgamation_subject_ids": [3988, 3989, 3990, 6745],
+        "meanings": ["Illusion"],
+        "meaning_mnemonic": `You hide **r[poop]r** in a **r[cape]r** as part of the **k[illusion]k** in your magic show. Your acts are kind of gross and this one involves creating the illusion of disappearing poop by hiding it within the folds of your cape.`
+    },
+    1028: {
+        "slug": "訓",
+        "level": 18,
+        "component_subject_ids": [117, 21],
+        "amalgamation_subject_ids": [4135, 4144, 4145, 4364, 6397],
+        "meanings": ["Instruction"],
+        "meaning_mnemonic": `You **r[say]r** stuff to a **r[river]r**, giving it **k[instruction]k**. This river is a new river so it needs you to say things, giving it instruction on what to do. Otherwise the river wouldn’t know how to behave.`
+    },
+    1030: {
+        "slug": "弓",
+        "level": 18,
+        "component_subject_ids": [36],
+        "amalgamation_subject_ids": [4100, 4101, 4293],
+        "meanings": ["Bow"],
+        "meaning_mnemonic": `The **r[bow]r** radical and the **k[bow]k** kanji are exactly the same!`
+    },
+    1031: {
+        "slug": "告",
+        "level": 18,
+        "component_subject_ids": [5, 17, 16],
+        "amalgamation_subject_ids": [4081, 4082, 4083, 4084, 4085, 4086, 4789, 5218, 5579, 5639, 6296, 6396, 7592],
+        "meanings": ["Announce"],
+        "meaning_mnemonic": `Saying you're going to **r[slide]r** the **r[dirt]r** out of your **r[mouth]r** is just another way of saying you're going to **k[announce]k** something. All that information is the dirt, and to announce that dirt you just slide it on out of your mouth. How's that for a visual?`
+    },
+    1032: {
+        "slug": "種",
+        "level": 18,
+        "component_subject_ids": [135, 188],
+        "amalgamation_subject_ids": [4130, 4160, 9071],
+        "meanings": ["Kind", "Type", "Seed"],
+        "meaning_mnemonic": `If a **r[grain]r** seems extra **r[heavy]r**, you know it's a different **k[kind]k**. Not all **k[type]k**s of grains are the same. So when you feel the heavy type, you know it isn't the same as the light kind.`
+    },
+    1033: {
+        "slug": "達",
+        "level": 18,
+        "component_subject_ids": [114, 260],
+        "amalgamation_subject_ids": [4151, 4152, 4153, 4154, 4365, 7075, 7549, 7646],
+        "meanings": ["Attain", "Plural"],
+        "meaning_mnemonic": `For **r[happiness]r**, a **r[scooter]r** is the best way to **k[attain]k** it—**k[plural]k** scooters would be even better. Everyone loves a good scooter. And as they say, the path to attaining happiness is littered with plural scooters.`
+    },
+    1034: {
+        "slug": "類",
+        "level": 18,
+        "component_subject_ids": [98, 18, 184],
+        "amalgamation_subject_ids": [4158, 4159, 4160, 4161, 4344, 4355, 4958, 8306],
+        "meanings": ["Type", "Category", "Kind"],
+        "meaning_mnemonic": `A **r[big]r** **r[geoduck]r** loves to eat **r[rice]r** of every **k[type]k**, **k[kind]k**, and **k[category]k**. It doesn’t matter what kind of rice it is, this big geoduck will eat it.`
+    },
+    1035: {
+        "slug": "報",
+        "level": 18,
+        "component_subject_ids": [260, 145, 30],
+        "amalgamation_subject_ids": [4086, 4089, 4090, 4091, 4092, 6683, 7762, 8156, 8330],
+        "meanings": ["News", "Report"],
+        "meaning_mnemonic": `You want to share **r[happiness]r** with people so you **r[stamp]r** **r[stool]r**s with the **k[news]k**. Now when people want a **k[report]k** of all the happy things going on, they can just look down before they sit.`
+    },
+    1037: {
+        "slug": "等",
+        "level": 18,
+        "component_subject_ids": [85, 192],
+        "amalgamation_subject_ids": [4131, 4132, 4133, 4134, 5486, 7348, 7703, 7760, 8711],
+        "meanings": ["Equal"],
+        "meaning_mnemonic": `The **r[bamboo]r** **r[temple]r** is **k[equal]k** to all of the other non-bamboo temples. Just because it's made of bamboo doesn't make it any less special and spiritual.`
+    },
+    1038: {
+        "slug": "汽",
+        "level": 18,
+        "component_subject_ids": [103, 82],
+        "amalgamation_subject_ids": [4351, 4352, 4359],
+        "meanings": ["Steam"],
+        "meaning_mnemonic": `The water from a **r[tsunami]r** can create a lot of **r[energy]r** when made into **k[steam]k**. Steam power used to be all the rage back in the day. Steam comes from water, water comes from tsunamis, so logically, tsunamis are a great source of energy.`
+    },
+    1039: {
+        "slug": "借",
+        "level": 18,
+        "component_subject_ids": [75, 256],
+        "amalgamation_subject_ids": [4064, 4065, 4066, 4067, 4264],
+        "meanings": ["Borrow"],
+        "meaning_mnemonic": `**r[Long ago]r**, a great **r[leader]r** thought to **k[borrow]k** something precious from you. This leader did not return the thing he borrowed, and now he will pay.`
+    },
+    1040: {
+        "slug": "焼",
+        "level": 18,
+        "component_subject_ids": [46, 257],
+        "amalgamation_subject_ids": [4115, 4116, 4117, 4118, 4119, 4356, 4370, 5514, 5761, 6506, 8848],
+        "meanings": ["Bake", "Cook", "Burn"],
+        "meaning_mnemonic": `A **r[gambler]r** sets **r[fire]r** to his home in order to **k[bake]k** some goods and **k[cook]k** a turkey. Setting his house on fire isn’t exactly the brightest idea, but the gambler is taking a gamble that the things he baked and cooked in the fire will offset the cost of a new home. 
+        
+        This kanji also means **k[burn]k**, because when you cook or bake something for too long, that's exactly what it does.`
+    },
+    1041: {
+        "slug": "座",
+        "level": 18,
+        "component_subject_ids": [62, 9, 17],
+        "amalgamation_subject_ids": [4095, 4096, 4097, 4098, 6416, 6691, 7479, 8025],
+        "meanings": ["Sit", "Seat"],
+        "meaning_mnemonic": `There are two **r[people]r** under a **r[canopy]r** on the **r[dirt]r**. What are they doing? It's a thing called **k[sit]k**ting. They're using the dirt as a **k[seat]k** for their butts.`
+    },
+    1042: {
+        "slug": "忘",
+        "level": 18,
+        "component_subject_ids": [212, 65],
+        "amalgamation_subject_ids": [4102, 4103, 4294, 5007],
+        "meanings": ["Forget"],
+        "meaning_mnemonic": `The **r[death]r** of your **r[heart]r** will cause you to **k[forget]k** all of the most important things. People think memories are kept in your brain, but that's not true. Your heart is where all of your most precious memories are kept, and when it dies, you forget them all.`
+    },
+    1043: {
+        "slug": "洗",
+        "level": 18,
+        "component_subject_ids": [103, 258],
+        "amalgamation_subject_ids": [4111, 4112, 4113, 4114, 4140, 4353, 6381, 6458, 7467, 7806, 7807, 7808, 8003, 8221, 8813],
+        "meanings": ["Wash"],
+        "meaning_mnemonic": `The **r[previous]r** **r[tsunami]r** gave everything in this town a good **k[wash]k**. There are many Laundromats in this town so when the previous tsunami hit, all of the detergent mixed with the water and gave everything a good wash.`
+    },
+    1044: {
+        "slug": "胸",
+        "level": 18,
+        "component_subject_ids": [43, 14, 262],
+        "amalgamation_subject_ids": [4136, 4356],
+        "meanings": ["Chest", "Breast"],
+        "meaning_mnemonic": `In a **r[prison]r** on the **r[moon]r** lies a **r[treasure chest]r** containing a golden **k[chest]k** piece. This mighty chest armor will grant you protection from nearly any attack, for it is imbued with moon magic.`
+    },
+    1045: {
+        "slug": "脳",
+        "level": 18,
+        "component_subject_ids": [43, 8783, 262],
+        "amalgamation_subject_ids": [4137, 4138, 4139, 4140],
+        "meanings": ["Brain"],
+        "meaning_mnemonic": `Nestled in the light of the **r[moon]r** in the **r[grass]r** is a **r[treasure chest]r** that you can see with your **k[brain]k**. You close your eyes, and you can see the spot, but it's kept deep in your brain, and you have to use its power to find it.`
+    },
+    1046: {
+        "slug": "僧",
+        "level": 18,
+        "component_subject_ids": [75, 259],
+        "amalgamation_subject_ids": [4068, 4069, 4128, 7298, 8871],
+        "meanings": ["Priest", "Monk"],
+        "meaning_mnemonic": `A religious **r[leader]r** wearing a **r[mask]r** could be either a **k[monk]k** or a **k[priest]k**. You don’t know, their face is covered by a mask!`
+    },
+    1047: {
+        "slug": "禅",
+        "level": 18,
+        "component_subject_ids": [80, 199],
+        "amalgamation_subject_ids": [4096, 4127, 4128, 5227],
+        "meanings": ["Zen", "Zen Buddhism"],
+        "meaning_mnemonic": `You want your **r[spirit]r** to be **r[simple]r** so you practice **k[Zen Buddhism]k**. Zen is all about meditating and letting earthly things go. There's nothing more simple for your spirit than being **k[Zen]k**.`
+    },
+    1049: {
+        "slug": "可",
+        "level": 18,
+        "component_subject_ids": [113],
+        "amalgamation_subject_ids": [4077, 4078, 4080, 4357, 4363, 4656, 4839, 4840, 6882, 7083],
+        "meanings": ["Possible", "Passable"],
+        "meaning_mnemonic": `With a **r[lip ring]r**, anything is **k[possible]k**. Having a lip ring grants you the power to conquer any obstacle, achieve any goal. As long as it's a **k[passable]k** lip ring, that is. If it isn't good enough, it isn't possible to be passable.`
+    },
+    1050: {
+        "slug": "許",
+        "level": 18,
+        "component_subject_ids": [117, 415],
+        "amalgamation_subject_ids": [4078, 4146, 6024, 6291],
+        "meanings": ["Permit", "Allow"],
+        "meaning_mnemonic": `**r[Say]r** it at **r[noon]r**. That's the only time I will **k[allow]k** you to say it. That's the only time I will **k[permit]k** you to say it. Other than that, no saying anything. Noon is your window.`
+    },
+    1051: {
+        "slug": "枚",
+        "level": 18,
+        "component_subject_ids": [23, 60],
+        "amalgamation_subject_ids": [4108, 4109, 4110, 4141, 7454],
+        "meanings": ["Flat Object Counter", "Counter For Flat Objects"],
+        "meaning_mnemonic": `In the **r[winter]r**, one can use a sliced up **r[tree]r** as a **k[flat object counter]k**. Since it’s winter, all the leaves have fallen off the tree, so it’s easy to cut into slats. These slats can be used as counters for flat objects, such as these slats.`
+    },
+    1052: {
+        "slug": "静",
+        "level": 18,
+        "component_subject_ids": [120, 261],
+        "amalgamation_subject_ids": [4155, 4156, 4157, 4366, 5122, 8131, 8269, 8591],
+        "meanings": ["Quiet"],
+        "meaning_mnemonic": `**r[Conflict]r** in **r[blue]r** water is made **k[quiet]k** by the muffling power of water. Under this blue water is a great conflict between two sea monsters, but on the surface it appears peaceful and quiet as the water prevents sound from rising above the surface.`
+    },
+    1053: {
+        "slug": "句",
+        "level": 18,
+        "component_subject_ids": [242],
+        "amalgamation_subject_ids": [4075, 4076, 4224, 4651],
+        "meanings": ["Paragraph"],
+        "meaning_mnemonic": `The **r[paragraph]r** radical and the **k[paragraph]k** kanji are exactly the same!`
+    },
+    1054: {
+        "slug": "禁",
+        "level": 18,
+        "component_subject_ids": [23, 207],
+        "amalgamation_subject_ids": [4076, 4125, 4126, 4312, 5513, 5574, 7839, 8455, 8710],
+        "meanings": ["Prohibit", "Prohibition"],
+        "meaning_mnemonic": `Killing two **r[tree]r**s with a **r[jackhammer]r** is expressly **k[prohibit]k**ed. Don't get me wrong, you can rip up one tree with your jackhammer, but not two.`
+    },
+    1055: {
+        "slug": "喫",
+        "level": 18,
+        "component_subject_ids": [16, 210, 24, 18],
+        "amalgamation_subject_ids": [4087, 4088],
+        "meanings": ["Consume"],
+        "meaning_mnemonic": `In your **r[mouth]r** you put your **r[life]r** on the line by putting in a **r[sword]r** that is **r[big]r**. You put it all the way down there, so you **k[consume]k** it.`
+    },
+    1056: {
+        "slug": "煙",
+        "level": 18,
+        "component_subject_ids": [46, 424, 17],
+        "amalgamation_subject_ids": [4087, 4120, 4121, 4125, 4303, 7869],
+        "meanings": ["Smoke"],
+        "meaning_mnemonic": `You have a **r[fire]r** going on some **r[dirt]r** when a **r[helicopter]r** flies overhead. This causes **k[smoke]k** from the fire and the dirt to spread everywhere! It's in your eyes, your mouth, your ears! The smoke gets in your lungs and you can't breathe. Why helicopter, why!`
+    },
+    1057: {
+        "slug": "加",
+        "level": 19,
+        "component_subject_ids": [13, 16],
+        "amalgamation_subject_ids": [4175, 4367, 4368, 4381, 4382, 4401, 4459, 6920, 8936],
+        "meanings": ["Add"],
+        "meaning_mnemonic": `Your **r[mouth]r** has the **r[power]r** to **k[add]k** words together to form a sentence. Marvel at the massive and mighty power your mouth holds! You add words together in an amazing fashion!`
+    },
+    1058: {
+        "slug": "節",
+        "level": 19,
+        "component_subject_ids": [85, 196, 145],
+        "amalgamation_subject_ids": [4182, 4224, 7833, 8979, 9161, 9165],
+        "meanings": ["Season", "Joint"],
+        "meaning_mnemonic": `On the bottom of **r[bamboo]r** **r[root]r**s there is a **r[stamp]r** that tells the **k[season]k** in which it was cut. We've been putting these season stamps on bamboo, and later pretty much every perishable food, for a long, long time.`
+    },
+    1059: {
+        "slug": "減",
+        "level": 19,
+        "component_subject_ids": [103, 5, 194, 8781],
+        "amalgamation_subject_ids": [4175, 4222, 4223, 4392, 4401, 5067, 5394, 6125, 8346],
+        "meanings": ["Decrease"],
+        "meaning_mnemonic": `There's a **r[tsunami]r** coming, but the escape **r[slide]r** is being blocked by a **r[drunkard]r** and **r[creeper]r**, and you can see your chances of escaping **k[decrease]k** rapidly.`
+    },
+    1060: {
+        "slug": "順",
+        "level": 19,
+        "component_subject_ids": [21, 184],
+        "amalgamation_subject_ids": [4247, 4248, 4249, 4250, 4251, 4252, 4253, 5520, 7601],
+        "meanings": ["Order", "Sequence"],
+        "meaning_mnemonic": `For a **r[geoduck]r** to make it into a **r[river]r**, it must know the **k[sequence]k** and **k[order]k** of water flow. Geoducks usually live in the ocean, not in a river, so they must study the order of water flow in order to determine the best sequence for making it into a river.`
+    },
+    1061: {
+        "slug": "容",
+        "level": 19,
+        "component_subject_ids": [78, 249],
+        "amalgamation_subject_ids": [4185, 4186, 4187, 4209, 4398, 7481, 7975, 8501, 8652],
+        "meanings": ["Form", "Appearance"],
+        "meaning_mnemonic": `If you put a **r[roof]r** over a **r[valley]r** it will change its **k[form]k**. Its **k[appearance]k** will alter completely! `
+    },
+    1062: {
+        "slug": "布",
+        "level": 19,
+        "component_subject_ids": [26, 102],
+        "amalgamation_subject_ids": [4190, 4191, 4192, 4193, 4194, 4207, 7050, 7098, 7244, 7445, 7595],
+        "meanings": ["Cloth"],
+        "meaning_mnemonic": `To a **r[narwhal]r**, a **r[towel]r** is just normal **k[cloth]k**. They're always wet so towel cloth is all they know.`
+    },
+    1063: {
+        "slug": "易",
+        "level": 19,
+        "component_subject_ids": [172],
+        "amalgamation_subject_ids": [4208, 4209, 5598, 5955, 6139],
+        "meanings": ["Easy"],
+        "meaning_mnemonic": `The **r[easy]r** radical and the **k[easy]k** kanji are the same!`
+    },
+    1064: {
+        "slug": "財",
+        "level": 19,
+        "component_subject_ids": [94, 264],
+        "amalgamation_subject_ids": [4192, 4240, 4244],
+        "meanings": ["Wealth"],
+        "meaning_mnemonic": `Give **r[shellfish]r** to a **r[genius]r** and they'll have no problem accumulating **k[wealth]k**. Geniuses can make loads of money out of pretty much anything, so shellfish are like easy-mode.`
+    },
+    1065: {
+        "slug": "若",
+        "level": 19,
+        "component_subject_ids": [90, 362],
+        "amalgamation_subject_ids": [4190, 4230, 4231, 4232, 6877],
+        "meanings": ["Young"],
+        "meaning_mnemonic": `There are **r[flowers]r** on your **r[right]r** to show that you're still **k[young]k**. Your body still works, you're happy, you have your entire life ahead of you! And everything smells like flowers.`
+    },
+    1066: {
+        "slug": "詞",
+        "level": 19,
+        "component_subject_ids": [117, 266],
+        "amalgamation_subject_ids": [4187, 4233, 4234, 4235, 4236, 4237, 4238, 4394, 4396, 4545, 7480, 7481, 7651],
+        "meanings": ["Part Of Speech", "Speech Particle", "Particle Of Speech", "Grammar Particle"],
+        "meaning_mnemonic": `What you **r[say]r** to the **r[director]r** is judged immediately. You're having trouble understanding this **k[part of speech]k**, so he's trying to help you. But you say it over and over and he keeps saying you're wrong.`
+    },
+    1067: {
+        "slug": "昆",
+        "level": 19,
+        "component_subject_ids": [22, 161],
+        "amalgamation_subject_ids": [4207, 9039],
+        "meanings": ["Insect"],
+        "meaning_mnemonic": `If the **r[sun]r** is **r[compare]r**d to an **k[insect]k**, you’ll see that they're both shiny, but that the sun is much shinier than the insect.`
+    },
+    1068: {
+        "slug": "閥",
+        "level": 19,
+        "component_subject_ids": [214, 75, 194],
+        "amalgamation_subject_ids": [4244],
+        "meanings": ["Clique", "Clan"],
+        "meaning_mnemonic": `Passed out in front of the **r[gate]r** lies a **r[drunkard]r** who used to be the **r[leader]r** of a popular **k[clique]k**, the Cool Kids **k[Clan]k**. Once, he was a leader, but now he is but a drunkard. The clan has fallen apart, and he no longer has a clique to call his own.`
+    },
+    1069: {
+        "slug": "歴",
+        "level": 19,
+        "component_subject_ids": [116, 23, 44],
+        "amalgamation_subject_ids": [4188, 4215, 4216, 8416],
+        "meanings": ["Continuation"],
+        "meaning_mnemonic": `You **r[stop]r** at a **r[cliff]r** with a **r[tree]r** on it, realizing that **k[continuation]k** is impossible unless you find some way to bridge the gap to the other side of the cliff. The tree seems long enough to reach to the other side, but how are you going to chop it down?`
+    },
+    1070: {
+        "slug": "舌",
+        "level": 19,
+        "component_subject_ids": [174],
+        "amalgamation_subject_ids": [4141, 4228, 4229],
+        "meanings": ["Tongue"],
+        "meaning_mnemonic": `The **r[tongue]r** radical and the **k[tongue]k** kanji are exactly the same! Yee-haw!`
+    },
+    1071: {
+        "slug": "冊",
+        "level": 19,
+        "component_subject_ids": [226],
+        "amalgamation_subject_ids": [4170, 4171, 4172, 4173, 4174],
+        "meanings": ["Book Counter", "Counter For Books"],
+        "meaning_mnemonic": `You use a **r[bookshelf]r** as a **k[book counter]k**. Duh. What are you gonna count them one by one? Okay, well maybe, but you should count them while they're nice and organized and on shelves. Otherwise counting is going to be a huge pain.`
+    },
+    1072: {
+        "slug": "宇",
+        "level": 19,
+        "component_subject_ids": [78, 61],
+        "amalgamation_subject_ids": [4183, 4385, 4386],
+        "meanings": ["Outer Space"],
+        "meaning_mnemonic": `You use a **r[roof]r** to keep yourself **r[dry]r** and safe from **k[outer space]k**. Look outside, above your roof, and you'll see outer space stretching above you.`
+    },
+    1073: {
+        "slug": "宙",
+        "level": 19,
+        "component_subject_ids": [78, 268],
+        "amalgamation_subject_ids": [4183, 4385, 4386, 7761],
+        "meanings": ["Midair"],
+        "meaning_mnemonic": `You jumped off your **r[roof]r** for some **r[reason]r** and now you're floating in **k[midair]k**! You kick your legs a bit and move your arms like you're in water, but you're still just stuck there in midair.`
+    },
+    1074: {
+        "slug": "忙",
+        "level": 19,
+        "component_subject_ids": [232, 212],
+        "amalgamation_subject_ids": [4202, 7552, 8638],
+        "meanings": ["Busy"],
+        "meaning_mnemonic": `You'll work your **r[soul]r** to **r[death]r** if you're too **k[busy]k**. Being busy just isn't good for your soul. Take breaks. Go on vacation. Don't be so busy that you destroy yourself.`
+    },
+    1075: {
+        "slug": "履",
+        "level": 19,
+        "component_subject_ids": [37, 99, 265],
+        "amalgamation_subject_ids": [4188, 4189, 4387],
+        "meanings": ["Boots"],
+        "meaning_mnemonic": `A **r[flag]r** **r[loiter]r**s in a **r[black hole]r**. This flag marks (in the black hole) where you left your **k[boots]k**.`
+    },
+    1076: {
+        "slug": "団",
+        "level": 19,
+        "component_subject_ids": [16, 74],
+        "amalgamation_subject_ids": [4179, 4180, 4193, 4397, 4665, 5810, 6374, 7266, 8616],
+        "meanings": ["Group"],
+        "meaning_mnemonic": `Use your **r[mouth]r** to take a **r[measurement]r** of this **k[group]k**. Just stretch your mouth out and around every single person. Get 'em all in there.`
+    },
+    1077: {
+        "slug": "暴",
+        "level": 19,
+        "component_subject_ids": [22, 269, 45],
+        "amalgamation_subject_ids": [4210, 4211, 4212, 4213, 4397, 4399, 6672, 8042, 8057],
+        "meanings": ["Violence"],
+        "meaning_mnemonic": `When the **r[sun]r** gets **r[together]r** with **r[water]r**, only **k[violence]k** can ensue. They don’t mix well together. The sun loves to fight water and water loves to fight the sun. Lots and lots of violence.`
+    },
+    1078: {
+        "slug": "混",
+        "level": 19,
+        "component_subject_ids": [103, 22, 161],
+        "amalgamation_subject_ids": [4168, 4220, 4221, 4389, 4390, 4391, 8674],
+        "meanings": ["Mix"],
+        "meaning_mnemonic": `**r[Compare]r** the **r[sun]r** with a **r[tsunami]r** – these two things don’t **k[mix]k**. If a tsunami is coming, it will likely get in the way of the sun.`
+    },
+    1079: {
+        "slug": "乱",
+        "level": 19,
+        "component_subject_ids": [174, 211],
+        "amalgamation_subject_ids": [4166, 4167, 4168, 4212, 4384, 4391, 8333],
+        "meanings": ["Riot", "Disorder"],
+        "meaning_mnemonic": `If you stab somebody in the **r[tongue]r** with an **r[umbrella]r**, it’s sure to start a **k[riot]k** and cause **k[disorder]k**. Nobody likes to get stabbed in the tongue with an umbrella, so they’re probably going to retaliate, and before you know it, you’ve a full scale riot on your hands. Look what you’ve done.`
+    },
+    1080: {
+        "slug": "徒",
+        "level": 19,
+        "component_subject_ids": [99, 124],
+        "amalgamation_subject_ids": [4195, 4196, 4197],
+        "meanings": ["Junior", "Follower"],
+        "meaning_mnemonic": `“Don’t **r[loiter]r** – **r[run]r**, **k[Junior]k**!” said Indiana Jones Senior to Indiana Jones Junior. They’re escaping from a sticky situation and Junior was just loitering around like a fool. It’s no time to loiter, it’s time to run!`
+    },
+    1081: {
+        "slug": "得",
+        "level": 19,
+        "component_subject_ids": [99, 22, 192],
+        "amalgamation_subject_ids": [4198, 4199, 4200, 4201, 4388, 5848, 6421, 7649, 7709, 7765],
+        "meanings": ["Acquire"],
+        "meaning_mnemonic": `If you **r[loiter]r** around the **r[sun]r** **r[temple]r**, it's likely you'll **k[acquire]k** something. When you loiter around like that it looks like you're waiting for something, so if someone puts something in your hands and you just happen to acquire it, well, no one can fault you for that.`
+    },
+    1082: {
+        "slug": "改",
+        "level": 19,
+        "component_subject_ids": [228, 60],
+        "amalgamation_subject_ids": [4177, 4204, 4205, 4981, 7383, 8944],
+        "meanings": ["Renew"],
+        "meaning_mnemonic": `It's important to focus **r[oneself]r** in **r[winter]r** so that one can emerge **k[renew]k**ed! You can't really go outside in winter without getting cold or sick, so spend winter focusing on YOU.`
+    },
+    1083: {
+        "slug": "続",
+        "level": 19,
+        "component_subject_ids": [86, 439],
+        "amalgamation_subject_ids": [4226, 4227, 4242, 4393, 4402],
+        "meanings": ["Continue"],
+        "meaning_mnemonic": `You have to **r[sell]r** **r[thread]r** if you want to **k[continue]k** to live. You want to make a living don’t you? Make sure you continue to sell that thread every single day!`
+    },
+    1084: {
+        "slug": "連",
+        "level": 19,
+        "component_subject_ids": [114, 93],
+        "amalgamation_subject_ids": [4242, 4243, 4372, 5964, 6261, 7365, 7551, 7593, 7647, 7925, 7945],
+        "meanings": ["Take Along", "Connect"],
+        "meaning_mnemonic": `Both a **r[scooter]r** and a **r[car]r** are things you'll **k[take along]k** with you. If you want to take both along, you should **k[connect]k** them to each other to make it easier.`
+    },
+    1085: {
+        "slug": "善",
+        "level": 19,
+        "component_subject_ids": [136, 8767, 1, 16],
+        "amalgamation_subject_ids": [4177, 4178, 7795],
+        "meanings": ["Morally Good", "Good"],
+        "meaning_mnemonic": `A **r[sheep]r** loses its **r[horns]r** on the **r[ground]r** so it picks them up in its **r[mouth]r** to take them to someone who's **k[morally good]k** enough to attach them back onto its head. Sheep don’t have hands, so the sheep had to pick the horns up off the ground with his mouth. Someone evil would just murder the sheep and steal his horns, so the sheep must find someone **k[good]k** to reaffix them.`
+    },
+    1086: {
+        "slug": "困",
+        "level": 20,
+        "component_subject_ids": [16, 23],
+        "amalgamation_subject_ids": [4181, 4338, 8313],
+        "meanings": ["Distressed", "Troubled"],
+        "meaning_mnemonic": `If you put your **r[mouth]r** on a **r[tree]r** and try to eat it, you’re probably a **k[distressed]k** and **k[troubled]k** individual (unless you’re a woodchuck). You don’t need to eat this tree, you have plenty of food at home. Get your mouth off that tree you distressed child.`
+    },
+    1087: {
+        "slug": "絡",
+        "level": 19,
+        "component_subject_ids": [86, 180],
+        "amalgamation_subject_ids": [4225, 4372],
+        "meanings": ["Entangle", "Coil Around", "Entwine"],
+        "meaning_mnemonic": `If you put a **r[thread]r** in the middle of a **r[kiss]r**, you’re going to **k[entangle]k** it. Things can get pretty messy in a kiss, so adding a thread to the mix will definitely entangle it.`
+    },
+    1088: {
+        "slug": "比",
+        "level": 19,
+        "component_subject_ids": [161],
+        "amalgamation_subject_ids": [4217, 4218, 4219, 4308, 4939, 5196, 5197],
+        "meanings": ["Compare"],
+        "meaning_mnemonic": `The **r[compare]r** radical and the **k[compare]k** kanji are exactly the same! Huzzah!`
+    },
+    1089: {
+        "slug": "災",
+        "level": 20,
+        "component_subject_ids": [273, 46],
+        "amalgamation_subject_ids": [4298, 4299, 4300, 4301, 4302],
+        "meanings": ["Disaster"],
+        "meaning_mnemonic": `A **r[flood]r** and a **r[fire]r**! At the same time? This is a **k[disaster]k**!`
+    },
+    1090: {
+        "slug": "機",
+        "level": 20,
+        "component_subject_ids": [23, 87, 194, 9],
+        "amalgamation_subject_ids": [4285, 4295, 4296, 4297, 4371, 4484, 4759, 4972, 5612, 6127, 6408, 7110, 7553, 7596, 7806, 8584, 8677],
+        "meanings": ["Machine"],
+        "meaning_mnemonic": `A **r[drunkard]r** is the kind of **r[person]r** who would **r[poop]r** two times under a **r[tree]r** before using a **k[machine]k** toilet. There’s a perfectly good outhouse with a machine toilet right there, but this drunkard is so drunk that he decides to poop under the tree instead. And not only does he poop once, he poops twice.`
+    },
+    1091: {
+        "slug": "率",
+        "level": 20,
+        "component_subject_ids": [8, 87, 8788, 15],
+        "amalgamation_subject_ids": [4307, 4308, 4807],
+        "meanings": ["Percent", "Percentage"],
+        "meaning_mnemonic": `Sitting on the **r[lid]r** of a toilet, you're praying your **r[poop]r** **r[explosion]r** will be flushed away, beseeching the **r[cross]r** decorating the bathroom wall. The poop needs to be one hundred **k[percent]k** flushed away because you're on a date, and you don't want even one percent of your explosion left for them to see.
+        
+        `
+    },
+    1092: {
+        "slug": "飛",
+        "level": 20,
+        "component_subject_ids": [270],
+        "amalgamation_subject_ids": [4296, 4345, 4844, 5731, 6323, 6567, 6942],
+        "meanings": ["Fly"],
+        "meaning_mnemonic": `The **r[fly]r** radical and the **k[fly]k** kanji are exactly the same! Awesome!`
+    },
+    1093: {
+        "slug": "害",
+        "level": 20,
+        "component_subject_ids": [78, 210, 16],
+        "amalgamation_subject_ids": [4276, 4288, 4289, 4290, 4299, 4324, 4487, 4996, 5086, 5822, 6555, 7043, 8277],
+        "meanings": ["Damage", "Injury", "Harm"],
+        "meaning_mnemonic": `You slip off the **r[roof]r**, your **r[life]r** flashes before your eyes, and you smash your **r[mouth]r** on the ground causing some serious **k[damage]k**. Oof, this is a really bad **k[injury]k**, you fell all the way off the roof and onto your mouth.`
+    },
+    1094: {
+        "slug": "余",
+        "level": 20,
+        "component_subject_ids": [8764, 207],
+        "amalgamation_subject_ids": [4254, 4255, 4256, 4325, 4343, 7966, 7967],
+        "meanings": ["Surplus", "Excess"],
+        "meaning_mnemonic": `Regardless of whether or not you wear a **r[hat]r** while you **r[jackhammer]r**, you’re going to have a **k[surplus]k** of noise. Jackhammers are loud, and your hat is doing nothing to dampen the racket. There’s a surplus of commotion coming from the jackhammer and onlookers are not amused.`
+    },
+    1095: {
+        "slug": "難",
+        "level": 20,
+        "component_subject_ids": [8774, 240],
+        "amalgamation_subject_ids": [4301, 4338, 4339, 4340, 4841, 6164, 6341, 7940, 8713],
+        "meanings": ["Difficult"],
+        "meaning_mnemonic": `A **r[Chinese]r** **r[turkey]r** is **k[difficult]k** to find because they are so rare. Chinese turkeys are the rarest variety of turkey, so naturally, finding one is exceedingly difficult.`
+    },
+    1097: {
+        "slug": "被",
+        "level": 20,
+        "component_subject_ids": [80, 195],
+        "amalgamation_subject_ids": [4278, 4324, 4487],
+        "meanings": ["Incur"],
+        "meaning_mnemonic": `A **r[spirit]r** loses its **r[skin]r** as a part of the damages it **k[incur]k**s after death.`
+    },
+    1098: {
+        "slug": "裕",
+        "level": 20,
+        "component_subject_ids": [80, 249],
+        "amalgamation_subject_ids": [4325, 4326, 5493],
+        "meanings": ["Abundant", "Wealthy"],
+        "meaning_mnemonic": `In **r[spirit]r** **r[valley]r**, spirits are **k[abundant]k**. Hence the name. Spirit valley has over two billion spirits floating in it.`
+    },
+    1099: {
+        "slug": "震",
+        "level": 20,
+        "component_subject_ids": [119, 183],
+        "amalgamation_subject_ids": [4302, 4341, 4342, 4343, 5805, 7597],
+        "meanings": ["Earthquake", "Quake", "Shake"],
+        "meaning_mnemonic": `**r[Rain]r** causes a **r[landslide]r** that causes an **k[earthquake]k**!!! The earth doesn't just slide, it **k[shake]k**s and **k[quake]k**s.`
+    },
+    1100: {
+        "slug": "尻",
+        "level": 20,
+        "component_subject_ids": [37, 11],
+        "amalgamation_subject_ids": [4291, 4292],
+        "meanings": ["Butt", "Buttocks"],
+        "meaning_mnemonic": `You have **r[nine]r** **r[flag]r**s. With these nine flags you take them one by one and put them up your **k[butt]k**.`
+    },
+    1101: {
+        "slug": "尾",
+        "level": 20,
+        "component_subject_ids": [37, 67],
+        "amalgamation_subject_ids": [4292, 7707, 7708],
+        "meanings": ["Tail"],
+        "meaning_mnemonic": `You see a **r[flag]r** stuck in the ground with a little bit of **r[fur]r** coming out from it and on closer inspection you realize it’s actually a **k[tail]k**. Someone stuck a flag into some sort of animal, pushing it under the ground. All that’s visible now is some fur and part of the tail.`
+    },
+    1102: {
+        "slug": "械",
+        "level": 20,
+        "component_subject_ids": [23, 194, 106],
+        "amalgamation_subject_ids": [4295],
+        "meanings": ["Contraption"],
+        "meaning_mnemonic": `Under a **r[tree]r** a **r[drunkard]r** sits with **r[twenty]r** little **k[contraptions]k**. There's little electronic ones, little bopping ones, little walking ones... twenty of them.`
+    },
+    1103: {
+        "slug": "確",
+        "level": 20,
+        "component_subject_ids": [54, 76, 240],
+        "amalgamation_subject_ids": [4307, 4310, 4311, 4473, 4577, 4845],
+        "meanings": ["Certain"],
+        "meaning_mnemonic": `You take a **r[stone]r** to the **r[forehead]r** of a **r[turkey]r**. It is **k[certain]k** that you will damage it.`
+    },
+    1104: {
+        "slug": "嫌",
+        "level": 20,
+        "component_subject_ids": [19, 271],
+        "amalgamation_subject_ids": [4283, 4284, 4285, 4286, 4483, 4842, 7596, 7710, 7763],
+        "meanings": ["Dislike"],
+        "meaning_mnemonic": `When a **r[woman]r** sees the **r[Mona Lisa]r**, she feels a strong feeling of **k[dislike]k**. All women dislike the Mona Lisa because of how much attention she gets.`
+    },
+    1105: {
+        "slug": "個",
+        "level": 20,
+        "component_subject_ids": [75, 16, 69],
+        "amalgamation_subject_ids": [4257, 4258, 4259, 4260],
+        "meanings": ["Individual"],
+        "meaning_mnemonic": `The **r[leader]r** with the **r[old]r** **r[mouth]r** is the one who has said many things. That makes them different from everyone, an **k[individual]k**.`
+    },
+    1106: {
+        "slug": "圧",
+        "level": 20,
+        "component_subject_ids": [116, 17],
+        "amalgamation_subject_ids": [4266, 4267, 4268, 4480, 4481, 5085, 6197, 8244],
+        "meanings": ["Pressure"],
+        "meaning_mnemonic": `The **r[dirt]r** under a **r[cliff]r** is going to be under a lot of **k[pressure]k**.`
+    },
+    1107: {
+        "slug": "在",
+        "level": 20,
+        "component_subject_ids": [26, 8761, 17],
+        "amalgamation_subject_ids": [4269, 4270, 4271, 4272, 4482, 6363, 6517, 7502, 7503, 7594, 8171],
+        "meanings": ["Exist"],
+        "meaning_mnemonic": `A **r[narwhal]r** sticks a **r[stick]r** into the **r[dirt]r** to see what might **k[exist]k** underneath it. Narwhals live in the sea, you see. So they're convinced nothing can exist anywhere else.`
+    },
+    1108: {
+        "slug": "夢",
+        "level": 20,
+        "component_subject_ids": [90, 163, 76, 33],
+        "amalgamation_subject_ids": [4273, 4274, 4275, 5157],
+        "meanings": ["Dream"],
+        "meaning_mnemonic": `A **r[flowers]r** **r[net]r** is upon your **r[forehead]r** in the **r[evening]r**. These appear on your head at night whenever you are having a **k[dream]k**.`
+    },
+    1109: {
+        "slug": "産",
+        "level": 20,
+        "component_subject_ids": [55, 116, 210],
+        "amalgamation_subject_ids": [4263, 4309, 4486, 5566, 5870, 5966, 7187, 8753, 8953],
+        "meanings": ["Give Birth", "Property"],
+        "meaning_mnemonic": `You **r[stand]r** on the **r[Cliff]r** of **r[Life]r** and **k[give birth]k** to a child. Oh no! You’re standing too close to the edge of the Cliff of Life! The baby falls off the cliff right after you give birth to it! In your despair, you throw all your **k[property]k** off the cliff too.`
+    },
+    1110: {
+        "slug": "倒",
+        "level": 20,
+        "component_subject_ids": [75, 274, 128],
+        "amalgamation_subject_ids": [4261, 4262, 4263, 4480, 4843, 4846, 5222, 8335],
+        "meanings": ["Overthrow", "Collapse"],
+        "meaning_mnemonic": `Someone stabbed the **r[leader]r** **r[mole]r** with a **r[knife]r** to **k[overthrow]k** it. Now there is a new mole leader. Because that's what happens when you overthrow someone—someone else needs to take over. In this case, a vengeful mole.`
+    },
+    1111: {
+        "slug": "臭",
+        "level": 20,
+        "component_subject_ids": [109, 18],
+        "amalgamation_subject_ids": [4323, 4846, 4941],
+        "meanings": ["Stinking", "Stinky", "Smelly"],
+        "meaning_mnemonic": `Wash your**r[self]r** with a **r[big]r** bar of soap if you're **k[stinking]k** everything up.`
+    },
+    1112: {
+        "slug": "厚",
+        "level": 20,
+        "component_subject_ids": [116, 22, 34],
+        "amalgamation_subject_ids": [4265, 9065],
+        "meanings": ["Thick"],
+        "meaning_mnemonic": `Hanging off the edge of a **r[cliff]r** is a **r[sun]r** worshipping **r[child]r** with a **k[thick]k** unibrow. Hanging off the cliff, the child cries at the sun for cursing him to this cruel fate. Even the thickness of his unibrow is not enough to give the child the strength to pull himself back up.`
+    },
+    1113: {
+        "slug": "妻",
+        "level": 20,
+        "component_subject_ids": [1, 220, 19],
+        "amalgamation_subject_ids": [4279, 4280, 4281, 4282],
+        "meanings": ["Wife"],
+        "meaning_mnemonic": `On the **r[ground]r**, holding a **r[brush]r**, is the **r[woman]r** you call your **k[wife]k**.`
+    },
+    1114: {
+        "slug": "議",
+        "level": 20,
+        "component_subject_ids": [117, 383],
+        "amalgamation_subject_ids": [4330, 4331, 4332, 5194, 5292, 7648, 7705, 7706, 8675],
+        "meanings": ["Deliberation", "Discussion"],
+        "meaning_mnemonic": `What you **r[say]r** is **r[righteousness]r**, at least that's what you believe. You keep talking and saying these things, and you don't listen to anyone else's words. This is your style of **k[deliberation]k** and **k[discussion]k**.`
+    },
+    1115: {
+        "slug": "犯",
+        "level": 20,
+        "component_subject_ids": [144, 158],
+        "amalgamation_subject_ids": [4304, 4305, 4306, 4322, 4485],
+        "meanings": ["Crime"],
+        "meaning_mnemonic": `In the **r[animal]r** kingdom, a **r[snake]r** is the most likely to commit a **k[crime]k**. Remember the Garden of Eden? The snake was the bad guy. Ever since then, snakes are the animal most known for committing crimes.`
+    },
+    1116: {
+        "slug": "罪",
+        "level": 20,
+        "component_subject_ids": [163, 209],
+        "amalgamation_subject_ids": [4320, 4321, 4322],
+        "meanings": ["Guilt"],
+        "meaning_mnemonic": `Put a **r[net]r** around a **r[criminal]r** to show their **k[guilt]k**. Criminals look like anyone else on the street, so you decide to tie them in nets to make sure people know who they're dealing with.`
+    },
+    1117: {
+        "slug": "防",
+        "level": 20,
+        "component_subject_ids": [176, 66],
+        "amalgamation_subject_ids": [4333, 4334, 4335, 4336, 4337, 4485, 6384, 7391],
+        "meanings": ["Prevent", "Prevention"],
+        "meaning_mnemonic": `If there is a **r[building]r** in the **r[direction]r** you want to go it will **k[prevent]k** you from going any further. Like, come on kid, you think you can just walk right through a building? Don't make me laugh!`
+    },
+    1118: {
+        "slug": "穴",
+        "level": 20,
+        "component_subject_ids": [170],
+        "amalgamation_subject_ids": [4313, 4314, 4315, 4316, 7428],
+        "meanings": ["Hole", "Cave"],
+        "meaning_mnemonic": `The **r[hole]r** radical and the **k[hole]k** kanji are exactly the same! Spectacular!`
+    },
+    1119: {
+        "slug": "論",
+        "level": 20,
+        "component_subject_ids": [117, 8764, 1, 226],
+        "amalgamation_subject_ids": [4327, 4328, 4329, 4331, 4446, 4968, 6727, 7294, 9096],
+        "meanings": ["Theory"],
+        "meaning_mnemonic": `You **r[say]r**, throwing your **r[hat]r** on the **r[ground]r** in front of the **r[bookshelf]r**, "I have a **k[theory]k**!" All this reading and thinking has finally given you a wonderful idea, a theory you think might solve all of your problems!`
+    },
+    1120: {
+        "slug": "経",
+        "level": 20,
+        "component_subject_ids": [86, 179],
+        "amalgamation_subject_ids": [4317, 4318, 4319, 4400, 4579, 4851, 5464, 8015, 9067],
+        "meanings": ["Passage of Time", "Pass Through", "Manage"],
+        "meaning_mnemonic": `Tying a **r[thread]r** to a **r[tombstone]r** each year will help you **k[manage]k** the **k[passage of time]k**. That way you’ll know how many years you **k[pass through]k**, since you’ll have one thread for each year to count.`
+    },
+    1121: {
+        "slug": "笛",
+        "level": 19,
+        "component_subject_ids": [85, 268],
+        "amalgamation_subject_ids": [4358, 4359, 4360, 6938],
+        "meanings": ["Flute"],
+        "meaning_mnemonic": `Is there a **r[reason]r** you're in the **r[bamboo]r** grove? Why yes there is. It's so you can get yourself some bamboo and make a **k[flute]k** out of it.`
+    },
+    1122: {
+        "slug": "史",
+        "level": 19,
+        "component_subject_ids": [167],
+        "amalgamation_subject_ids": [4215],
+        "meanings": ["History"],
+        "meaning_mnemonic": `The **r[history]r** radical and the **k[history]k** kanji are the same.`
+    },
+    1412: {
+        "slug": "詳",
+        "level": 17,
+        "component_subject_ids": [117, 136],
+        "amalgamation_subject_ids": [5365, 5366, 5367],
+        "meanings": ["Detailed"],
+        "meaning_mnemonic": `They **r[say]r** **r[sheep]r** are **k[detailed]k** creatures. I mean, I never thought sheep were very detailed, but that’s what they say.`
+    },
+    1553: {
+        "slug": "芋",
+        "level": 19,
+        "component_subject_ids": [90, 61],
+        "amalgamation_subject_ids": [5760, 5761, 5762, 9043],
+        "meanings": ["Potato"],
+        "meaning_mnemonic": `If you see some **r[dry]r** **r[flowers]r**, pull them up and you'll find a **k[potato]k**.`
+    },
+    1569: {
+        "slug": "劇",
+        "level": 17,
+        "component_subject_ids": [254, 233, 128],
+        "amalgamation_subject_ids": [5806, 5807, 5808, 5809, 5810, 5811, 5812],
+        "meanings": ["Drama"],
+        "meaning_mnemonic": `A **r[tiger]r** kills a **r[pig]r** with a **r[knife]r** in this new **k[drama]k** about the animal kingdom! The tiger and pig used to be friends when they were younger, but now they're bitter enemies and the tiger just stabbed the pig right in the chest with a knife.`
+    },
+    1594: {
+        "slug": "彼",
+        "level": 12,
+        "component_subject_ids": [99, 195],
+        "amalgamation_subject_ids": [5896, 5897, 5898, 6030],
+        "meanings": ["He"],
+        "meaning_mnemonic": `If you **r[loiter]r** around my **r[skin]r**, **k[he]k** will get angry at you. He's my very protective friend, and you don't wanna make him angry!
+        `
+    },
+    1608: {
+        "slug": "払",
+        "level": 15,
+        "component_subject_ids": [63, 140],
+        "amalgamation_subject_ids": [5927, 6035, 6047, 6246, 8728],
+        "meanings": ["Pay"],
+        "meaning_mnemonic": `Your **r[fingers]r** are **r[private]r**, no one can see them unless they **k[pay]k**! And you decide if what they pay is enough to get a peek.`
+    },
+    1725: {
+        "slug": "埋",
+        "level": 19,
+        "component_subject_ids": [17, 125],
+        "amalgamation_subject_ids": [6301, 6456, 6457, 7779, 7902],
+        "meanings": ["Bury"],
+        "meaning_mnemonic": `The **r[dirt]r** next to your **r[village]r** is where you **k[bury]k** the dead. People don't live forever, so every village has a patch of dirt specifically used for burying dead things.`
+    },
+    1837: {
+        "slug": "誰",
+        "level": 11,
+        "component_subject_ids": [117, 240],
+        "amalgamation_subject_ids": [6653, 6654],
+        "meanings": ["Who"],
+        "meaning_mnemonic": `Who will **r[say]r** **r[turkey]r**? Who? **k[WHO]k**???`
+    },
+    1883: {
+        "slug": "俺",
+        "level": 13,
+        "component_subject_ids": [75, 18, 51, 211],
+        "amalgamation_subject_ids": [6798, 6799, 6800],
+        "meanings": ["I", "Me"],
+        "meaning_mnemonic": `The **r[leader]r** of a **r[big]r** **r[rice paddy]r** is standing in the middle of said rice paddy with an **r[umbrella]r**. Who is this wacky leader? Why, it is **k[I]k**. It is **k[me]k**.`
+    },
+    1890: {
+        "slug": "僕",
+        "level": 12,
+        "component_subject_ids": [75, 390],
+        "amalgamation_subject_ids": [7498],
+        "meanings": ["I", "Me"],
+        "meaning_mnemonic": `A **r[leader]r** of **r[business]r**? Ha! That's **k[me]k**! That's **k[I]k**!`
+    },
+    1891: {
+        "slug": "匹",
+        "level": 15,
+        "component_subject_ids": [217, 28],
+        "amalgamation_subject_ids": [6809, 6810, 6811],
+        "meanings": ["Small Animal", "Small Animal Counter"],
+        "meaning_mnemonic": `In the **r[cage]r** there are some **r[legs]r**. They are the legs attached to a **k[small animal]k**.`
+    },
+    1898: {
+        "slug": "缶",
+        "level": 13,
+        "component_subject_ids": [392],
+        "amalgamation_subject_ids": [6825, 6826, 6827, 6828, 9056],
+        "meanings": ["Can", "Tin Can"],
+        "meaning_mnemonic": `The radical **r[can]r** is the same as the kanji **k[can]k**. Usually when we talk about a can with this kanji we mean a **k[tin can]k**, though.`
+    },
+    2083: {
+        "slug": "丈",
+        "level": 15,
+        "component_subject_ids": [408],
+        "amalgamation_subject_ids": [7151, 7277, 7278, 7279, 7280],
+        "meanings": ["Height", "Ten Feet"],
+        "meaning_mnemonic": `The **r[height]r** radical and the **k[height]k** kanji are the same!
+        
+        That said, there's a secondary meaning to this kanji of **k[ten feet]k**. So, when you think of height, think of that height as being ten feet tall.`
+    },
+    8838: {
+        "slug": "喉",
+        "level": 18,
+        "component_subject_ids": [16, 75, 72, 157],
+        "amalgamation_subject_ids": [8849, 8850, 8851],
+        "meanings": ["Throat"],
+        "meaning_mnemonic": `Into your **r[mouth]r** the **r[leader]r** shot an **r[arrow]r** with an attached **r[hook]r** so that they'd be able to see into your **k[throat]k**.`
+    },
+    8839: {
+        "slug": "叩",
+        "level": 18,
+        "component_subject_ids": [16, 145],
+        "amalgamation_subject_ids": [8852, 8853],
+        "meanings": ["Tap", "Strike", "Slap"],
+        "meaning_mnemonic": `On your **r[mouth]r** is a **r[stamp]r** that you **k[tap]k**, **k[strike]k** and **k[slap]k** to create a beat! The stamp looks like a little drum, but you're really just hitting your mouth for fun (the stamp was an excuse to make it seem normal).`
+    },
+    8840: {
+        "slug": "飴",
+        "level": 18,
+        "component_subject_ids": [139, 417],
+        "amalgamation_subject_ids": [8850, 8854, 8855],
+        "meanings": ["Candy"],
+        "meaning_mnemonic": `What do you **r[eat]r** like a **r[machine]r**? **k[Candy]k**!`
+    },
+    8963: {
+        "slug": "苺",
+        "level": 14,
+        "component_subject_ids": [90, 22, 3],
+        "amalgamation_subject_ids": [8975],
+        "meanings": ["Strawberry"],
+        "meaning_mnemonic": `If **r[flowers]r** are in the **r[sun]r** and they receive one **r[drop]r** and then another **r[drop]r** of water, they turn into a **k[strawberry]k**.`
+    },
+    8967: {
+        "slug": "狼",
+        "level": 14,
+        "component_subject_ids": [144, 8822],
+        "amalgamation_subject_ids": [8984, 8985, 8987],
+        "meanings": ["Wolf"],
+        "meaning_mnemonic": `One **r[animal]r** that is particularly  **r[good]r** is the **k[wolf]k**. Wolves have a bad reputation, but actually they're very, very good animals.`
+    },
+    8990: {
+        "slug": "苛",
+        "level": 18,
+        "component_subject_ids": [90, 113],
+        "amalgamation_subject_ids": [8997, 8998, 9008],
+        "meanings": ["Frustration"],
+        "meaning_mnemonic": `Using **r[flowers]r** to make a **r[lip ring]r** is always going to end in **k[frustration]k**.`
+    },
+    9246: {
+        "slug": "繋",
+        "level": 18,
+        "component_subject_ids": [93, 160, 86],
+        "amalgamation_subject_ids": [9247, 9253],
+        "meanings": ["Connect"],
+        "meaning_mnemonic": `You've got a **r[car]r**, a **r[weapon]r**, and some **r[thread]r** lying around. So of course you decide to **k[connect]k** them all together.`
+    },
+    1036: {
+        "slug": "祈",
+        "level": 21,
+        "component_subject_ids": [80, 115],
+        "amalgamation_subject_ids": [4122, 4123, 4124],
+        "meanings": ["Pray"],
+        "meaning_mnemonic": `If you see a **r[spirit]r** with an **r[axe]r**, you better **k[pray]k** for your life. Spirits only hold axes if they're thinking about murder, so pray as hard as you can to try and get it to spare you.`
+    },
+    1123: {
+        "slug": "敵",
+        "level": 21,
+        "component_subject_ids": [276, 60],
+        "amalgamation_subject_ids": [4403, 4404, 4405, 4406],
+        "meanings": ["Enemy"],
+        "meaning_mnemonic": `Seeing a **r[mohawk]r** in the **r[winter]r** means the **k[enemy]k** is nearby. You are from the dreadlock tribe and the mohawk tribe is your enemy. You’re deep in the heart of battle and winter has fallen. Now is the time to take out the enemy.`
+    },
+    1124: {
+        "slug": "済",
+        "level": 21,
+        "component_subject_ids": [103, 277],
+        "amalgamation_subject_ids": [4400, 4407, 4578, 4579, 4851],
+        "meanings": ["Come To An End"],
+        "meaning_mnemonic": `You see a **r[tsunami]r** that's **r[simultaneous]r** (with another tsunami, I assume) and you know the world is about to **k[come to an end]k**.`
+    },
+    1125: {
+        "slug": "委",
+        "level": 21,
+        "component_subject_ids": [135, 19],
+        "amalgamation_subject_ids": [4408, 4580, 6215],
+        "meanings": ["Committee"],
+        "meaning_mnemonic": `**r[Women]r** who get together to talk about **r[grain]r**s are a **k[committee]k**. They're the Committee of Women for Grains (tm tm tm). What does this committee discuss, you wonder.`
+    },
+    1126: {
+        "slug": "挙",
+        "level": 21,
+        "component_subject_ids": [8783, 1, 2, 41],
+        "amalgamation_subject_ids": [4409, 4410, 4581, 4853],
+        "meanings": ["Raise"],
+        "meaning_mnemonic": `If there’s **r[grass]r** on the **r[ground]r** and **r[fins]r** in your **r[hand]r**, you need to **k[raise]k** that hand up to the sky. You’re in the middle of a fisherman’s ritual, which can only be performed on grassy ground. You take fish fins from the previous year, and raise them up to the sky in order to ensure a good fishing harvest.`
+    },
+    1127: {
+        "slug": "判",
+        "level": 21,
+        "component_subject_ids": [305, 128],
+        "amalgamation_subject_ids": [4411, 4412, 4444, 4448, 4452, 4582, 4618, 4855],
+        "meanings": ["Judge"],
+        "meaning_mnemonic": `"I'll cut that baby in **r[half]r** with a **r[knife]r** if you don't figure out custody," says the **k[judge]k**. Ah, the oldest judge trick in the book.`
+    },
+    1128: {
+        "slug": "制",
+        "level": 21,
+        "component_subject_ids": [126, 102, 128],
+        "amalgamation_subject_ids": [4413, 4414, 4415, 4416, 6198, 6841, 7922],
+        "meanings": ["Control", "System"],
+        "meaning_mnemonic": `**r[Cows]r**, using nothing more than **r[towels]r** and **r[knives]r**, have taken **k[control]k** of the world. Their **k[system]k** of control is brutal—payback for how us humans have treated them I guess.`
+    },
+    1129: {
+        "slug": "務",
+        "level": 21,
+        "component_subject_ids": [148, 60, 13],
+        "amalgamation_subject_ids": [4417, 4418, 4419, 4420, 4850, 5424, 6057, 8093],
+        "meanings": ["Task"],
+        "meaning_mnemonic": `You use a special **r[spear]r** in **r[winter]r** to give yourself the **r[power]r** to do all of your **k[task]k**s.`
+    },
+    1130: {
+        "slug": "査",
+        "level": 21,
+        "component_subject_ids": [23, 419],
+        "amalgamation_subject_ids": [4421, 4450, 4828, 4852, 6394],
+        "meanings": ["Inspect", "Investigate"],
+        "meaning_mnemonic": `If a **r[tree]r** is growing out of a **r[top hat]r** you need to **k[inspect]k** it to find out why and how this happened. You should probably **k[investigate]k** the area too. I mean, how could a tree grow out of a top hat anyway? Seems suspicious.`
+    },
+    1131: {
+        "slug": "総",
+        "level": 21,
+        "component_subject_ids": [86, 237, 65],
+        "amalgamation_subject_ids": [4422, 4423, 4424, 4860, 5425, 6585, 7978],
+        "meanings": ["Whole"],
+        "meaning_mnemonic": `Taking out your **r[thread]r**, you sew together the **r[public]r**'s **r[heart]r**s to make them **k[whole]k** again.`
+    },
+    1132: {
+        "slug": "設",
+        "level": 21,
+        "component_subject_ids": [117, 160],
+        "amalgamation_subject_ids": [4425, 4426, 4427, 4428, 4859, 7051],
+        "meanings": ["Establish"],
+        "meaning_mnemonic": `If you **r[say]r** a new **r[weapon]r** idea out loud, then it will be **k[establish]k**ed immediately.`
+    },
+    1133: {
+        "slug": "資",
+        "level": 21,
+        "component_subject_ids": [278, 94],
+        "amalgamation_subject_ids": [4429, 4430, 4431, 4432, 5409, 8752],
+        "meanings": ["Resources"],
+        "meaning_mnemonic": `The **r[next]r** **r[shellfish]r** will be yours, but this shellfish will be mine. These are the **k[resources]k** we have to share and distribute.`
+    },
+    1134: {
+        "slug": "権",
+        "level": 21,
+        "component_subject_ids": [23, 72, 240],
+        "amalgamation_subject_ids": [4433, 4434, 4435, 5341, 5374, 5855, 5972, 6698, 7923],
+        "meanings": ["Rights"],
+        "meaning_mnemonic": `Under the **r[tree]r** lies a **r[turkey]r** with a broken **r[arrow]r** in it. It doesn't have **k[rights]k** like humans, so people can just shoot turkeys with arrows and no one is punished.`
+    },
+    1135: {
+        "slug": "件",
+        "level": 21,
+        "component_subject_ids": [75, 126],
+        "amalgamation_subject_ids": [4436, 4437, 4920, 8169],
+        "meanings": ["Matter", "Affair"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[cow]r** tribe is too important to deal with small **k[matter]k**s and trivial **k[affair]k**s.`
+    },
+    1136: {
+        "slug": "派",
+        "level": 21,
+        "component_subject_ids": [103, 116, 8778],
+        "amalgamation_subject_ids": [4438, 4439, 5226, 6234],
+        "meanings": ["Sect", "Faction"],
+        "meaning_mnemonic": `A **r[tsunami]r** is coming for the **r[cliff]r** made of **r[tofu]r**, but there is a special **k[sect]k** that protects tofu cliff.`
+    },
+    1137: {
+        "slug": "岡",
+        "level": 21,
+        "component_subject_ids": [29, 8767, 1, 20],
+        "amalgamation_subject_ids": [4440, 9041],
+        "meanings": ["Hill"],
+        "meaning_mnemonic": `You have a scene going on inside your **r[head]r**. It is of a pair of **r[horns]r** on the **r[ground]r** atop a **r[mountain]r**. No. It is not just one pair of horns. It is many. So many that they create a giant **k[hill]k** atop the mountain, which is already pretty high.`
+    },
+    1138: {
+        "slug": "素",
+        "level": 21,
+        "component_subject_ids": [210, 86],
+        "amalgamation_subject_ids": [4404, 4441, 4442, 5557, 6521, 6957, 8217, 8309, 8419, 8973],
+        "meanings": ["Element"],
+        "meaning_mnemonic": `The **r[life]r** **r[thread]r** is an **k[element]k** essential to all living things. This thread of life joins all things together, providing an essential relationship between all life. This element is all that holds this world together.`
+    },
+    1139: {
+        "slug": "断",
+        "level": 21,
+        "component_subject_ids": [56, 98, 115],
+        "amalgamation_subject_ids": [4443, 4444, 4582, 4858, 5166, 5320, 5929, 8418, 8584],
+        "meanings": ["Cut Off"],
+        "meaning_mnemonic": `A **r[lion]r** harvesting **r[rice]r** uses an **r[axe]r** to **k[cut off]k** the tops of the stalks. The lion is roaming the rice fields using his axe to harvest the rice. He does so by cutting off the part of the rice stalks he needs.`
+    },
+    1140: {
+        "slug": "評",
+        "level": 21,
+        "component_subject_ids": [117, 279],
+        "amalgamation_subject_ids": [4412, 4445, 4446, 4447, 8165],
+        "meanings": ["Evaluate"],
+        "meaning_mnemonic": `You should **r[say]r** "**r[peace]r**" before you **k[evaluate]k** a situation. That way everyone will know where you’re coming from. If you’re honest and say "peace" before you evaluate a situation out loud, everyone will know where you stand.`
+    },
+    1141: {
+        "slug": "批",
+        "level": 21,
+        "component_subject_ids": [63, 161],
+        "amalgamation_subject_ids": [4448, 4855, 7964],
+        "meanings": ["Criticism"],
+        "meaning_mnemonic": `If you use your **r[fingers]r** to point when you **r[compare]r** things you're really just throwing around **k[criticism]k**. You should never need to point fingers when you're just comparing things. If you're pointing and picking and being mean, that's criticism.`
+    },
+    1142: {
+        "slug": "任",
+        "level": 21,
+        "component_subject_ids": [75, 48],
+        "amalgamation_subject_ids": [4420, 4449, 4455, 4583, 8241, 9045, 9072, 9073],
+        "meanings": ["Duty"],
+        "meaning_mnemonic": `Both a **r[leader]r** and a **r[king]r** have a **k[duty]k** to protect their people. A good leader always protects his followers, and a good king always protects his subjects. This is their duty.`
+    },
+    1143: {
+        "slug": "検",
+        "level": 21,
+        "component_subject_ids": [23, 8785],
+        "amalgamation_subject_ids": [4450, 4451, 4852, 4967, 5269, 7430, 8427],
+        "meanings": ["Examine"],
+        "meaning_mnemonic": `You see a **r[tree]r** with a **r[squid]r** on it, so you get closer to **k[examine]k** it.`
+    },
+    1144: {
+        "slug": "審",
+        "level": 21,
+        "component_subject_ids": [78, 280],
+        "amalgamation_subject_ids": [4421, 4452, 6072, 8508],
+        "meanings": ["Judge"],
+        "meaning_mnemonic": `You're about to enter a **r[roof]r** that has your **r[number]r** on it so you can face the **k[judge]k**. You've been sitting here for what feels like hours, waiting for your number to come up. Finally the time has come—the judge will see you now.`
+    },
+    1145: {
+        "slug": "条",
+        "level": 21,
+        "component_subject_ids": [60, 23],
+        "amalgamation_subject_ids": [4436, 4453, 8169],
+        "meanings": ["Clause"],
+        "meaning_mnemonic": `A **r[winter]r** **r[tree]r** is only a winter tree due to a **k[clause]k** in its tree contract.`
+    },
+    1146: {
+        "slug": "責",
+        "level": 21,
+        "component_subject_ids": [210, 94],
+        "amalgamation_subject_ids": [4454, 4455, 4583],
+        "meanings": ["Blame"],
+        "meaning_mnemonic": `The **r[life]r** of a **r[shellfish]r** is filled with **k[blame]k**. They take the blame for everything from food poisoning and allergies, to cutting people's feet on beaches.`
+    },
+    1147: {
+        "slug": "省",
+        "level": 21,
+        "component_subject_ids": [198, 53],
+        "amalgamation_subject_ids": [4456, 4457, 4850, 5256],
+        "meanings": ["Conserve"],
+        "meaning_mnemonic": `You only have a **r[few]r** **r[eye]r**s so you need to **k[conserve]k** what's left.`
+    },
+    1148: {
+        "slug": "増",
+        "level": 21,
+        "component_subject_ids": [17, 259],
+        "amalgamation_subject_ids": [4458, 4459, 4460, 4461, 4856, 8716],
+        "meanings": ["Increase"],
+        "meaning_mnemonic": `The **r[dirt]r** **r[mask]r** is a mask which, when put on, will greatly **k[increase]k** the amount of dirt.`
+    },
+    1149: {
+        "slug": "税",
+        "level": 21,
+        "component_subject_ids": [135, 422],
+        "amalgamation_subject_ids": [4461, 4462, 4463, 4503, 6292, 7013],
+        "meanings": ["Tax"],
+        "meaning_mnemonic": `A **r[guard]r** is at your door and wants some of your **r[grain]r**s. This is the **k[tax]k** you pay for living in this town. Back in the day, grains were used like currency, so it makes sense that there was a grain tax in the olden days.`
+    },
+    1150: {
+        "slug": "解",
+        "level": 21,
+        "component_subject_ids": [281, 24, 126],
+        "amalgamation_subject_ids": [4464, 4465, 4466, 4467, 4468, 4854, 4857, 5469, 5715, 5743, 6268, 6604, 7486, 7851, 8438, 8595, 9075],
+        "meanings": ["Untie", "Solve"],
+        "meaning_mnemonic": `**r[Angle]r** your **r[sword]r** correctly at a **r[cow]r** to **k[untie]k** it without hurting it. This is actually a pretty tough angle to get your sword, so in order to **k[solve]k** this cow puzzle you have to be really smart and careful.`
+    },
+    1151: {
+        "slug": "際",
+        "level": 21,
+        "component_subject_ids": [176, 8825],
+        "amalgamation_subject_ids": [4469, 4470, 4471, 7155],
+        "meanings": ["Occasion"],
+        "meaning_mnemonic": `**r[Building]r**s hold **r[festival]r**s on special **k[occasion]k**s.`
+    },
+    1152: {
+        "slug": "認",
+        "level": 21,
+        "component_subject_ids": [117, 393, 65],
+        "amalgamation_subject_ids": [4472, 4473, 4577, 5818],
+        "meanings": ["Recognize", "Acknowledge"],
+        "meaning_mnemonic": `Whatever people **r[say]r** to you will be carved by a **r[blade]r** into your **r[heart]r**. Sounds cruel, but it's a way to make you **k[recognize]k** their power.`
+    },
+    1153: {
+        "slug": "企",
+        "level": 21,
+        "component_subject_ids": [8764, 44],
+        "amalgamation_subject_ids": [4474, 4475],
+        "meanings": ["Plan"],
+        "meaning_mnemonic": `The **r[hat]r** comes to a **r[stop]r**, thinking of a **k[plan]k**. The hat had been pacing around for a while, trying to think of how to get off the head he's resting upon and back into the house where it's nice and cozy, and came to the sudden realization of a plan. This caused the hat to stop.`
+    },
+    1154: {
+        "slug": "義",
+        "level": 21,
+        "component_subject_ids": [383],
+        "amalgamation_subject_ids": [4395, 4419, 4476, 4477, 4478, 4479, 5660, 5854, 5876, 6533, 6705, 6902, 7153, 8676],
+        "meanings": ["Righteousness"],
+        "meaning_mnemonic": `The kanji and the radical are exactly the same. That means they share meanings as well.`
+    },
+    1155: {
+        "slug": "罰",
+        "level": 22,
+        "component_subject_ids": [163, 117, 128],
+        "amalgamation_subject_ids": [4494, 4495, 4496, 4497, 6061, 6719],
+        "meanings": ["Penalty", "Punishment"],
+        "meaning_mnemonic": `If you try to **r[say]r** things with a **r[knife]r**, the police will put you in a **r[net]r** as your **k[penalty]k** for breaking the knife laws. You can't just go up to other people and say things with a knife out.`
+    },
+    1156: {
+        "slug": "誕",
+        "level": 22,
+        "component_subject_ids": [117, 206, 229],
+        "amalgamation_subject_ids": [4498, 4659, 4969],
+        "meanings": ["Birth"],
+        "meaning_mnemonic": `They **r[say]r** **r[yoga]r** is the **r[correct]r** way to go through **k[birth]k**. Birth isn't easy, but people keep telling you that yoga is the right way to prepare and actually do it.`
+    },
+    1157: {
+        "slug": "脱",
+        "level": 22,
+        "component_subject_ids": [43, 422],
+        "amalgamation_subject_ids": [4499, 4500, 4501, 4502, 4503, 5916, 6531, 8151],
+        "meanings": ["Undress", "Escape"],
+        "meaning_mnemonic": `The light of the **r[moon]r** is shining on a **r[guard]r** who’s been on duty all night. In fact, the moon light is making him so warm, he’s trying to **k[undress]k** and **k[escape]k**! Somebody stop him!`
+    },
+    1158: {
+        "slug": "過",
+        "level": 22,
+        "component_subject_ids": [114, 121],
+        "amalgamation_subject_ids": [4492, 4493, 4661, 4662, 4998, 5184, 6407, 7965, 8114, 8158],
+        "meanings": ["Surpass"],
+        "meaning_mnemonic": `While riding on your **r[scooter]r**, you grow a **r[mustache]r** on top of the **r[mustache]r** you already have in order to **k[surpass]k** the people around you. You're in a scooter race and your mustache is the only thing keeping you in the lead, but someone else has a mustache too! So you grow another mustache to surpass them once again!`
+    },
+    1159: {
+        "slug": "坊",
+        "level": 22,
+        "component_subject_ids": [17, 66],
+        "amalgamation_subject_ids": [4491, 4504, 4505, 4506, 4660, 4861],
+        "meanings": ["Monk"],
+        "meaning_mnemonic": `Can you look at the **r[dirt]r** and know which **r[direction]r** you need to go? Then you might be a **k[monk]k**. Monks have amazing skills like that. And I'm sure you've seen monks wandering around in lots of media. They don't need maps or smartphones. They just look at the dirt and let the earth guide them to where they need to be.`
+    },
+    1160: {
+        "slug": "寝",
+        "level": 22,
+        "component_subject_ids": [78, 8826, 105, 76, 30],
+        "amalgamation_subject_ids": [4488, 4489, 4490, 4491, 4660, 4861, 6947],
+        "meanings": ["Lie Down", "Sleep"],
+        "meaning_mnemonic": `From the **r[roof]r**, an **r[icicle]r** falls and hits **r[wolverine]r** in the **r[forehead]r**, and he has to go over to the **r[stool]r** to **k[lie down]k**. And eventually he goes to **k[sleep]k**.`
+    },
+    1161: {
+        "slug": "宮",
+        "level": 22,
+        "component_subject_ids": [78, 282],
+        "amalgamation_subject_ids": [4507, 7376],
+        "meanings": ["Shinto Shrine", "Shrine", "Palace"],
+        "meaning_mnemonic": `It may just be a **r[roof]r** over a **r[bathtub]r**, but this here is actually a **k[Shinto shrine]k**.`
+    },
+    1162: {
+        "slug": "各",
+        "level": 22,
+        "component_subject_ids": [180],
+        "amalgamation_subject_ids": [4508, 4509, 4510, 4511, 4576],
+        "meanings": ["Each"],
+        "meaning_mnemonic": `You **r[kiss]r** **k[each]k** of your best pals to show them how much you love and care for them. You kiss each friend right on the mouth.`
+    },
+    1163: {
+        "slug": "案",
+        "level": 22,
+        "component_subject_ids": [283, 23],
+        "amalgamation_subject_ids": [4512, 4513, 4565, 4869, 7351],
+        "meanings": ["Plan"],
+        "meaning_mnemonic": `A **r[cheap]r** **r[tree]r** has a **k[plan]k**. A plan to stay cheap.`
+    },
+    1164: {
+        "slug": "置",
+        "level": 22,
+        "component_subject_ids": [163, 8821],
+        "amalgamation_subject_ids": [4514, 4515, 4863, 5129, 5687, 6486, 7284],
+        "meanings": ["Put"],
+        "meaning_mnemonic": `This **r[net]r** needs to be **r[fix]r**ed if you want to **k[put]k** food on the table.`
+    },
+    1165: {
+        "slug": "費",
+        "level": 22,
+        "component_subject_ids": [284, 94],
+        "amalgamation_subject_ids": [4516, 4517, 4518, 5554, 8549],
+        "meanings": ["Expense", "Cost"],
+        "meaning_mnemonic": `**r[Dollar]r**s and **r[shellfish]r** are used to pay **k[expense]k**s and **k[cost]k**s. Shellfish used to be used as currency, so they're like the coins that go with dollars.`
+    },
+    1166: {
+        "slug": "価",
+        "level": 22,
+        "component_subject_ids": [75, 424],
+        "amalgamation_subject_ids": [4445, 4519, 4520, 4521, 4550, 4664, 7257, 7650, 8615],
+        "meanings": ["Value"],
+        "meaning_mnemonic": `The **r[helicopter]r** the **r[leader]r** is in has the most **k[value]k**! He would only choose to fly the very best one, after all. That's why it's worth way more than the others. Actually, any helicopter he flies goes up in value. That's the amazing effect of a good leader.`
+    },
+    1167: {
+        "slug": "勢",
+        "level": 22,
+        "component_subject_ids": [222, 223, 13],
+        "amalgamation_subject_ids": [4522, 4523, 4524, 4525, 7074],
+        "meanings": ["Force"],
+        "meaning_mnemonic": `The **r[womb]r** is a **r[circle]r** of **r[power]r** where a **k[force]k** of nature is formed. The womb has the power to create life. Life is a force of nature, and the circle of life starts in the womb.`
+    },
+    1168: {
+        "slug": "営",
+        "level": 22,
+        "component_subject_ids": [8769, 282],
+        "amalgamation_subject_ids": [4526, 4527, 4528, 4529, 4530, 4531, 4532, 4657, 4862, 6113],
+        "meanings": ["Manage"],
+        "meaning_mnemonic": `A **r[Viking]r** who knows how to use a **r[bathtub]r** will have to **k[manage]k** all the baths for the other Vikings. Vikings aren't so great with bathing... if you can get one Viking to figure it out he has to manage the rest of them.`
+    },
+    1169: {
+        "slug": "示",
+        "level": 22,
+        "component_subject_ids": [207],
+        "amalgamation_subject_ids": [4533, 4534, 4535, 4754, 6132, 6251, 7867, 7969],
+        "meanings": ["Indicate", "Show"],
+        "meaning_mnemonic": `You can use a **r[jackhammer]r** to **k[indicate]k** and **k[show]k** someone where the prize is buried. You buried the prize to keep it safe, but the jackhammer is great at unearthing it. Jackhammers do a great job and show where the treasure lies. They indicate quite clearly where one needs to go.`
+    },
+    1170: {
+        "slug": "統",
+        "level": 22,
+        "component_subject_ids": [86, 285],
+        "amalgamation_subject_ids": [4536, 4537, 4538, 4658, 4868, 6586, 7979],
+        "meanings": ["Unite", "Rule", "Govern"],
+        "meaning_mnemonic": `You take all of your **r[thread]r** and **r[allocate]r** them into one place to **k[unite]k** them. With all your thread united and wrapped together, you're ready to **k[rule]k** and **k[govern]k** the world!`
+    },
+    1171: {
+        "slug": "領",
+        "level": 22,
+        "component_subject_ids": [189, 184],
+        "amalgamation_subject_ids": [4536, 4539, 4540, 4541, 4589, 4868, 8901],
+        "meanings": ["Territory"],
+        "meaning_mnemonic": `Taking **r[orders]r** from a **r[geoduck]r** will place you into enemy **k[territory]k**. Geoducks make terrible commanders, so if you take orders from one, expect to end up in unknown territory, potentially even enemy territory. Be prepared.`
+    },
+    1172: {
+        "slug": "策",
+        "level": 22,
+        "component_subject_ids": [85, 23, 29],
+        "amalgamation_subject_ids": [4542, 4543, 4663],
+        "meanings": ["Plan"],
+        "meaning_mnemonic": `With a **r[bamboo]r** **r[tree]r** resting atop your **r[head]r**, you devise a **k[plan]k**. The plan is actually for getting the bamboo tree off of your head. You’re trapped under it.`
+    },
+    1173: {
+        "slug": "藤",
+        "level": 22,
+        "component_subject_ids": [90, 43, 8819, 45],
+        "amalgamation_subject_ids": [4544],
+        "meanings": ["Wisteria"],
+        "meaning_mnemonic": `The only **r[flowers]r** that the **r[moon]r** **r[gladiator]r**s will **r[water]r** are **k[wisteria]k**.`
+    },
+    1174: {
+        "slug": "副",
+        "level": 22,
+        "component_subject_ids": [8824, 128],
+        "amalgamation_subject_ids": [4545, 4546, 4547, 4868],
+        "meanings": ["Vice", "Side"],
+        "meaning_mnemonic": `That **r[scarecrow]r** with the **r[knife]r** is the **k[vice]k** president. Yeah, I know how he looks, and I'm pretty sure he does some murdering on the **k[side]k**, but you didn't hear that from me.`
+    },
+    1175: {
+        "slug": "観",
+        "level": 22,
+        "component_subject_ids": [72, 240, 91],
+        "amalgamation_subject_ids": [4552, 4553, 4554, 4555, 4556, 4557, 4664, 4785, 4864, 4871, 5364, 5866, 8186, 8866],
+        "meanings": ["View"],
+        "meaning_mnemonic": `There's an **r[arrow]r** in a **r[turkey]r** that you can **r[see]r** in your **k[view]k**. The turkey seems to be viewing you too, from afar.`
+    },
+    1176: {
+        "slug": "値",
+        "level": 22,
+        "component_subject_ids": [75, 8821],
+        "amalgamation_subject_ids": [4548, 4549, 4550, 4551, 4664, 5005, 7257, 8074, 8808],
+        "meanings": ["Value", "Price"],
+        "meaning_mnemonic": `A **r[leader]r** can **r[fix]r** the **k[value]k** of certain goods and services. Leaders basically get to decide how much everything is worth in value, like rice or lamps or how much you get paid for the work you do.`
+    },
+    1177: {
+        "slug": "吸",
+        "level": 22,
+        "component_subject_ids": [16, 193],
+        "amalgamation_subject_ids": [4561, 4587, 4588, 4763, 8627],
+        "meanings": ["Suck", "Inhale"],
+        "meaning_mnemonic": `Your **r[mouth]r** is like an **r[escalator]r** you use to **k[suck]k** and **k[inhale]k** things into your body.`
+    },
+    1178: {
+        "slug": "域",
+        "level": 22,
+        "component_subject_ids": [17, 194, 16, 1],
+        "amalgamation_subject_ids": [4540, 4559, 4560],
+        "meanings": ["Region", "Boundary"],
+        "meaning_mnemonic": `Under the **r[dirt]r** in the **r[ground]r** is a **r[drunkard]r** with something in his **r[mouth]r** from a **k[region]k** in North America. He died from whatever it is that’s in his mouth. That’s how this drunkard ended up under the ground in the first place. His whole face region is disfigured from whatever he ate. I wonder what region of North America the strange object came from?`
+    },
+    1179: {
+        "slug": "姿",
+        "level": 22,
+        "component_subject_ids": [278, 19],
+        "amalgamation_subject_ids": [4524, 4558],
+        "meanings": ["Figure", "Shape", "Form"],
+        "meaning_mnemonic": `“Bring in the **r[next]r** **r[woman]r** so that I may examine her **k[figure]k**!” We’re holding auditions for a commercial and we need to find a woman with a nice figure. The last woman was no good, so bring in the next one.`
+    },
+    1180: {
+        "slug": "応",
+        "level": 22,
+        "component_subject_ids": [62, 65],
+        "amalgamation_subject_ids": [4562, 4563, 4564, 4665, 4866, 4867, 6066, 6243, 7764, 8155],
+        "meanings": ["Respond"],
+        "meaning_mnemonic": `If someone gets under the **r[canopy]r** over your **r[heart]r** you should **k[respond]k** to them.`
+    },
+    1181: {
+        "slug": "提",
+        "level": 22,
+        "component_subject_ids": [63, 22, 229],
+        "amalgamation_subject_ids": [4565, 4566, 4751, 4869],
+        "meanings": ["Present", "Submit"],
+        "meaning_mnemonic": `Pointing your **r[fingers]r** to the **r[sun]r** is the **r[correct]r** way to **k[present]k** yourself or offer to **k[submit]k** your ideas. You're really just raising your hand. And when you want to present yourself, your ideas, or offer anything, the correct way is to raise your fingers to the sun. You definitely learned this in school.`
+    },
+    1182: {
+        "slug": "援",
+        "level": 22,
+        "component_subject_ids": [63, 286],
+        "amalgamation_subject_ids": [4567, 4568, 4665, 4865, 4866, 4867, 4870],
+        "meanings": ["Aid", "Assist"],
+        "meaning_mnemonic": `You use your **r[fingers]r** in the game of **r[football]r** to **k[aid]k** and **k[assist]k** the other players. And when you smash your fingers in football, you need to get some aid yourself.
+        
+        If you're from the UK, just imagine someone kicking or stomping on your fingers instead.`
+    },
+    1183: {
+        "slug": "状",
+        "level": 22,
+        "component_subject_ids": [8826, 47],
+        "amalgamation_subject_ids": [4569, 4570, 4591, 5054, 5473, 5658, 6044, 6290, 7986, 8314],
+        "meanings": ["Condition"],
+        "meaning_mnemonic": `See all those **r[icicle]r**s to the **r[dog]r**'s left? Good thing they all fell on his left, or he would've been in a terrible **k[condition]k**.`
+    },
+    1184: {
+        "slug": "態",
+        "level": 22,
+        "component_subject_ids": [287, 65],
+        "amalgamation_subject_ids": [4570, 4571, 4572, 4573, 4574, 8656],
+        "meanings": ["Appearance", "State", "Shape"],
+        "meaning_mnemonic": `You have a great **r[ability]r** because your **r[heart]r** gives you the **k[appearance]k** of a superhuman. Your heart is really strong and powerful, fuelling your body to the best of its ability. All this together gives you the appearance of someone in top condition.`
+    },
+    1185: {
+        "slug": "賀",
+        "level": 22,
+        "component_subject_ids": [13, 16, 94],
+        "amalgamation_subject_ids": [4591, 8651],
+        "meanings": ["Congratulations"],
+        "meaning_mnemonic": `You use the **r[power]r** of your **r[mouth]r** to spit **r[shellfish]r** at people as a form of **k[congratulations]k**! In fact, you yell "CONGRATULATIONS!" as the shellfish come pouring out of your powerful mouth.`
+    },
+    1186: {
+        "slug": "収",
+        "level": 23,
+        "component_subject_ids": [289, 30],
+        "amalgamation_subject_ids": [4588, 4589, 4590, 4763, 5673, 6220, 7256, 7904, 8680, 8931],
+        "meanings": ["Obtain"],
+        "meaning_mnemonic": `Wrap **r[vines]r** around a **r[stool]r** to **k[obtain]k** it. Don't worry about paying for it, sneak into the stool store and tie some vines around the legs. Then when you leave, pull the vines and the stool will come out after. That's how you obtain a stool!`
+    },
+    1187: {
+        "slug": "停",
+        "level": 23,
+        "component_subject_ids": [75, 290],
+        "amalgamation_subject_ids": [4576, 4584, 4585, 4586],
+        "meanings": ["Halt"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[restaurant]r** says, "**k[Halt]k**!" to everyone who wants to come in. The leader looks them up and down. Stares into their eyes. And then, maybe, they may go into the restaurant to eat.`
+    },
+    1188: {
+        "slug": "革",
+        "level": 23,
+        "component_subject_ids": [288],
+        "amalgamation_subject_ids": [4592, 4593, 4594, 4873, 4874],
+        "meanings": ["Leather"],
+        "meaning_mnemonic": `The **r[leather]r** radical and the **k[leather]k** kanji are exactly the same! Cool!`
+    },
+    1189: {
+        "slug": "職",
+        "level": 23,
+        "component_subject_ids": [88, 197, 194],
+        "amalgamation_subject_ids": [4595, 4596, 4597, 4598, 4599, 4600, 4601, 5010, 8626],
+        "meanings": ["Employment"],
+        "meaning_mnemonic": `Reaching your **r[ear]r** is the **r[sound]r** of a **r[drunkard]r** who can’t find **k[employment]k**. You hear him before you see him because he’s behind some trash cans. Being a drunkard, he’s like, super wasted and just kind of rambling to himself, making strange sounds. No wonder he can’t find employment.`
+    },
+    1190: {
+        "slug": "鬼",
+        "level": 23,
+        "component_subject_ids": [292],
+        "amalgamation_subject_ids": [4587, 4602],
+        "meanings": ["Demon"],
+        "meaning_mnemonic": `The **r[demon]r** radical and the **k[demon]k** kanji are exactly the same! Wicked!`
+    },
+    1191: {
+        "slug": "規",
+        "level": 24,
+        "component_subject_ids": [146, 91],
+        "amalgamation_subject_ids": [4603, 4604, 4666, 4667, 4801, 5045, 5046, 7654, 7713],
+        "meanings": ["Standard"],
+        "meaning_mnemonic": `A man who is **r[husband]r** material can **r[see]r** a **k[standard]k** woman and think she’s the greatest thing ever. This man will make a great husband. Even though the lady is pretty standard, the husband treats her like she’s anything but.`
+    },
+    1192: {
+        "slug": "護",
+        "level": 23,
+        "component_subject_ids": [117, 90, 240, 30],
+        "amalgamation_subject_ids": [4605, 4606, 4607, 7889],
+        "meanings": ["Defend"],
+        "meaning_mnemonic": `They **r[say]r** that **r[flowers]r** held by a **r[turkey]r** on a **r[stool]r** are good to **k[defend]k** yourself with. Even better than a guard dog they say. People are so confused by the turkey sitting on a stool holding flowers that they just lose their will to fight. This turkey is great to defend yourself and your home.`
+    },
+    1193: {
+        "slug": "割",
+        "level": 23,
+        "component_subject_ids": [78, 210, 16, 128],
+        "amalgamation_subject_ids": [4613, 4614, 4615, 4616, 4764, 4765, 7132, 7353, 8754],
+        "meanings": ["Divide"],
+        "meaning_mnemonic": `Under the **r[roof]r** of **r[life]r** a **r[mouth]r** with a **r[knife]r** **k[divide]k**s cells to create life.`
+    },
+    1194: {
+        "slug": "裁",
+        "level": 23,
+        "component_subject_ids": [15, 194, 320],
+        "amalgamation_subject_ids": [4617, 4618, 7715, 8319],
+        "meanings": ["Judge"],
+        "meaning_mnemonic": `You place a **r[cross]r** on this **r[drunkard]r**'s **r[clothes]r** to show him you **k[judge]k** him. In fact, you yell, "I JUDGE YOU FOR BEING DRUNK AND WEARING THESE CLOTHES, TAKE THIS!"`
+    },
+    1195: {
+        "slug": "崎",
+        "level": 23,
+        "component_subject_ids": [20, 18, 113],
+        "amalgamation_subject_ids": [4619, 4620, 4621, 4875],
+        "meanings": ["Cape"],
+        "meaning_mnemonic": `On top of a **r[big]r** **r[mountain]r**, wearing a **r[lip ring]r**, you see a **k[cape]k** jutting out into the ocean. You’re wearing a lip ring because you’re a cool and edgy individual who likes to climb big mountains. From the top of the big mountain, you see a cape.`
+    },
+    1196: {
+        "slug": "演",
+        "level": 23,
+        "component_subject_ids": [103, 78, 8763, 51, 2],
+        "amalgamation_subject_ids": [5874, 6177, 7506, 7507, 7508, 7598],
+        "meanings": ["Acting", "Perform"],
+        "meaning_mnemonic": `There is a **r[tsunami]r** coming, so you stand on your **r[roof]r** holding a **r[leaf]r**, wearing **r[fins]r** before a **r[rice paddy]r** full of people. These are your neighbors and they're here to watch your **k[acting]k**.`
+    },
+    1197: {
+        "slug": "律",
+        "level": 23,
+        "component_subject_ids": [99, 220],
+        "amalgamation_subject_ids": [4604, 4610, 4611, 4612, 7494, 8373],
+        "meanings": ["Law"],
+        "meaning_mnemonic": `**r[Loiter]r**ing around with a **r[brush]r**? Sorry, but you're breaking the **k[law]k**. If you have a brush, that's okay. If you're loitering, that's okay. If you combine the two? Well... watch your back.`
+    },
+    1198: {
+        "slug": "師",
+        "level": 23,
+        "component_subject_ids": [3, 8777, 1, 102],
+        "amalgamation_subject_ids": [4605, 4608, 4609, 5875, 6052, 6383, 6676, 7443, 7712, 7907, 8260],
+        "meanings": ["Teacher", "Expert", "Master"],
+        "meaning_mnemonic": `A **r[drop]r** of water falls from a **r[bear]r** onto the **r[ground]r** and needs to be wiped up with a **r[towel]r**. Only a **k[teacher]k** or an **k[expert]k** could get away with getting close to this wet bear to wipe up after it.`
+    },
+    1199: {
+        "slug": "看",
+        "level": 23,
+        "component_subject_ids": [41, 53],
+        "amalgamation_subject_ids": [4605, 5241],
+        "meanings": ["Watch Over"],
+        "meaning_mnemonic": `Put your **r[hand]r** over your **r[eye]r** to **k[watch over]k** others.`
+    },
+    1200: {
+        "slug": "準",
+        "level": 23,
+        "component_subject_ids": [103, 240, 15],
+        "amalgamation_subject_ids": [4622, 4626, 4666, 4766],
+        "meanings": ["Standard"],
+        "meaning_mnemonic": `Riding a **r[tsunami]r** you see a **r[turkey]r** carrying a **r[cross]r**, but that’s pretty **k[standard]k** here. This is your dreamland. You always dream about tsunamis and the turkeys carrying crosses that ride them. This might be strange for other people, but for you it’s pretty normal.`
+    },
+    1201: {
+        "slug": "則",
+        "level": 23,
+        "component_subject_ids": [94, 128],
+        "amalgamation_subject_ids": [4603, 4623, 4624, 7654, 7713],
+        "meanings": ["Rule"],
+        "meaning_mnemonic": `A **r[shellfish]r** with a **r[knife]r** makes all the **k[rule]k**s. It isn't supposed to be making rules, but it has a knife, so who's going to argue?`
+    },
+    1202: {
+        "slug": "備",
+        "level": 23,
+        "component_subject_ids": [75, 90, 116, 71],
+        "amalgamation_subject_ids": [4625, 4626, 4766, 7161],
+        "meanings": ["Provide", "Equip"],
+        "meaning_mnemonic": `The **r[leader]r** put **r[flowers]r** on a **r[cliff]r**. That is their **r[task]r**. It is to **k[provide]k** and **k[equip]k** the cliff with flowers.`
+    },
+    1203: {
+        "slug": "導",
+        "level": 23,
+        "component_subject_ids": [291, 74],
+        "amalgamation_subject_ids": [4627, 4628],
+        "meanings": ["Lead"],
+        "meaning_mnemonic": `Take a **r[measurement]r** of the **r[road]r**. Hmm. It seems a bit too long. As you measure it, you continue down this road, wondering where it will **k[lead]k** you.`
+    },
+    1204: {
+        "slug": "幹",
+        "level": 23,
+        "component_subject_ids": [8793, 8764, 61],
+        "amalgamation_subject_ids": [4629, 4630],
+        "meanings": ["Tree Trunk", "Ability"],
+        "meaning_mnemonic": `In the **r[morning]r**, if you want your **r[hat]r** to **r[dry]r**, you need to hang it on a **k[tree trunk]k**. In the morning, everything is covered in dew. The grass is wet, the leaves are wet, but the tree trunk isn't wet! It was protected by the rest of the tree, so you can hang your hat there to dry.`
+    },
+    1205: {
+        "slug": "張",
+        "level": 23,
+        "component_subject_ids": [36, 138],
+        "amalgamation_subject_ids": [4631, 4767, 5017, 5231, 5407, 5641, 6236, 6699, 7039, 7917, 9083],
+        "meanings": ["Stretch"],
+        "meaning_mnemonic": `You have a **r[bow]r** and you want to make it **r[long]r**. To do that, you'd naturally just **k[stretch]k** it.`
+    },
+    1206: {
+        "slug": "優",
+        "level": 23,
+        "component_subject_ids": [75, 239, 76, 65, 60],
+        "amalgamation_subject_ids": [4632, 4633, 4634, 4635, 4650, 4653, 4872, 6453, 7936, 8154, 8809],
+        "meanings": ["Superior", "Gentle"],
+        "meaning_mnemonic": `The **r[leader]r** of a **r[hundred]r** **r[forehead]r**s in the **r[heart]r** of **r[winter]r** is **k[superior]k** at being **k[gentle]k**. These hundred foreheads are sensitive, especially in the heart of winter, so the leader must be very gentle. Not just any kind of gentle though—the superior kind of gentle that will keep a hundred foreheads following.`
+    },
+    1207: {
+        "slug": "宅",
+        "level": 23,
+        "component_subject_ids": [78, 5, 4],
+        "amalgamation_subject_ids": [4636, 4637, 4638, 7843],
+        "meanings": ["House", "Home"],
+        "meaning_mnemonic": `You need to go up on the **r[roof]r** and **r[slide]r** down **r[seven]r** times to make this your **k[house]k**. A house isn't a **k[home]k** until you've slid down it exactly seven times, you know.`
+    },
+    1208: {
+        "slug": "沢",
+        "level": 23,
+        "component_subject_ids": [103, 215],
+        "amalgamation_subject_ids": [4639, 4640, 6738, 8678],
+        "meanings": ["Swamp"],
+        "meaning_mnemonic": `A **r[tsunami]r** of **r[shrimp]r** crashes into a **k[swamp]k**. Now the swamp is filled with shrimp. They used to live in the ocean, but the tsunami has carried them to their new home in the swamp.`
+    },
+    1209: {
+        "slug": "贅",
+        "level": 23,
+        "component_subject_ids": [17, 66, 60, 94],
+        "amalgamation_subject_ids": [4640],
+        "meanings": ["Luxury"],
+        "meaning_mnemonic": `In **r[winter]r**, **r[shellfish]r** head in the **r[direction]r** of the **r[dirt]r** and become a **k[luxury]k**. Luxuries are things that are hard to get, which is why rich people like them so much. It shows they have the money and means to get things other people can't. So when these shellfish try to bury themselves deep, deep in the dirt in winter, they become the biggest luxury of them all.`
+    },
+    1210: {
+        "slug": "施",
+        "level": 23,
+        "component_subject_ids": [66, 8762, 77],
+        "amalgamation_subject_ids": [4641, 4859],
+        "meanings": ["Carry Out"],
+        "meaning_mnemonic": `Moving in the **r[direction]r** of a **r[gun]r**, an **r[alligator]r** can **k[carry out]k** a murder once it reaches it. This alligator wants to kill someone. The alligator wants to carry out their execution.`
+    },
+    1211: {
+        "slug": "現",
+        "level": 23,
+        "component_subject_ids": [48, 91],
+        "amalgamation_subject_ids": [4270, 4642, 4643, 4644, 4645, 4723, 4879, 8714, 9242],
+        "meanings": ["Present Time", "Appear"],
+        "meaning_mnemonic": `The **r[king]r** can **r[see]r** the **k[present time]k** for what it really is. The future isn't important. The past isn't important. The present is when everything **k[appear]k**s.`
+    },
+    1212: {
+        "slug": "乳",
+        "level": 23,
+        "component_subject_ids": [8772, 34, 211],
+        "amalgamation_subject_ids": [4646, 4647, 8113, 8290],
+        "meanings": ["Milk"],
+        "meaning_mnemonic": `Giving **r[cleats]r** to a **r[child]r** carrying an **r[umbrella]r** is the best way to gather **k[milk]k**. You don’t have any containers, so the child has to hold milk in the upside-down umbrella. The cleats are so the child can run back and forth to transport the milk around.`
+    },
+    1213: {
+        "slug": "呼",
+        "level": 23,
+        "component_subject_ids": [16, 279],
+        "amalgamation_subject_ids": [4648, 4878, 6262],
+        "meanings": ["Call"],
+        "meaning_mnemonic": `A **r[mouth]r** that wants **r[peace]r** can **k[call]k** for it. If you don’t have a mouth, you can’t call for peace. So use your mouth and call for peace when you can. Peace is great.`
+    },
+    1214: {
+        "slug": "城",
+        "level": 23,
+        "component_subject_ids": [17, 263],
+        "amalgamation_subject_ids": [4649, 8139, 9041],
+        "meanings": ["Castle"],
+        "meaning_mnemonic": `**r[Dirt]r** can **r[become]r** a **k[castle]k** at any time. You just have to have the right conditions. The right time, the right people, and any patch of dirt can grow into a huge castle.`
+    },
+    1215: {
+        "slug": "俳",
+        "level": 23,
+        "component_subject_ids": [75, 209],
+        "amalgamation_subject_ids": [4650, 4651],
+        "meanings": ["Haiku"],
+        "meaning_mnemonic": `A **r[leader]r** wishing to stop **r[criminal]r**s will write a moving **k[haiku]k**. The leader pleads with the criminals to stop their crimes, to look within, and to realize there's more to life (like poetry!).`
+    },
+    1216: {
+        "slug": "秀",
+        "level": 23,
+        "component_subject_ids": [135, 200],
+        "amalgamation_subject_ids": [4652, 4653, 8152],
+        "meanings": ["Excel"],
+        "meaning_mnemonic": `If you can eat **r[grain]r**s while running up **r[stairs]r**, you'll **k[excel]k** at everything. `
+    },
+    1217: {
+        "slug": "担",
+        "level": 24,
+        "component_subject_ids": [63, 293],
+        "amalgamation_subject_ids": [4668, 4669, 4670, 4924, 7053],
+        "meanings": ["Carry", "Bear"],
+        "meaning_mnemonic": `You use your **r[fingers]r** at **r[dawn]r** to **k[carry]k** many things. You have to carry yourself out of bed. You have to carry your backpack or purse or laptop bag to school or work. Your fingers have to carry a lot of weight around at dawn.`
+    },
+    1218: {
+        "slug": "額",
+        "level": 24,
+        "component_subject_ids": [295, 184],
+        "amalgamation_subject_ids": [4671, 4672, 4673, 4674, 4675, 4676, 7599, 7653],
+        "meanings": ["Amount", "Framed Picture"],
+        "meaning_mnemonic": `When you're a **r[guest]r** somewhere it's important to bring **r[geoduck]r**s. But more than that, the **k[amount]k** of geoducks you bring is really what matters. If you don't have any live geoducks go ahead and bring any amount of **k[framed picture]k**s of geoducks instead.`
+    },
+    1219: {
+        "slug": "製",
+        "level": 24,
+        "component_subject_ids": [296, 320],
+        "amalgamation_subject_ids": [4677, 4678, 4679, 4680, 4681, 4682, 4683, 4979, 6337, 8320],
+        "meanings": ["Manufacture"],
+        "meaning_mnemonic": `In an attempt to **r[control]r** your **r[clothes]r**, you **k[manufacture]k** a mind control device. This mind control device will allow you to control the mind of your clothes and all that they do. You just need to manufacture it.`
+    },
+    1220: {
+        "slug": "違",
+        "level": 24,
+        "component_subject_ids": [114, 294],
+        "amalgamation_subject_ids": [4654, 4655, 4882, 4984, 4985, 4986, 4987, 5202, 7354, 8681, 8757],
+        "meanings": ["Different"],
+        "meaning_mnemonic": `You take your **r[scooter]r** to **r[Korea]r** and everything is **k[different]k**!`
+    },
+    1221: {
+        "slug": "輸",
+        "level": 24,
+        "component_subject_ids": [93, 8790],
+        "amalgamation_subject_ids": [4684, 4685, 4976, 4977, 5388, 5581, 8755],
+        "meanings": ["Transport"],
+        "meaning_mnemonic": `What does a **r[car]r** and the **r[Death Star]r** have in common? They're both used to **k[transport]k** people and things.`
+    },
+    1222: {
+        "slug": "燃",
+        "level": 24,
+        "component_subject_ids": [46, 297],
+        "amalgamation_subject_ids": [4656, 4686, 4948, 4949, 6235, 8679],
+        "meanings": ["Burn"],
+        "meaning_mnemonic": `**r[Fire]r** in **r[nature]r** will **k[burn]k** down everything in its path. In nature, there are no firefighters or anyone to contain the fire, so the fire will burn and burn until it has no fuel left to consume.`
+    },
+    1223: {
+        "slug": "祝",
+        "level": 24,
+        "component_subject_ids": [80, 191],
+        "amalgamation_subject_ids": [4687, 4688, 6494, 7714, 8537],
+        "meanings": ["Celebrate"],
+        "meaning_mnemonic": `If a **r[spirit]r** blesses your **r[older brother]r** it's time to **k[celebrate]k**! This isn't something that happens every day to everyone's older brother. Yours is very good and very lucky. So celebrate with him!`
+    },
+    1224: {
+        "slug": "届",
+        "level": 24,
+        "component_subject_ids": [37, 268],
+        "amalgamation_subject_ids": [4689, 4907],
+        "meanings": ["Deliver"],
+        "meaning_mnemonic": `The American **r[flag]r** is the **r[reason]r** you need to **k[deliver]k** this package. The flag is inside the package, and you need to deliver it to the president. He lost his old flag, so now it’s up to you to deliver this new one to him. What more of a reason do you need?`
+    },
+    1225: {
+        "slug": "狭",
+        "level": 24,
+        "component_subject_ids": [144, 146, 8767],
+        "amalgamation_subject_ids": [4690, 7769, 7865],
+        "meanings": ["Narrow"],
+        "meaning_mnemonic": `You have an **r[animal]r** for a **r[husband]r** with **r[horns]r** that are **k[narrow]k**. This animal husband of yours is a goat. A goat with narrow horns. Why is this animal your husband? You’re weird, that’s why.`
+    },
+    1226: {
+        "slug": "肩",
+        "level": 24,
+        "component_subject_ids": [73, 43],
+        "amalgamation_subject_ids": [4691, 9248],
+        "meanings": ["Shoulder"],
+        "meaning_mnemonic": `The **r[door]r** leading to the **r[moon]r** can be broken down with one’s **k[shoulder]k**. It’s not a very sturdy door to the moon, so it’s quite easy to drop your shoulder and ram it open.`
+    },
+    1227: {
+        "slug": "腕",
+        "level": 24,
+        "component_subject_ids": [43, 78, 33, 158],
+        "amalgamation_subject_ids": [4692, 4693, 7652, 8715, 8717],
+        "meanings": ["Arm"],
+        "meaning_mnemonic": `The **r[moon]r** shines on your **r[roof]r** in the **r[evening]r** and a **r[snake]r** suddenly appears! Wait, that's not a snake, it's your **k[arm]k**, sticking out from under the roof.`
+    },
+    1228: {
+        "slug": "腰",
+        "level": 24,
+        "component_subject_ids": [43, 424, 19],
+        "amalgamation_subject_ids": [4694, 5000],
+        "meanings": ["Waist"],
+        "meaning_mnemonic": `You're flying a **r[helicopter]r** and you see a **r[woman]r** in the **r[moon]r** light touching her **k[waist]k**. She has both hands on her waist, like she's Wonder Woman or something. But it's the middle of the night. What is she doing?`
+    },
+    1229: {
+        "slug": "触",
+        "level": 24,
+        "component_subject_ids": [281, 89],
+        "amalgamation_subject_ids": [4695, 4696, 4697, 4966, 6860, 8447],
+        "meanings": ["Touch"],
+        "meaning_mnemonic": `If, at a certain **r[angle]r**, you approach an **r[insect]r**, you’ll be able to **k[touch]k** it without it noticing. Most of the time, insects will run away from you when you try and touch them, but if you do so from the right angle, the insect will have no idea.`
+    },
+    1230: {
+        "slug": "載",
+        "level": 24,
+        "component_subject_ids": [15, 194, 93],
+        "amalgamation_subject_ids": [4698, 4699, 4700, 4883, 6133, 7511, 7990],
+        "meanings": ["Place On", "Put On"],
+        "meaning_mnemonic": `You have a **r[cross]r** for a **r[drunkard]r**'s **r[car]r**, to **k[place on]k** its dashboard. Drunkards should not drive, and when you **k[put on]k** a cross, it prevents the car from starting!`
+    },
+    1231: {
+        "slug": "層",
+        "level": 24,
+        "component_subject_ids": [37, 259],
+        "amalgamation_subject_ids": [4701, 4702],
+        "meanings": ["Layer"],
+        "meaning_mnemonic": `Behind the **r[flag]r** lies a **r[mask]r**—yet another **k[layer]k** of secrecy. You’re standing in front of a crowd, giving a rousing speech. Hiding your face is the flag of your country, and behind that flag you’re also wearing a mask, just in case the flag falls down. The extra layer of secrecy is just to be safe.`
+    },
+    1232: {
+        "slug": "型",
+        "level": 24,
+        "component_subject_ids": [171, 128, 17],
+        "amalgamation_subject_ids": [4703, 4704, 4705, 4770, 5740, 6819],
+        "meanings": ["Model", "Type"],
+        "meaning_mnemonic": `There is a **r[lantern]r** on top of a **r[knife]r** in the **r[dirt]r**. You walk up to take the knife and lantern when you realize it's just a **k[model]k**. It all looked real from far away, but now that you're up close you can see none of it is real.`
+    },
+    1233: {
+        "slug": "庁",
+        "level": 24,
+        "component_subject_ids": [62, 27],
+        "amalgamation_subject_ids": [4706, 4707, 4708, 4709, 4884, 5873],
+        "meanings": ["Agency", "Government Office"],
+        "meaning_mnemonic": `There are people under a **r[canopy]r** on the **r[street]r** forming their own **k[agency]k**. They're banding together right here in the street, making a new **k[government office]k**!`
+    },
+    1234: {
+        "slug": "視",
+        "level": 24,
+        "component_subject_ids": [80, 91],
+        "amalgamation_subject_ids": [4707, 4710, 4711, 4712, 4713, 5430, 8189],
+        "meanings": ["Look At"],
+        "meaning_mnemonic": `When you **r[see]r** a **r[spirit]r** you have to **k[look at]k** it. Look at it directly, because if you look away then it could disappear.`
+    },
+    1235: {
+        "slug": "差",
+        "level": 24,
+        "component_subject_ids": [136, 25],
+        "amalgamation_subject_ids": [4714, 4715, 4716, 4717, 4908, 4909, 4910, 7711],
+        "meanings": ["Distinction"],
+        "meaning_mnemonic": `When a **r[sheep]r** tries its hoof at **r[construction]r**, it gains **k[distinction]k**. Now that is something that really sets a sheep apart! After all, have you ever seen a sheep working in construction?`
+    },
+    1236: {
+        "slug": "管",
+        "level": 24,
+        "component_subject_ids": [85, 78, 8777],
+        "amalgamation_subject_ids": [4718, 4719, 4720, 4964, 4992, 6841, 8325, 8452, 8616],
+        "meanings": ["Pipe"],
+        "meaning_mnemonic": `On your **r[bamboo]r** **r[roof]r** is a **r[bear]r**. It is pulling the bamboo off, because it wants to use it to make a long **k[pipe]k**.`
+    },
+    1237: {
+        "slug": "象",
+        "level": 24,
+        "component_subject_ids": [8823],
+        "amalgamation_subject_ids": [4721, 4722, 4723, 4724, 4884, 4906, 4918, 6026, 7272],
+        "meanings": ["Elephant", "Phenomenon"],
+        "meaning_mnemonic": `The **r[elephant]r** radical and the **k[elephant]k** kanji are the same. But! This kanji has another meaning: **k[phenomenon]k**. If you were the first person to see an elephant, you'd call it that too.`
+    },
+    1238: {
+        "slug": "量",
+        "level": 24,
+        "component_subject_ids": [293, 125],
+        "amalgamation_subject_ids": [4725, 4726, 4727, 4728, 8619, 9115],
+        "meanings": ["Quantity", "Amount"],
+        "meaning_mnemonic": `When **r[dawn]r** reaches this **r[village]r** it increases in **k[quantity]k**. That's right. Every morning the **k[amount]k** of people or animals living here goes up by at least one.`
+    },
+    1239: {
+        "slug": "境",
+        "level": 24,
+        "component_subject_ids": [17, 55, 91],
+        "amalgamation_subject_ids": [4729, 4730, 4731, 4732, 7938],
+        "meanings": ["Boundary"],
+        "meaning_mnemonic": `You **r[stand]r** in the **r[dirt]r** and **r[see]r** the **k[boundary]k**. The boundary between your home and your neighbors. The boundary between your town and the next. All you have to do to see it is stand in the dirt. It also helps that there is a boundary sign standing in the dirt that you can also see.`
+    },
+    1240: {
+        "slug": "環",
+        "level": 24,
+        "component_subject_ids": [48, 163, 8784],
+        "amalgamation_subject_ids": [4732, 8197, 8360, 8361, 8563],
+        "meanings": ["Loop"],
+        "meaning_mnemonic": `The **r[king]r** is showing his people how to put a **r[net]r** around a weird **r[zombie]r** by walking around it in a **k[loop]k**. It's a weird zombie because it has the ground on top of its head instead of dirt.`
+    },
+    1241: {
+        "slug": "武",
+        "level": 24,
+        "component_subject_ids": [1, 79, 44],
+        "amalgamation_subject_ids": [4733, 4734, 4735, 8687],
+        "meanings": ["Military"],
+        "meaning_mnemonic": `On the **r[ground]r** there's a **r[ceremony]r** where everyone keeps **r[stop]r**ping. This stopping ceremony is being performed by the **k[military]k**. They'll march one direction, then stop and turn, then march another direction, then stop again.`
+    },
+    1242: {
+        "slug": "質",
+        "level": 24,
+        "component_subject_ids": [115, 94],
+        "amalgamation_subject_ids": [4736, 4737, 4738, 4739, 4740, 7766],
+        "meanings": ["Quality"],
+        "meaning_mnemonic": `You have to use two **r[axe]r**s to open these **r[shellfish]r**. That seems like overkill, but it is necessary. These particular shellfish are of very high **k[quality]k** meaning they won't open so easily.`
+    },
+    1243: {
+        "slug": "述",
+        "level": 24,
+        "component_subject_ids": [114, 130, 3],
+        "amalgamation_subject_ids": [4741, 4742, 4743, 7952, 8077],
+        "meanings": ["Mention"],
+        "meaning_mnemonic": `On this **r[scooter]r**, there's an **r[angel]r** with a **r[drop]r** of sweat coming off of it, because it forgot to **k[mention]k** something to you! It seems like it's something important too, since they're sweating so much.`
+    },
+    1244: {
+        "slug": "供",
+        "level": 24,
+        "component_subject_ids": [75, 269],
+        "amalgamation_subject_ids": [4751, 4752, 4753, 5066],
+        "meanings": ["Servant", "Companion"],
+        "meaning_mnemonic": `A **r[leader]r** is always **r[together]r** with their **k[servant]k**. The servant is their constant **k[companion]k**, always following close behind the leader, offering them hot towels and bottled water.`
+    },
+    1245: {
+        "slug": "展",
+        "level": 24,
+        "component_subject_ids": [37, 8775, 8770],
+        "amalgamation_subject_ids": [4754, 4755, 4756, 4757],
+        "meanings": ["Expand"],
+        "meaning_mnemonic": `There’s a **r[flag]r** under the **r[blackjack]r** table that you can **r[kick]r** in order to **k[expand]k** the table. Sometimes you only have a few people playing blackjack so you don’t need to kick the flag at all, and sometimes  there are many people playing blackjack so you need to kick the flag many times in order to expand it to a proper size.`
+    },
+    1246: {
+        "slug": "販",
+        "level": 24,
+        "component_subject_ids": [94, 218],
+        "amalgamation_subject_ids": [4758, 4759, 4760, 4972, 4973],
+        "meanings": ["Sell"],
+        "meaning_mnemonic": `If you're **r[anti]r**-**r[shellfish]r**, then you won't mind if I **k[sell]k** them all. You don't want them in your house anyway!`
+    },
+    1247: {
+        "slug": "株",
+        "level": 24,
+        "component_subject_ids": [23, 5, 134],
+        "amalgamation_subject_ids": [4761, 4762, 4937, 4938],
+        "meanings": ["Stock", "Share"],
+        "meaning_mnemonic": `What might cause a **r[tree]r** to **r[slide]r** down a **r[jet]r** would be if its **k[stock]k**s and **k[share]k**s took a dive in the market. This tree was on a jet for an important investor meeting when it got the news that its stocks and shares had just plummeted. Being very upset, the tree got up and got on the emergency slide out of the jet and plummeted into the ground just like his stocks and shares.`
+    },
+    1248: {
+        "slug": "限",
+        "level": 25,
+        "component_subject_ids": [176, 196],
+        "amalgamation_subject_ids": [4744, 4745, 4746, 4747, 4748, 4749, 4750, 4973],
+        "meanings": ["Limit"],
+        "meaning_mnemonic": `A **r[building]r**'s **r[root]r**s will **k[limit]k** the things under and around it.`
+    },
+    1249: {
+        "slug": "与",
+        "level": 25,
+        "component_subject_ids": [8766, 1],
+        "amalgamation_subject_ids": [4771, 4772, 5065, 7604],
+        "meanings": ["Give"],
+        "meaning_mnemonic": `A **r[beggar]r** lies sprawled on the **r[ground]r** so you **k[give]k** him some money. You feel bad for the beggar on the ground, so that’s why you decided to give him something.`
+    },
+    1250: {
+        "slug": "含",
+        "level": 25,
+        "component_subject_ids": [238, 16],
+        "amalgamation_subject_ids": [4773, 4774],
+        "meanings": ["Include"],
+        "meaning_mnemonic": `**r[Now]r** your **r[mouth]r** can **k[include]k** more words than ever before! With our new and improved “Mouth Now!” program, your mouth will include more words than you ever thought possible!`
+    },
+    1251: {
+        "slug": "影",
+        "level": 25,
+        "component_subject_ids": [22, 299, 38],
+        "amalgamation_subject_ids": [4775, 4780, 5102, 5318, 5513],
+        "meanings": ["Shadow"],
+        "meaning_mnemonic": `The **r[sun]r** rises over the **r[capital]r**, shines down on your **r[hair]r**, and casts a long **k[shadow]k** on the ground in front of you.`
+    },
+    1252: {
+        "slug": "況",
+        "level": 25,
+        "component_subject_ids": [103, 191],
+        "amalgamation_subject_ids": [4569, 4776, 4784],
+        "meanings": ["Condition"],
+        "meaning_mnemonic": `There’s a **r[tsunami]r** coming and your **r[older brother]r** is in no **k[condition]k** to escape. Your older brother has brittle bone syndrome so there’s no way he’ll be able to escape the tsunami in time in his condition.`
+    },
+    1253: {
+        "slug": "渡",
+        "level": 25,
+        "component_subject_ids": [103, 8787, 30],
+        "amalgamation_subject_ids": [4777, 4778, 7600, 7770],
+        "meanings": ["Transit"],
+        "meaning_mnemonic": `A **r[tsunami]r** carries your **r[yurt]r** and you on a **r[stool]r** under it away. You are now in **k[transit]k**.`
+    },
+    1254: {
+        "slug": "響",
+        "level": 25,
+        "component_subject_ids": [87, 196, 176, 197],
+        "amalgamation_subject_ids": [4779, 4780, 5102, 7767],
+        "meanings": ["Echo", "Reverberation", "Resound"],
+        "meaning_mnemonic": `If you **r[poop]r** on the **r[root]r**s of a **r[building]r**, the **r[sound]r** will **k[echo]k** all the way through the building, and each and every person in there will know what you did.`
+    },
+    1255: {
+        "slug": "票",
+        "level": 25,
+        "component_subject_ids": [424, 207],
+        "amalgamation_subject_ids": [4781, 4782],
+        "meanings": ["Ballot"],
+        "meaning_mnemonic": `You have to fly in a **r[helicopter]r** and use a **r[jackhammer]r** to punch your **k[ballot]k**. The helicopter gets you far away from prying eyes, and the jackhammer makes you really try for whoever you're voting for on that thing. It's foolproof!`
+    },
+    1256: {
+        "slug": "景",
+        "level": 25,
+        "component_subject_ids": [22, 299],
+        "amalgamation_subject_ids": [4783, 4784, 4785, 4786, 4787, 4880, 5106, 5324],
+        "meanings": ["Scene"],
+        "meaning_mnemonic": `The **r[sun]r** rises over the **r[capital]r** building, creating a breathtaking **k[scene]k**. The sun is so bright and warm as it crests over the capital building. It’s quite the scene to behold.`
+    },
+    1257: {
+        "slug": "抜",
+        "level": 25,
+        "component_subject_ids": [63, 301],
+        "amalgamation_subject_ids": [4768, 5000, 5001, 5025, 5026, 5027, 8220],
+        "meanings": ["Extract"],
+        "meaning_mnemonic": `Touch your **r[fingers]r** to your **r[friend]r** to **k[extract]k** their friendship. Extract it with a high five. Extract it with a back rub. Extract it with an, "Oh no, there's some lint on your shirt, let me get that for you."`
+    },
+    1258: {
+        "slug": "訴",
+        "level": 25,
+        "component_subject_ids": [117, 115, 3],
+        "amalgamation_subject_ids": [4788, 4789, 4790, 8479],
+        "meanings": ["Sue"],
+        "meaning_mnemonic": `You **r[say]r** you have an **r[axe]r** with a **r[drop]r** of blood on it. You hit someone with that axe and now they're going to **k[sue]k** you. That drop of blood on your axe is pretty incriminating, which is why they have enough of a case to sue you.`
+    },
+    1259: {
+        "slug": "訟",
+        "level": 25,
+        "component_subject_ids": [117, 237],
+        "amalgamation_subject_ids": [4790],
+        "meanings": ["Lawsuit"],
+        "meaning_mnemonic": `Be careful what you **r[say]r** in **r[public]r**, otherwise you might face a **k[lawsuit]k**. People will sue you for just about anything these days, so you really need to watch what you say in public, otherwise you might find yourself with a lawsuit on your hands.`
+    },
+    1260: {
+        "slug": "逮",
+        "level": 25,
+        "component_subject_ids": [114, 105, 45],
+        "amalgamation_subject_ids": [4791, 5096],
+        "meanings": ["Apprehend"],
+        "meaning_mnemonic": `Your **r[scooter]r**'s been stolen by a **r[wolverine]r**, who's now getting **r[water]r** all over it. You need to **k[apprehend]k** that wolverine!`
+    },
+    1261: {
+        "slug": "補",
+        "level": 25,
+        "component_subject_ids": [80, 300],
+        "amalgamation_subject_ids": [4792, 4793, 6288, 7076],
+        "meanings": ["Supplement"],
+        "meaning_mnemonic": `There is a **r[spirit]r** at your **r[wedding]r**. It's there as a **k[supplement]k** to the guests because not enough people came.`
+    },
+    1262: {
+        "slug": "候",
+        "level": 25,
+        "component_subject_ids": [75, 8761, 157, 72],
+        "amalgamation_subject_ids": [4793, 4794, 4795, 4796, 6118, 9064],
+        "meanings": ["Climate", "Weather", "Candidate"],
+        "meaning_mnemonic": `A **r[leader]r** with a **r[stick]r**, a **r[hook]r**, and an **r[arrow]r** is able to change the **k[climate]k** and **k[weather]k**. Not just the type of climate that causes sunny and rainy days though, the political climate too, because they're a political **k[candidate]k** too.`
+    },
+    1263: {
+        "slug": "構",
+        "level": 25,
+        "component_subject_ids": [23, 303],
+        "amalgamation_subject_ids": [4797, 4798, 4799, 4886, 5042, 5043, 5044, 5396],
+        "meanings": ["Set Up", "Care"],
+        "meaning_mnemonic": `A **r[tree]r** is what a **r[lifeguard]r** uses to **k[set up]k** the station where he'll **k[care]k** for the people on the beach and in the water. Trees provide the shade lifeguards need to take care of half-drowned kids and grannies with sand stuck in their bathing suits. That's why they set up their care stations here.`
+    },
+    1264: {
+        "slug": "模",
+        "level": 25,
+        "component_subject_ids": [23, 356],
+        "amalgamation_subject_ids": [4770, 4800, 4801, 5045, 5046, 6625, 8543],
+        "meanings": ["Imitation"],
+        "meaning_mnemonic": `A **r[tree]r** grows next to a **r[greenhouse]r** enclosing an **k[imitation]k** of the tree. The imitation greenhouse tree wants to be big and impressive like the tree outside, so it does its very best imitation of a real tree.`
+    },
+    1265: {
+        "slug": "捕",
+        "level": 25,
+        "component_subject_ids": [63, 300],
+        "amalgamation_subject_ids": [4769, 4791, 5002, 5096, 6422, 8175, 8234],
+        "meanings": ["Catch"],
+        "meaning_mnemonic": `At your **r[wedding]r** you use your **r[fingers]r** to **k[catch]k** the wedding rings. And to catch the bouquet. And to catch the rice that everyone is throwing at you, ow, ow, hey stop! Weddings are really more about catching things than they are about whoever is standing across from you.`
+    },
+    1266: {
+        "slug": "鮮",
+        "level": 25,
+        "component_subject_ids": [136, 150],
+        "amalgamation_subject_ids": [4802, 4803, 4804],
+        "meanings": ["Fresh"],
+        "meaning_mnemonic": `The **r[fish]r** and **r[sheep]r** are very **k[fresh]k** here. This is a great place to get fresh fish and fresh sheep. I kid you not.`
+    },
+    1267: {
+        "slug": "効",
+        "level": 25,
+        "component_subject_ids": [302, 13],
+        "amalgamation_subject_ids": [4805, 4806, 4807, 4808, 5008, 5199, 6694],
+        "meanings": ["Effective"],
+        "meaning_mnemonic": `If you **r[mix]r** different types of **r[power]r** you'll produce something **k[effective]k**.`
+    },
+    1268: {
+        "slug": "属",
+        "level": 25,
+        "component_subject_ids": [37, 425],
+        "amalgamation_subject_ids": [4809, 4810, 4811],
+        "meanings": ["Belong"],
+        "meaning_mnemonic": `You see a **r[mantis]r** sitting on a **r[flag]r** and you know for a fact that it does not **k[belong]k** there. Insects should be in trees and on the ground. Not on flags. Insects belong in the wild!`
+    },
+    1269: {
+        "slug": "慣",
+        "level": 25,
+        "component_subject_ids": [232, 107, 94],
+        "amalgamation_subject_ids": [4812, 4813],
+        "meanings": ["Accustomed"],
+        "meaning_mnemonic": `If you could just get your **r[soul]r** to open the **r[window]r** to **r[shellfish]r**, you'll grow **k[accustomed]k** to them sooner or later! I know shellfish are a bit of an acquired taste, but if you don't open that window, you'll never like them!`
+    },
+    1270: {
+        "slug": "豊",
+        "level": 25,
+        "component_subject_ids": [185, 181],
+        "amalgamation_subject_ids": [4814, 4815, 9076],
+        "meanings": ["Plentiful", "Abundant"],
+        "meaning_mnemonic": `**r[Music]r** **r[beans]r** make farts **k[plentiful]k**. And lucky for you, you have an **k[abundant]k** stock of these music beans, so you can eat plenty of them to power your musical bean toots.
+        `
+    },
+    1271: {
+        "slug": "満",
+        "level": 25,
+        "component_subject_ids": [103, 90, 304],
+        "amalgamation_subject_ids": [4815, 4816, 4817, 4818, 4819, 4820, 6687, 8283],
+        "meanings": ["Full"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits these **r[flowers]r** they'll **r[both]r** become **k[full]k** of water. Tsunamis carry a lot of water, definitely enough to make both of these flowers full.`
+    },
+    1272: {
+        "slug": "肥",
+        "level": 25,
+        "component_subject_ids": [43, 100],
+        "amalgamation_subject_ids": [4820, 4821],
+        "meanings": ["Obese"],
+        "meaning_mnemonic": `A **r[moon]r** who stays in **r[bed]r** all day every day will soon become **k[obese]k**. A healthy moon needs movement and exercise to stay fit and not become obese. If a moon stays in bed all day, they’ll be sure to grow obese over time.`
+    },
+    1273: {
+        "slug": "巻",
+        "level": 25,
+        "component_subject_ids": [8819, 228],
+        "amalgamation_subject_ids": [4822, 4823, 4824, 4825, 4826, 5015, 5016, 6773, 7081, 7177, 7961, 8004],
+        "meanings": ["Scroll"],
+        "meaning_mnemonic": `A **r[gladiator]r** only sees himself (**r[oneself]r**) on those big **k[scroll]k**s they advertise the fights with. Gladiators don't get mirrors and there are no cameras or videos yet. The scroll drawings are all they get of themselves.`
+    },
+    1274: {
+        "slug": "捜",
+        "level": 25,
+        "component_subject_ids": [63, 190, 30],
+        "amalgamation_subject_ids": [4827, 4828, 8759],
+        "meanings": ["Search"],
+        "meaning_mnemonic": `You want to get your **r[fingers]r** on the **r[humble]r** **r[stool]r**, so you dedicate your life to **k[search]k** for it. Wait, the humble stool? You know, like the holy grail or the ark of the covenant, but it's called the humble stool. It's from some bible or something, I promise.`
+    },
+    1275: {
+        "slug": "絞",
+        "level": 25,
+        "component_subject_ids": [86, 302],
+        "amalgamation_subject_ids": [4829, 4830, 8905],
+        "meanings": ["Strangle"],
+        "meaning_mnemonic": `A **r[thread]r** is **r[mix]r**ed all around and begins to **k[strangle]k** you.`
+    },
+    1276: {
+        "slug": "輩",
+        "level": 25,
+        "component_subject_ids": [209, 93],
+        "amalgamation_subject_ids": [4831, 4832, 4833, 6985],
+        "meanings": ["Comrade"],
+        "meaning_mnemonic": `The **r[criminal]r** that stole your **r[car]r** was your **k[comrade]k**! You thought the two of you were friends, but you were probably wrong.`
+    },
+    1277: {
+        "slug": "隠",
+        "level": 25,
+        "component_subject_ids": [176, 8772, 105, 65],
+        "amalgamation_subject_ids": [4834, 4835, 5004, 5103, 8597],
+        "meanings": ["Hide"],
+        "meaning_mnemonic": `Behind a **r[building]r**, a **r[cleat]r**-wearing **r[wolverine]r** is holding his **r[heart]r** and trying to **k[hide]k**.`
+    },
+    1278: {
+        "slug": "掛",
+        "level": 25,
+        "component_subject_ids": [63, 17, 10],
+        "amalgamation_subject_ids": [4836, 5003, 5030, 6609, 8756],
+        "meanings": ["Hang"],
+        "meaning_mnemonic": `Somebody got **r[dirt]r** on your **r[fingers]r** and **r[dirt]r** on your **r[toe]r**s so you're going to **k[hang]k** them upside-down and slap them with your dirty extremities.`
+    },
+    1279: {
+        "slug": "替",
+        "level": 25,
+        "component_subject_ids": [146, 22],
+        "amalgamation_subject_ids": [4837, 4838, 5035, 5036, 5037],
+        "meanings": ["Replace", "Exchange"],
+        "meaning_mnemonic": `A **r[husband]r** marries a **r[husband]r** while the **r[sun]r** goes down and the men **k[replace]k** their solitary lives with one of everlasting companionship. Instead of one husband and one wife, we have two husbands here. They shed their lives of bachelorhood and replace it with one of monogamy.`
+    },
+    1280: {
+        "slug": "居",
+        "level": 25,
+        "component_subject_ids": [37, 69],
+        "amalgamation_subject_ids": [4835, 4885, 5103, 5104, 7603, 7718, 9064],
+        "meanings": ["Alive"],
+        "meaning_mnemonic": `The **r[flag]r** is **r[old]r** but that doesn't mean it's not still **k[alive]k**. This is a living flag, and it gets old just like other living things.`
+    },
+    1281: {
+        "slug": "造",
+        "level": 26,
+        "component_subject_ids": [114, 306],
+        "amalgamation_subject_ids": [4886, 4897, 4978, 4979, 4980, 4981, 4982, 4983, 5135, 5136, 6559, 8423, 8589],
+        "meanings": ["Create"],
+        "meaning_mnemonic": `"A **r[scooter]r**!" you **r[announce]r**. You are announcing this because you decided this is what you would **k[create]k**.`
+    },
+    1282: {
+        "slug": "授",
+        "level": 26,
+        "component_subject_ids": [63, 298],
+        "amalgamation_subject_ids": [4928, 4929],
+        "meanings": ["Instruct"],
+        "meaning_mnemonic": `There are **r[fingers]r** reaching towards you asking you to **r[accept]r** to **k[instruct]k** them. They're the fingers of students. And you're the teacher. See them reach out for knowledge. They want to accept this knowledge into their hearts and brains. Instruct them!`
+    },
+    1283: {
+        "slug": "印",
+        "level": 26,
+        "component_subject_ids": [8792, 145],
+        "amalgamation_subject_ids": [4905, 4906, 5105, 5413, 6680, 6805],
+        "meanings": ["Seal", "Mark"],
+        "meaning_mnemonic": `You take this **r[comb]r**, break the handle off, and use it to **r[stamp]r** your official **k[seal]k** of approval onto a document. It's kind of a messy **k[mark]k**ing process, but it gets the job done.`
+    },
+    1284: {
+        "slug": "創",
+        "level": 26,
+        "component_subject_ids": [8827, 128],
+        "amalgamation_subject_ids": [4897, 4898, 4899, 5135, 5136],
+        "meanings": ["Create"],
+        "meaning_mnemonic": `In your **r[warehouse]r** you use your **r[knife]r** to **k[create]k**. You keep old pieces of wood in your warehouse, and you use your knife to carve them into new things that only you could create.`
+    },
+    1285: {
+        "slug": "復",
+        "level": 26,
+        "component_subject_ids": [99, 265],
+        "amalgamation_subject_ids": [4911, 4915, 4916, 5152, 5953],
+        "meanings": ["Restore"],
+        "meaning_mnemonic": `You **r[loiter]r** around a **r[black hole]r**, waiting for it to finish destroying and switch to **k[restore]k** mode. You were told all black holes finish eventually, and when they do you can press a button to restore everything back to the way it was.`
+    },
+    1286: {
+        "slug": "往",
+        "level": 26,
+        "component_subject_ids": [99, 154],
+        "amalgamation_subject_ids": [4911],
+        "meanings": ["Journey", "Depart"],
+        "meaning_mnemonic": `You **r[loiter]r** around your **r[master]r** until he **k[depart]k**s on a **k[journey]k**. You have a lot more freedom to do things after your master has departed, so until that time you just loiter about looking busy and staying out of his way.`
+    },
+    1287: {
+        "slug": "較",
+        "level": 26,
+        "component_subject_ids": [93, 302],
+        "amalgamation_subject_ids": [4939, 5196, 5197],
+        "meanings": ["Contrast", "Compare"],
+        "meaning_mnemonic": `Your new **r[car]r** doesn’t **r[mix]r** well with the other cars in your garage because its color is in stark **k[contrast]k** to the others. All of your other cars are pristine white in color, but this new car is a mix of lots of colors. It almost looks like a peacock or something it’s so colorful. Such a contrast.`
+    },
+    1288: {
+        "slug": "筆",
+        "level": 26,
+        "component_subject_ids": [85, 220],
+        "amalgamation_subject_ids": [4962, 4963, 6069, 7768, 8051],
+        "meanings": ["Writing Brush"],
+        "meaning_mnemonic": `Out of **r[bamboo]r**, you make a **r[brush]r** – a **k[writing brush]k**. This is no ordinary brush, mind you. It is a brush specifically designed for writing elegant characters. And it’s made from bamboo!`
+    },
+    1289: {
+        "slug": "鉛",
+        "level": 26,
+        "component_subject_ids": [118, 2, 16],
+        "amalgamation_subject_ids": [4963, 4991, 4992, 4993],
+        "meanings": ["Lead"],
+        "meaning_mnemonic": `You hold **r[gold]r** **r[fins]r** in your **r[mouth]r** while shopping for pencil **k[lead]k** at the store. This pencil lead store only accepts gold fins as payment, but your fins don’t fit in your pockets and you need your hands to carry the lead so the gold fins go in your mouth.`
+    },
+    1290: {
+        "slug": "貯",
+        "level": 26,
+        "component_subject_ids": [94, 78, 27],
+        "amalgamation_subject_ids": [4974, 4975, 5195, 7162],
+        "meanings": ["Savings"],
+        "meaning_mnemonic": `You keep all of your **r[shellfish]r** under a **r[roof]r** down the **r[street]r** and it's your **k[savings]k**. Shellfish used to be used as money way back, and these aren't shellfish you're spending, they're ones you're saving up for later.`
+    },
+    1291: {
+        "slug": "故",
+        "level": 26,
+        "component_subject_ids": [69, 60],
+        "amalgamation_subject_ids": [4933, 4934, 4935, 4936, 6550, 7505, 7602, 8719],
+        "meanings": ["Circumstance", "Reason"],
+        "meaning_mnemonic": `The **r[old]r** **r[winter]r** is to blame for today's **k[circumstance]k**. It is the **k[reason]k** things are bad now. `
+    },
+    1292: {
+        "slug": "障",
+        "level": 26,
+        "component_subject_ids": [176, 8828],
+        "amalgamation_subject_ids": [4935, 4994, 4995, 4996, 4997],
+        "meanings": ["Hinder"],
+        "meaning_mnemonic": `There's a **r[building]r** standing in the way of the next **r[chapter]r** in your life, and it's **k[hinder]k**ing you. It's not like you couldn't find another way around, but it's definitely inconvenient.`
+    },
+    1293: {
+        "slug": "従",
+        "level": 26,
+        "component_subject_ids": [99, 8767, 229],
+        "amalgamation_subject_ids": [4912, 4913, 4914, 7601, 7717, 8940],
+        "meanings": ["Obey", "Accompany", "Follow"],
+        "meaning_mnemonic": `If you see someone **r[loiter]r**ing around with **r[horns]r** on their head you'd be **r[correct]r** to **k[obey]k** and **k[accompany]k** them.`
+    },
+    1294: {
+        "slug": "我",
+        "level": 26,
+        "component_subject_ids": [272],
+        "amalgamation_subject_ids": [4922, 4923, 5157, 5390, 7884, 9046, 9047, 9074],
+        "meanings": ["I", "Me"],
+        "meaning_mnemonic": `Your **r[ego]r**... it's totally out of control. **k[I]k** mean, my ego isn't out of control. I'm the greatest. That's **k[me]k**. But your ego? Ugh, so out of control unlike my amazing ego.`
+    },
+    1295: {
+        "slug": "激",
+        "level": 26,
+        "component_subject_ids": [103, 52, 66, 60],
+        "amalgamation_subject_ids": [4894, 4900, 4947, 9094],
+        "meanings": ["Fierce", "Violent"],
+        "meaning_mnemonic": `A **r[tsunami]r** that is **r[white]r**, traveling in the **r[direction]r** of **r[winter]r** is a **k[fierce]k** and **k[violent]k** force of nature. This white tsunami is chasing after winter, and that’s why the tsunami is white—it’s a winter tsunami. It’s the most fierce and most violent kind of tsunami in existence.`
+    },
+    1296: {
+        "slug": "刺",
+        "level": 26,
+        "component_subject_ids": [23, 29, 128],
+        "amalgamation_subject_ids": [4894, 4895, 4896, 5134, 8949],
+        "meanings": ["Stab"],
+        "meaning_mnemonic": `There is a **r[head]r** pinned to a **r[tree]r** by a **r[knife]r**. This person has been **k[stab]k**bed! They were stabbed so hard that they were pinned to the tree here.`
+    },
+    1297: {
+        "slug": "励",
+        "level": 26,
+        "component_subject_ids": [116, 307, 13],
+        "amalgamation_subject_ids": [4900, 4901],
+        "meanings": ["Encourage"],
+        "meaning_mnemonic": `The "**r[Cliff]r** of **r[Ten Thousand]r** **r[Power]r**" is where you go if you want to be **k[encourage]k**d.`
+    },
+    1298: {
+        "slug": "討",
+        "level": 26,
+        "component_subject_ids": [117, 74],
+        "amalgamation_subject_ids": [4967, 4968],
+        "meanings": ["Chastise"],
+        "meaning_mnemonic": `They **r[say]r** using a **r[measurement]r** device (like a ruler) is a good way to **k[chastise]k** someone. They do something bad? Chastise them by slapping their wrists, their feet, their eyes, ears, anything! They say something out of turn? CHASTISE THEM!`
+    },
+    1299: {
+        "slug": "郵",
+        "level": 26,
+        "component_subject_ids": [93, 176],
+        "amalgamation_subject_ids": [4999, 5203, 5204, 5205],
+        "meanings": ["Mail", "Post"],
+        "meaning_mnemonic": `A broken **r[car]r** sits in a **r[building]r**. You need to get rid of it, so you put it in the **k[mail]k**. Or, depending on where you live, maybe you put it in the **k[post]k**.`
+    },
+    1300: {
+        "slug": "針",
+        "level": 26,
+        "component_subject_ids": [118, 15],
+        "amalgamation_subject_ids": [4988, 4989, 4990, 8393],
+        "meanings": ["Needle"],
+        "meaning_mnemonic": `In a **r[gold]r** **r[cross]r**, you see a **k[needle]k** sticking out of it. The needle is right in the middle of the gold cross. If Jesus were on there, the needle would be sticking him right in the chest.`
+    },
+    1301: {
+        "slug": "徴",
+        "level": 26,
+        "component_subject_ids": [99, 20, 48, 60],
+        "amalgamation_subject_ids": [4917, 4918],
+        "meanings": ["Indication", "Sign"],
+        "meaning_mnemonic": `A **r[loiter]r**ing **r[mountain]r** **r[king]r** in the **r[winter]r** is an **k[indication]k** or **k[sign]k** of something to come.`
+    },
+    1302: {
+        "slug": "怪",
+        "level": 26,
+        "component_subject_ids": [232, 179],
+        "amalgamation_subject_ids": [4919, 4920, 4921, 4956, 7655, 8915, 9074],
+        "meanings": ["Suspicious"],
+        "meaning_mnemonic": `You see a **r[soul]r** floating around a **r[tombstone]r** acting **k[suspicious]k**. To be fair, if a soul is going to be anywhere, a tombstone is probably high up on the list, but this one seems like it's doing something weird.`
+    },
+    1303: {
+        "slug": "獣",
+        "level": 26,
+        "component_subject_ids": [8783, 51, 8781, 47],
+        "amalgamation_subject_ids": [4955, 4956, 4957, 4958, 4959],
+        "meanings": ["Beast", "Animal"],
+        "meaning_mnemonic": `On the **r[grass]r** near a **r[rice paddy]r** sits a **r[creeper]r** that is some sort of a **r[dog]r** **k[beast]k**, a vicious **k[animal]k**. This creeper isn’t just a normal dog, it is more beast-like, more like a feral animal than domesticated pet.`
+    },
+    1304: {
+        "slug": "突",
+        "level": 26,
+        "component_subject_ids": [170, 18],
+        "amalgamation_subject_ids": [4960, 4961, 6438, 7093, 7374, 7931],
+        "meanings": ["Stab", "Thrust", "Sudden"],
+        "meaning_mnemonic": `In a **r[hole]r**, you see a **r[big]r** monster who wants to **k[stab]k** you. It **k[thrust]k**s its big spikes at you menacingly. No **k[sudden]k** movements now, or you'll fall right in!
+        `
+    },
+    1305: {
+        "slug": "菓",
+        "level": 26,
+        "component_subject_ids": [90, 235],
+        "amalgamation_subject_ids": [4965, 5192],
+        "meanings": ["Cake"],
+        "meaning_mnemonic": `You take some **r[flowers]r** and some **r[fruit]r** and you make a **k[cake]k** out of it. It’s a very nice looking, flavorful cake. The fruit makes it taste great and the flowers make for great cake decorations.`
+    },
+    1306: {
+        "slug": "河",
+        "level": 26,
+        "component_subject_ids": [103, 113],
+        "amalgamation_subject_ids": [4942, 4943, 4944, 4945, 4946],
+        "meanings": ["River"],
+        "meaning_mnemonic": `During a **r[tsunami]r**, your **r[lip ring]r** is ripped off while you’re trying to cross a **k[river]k**. There was no other path to safety, you had to cross the raging river, but you lost your footing and smashed your face on a rock and lost your lip ring.`
+    },
+    1307: {
+        "slug": "振",
+        "level": 26,
+        "component_subject_ids": [63, 183],
+        "amalgamation_subject_ids": [4925, 4926, 4927, 5158, 5159],
+        "meanings": ["Shake", "Wave"],
+        "meaning_mnemonic": `You're trying to use your **r[fingers]r** to cause a **r[landslide]r** so you have to **k[shake]k** the earth. You probably won't succeed, but the best you can do is to shake your hands on the dirt as hard as you can. It looks like you're trying to **k[wave]k** at the ground now.`
+    },
+    1308: {
+        "slug": "汗",
+        "level": 26,
+        "component_subject_ids": [103, 61],
+        "amalgamation_subject_ids": [4940, 4941],
+        "meanings": ["Sweat"],
+        "meaning_mnemonic": `The **r[tsunami]r** going down your **r[dry]r** face is just **k[sweat]k**.`
+    },
+    1309: {
+        "slug": "豚",
+        "level": 26,
+        "component_subject_ids": [43, 233],
+        "amalgamation_subject_ids": [4946, 4970, 4971, 9089, 9090],
+        "meanings": ["Pork", "Pig"],
+        "meaning_mnemonic": `On the **r[moon]r**, it’s easy to turn a **r[pig]r** into **k[pork]k**. The low gravity of the moon makes the whole process much easier and cost efficient. Soon, all the pig farming will be done on the moon and there will never be a pork shortage ever again.`
+    },
+    1310: {
+        "slug": "再",
+        "level": 26,
+        "component_subject_ids": [8763, 71],
+        "amalgamation_subject_ids": [4887, 4888, 4889, 4890, 4891, 4892, 4893],
+        "meanings": ["Again"],
+        "meaning_mnemonic": `A **r[leaf]r** has to do the same **r[task]r** **k[again]k** and again. Grow out of a tree, change color, fall to the ground, get absorbed back into the tree, then start all over again.`
+    },
+    1311: {
+        "slug": "接",
+        "level": 26,
+        "component_subject_ids": [63, 55, 19],
+        "amalgamation_subject_ids": [4930, 4931, 4932, 5160, 5392],
+        "meanings": ["Adjoin"],
+        "meaning_mnemonic": `You **r[stand]r** with another **r[woman]r** and, with your **r[fingers]r**, **k[adjoin]k** yourselves together. You are united, you are one.`
+    },
+    1312: {
+        "slug": "独",
+        "level": 26,
+        "component_subject_ids": [144, 89],
+        "amalgamation_subject_ids": [4898, 4904, 4950, 4951, 4952, 4953, 4954, 5173, 6372, 7715, 7875],
+        "meanings": ["Alone"],
+        "meaning_mnemonic": `There once was an **r[animal]r** with an **r[insect]r** friend who felt very **k[alone]k** unless he was around. An animal and an insect are an unlikely pairing, but these two get along delightfully and hate to be alone without the other.`
+    },
+    1313: {
+        "slug": "占",
+        "level": 26,
+        "component_subject_ids": [143],
+        "amalgamation_subject_ids": [4902, 4903, 4904, 5140],
+        "meanings": ["Fortune", "Occupy"],
+        "meaning_mnemonic": `The **r[fortune]r** radical and the **k[fortune]k** kanji are exactly the same! But it also means **k[occupy]k** as well, so don’t forget that. Fortune and occupy both occupy the same radical.`
+    },
+    1314: {
+        "slug": "招",
+        "level": 27,
+        "component_subject_ids": [63, 331],
+        "amalgamation_subject_ids": [5028, 5029, 5395],
+        "meanings": ["Beckon"],
+        "meaning_mnemonic": `Someone is reaching out with their **r[fingers]r** to **r[call]r** for you. They **k[beckon]k** you closer, this way.`
+    },
+    1315: {
+        "slug": "段",
+        "level": 27,
+        "component_subject_ids": [8792, 160],
+        "amalgamation_subject_ids": [5005, 5047, 5048, 5049, 5050, 5420],
+        "meanings": ["Steps", "Stairs"],
+        "meaning_mnemonic": `Cut this **r[comb]r** up with your **r[weapon]r** and turn it into the **k[steps]k** for some **k[stairs]k**.`
+    },
+    1316: {
+        "slug": "胃",
+        "level": 27,
+        "component_subject_ids": [51, 43],
+        "amalgamation_subject_ids": [5073, 8399, 8718],
+        "meanings": ["Stomach"],
+        "meaning_mnemonic": `If you eat a **r[rice paddy]r** the size of the **r[moon]r**, your **k[stomach]k** is going to hurt. All the rice in a rice paddy the size of the moon is way too much rice for anyone to consume. If you do, your stomach is going to ache like crazy.`
+    },
+    1317: {
+        "slug": "腹",
+        "level": 27,
+        "component_subject_ids": [43, 265],
+        "amalgamation_subject_ids": [5074, 5075, 5076, 5077, 5078, 5394],
+        "meanings": ["Belly", "Abdomen", "Stomach"],
+        "meaning_mnemonic": `Inside this **r[moon]r** is a **r[black hole]r**... haha just kidding, it's your **k[belly]k**! It's beautiful and round like the moon and it eats up everything you give it like a black hole. What a good **k[stomach]k** you have!`
+    },
+    1318: {
+        "slug": "痛",
+        "level": 27,
+        "component_subject_ids": [187, 141, 71],
+        "amalgamation_subject_ids": [5056, 5057, 5073, 5260, 5261, 5262, 7104, 8248, 8934],
+        "meanings": ["Pain"],
+        "meaning_mnemonic": `When your **r[sick]r** **r[mama]r** tries to do a **r[task]r** she's filled with **k[pain]k**!`
+    },
+    1319: {
+        "slug": "退",
+        "level": 27,
+        "component_subject_ids": [114, 196],
+        "amalgamation_subject_ids": [5012, 5092, 5093, 5094, 7343, 7716, 8930],
+        "meanings": ["Retreat", "Reject"],
+        "meaning_mnemonic": `If you're on your **r[scooter]r** and you run over a **r[root]r**, you'll need to **k[retreat]k**. The roots have obviously **k[reject]k**ed you, they want you to leave, so you should.`
+    },
+    1320: {
+        "slug": "屈",
+        "level": 27,
+        "component_subject_ids": [37, 332],
+        "amalgamation_subject_ids": [5012, 7174, 7656, 8311, 8522, 8682, 9005],
+        "meanings": ["Yield"],
+        "meaning_mnemonic": `You see a **r[flag]r** by the **r[exit]r** letting you know to **k[yield]k**. There’s cross traffic just outside the exit, and the flag lets you know that you need to yield to them.`
+    },
+    1321: {
+        "slug": "悩",
+        "level": 27,
+        "component_subject_ids": [232, 8783, 262],
+        "amalgamation_subject_ids": [5020, 5021],
+        "meanings": ["Worry"],
+        "meaning_mnemonic": `If your **r[soul]r** is lying in the **r[grass]r** in a **r[treasure chest]r**, you're going to **k[worry]k** about it. It's just sitting there, out in the open, waiting for anyone to come and open it.`
+    },
+    1322: {
+        "slug": "暇",
+        "level": 27,
+        "component_subject_ids": [22, 8792, 217, 30],
+        "amalgamation_subject_ids": [5033, 5034, 7513],
+        "meanings": ["Spare Time", "Free Time"],
+        "meaning_mnemonic": `In the **r[sun]r** while holding a **r[comb]r** in a **r[cage]r** and sitting on a **r[stool]r**, you comb your hair in your **k[spare time]k**. Since you’re in a cage, you actually fashioned this comb yourself, so it’s a little messed up, missing a prong. You’re working on improving it in your spare time, and you also use it to style your mop.`
+    },
+    1323: {
+        "slug": "織",
+        "level": 27,
+        "component_subject_ids": [86, 197, 194],
+        "amalgamation_subject_ids": [5071, 5072, 5391, 8570],
+        "meanings": ["Weave"],
+        "meaning_mnemonic": `Taking a **r[thread]r** and moving to the **r[sound]r** of the music, a **r[drunkard]r** makes a **k[weave]k** through some fabric. He’s using the thread to weave his clothes back together after he damaged them in a fall down the stairs. You know, because he’s a drunkard.`
+    },
+    1324: {
+        "slug": "貸",
+        "level": 27,
+        "component_subject_ids": [310, 94],
+        "amalgamation_subject_ids": [5082, 5083, 5289, 5698],
+        "meanings": ["Lend"],
+        "meaning_mnemonic": `You **r[substitute]r** some **r[shellfish]r** for collateral so your friend will **k[lend]k** you some money. Normally he would ask for something more valuable, but you’ve convinced him to substitute these shellfish for what he would normally take as collateral when lending to people.`
+    },
+    1325: {
+        "slug": "迷",
+        "level": 27,
+        "component_subject_ids": [114, 98],
+        "amalgamation_subject_ids": [5023, 5088, 5089, 5090, 5091, 5290, 5703, 7200, 7501, 8720],
+        "meanings": ["Astray", "Lost"],
+        "meaning_mnemonic": `If you're riding your **r[scooter]r** through some **r[rice]r**, it's likely you've gone **k[astray]k**. Also you might be **k[lost]k**.`
+    },
+    1326: {
+        "slug": "惑",
+        "level": 27,
+        "component_subject_ids": [194, 16, 1, 65],
+        "amalgamation_subject_ids": [5022, 5023, 5024, 5284, 7501],
+        "meanings": ["Misguided"],
+        "meaning_mnemonic": `A **r[drunkard]r** who has his **r[mouth]r** on the **r[ground]r**, has a **r[heart]r** that is **k[misguided]k**. First of all, he tries to drink his problems away, but worse, he's so drunk he's trying to drink out of the ground.`
+    },
+    1327: {
+        "slug": "誘",
+        "level": 27,
+        "component_subject_ids": [117, 135, 200],
+        "amalgamation_subject_ids": [5024, 5081, 5284, 6297, 8101],
+        "meanings": ["Invite"],
+        "meaning_mnemonic": `You **r[say]r** to some **r[grain]r** and some **r[stairs]r**: I want to **k[invite]k** you to my place.`
+    },
+    1328: {
+        "slug": "就",
+        "level": 27,
+        "component_subject_ids": [299, 47],
+        "amalgamation_subject_ids": [5009, 5010, 5011],
+        "meanings": ["Get A Position"],
+        "meaning_mnemonic": `In the **r[capital]r**, even a broken **r[dog]r** can **k[get a position]k**. That's because the capital has so many jobs available that even a poor, broken dog can find a place to work.`
+    },
+    1329: {
+        "slug": "訪",
+        "level": 27,
+        "component_subject_ids": [117, 66],
+        "amalgamation_subject_ids": [5079, 5080, 5397],
+        "meanings": ["Visit"],
+        "meaning_mnemonic": `Someone just asked you to **r[say]r** which **r[direction]r** they should **k[visit]k**.`
+    },
+    1330: {
+        "slug": "怒",
+        "level": 27,
+        "component_subject_ids": [19, 30, 65],
+        "amalgamation_subject_ids": [5018, 5019, 5232, 5393, 7772, 9094],
+        "meanings": ["Angry", "Anger"],
+        "meaning_mnemonic": `A **r[woman]r** sitting on a **r[stool]r** with a broken **r[heart]r** is very **k[angry]k**. She had her heart broken by some jerk and now she’s sitting on the stool, just stewing over the guy and how angry she is with him.`
+    },
+    1331: {
+        "slug": "昇",
+        "level": 27,
+        "component_subject_ids": [22, 5, 106],
+        "amalgamation_subject_ids": [5031, 5032, 5068],
+        "meanings": ["Ascend"],
+        "meaning_mnemonic": `You want to go to the **r[sun]r** so you set up a **r[slide]r** **r[twenty]r** stories tall so you can **k[ascend]k** into the heavens.`
+    },
+    1332: {
+        "slug": "眠",
+        "level": 27,
+        "component_subject_ids": [53, 312],
+        "amalgamation_subject_ids": [5055, 5058, 5059, 5263, 5264, 5265, 7718],
+        "meanings": ["Sleep"],
+        "meaning_mnemonic": `Closing each **r[eye]r** is something that the **r[peoples]r** do before they **k[sleep]k**. The peoples can’t sleep with both eyes open and they can’t sleep with just one eye open either. Peoples have to close each eye before they can sleep.`
+    },
+    1333: {
+        "slug": "睡",
+        "level": 27,
+        "component_subject_ids": [53, 93],
+        "amalgamation_subject_ids": [5059, 5265],
+        "meanings": ["Drowsy"],
+        "meaning_mnemonic": `Your **r[eye]r**s start to close as you drive your **r[car]r** because you’re getting **k[drowsy]k**. This is a very dangerous way to drive your car, especially since your car is missing its top and its bottom. This is no time to be getting drowsy. Keep your eyes open and drive for your life!`
+    },
+    1334: {
+        "slug": "症",
+        "level": 27,
+        "component_subject_ids": [187, 229],
+        "amalgamation_subject_ids": [5007, 5053, 5054, 5055, 5235, 5472, 5906],
+        "meanings": ["Symptom"],
+        "meaning_mnemonic": `When someone is **r[sick]r** in order to diagnose the **r[correct]r** cause and treatment, you need to check their **k[symptom]k**s. You have to be especially careful too, because if you get a symptom wrong, you could kill them!`
+    },
+    1335: {
+        "slug": "締",
+        "level": 27,
+        "component_subject_ids": [86, 55, 102],
+        "amalgamation_subject_ids": [5069, 5070, 5272, 5273],
+        "meanings": ["Tighten"],
+        "meaning_mnemonic": `You have a special **r[thread]r** in your **r[towel]r** you can use to make it **r[stand]r** up by **k[tighten]k**ing it.`
+    },
+    1336: {
+        "slug": "迫",
+        "level": 27,
+        "component_subject_ids": [114, 52],
+        "amalgamation_subject_ids": [5084, 5085, 5086, 5087, 7158],
+        "meanings": ["Urge", "Compel", "Coerce"],
+        "meaning_mnemonic": `The **r[scooter]r** is **r[white]r**. This color will **k[urge]k** and **k[compel]k** you to use it. Scooter companies use colors to get you to do what they want. Some would say they are trying to **k[coerce]k** you, even.`
+    },
+    1337: {
+        "slug": "靴",
+        "level": 27,
+        "component_subject_ids": [288, 311],
+        "amalgamation_subject_ids": [5098, 5099, 5100, 5101],
+        "meanings": ["Shoes"],
+        "meaning_mnemonic": `Take your **r[leather]r** and **r[change]r** it into **k[shoes]k**.`
+    },
+    1338: {
+        "slug": "濃",
+        "level": 27,
+        "component_subject_ids": [103, 308],
+        "amalgamation_subject_ids": [5051, 5052, 8390],
+        "meanings": ["Thick"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits while you're **r[farming]r**, you'll have to wear really **k[thick]k** clothes to deal with it. The water is thick with fish and cars and other ripped-up debris too, which makes it even harder.`
+    },
+    1339: {
+        "slug": "端",
+        "level": 27,
+        "component_subject_ids": [55, 20, 309],
+        "amalgamation_subject_ids": [5060, 5061, 5062, 5063],
+        "meanings": ["Edge"],
+        "meaning_mnemonic": `Setting up a **r[stand]r** on the top of a **r[mountain]r**, you **r[rake]r** all the rocks to the **k[edge]k** of it. You want to clear the area around your stand, so you get your rake out and you rake all the stones and debris away from the stand and toward the edge of the mountain top. It also creates a small barrier around the edge as well.`
+    },
+    1340: {
+        "slug": "極",
+        "level": 27,
+        "component_subject_ids": [23, 1, 14, 16, 30],
+        "amalgamation_subject_ids": [5038, 5039, 5040, 5041, 5063, 5242, 5243, 6300],
+        "meanings": ["Extreme"],
+        "meaning_mnemonic": `There aren't many **r[tree]r**s in your under**r[ground]r** **r[prison]r**, so you've been given a task: using only your **r[mouth]r** and a **r[stool]r**, plant as many in the **r[ground]r** as you can. It's an **k[extreme]k** challenge!`
+    },
+    1341: {
+        "slug": "途",
+        "level": 27,
+        "component_subject_ids": [114, 313],
+        "amalgamation_subject_ids": [5062, 5095],
+        "meanings": ["Route"],
+        "meaning_mnemonic": `When you ride a **r[scooter]r** you'll have a **r[surplus]r** of possible **k[route]k**s. Not only can you drive on any road, but you can ride on the sidewalk too!`
+    },
+    1342: {
+        "slug": "健",
+        "level": 27,
+        "component_subject_ids": [75, 206, 220],
+        "amalgamation_subject_ids": [5006, 5007, 5230, 7291],
+        "meanings": ["Healthy"],
+        "meaning_mnemonic": `The **r[leader]r** of your **r[yoga]r** class uses a special **r[brush]r** to stay **k[healthy]k**. She rubs the brush on her long arms and legs, and she never ever gets sick.`
+    },
+    1343: {
+        "slug": "康",
+        "level": 27,
+        "component_subject_ids": [62, 105, 45],
+        "amalgamation_subject_ids": [5006, 5230],
+        "meanings": ["Ease", "Peace"],
+        "meaning_mnemonic": `You see a **r[canopy]r** under which **r[Wolverine]r** is sipping some **r[water]r**. He looks so at **k[ease]k** and at **k[peace]k**.`
+    },
+    1344: {
+        "slug": "郎",
+        "level": 27,
+        "component_subject_ids": [8822, 176],
+        "amalgamation_subject_ids": [5097, 9103],
+        "meanings": ["Guy"],
+        "meaning_mnemonic": `Inside the "**r[Good]r** **r[Building]r**" there's a single **k[guy]k**.`
+    },
+    1345: {
+        "slug": "給",
+        "level": 27,
+        "component_subject_ids": [86, 216],
+        "amalgamation_subject_ids": [5064, 5065, 5066, 5067, 5068, 5932, 6049],
+        "meanings": ["Salary"],
+        "meaning_mnemonic": `Your **r[thread]r**s have to **r[suit]r** you if you want a good **k[salary]k**. No one is going to give you a salary if your clothes don't suit you. You have to look professional!`
+    },
+    1346: {
+        "slug": "逆",
+        "level": 28,
+        "component_subject_ids": [114, 315, 3],
+        "amalgamation_subject_ids": [5198, 5199, 5200, 5201, 5375, 6665],
+        "meanings": ["Reverse", "Opposite"],
+        "meaning_mnemonic": `Your **r[scooter]r** takes you to the **r[barracks]r**, **r[drop]r**s you off, and then goes in **k[reverse]k** all the way back home in the **k[opposite]k** direction.`
+    },
+    1347: {
+        "slug": "巨",
+        "level": 28,
+        "component_subject_ids": [314],
+        "amalgamation_subject_ids": [5013, 5014, 8261],
+        "meanings": ["Giant"],
+        "meaning_mnemonic": `The **r[giant]r** radical and the **k[giant]k** kanji are exactly the same! Massive!`
+    },
+    1348: {
+        "slug": "庫",
+        "level": 28,
+        "component_subject_ids": [62, 93],
+        "amalgamation_subject_ids": [5123, 5149, 5150, 5151, 5452, 5684],
+        "meanings": ["Storage", "Warehouse"],
+        "meaning_mnemonic": `A **r[canopy]r** is over your **r[car]r** because your car is in **k[storage]k** in a large **k[warehouse]k**.`
+    },
+    1349: {
+        "slug": "児",
+        "level": 28,
+        "component_subject_ids": [8761, 22, 28],
+        "amalgamation_subject_ids": [5119, 5120, 6020, 7873, 8087, 8394],
+        "meanings": ["Child"],
+        "meaning_mnemonic": `Pointing your magic solar powered wishing **r[stick]r** at the **r[sun]r**, you attain the **r[legs]r** of a **k[child]k**. You’re old and want young legs to carry you around, so you took your wishing stick that’s powered by the sun, and you wished for the legs of a child.`
+    },
+    1350: {
+        "slug": "冷",
+        "level": 28,
+        "component_subject_ids": [123, 189],
+        "amalgamation_subject_ids": [5121, 5122, 5123, 5300, 5511, 5684, 6194, 7937, 8164],
+        "meanings": ["Cool", "Cold"],
+        "meaning_mnemonic": `You got your **r[ice]r** **r[orders]r**. Of course, your ice orders are to make things **k[cool]k** and **k[cold]k**.`
+    },
+    1351: {
+        "slug": "凍",
+        "level": 28,
+        "component_subject_ids": [123, 224],
+        "amalgamation_subject_ids": [5123, 5124, 5125, 5126, 9075],
+        "meanings": ["Frozen", "Freeze"],
+        "meaning_mnemonic": `**r[Ice]r** from the **r[east]r** is **k[frozen]k**. Well, of course, all ice is frozen, but ice from the east is like, really super frozen.`
+    },
+    1352: {
+        "slug": "幼",
+        "level": 28,
+        "component_subject_ids": [87, 13],
+        "amalgamation_subject_ids": [5120, 5147, 5148, 5186, 5347],
+        "meanings": ["Infancy", "Childhood"],
+        "meaning_mnemonic": `Super **r[poop]r** is a super **r[power]r** you have in **k[infancy]k**. Those in infancy have the power to poop at will, whenever and wherever they please. Infancy poop power!`
+    },
+    1353: {
+        "slug": "稚",
+        "level": 28,
+        "component_subject_ids": [135, 240],
+        "amalgamation_subject_ids": [5186, 5347, 8542],
+        "meanings": ["Immature"],
+        "meaning_mnemonic": `Only give **r[grain]r**s to a **r[turkey]r** if it's **k[immature]k**. Adult turkeys should be eating healthier things, like insects and grass. But immature turkeys don't care if they get fat, so they whine and whine and whine until you give them grains.`
+    },
+    1354: {
+        "slug": "処",
+        "level": 28,
+        "component_subject_ids": [60, 177],
+        "amalgamation_subject_ids": [5127, 5128, 5129, 7933],
+        "meanings": ["Deal With"],
+        "meaning_mnemonic": `A **r[winter]r** **r[table]r** would be an odd thing to **k[deal with]k**. Winter can be hard to deal with on its own, but turn your table into winter? Just dealing with your food getting cold would be the worst!`
+    },
+    1355: {
+        "slug": "博",
+        "level": 28,
+        "component_subject_ids": [15, 3, 317],
+        "amalgamation_subject_ids": [5137, 5138, 5139],
+        "meanings": ["Exhibition", "Gambling"],
+        "meaning_mnemonic": `You wear a great big **r[cross]r** with a **r[drop]r** on it, and head to a **r[specialty]r** **k[exhibition]k** for **k[gambling]k**. The big cross and drop on your chest is your badge for being admitted into the exhibition. Everyone at the specialty exhibition has a cross and drop, and everyone is gambling.`
+    },
+    1356: {
+        "slug": "清",
+        "level": 28,
+        "component_subject_ids": [103, 120],
+        "amalgamation_subject_ids": [5169, 5170, 6997, 8002],
+        "meanings": ["Pure"],
+        "meaning_mnemonic": `A **r[tsunami]r** that's **r[blue]r** is **k[pure]k**. Some tsunami are other colors, like brown or red because they aren't pure, they'll full of trash and poop and other horrible things. But a blue tsunami is completely pure!`
+    },
+    1357: {
+        "slug": "潔",
+        "level": 28,
+        "component_subject_ids": [103, 210, 24, 86],
+        "amalgamation_subject_ids": [5170, 5171, 5172],
+        "meanings": ["Pure", "Clean"],
+        "meaning_mnemonic": `A **r[tsunami]r** takes **r[life]r**, cuts it like a **r[sword]r** through **r[thread]r**, and leaves everything behind completely **k[pure]k** and **k[clean]k**. Everything is dead and gone, wiped clean off the face of the earth, thanks to the tsunami. It's back to the way it was before humans were here, completely undefiled.`
+    },
+    1358: {
+        "slug": "録",
+        "level": 28,
+        "component_subject_ids": [118, 105, 45],
+        "amalgamation_subject_ids": [5206, 5207, 5208, 5380, 6361],
+        "meanings": ["Record"],
+        "meaning_mnemonic": `A **r[gold]r** **r[Wolverine]r** swam in the **r[water]r** while his father made a **k[record]k** of it. Wolverine is gold in color because he just won the gold medal in swimming, so now he is gold. Way to go, Wolverine.`
+    },
+    1359: {
+        "slug": "隊",
+        "level": 28,
+        "component_subject_ids": [176, 8767, 233],
+        "amalgamation_subject_ids": [5209, 5210, 5211, 5212, 6510],
+        "meanings": ["Squad"],
+        "meaning_mnemonic": `This **r[building]r** has a **r[pig]r** with **r[horns]r** on it because it's our **k[squad]k**'s place.`
+    },
+    1360: {
+        "slug": "修",
+        "level": 28,
+        "component_subject_ids": [75, 8761, 60, 38],
+        "amalgamation_subject_ids": [5111, 5112, 5113, 5114, 7500],
+        "meanings": ["Discipline"],
+        "meaning_mnemonic": `A **r[leader]r** uses a **r[stick]r** in the **r[winter]r** made of **r[hair]r** to enforce **k[discipline]k**. The leader uses the stick made of hair to discipline his followers. He hits them with it.`
+    },
+    1361: {
+        "slug": "券",
+        "level": 28,
+        "component_subject_ids": [8819, 24],
+        "amalgamation_subject_ids": [5130, 5131, 5132, 5133, 5398, 5971, 9048],
+        "meanings": ["Ticket"],
+        "meaning_mnemonic": `The **r[gladiator]r** in front of you draws his **r[sword]r**. He points the sword at your chest and right when you think everything is about to end, you realize he's pointing the sword at the **k[ticket]k** in your hand.`
+    },
+    1362: {
+        "slug": "婦",
+        "level": 28,
+        "component_subject_ids": [19, 105, 76, 102],
+        "amalgamation_subject_ids": [5144, 5145, 5146, 6167, 7657, 8611],
+        "meanings": ["Wife"],
+        "meaning_mnemonic": `That **r[woman]r** dressed as **r[Wolverine]r** with a **r[towel]r** tied around her **r[forehead]r** is your **k[wife]k**. You're cosplaying together!`
+    },
+    1363: {
+        "slug": "奇",
+        "level": 28,
+        "component_subject_ids": [326],
+        "amalgamation_subject_ids": [5305, 5306, 5307, 6105, 6663],
+        "meanings": ["Odd", "Strange"],
+        "meaning_mnemonic": `The **r[odd]r** radical and the **k[odd]k** kanji are the same. They're both... really **k[strange]k**.`
+    },
+    1364: {
+        "slug": "妙",
+        "level": 28,
+        "component_subject_ids": [19, 198],
+        "amalgamation_subject_ids": [5141, 5142, 5143, 5307, 7367],
+        "meanings": ["Strange"],
+        "meaning_mnemonic": `A **r[woman]r** is one of the **r[few]r** **k[strange]k** things in the world. Everything but a woman can be explained and made sense of. There are only a few strange things in this world, with woman being one of them.`
+    },
+    1365: {
+        "slug": "麗",
+        "level": 28,
+        "component_subject_ids": [318],
+        "amalgamation_subject_ids": [5502],
+        "meanings": ["Lovely"],
+        "meaning_mnemonic": `If you know the radical meaning **r[lovely]r**, you know the kanji meaning **k[lovely]k** as well!`
+    },
+    1366: {
+        "slug": "微",
+        "level": 28,
+        "component_subject_ids": [99, 20, 101, 60],
+        "amalgamation_subject_ids": [5141, 5153, 5154],
+        "meanings": ["Delicate"],
+        "meaning_mnemonic": `You **r[loiter]r** on the **r[mountain]r**, reading off the numbers of **r[pi]r** on this **r[winter]r** morning. Everything is so perfect, so mathematical here. You view it as **k[delicate]k**. Not in the sense that it will break apart at any moment, more in the sense that there are smaller, more subtle things to be enjoyed on this mountain, which is why you loiter here doing math.`
+    },
+    1367: {
+        "slug": "益",
+        "level": 28,
+        "component_subject_ids": [8767, 1, 2, 84],
+        "amalgamation_subject_ids": [5174, 5175, 5176, 5177],
+        "meanings": ["Benefit"],
+        "meaning_mnemonic": `There are some **r[horns]r** on the **r[ground]r** next to **r[fins]r** on a **r[plate]r** that are meant to **k[benefit]k** everyone. If you're a member of this town, one of your benefits is this little set up.`
+    },
+    1368: {
+        "slug": "移",
+        "level": 28,
+        "component_subject_ids": [135, 33],
+        "amalgamation_subject_ids": [5178, 5179, 5180, 5181, 5504, 6319, 8758],
+        "meanings": ["Shift"],
+        "meaning_mnemonic": `A **r[grain]r**, from one **r[evening]r** to the next **r[evening]r**, experiences a **k[shift]k**. After two evenings, the grain has shifted from one location to another.`
+    },
+    1369: {
+        "slug": "程",
+        "level": 28,
+        "component_subject_ids": [135, 16, 48],
+        "amalgamation_subject_ids": [5182, 5183, 5184, 5185, 5400, 7771, 8685],
+        "meanings": ["Extent"],
+        "meaning_mnemonic": `The **r[Grain]r** **r[Mouth]r** **r[King]r** pours grain from his mouth for you and his other subjects. You go to him and pull his finger. When you do this, grain pours from his mouth. But we were greedy. We didn't understand the **k[extent]k** to which we were harvesting his mouth wheat.`
+    },
+    1370: {
+        "slug": "精",
+        "level": 28,
+        "component_subject_ids": [98, 120],
+        "amalgamation_subject_ids": [5187, 5188, 5349, 5350, 5351, 8914],
+        "meanings": ["Spirit", "Pure"],
+        "meaning_mnemonic": `**r[Rice]r** that is **r[blue]r** has a strong **k[spirit]k**. Our spirits are blue, so if you ever see rice (or other food, or even people) that's blue, you know that's their spirit radiating out!`
+    },
+    1371: {
+        "slug": "絶",
+        "level": 25,
+        "component_subject_ids": [86, 110],
+        "amalgamation_subject_ids": [5106, 5189, 5190, 5191, 5356, 5406, 5982, 6743, 6813, 8904],
+        "meanings": ["Extinction", "Die Out"],
+        "meaning_mnemonic": `Sometime in the future, **r[thread]r** of every **r[color]r** will be faced with **k[extinction]k**. Eventually there will be nothing else to make thread out of, and thread of every kind and color will reach extinction.`
+    },
+    1372: {
+        "slug": "並",
+        "level": 28,
+        "component_subject_ids": [8767, 1, 8768],
+        "amalgamation_subject_ids": [5107, 5108, 5109, 5110, 5297, 8046],
+        "meanings": ["Line Up"],
+        "meaning_mnemonic": `You stick **r[horns]r** in the **r[ground]r** using them as **r[spikes]r** and you **k[line up]k** the horns in a straight line. Horns are pretty much the same thing as spikes once you stick them in the ground, and you line these ones up precisely for optimal protection.`
+    },
+    1373: {
+        "slug": "憲",
+        "level": 28,
+        "component_subject_ids": [78, 210, 163, 65],
+        "amalgamation_subject_ids": [5155, 5156],
+        "meanings": ["Constitution"],
+        "meaning_mnemonic": `The **r[roof]r** protecting your **r[life]r** and the **r[net]r** protecting your **r[heart]r** are both protected by the **k[constitution]k**.`
+    },
+    1374: {
+        "slug": "衆",
+        "level": 28,
+        "component_subject_ids": [137, 38, 8778],
+        "amalgamation_subject_ids": [5193, 5194],
+        "meanings": ["Populace"],
+        "meaning_mnemonic": `**r[Blood]r** and **r[hair]r** and **r[tofu]r** make up the **k[populace]k**. Those are the three categories the entire populace fits into, anyway.`
+    },
+    1375: {
+        "slug": "傘",
+        "level": 28,
+        "component_subject_ids": [8764, 9, 15],
+        "amalgamation_subject_ids": [5115, 5116],
+        "meanings": ["Umbrella"],
+        "meaning_mnemonic": `As a **r[hat]r**, **r[four people]r** holding a **r[cross]r** use an **k[umbrella]k**. The umbrella is big enough to be a hat for all four people, so it makes sense. All four of them are religious missionaries, so that’s why they’re holding the cross.`
+    },
+    1376: {
+        "slug": "浜",
+        "level": 28,
+        "component_subject_ids": [103, 115, 1, 2],
+        "amalgamation_subject_ids": [5167, 5168, 8683],
+        "meanings": ["Beach"],
+        "meaning_mnemonic": `After a **r[tsunami]r**, you find an **r[axe]r** on the **r[ground]r** next to some **r[fins]r** on the **k[beach]k**. The tsunami was pretty violent, and it looks like this axe got blown into some fish and cut off their fins and now those things are just on the ground by the beach.`
+    },
+    1377: {
+        "slug": "撃",
+        "level": 28,
+        "component_subject_ids": [93, 160, 41],
+        "amalgamation_subject_ids": [5161, 5162, 5399, 6096, 6135, 6437, 6662, 6846, 7090, 7468],
+        "meanings": ["Attack"],
+        "meaning_mnemonic": `If someone is coming toward you in a **r[car]r**, holding a **r[weapon]r** in their **r[hand]r**, they're going to **k[attack]k** you!`
+    },
+    1378: {
+        "slug": "攻",
+        "level": 28,
+        "component_subject_ids": [25, 60],
+        "amalgamation_subject_ids": [5162, 5163, 5164, 5165, 5399, 6552],
+        "meanings": ["Aggression"],
+        "meaning_mnemonic": `**r[Construction]r** in the **r[winter]r** leads to **k[aggression]k**. Just think about it. It's cold, it's unpleasant, and you don't want to be there. So, you start to develop an aggression towards other people working with you on this winter project.`
+    },
+    1379: {
+        "slug": "監",
+        "level": 29,
+        "component_subject_ids": [323, 8762, 1, 84],
+        "amalgamation_subject_ids": [5430, 5431],
+        "meanings": ["Oversee"],
+        "meaning_mnemonic": `To the **r[servant]r** you say: "**r[gun]r**, **r[ground]r**, **r[plate]r**." It is your job to **k[oversee]k** everything they do.`
+    },
+    1380: {
+        "slug": "杯",
+        "level": 29,
+        "component_subject_ids": [23, 96],
+        "amalgamation_subject_ids": [5215, 5237, 5238, 5239, 5349],
+        "meanings": ["Cup Of Liquid", "Counter For Cups"],
+        "meaning_mnemonic": `A **r[tree]r** is **r[not]r** a **k[cup of liquid]k** or a **k[counter for cups]k**. Don’t get them mixed up. The last time you tried making a cup out of a tree to count your throat got filled with splinters when you used it. There wasn't even any liquid in it.`
+    },
+    1381: {
+        "slug": "乾",
+        "level": 29,
+        "component_subject_ids": [8793, 8762, 324],
+        "amalgamation_subject_ids": [5213, 5214, 5215, 5711, 7809],
+        "meanings": ["Dry"],
+        "meaning_mnemonic": `In the **r[morning]r**, you use a **r[gun]r** on your **r[nose]r** to make it **k[dry]k**.`
+    },
+    1382: {
+        "slug": "催",
+        "level": 29,
+        "component_subject_ids": [75, 20, 240],
+        "amalgamation_subject_ids": [5217, 5218, 5219, 5705, 5706],
+        "meanings": ["Sponsor"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[mountain]r** **r[turkey]r**s is our **k[sponsor]k**. He's paying us to say and type everything you're reading.`
+    },
+    1383: {
+        "slug": "促",
+        "level": 29,
+        "component_subject_ids": [75, 95],
+        "amalgamation_subject_ids": [5216, 5217, 5706],
+        "meanings": ["Urge"],
+        "meaning_mnemonic": `Your **r[leader]r** sees your bare **r[foot]r** and **k[urge]k**s you to put a sock on it.`
+    },
+    1384: {
+        "slug": "欧",
+        "level": 29,
+        "component_subject_ids": [322, 142],
+        "amalgamation_subject_ids": [5244, 5245, 5246],
+        "meanings": ["Europe"],
+        "meaning_mnemonic": `A **r[district]r** that **r[lack]r**s things will be in **k[Europe]k**.`
+    },
+    1385: {
+        "slug": "江",
+        "level": 29,
+        "component_subject_ids": [103, 25],
+        "amalgamation_subject_ids": [5247, 5248],
+        "meanings": ["Inlet", "Bay"],
+        "meaning_mnemonic": `A **r[tsunami]r** rolls in and destroys all the **r[construction]r** that was being done on the **k[inlet]k** and the **k[bay]k**. Both the inlet and the bay were having a lot of construction done on them to repair the damage from the last tsunami, and then another tsunami rolled in and destroyed all that too. Bummer.`
+    },
+    1386: {
+        "slug": "請",
+        "level": 29,
+        "component_subject_ids": [117, 120],
+        "amalgamation_subject_ids": [5285, 5286, 5287, 5288],
+        "meanings": ["Request"],
+        "meaning_mnemonic": `If what you **r[say]r** comes out **r[blue]r**, everyone knows that means you made a **k[request]k**. You request a favor and the words slide out of your mouth in a bright, blue blob. They hover in front of you for a few seconds, before splashing onto the person you made the request to.`
+    },
+    1387: {
+        "slug": "雄",
+        "level": 29,
+        "component_subject_ids": [26, 140, 240],
+        "amalgamation_subject_ids": [5293, 5405, 9063],
+        "meanings": ["Male", "Brave"],
+        "meaning_mnemonic": `The **r[narwhal]r** and the **r[turkey]r** are meeting in **r[private]r** to uh, show each other some private things. Doing this they realize they're both **k[male]k**!`
+    },
+    1388: {
+        "slug": "韓",
+        "level": 29,
+        "component_subject_ids": [8793, 294],
+        "amalgamation_subject_ids": [5294, 5295],
+        "meanings": ["Korea"],
+        "meaning_mnemonic": `In the **r[morning]r**, **r[Korea]r** will still be **k[Korea]k**.`
+    },
+    1389: {
+        "slug": "壊",
+        "level": 29,
+        "component_subject_ids": [17, 15, 163, 320],
+        "amalgamation_subject_ids": [5220, 5221, 5222, 5414, 5415, 5868, 6074, 6744],
+        "meanings": ["Break"],
+        "meaning_mnemonic": `You set up a **r[net]r** on a **r[cross]r** to wash your **r[clothes]r** in the river, when a huge wave of **r[dirt]r** smashes into it, **k[break]k**ing the whole thing and sending your clothes tumbling down the river.`
+    },
+    1390: {
+        "slug": "診",
+        "level": 29,
+        "component_subject_ids": [117, 8764, 38],
+        "amalgamation_subject_ids": [5166, 5280, 5281, 5320],
+        "meanings": ["Diagnose"],
+        "meaning_mnemonic": `They **r[say]r** to wear a **r[hat]r** to cover your **r[hair]r** if your doctor **k[diagnose]k**s you with hair loss. It's the best option, folks. `
+    },
+    1391: {
+        "slug": "閣",
+        "level": 29,
+        "component_subject_ids": [214, 180],
+        "amalgamation_subject_ids": [5291, 5292],
+        "meanings": ["The Cabinet", "Cabinet"],
+        "meaning_mnemonic": `At the **r[gate]r**, you **r[kiss]r** **k[the cabinet]k** members, one by one. In order to gain access to this government building, you have to kiss all the members of the cabinet at the gate. What a strange ritual.`
+    },
+    1392: {
+        "slug": "僚",
+        "level": 29,
+        "component_subject_ids": [75, 319],
+        "amalgamation_subject_ids": [5117, 5118, 5291, 5401],
+        "meanings": ["Colleague"],
+        "meaning_mnemonic": `A good **r[leader]r** will use **r[charcoal]r** to mark her **k[colleague]k**s. Sometimes if leaders aren't around all the time, people will get rebellious and act badly toward people who can get them in trouble. So when you mark them with charcoal you know that someone close with your leader is around and you should probably stop being a butt.`
+    },
+    1393: {
+        "slug": "積",
+        "level": 29,
+        "component_subject_ids": [135, 321],
+        "amalgamation_subject_ids": [5266, 5267, 5268, 5704, 8231],
+        "meanings": ["Accumulate"],
+        "meaning_mnemonic": `**r[Grain]r**s get **r[blame]r**d for how much they **k[accumulate]k**. If the grains accumulate too much then they make more work for the farmers. If they accumulate too little, then they're starving the people. Ugh, grains just can't win with you people. They're blamed for everything.`
+    },
+    1394: {
+        "slug": "督",
+        "level": 29,
+        "component_subject_ids": [325, 35, 30, 53],
+        "amalgamation_subject_ids": [5431],
+        "meanings": ["Coach"],
+        "meaning_mnemonic": `**r[Above]r** you, on a **r[small]r** **r[stool]r** is the **r[eye]r** of your **k[coach]k**. He's really high above you though, and all you can make out is the glint of his eye as he perches on that stool. But he's yelling out orders and corrections, which you can hear very well.`
+    },
+    1395: {
+        "slug": "臣",
+        "level": 29,
+        "component_subject_ids": [323],
+        "amalgamation_subject_ids": [5274, 5424, 5425],
+        "meanings": ["Servant", "Retainer"],
+        "meaning_mnemonic": `The **r[servant]r** radical and the **k[servant]k** kanji are exactly the same! Just remember that the kanji also means **k[retainer]k** and you’ll be fine.`
+    },
+    1396: {
+        "slug": "略",
+        "level": 29,
+        "component_subject_ids": [51, 180],
+        "amalgamation_subject_ids": [5255, 5256, 5257, 5258, 5259],
+        "meanings": ["Abbreviation", "Abbreviate"],
+        "meaning_mnemonic": `You see a **r[rice paddy]r** and you give it a **r[kiss]r** before granting it the **k[abbreviation]k**, RP. The rice paddy isn’t too fond of this abbreviation, so you kiss it again to soothe it.`
+    },
+    1397: {
+        "slug": "航",
+        "level": 29,
+        "component_subject_ids": [149, 8, 177],
+        "amalgamation_subject_ids": [5275, 5276, 5277, 5398, 6513],
+        "meanings": ["Navigation"],
+        "meaning_mnemonic": `On every **r[boat]r** there is a **r[table]r** with a **r[lid]r** on it that's used for **k[navigation]k**. When you take the lid off, there is a big map, a sextant, and some little boat miniatures. All the navigation tools.`
+    },
+    1398: {
+        "slug": "寄",
+        "level": 29,
+        "component_subject_ids": [78, 326],
+        "amalgamation_subject_ids": [7604, 7658, 8684, 8929],
+        "meanings": ["Approach"],
+        "meaning_mnemonic": `Under this **r[roof]r** someone **r[odd]r** is trying to **k[approach]k** you. You back up, but they continue their approach anyway.`
+    },
+    1399: {
+        "slug": "板",
+        "level": 29,
+        "component_subject_ids": [23, 218],
+        "amalgamation_subject_ids": [5240, 5241, 6251, 7470],
+        "meanings": ["Board"],
+        "meaning_mnemonic": `If you're **r[anti]r**-**r[tree]r**, you won't mind if I turn all of them into **k[board]k**s! Hahaha!`
+    },
+    1400: {
+        "slug": "街",
+        "level": 29,
+        "component_subject_ids": [17, 111],
+        "amalgamation_subject_ids": [5278, 5279, 5428, 5819, 7227],
+        "meanings": ["Street"],
+        "meaning_mnemonic": `The **r[dirt]r** you use to **r[go]r** from place to place is the **k[street]k**. Back in the old days, all roads were made of dirt, not like the newfangled roads of today.`
+    },
+    1401: {
+        "slug": "宗",
+        "level": 29,
+        "component_subject_ids": [78, 207],
+        "amalgamation_subject_ids": [5225, 5226, 5227],
+        "meanings": ["Religion"],
+        "meaning_mnemonic": `Under this **r[roof]r** you **r[jackhammer]r** your **k[religion]k** into people.`
+    },
+    1402: {
+        "slug": "緊",
+        "level": 29,
+        "component_subject_ids": [323, 30, 86],
+        "amalgamation_subject_ids": [5231, 5271, 5407],
+        "meanings": ["Tense"],
+        "meaning_mnemonic": `The **r[servant]r** sits on a **r[stool]r**, holding a piece of **r[thread]r**, looking very **k[tense]k**. `
+    },
+    1403: {
+        "slug": "娘",
+        "level": 29,
+        "component_subject_ids": [19, 8822],
+        "amalgamation_subject_ids": [5223, 5224, 8610],
+        "meanings": ["Daughter"],
+        "meaning_mnemonic": `A **r[woman]r** who is **r[good]r** is my **k[daughter]k**. My daughter is a good woman, I guarantee it.`
+    },
+    1404: {
+        "slug": "宴",
+        "level": 29,
+        "component_subject_ids": [78, 22, 19],
+        "amalgamation_subject_ids": [5228, 5229, 8208],
+        "meanings": ["Banquet"],
+        "meaning_mnemonic": `Under a **r[roof]r**, but still in the **r[sun]r**, a **r[woman]r** is laying out a fabulous **k[banquet]k**. The woman doesn't want anyone to burn from the sun, but banquets are best outside, so she's set up a roof to protect her and her guests.`
+    },
+    1405: {
+        "slug": "怖",
+        "level": 29,
+        "component_subject_ids": [232, 26, 102],
+        "amalgamation_subject_ids": [5233, 5234, 5235, 5701],
+        "meanings": ["Scary"],
+        "meaning_mnemonic": `The **r[soul]r** of a **r[narwhal]r** was sucked into its **r[towel]r**, which is **k[scary]k**!`
+    },
+    1406: {
+        "slug": "恐",
+        "level": 29,
+        "component_subject_ids": [241, 65],
+        "amalgamation_subject_ids": [5234, 5235, 5236, 5702, 6774, 7606, 7660, 7720, 8351, 8892, 8893],
+        "meanings": ["Fear"],
+        "meaning_mnemonic": `A **r[saw]r** cuts into your **r[heart]r** and you are filled with **k[fear]k**. Well, you were filled with fear before the saw reached your heart too, but now that the saw is cutting into your heart, you’re feeling more fear than ever.`
+    },
+    1407: {
+        "slug": "添",
+        "level": 29,
+        "component_subject_ids": [103, 40, 35, 3],
+        "amalgamation_subject_ids": [5249, 5250],
+        "meanings": ["Append"],
+        "meaning_mnemonic": `There’s a **r[tsunami]r** in **r[heaven]r** and you take a **r[small]r** **r[drop]r** of water and **k[append]k** it to the tsunami. Now the tsunami is big enough to destroy all of heaven. The small drop that you appended to the tsunami was just enough to push it over the edge, reaching full destruction capability.`
+    },
+    1408: {
+        "slug": "猛",
+        "level": 29,
+        "component_subject_ids": [144, 34, 84],
+        "amalgamation_subject_ids": [5252, 5254],
+        "meanings": ["Fierce"],
+        "meaning_mnemonic": `An **r[animal]r** eats a **r[child]r** from a **r[plate]r** in a very **k[fierce]k** manner. This is a fierce animal, so it makes sense that it would eat the child in a fierce style.`
+    },
+    1409: {
+        "slug": "烈",
+        "level": 29,
+        "component_subject_ids": [132, 128, 131],
+        "amalgamation_subject_ids": [5251, 5252, 5253],
+        "meanings": ["Violent", "Intense"],
+        "meaning_mnemonic": `When a **r[yakuza]r**'s **r[knife]r** **r[boil]r**s, you know something very **k[violent]k** and **k[intense]k** is about to happen.`
+    },
+    1410: {
+        "slug": "索",
+        "level": 29,
+        "component_subject_ids": [15, 76, 86],
+        "amalgamation_subject_ids": [5269, 5270, 8759],
+        "meanings": ["Search"],
+        "meaning_mnemonic": `There is a **r[cross]r** in your **r[forehead]r** with a **r[thread]r** attached to it, forcing you to **k[search]k** where it leads. You’re not sure how the cross got stuck in your forehead, but you are interested in seeing where this piece of thread leads. The search is on.`
+    },
+    1411: {
+        "slug": "詰",
+        "level": 29,
+        "component_subject_ids": [117, 253],
+        "amalgamation_subject_ids": [5282, 5283, 5402, 5403, 5404, 5738, 7817],
+        "meanings": ["Stuffed"],
+        "meaning_mnemonic": `**r[Say]r** **r[good luck]r** to one person enough and they'll be **k[stuffed]k** full of that luck.`
+    },
+    1413: {
+        "slug": "魅",
+        "level": 30,
+        "component_subject_ids": [292, 134],
+        "amalgamation_subject_ids": [5296],
+        "meanings": ["Alluring"],
+        "meaning_mnemonic": `A **r[demon]r** on a **r[jet]r** is pretty **k[alluring]k**. Demons themselves are pretty intriguing, but put one on a jet? Now that’s alluring.`
+    },
+    1414: {
+        "slug": "渇",
+        "level": 30,
+        "component_subject_ids": [103, 22, 14, 57],
+        "amalgamation_subject_ids": [5333, 7797],
+        "meanings": ["Dry Up", "Thirst"],
+        "meaning_mnemonic": `You're stuck in a **r[prison]r** on the scorching hot **r[sun]r** with nothing but a **r[spoon]r**. Lucky for you, a **r[tsunami]r** is coming, right as you can feel yourself completely **k[dry up]k**. So you take your spoon and use the tsunami to quench your **k[thirst]k**. `
+    },
+    1415: {
+        "slug": "系",
+        "level": 30,
+        "component_subject_ids": [329],
+        "amalgamation_subject_ids": [5352, 5353, 5354, 5355, 8496],
+        "meanings": ["Lineage"],
+        "meaning_mnemonic": `The **r[lineage]r** radical and the **k[lineage]k** kanji are the same.`
+    },
+    1416: {
+        "slug": "婚",
+        "level": 30,
+        "component_subject_ids": [19, 147, 22],
+        "amalgamation_subject_ids": [5301, 5302, 5303, 5304, 5411, 5505, 5512, 8528],
+        "meanings": ["Marriage"],
+        "meaning_mnemonic": `You meet a **r[woman]r** from another **r[clan]r** under the rising **r[sun]r** to prepare for **k[marriage]k**. Your clan and her clan are standing together as the two of you watch the sun rise together.`
+    },
+    1417: {
+        "slug": "遊",
+        "level": 30,
+        "component_subject_ids": [114, 66, 8762, 34],
+        "amalgamation_subject_ids": [5376, 5377, 8461, 8721],
+        "meanings": ["Play"],
+        "meaning_mnemonic": `On a **r[scooter]r** running in one **r[direction]r** is a **r[gun]r**-toting **r[child]r**. This is a terribly dangerous situation, but to the child it is just **k[play]k**.`
+    },
+    1418: {
+        "slug": "旗",
+        "level": 30,
+        "component_subject_ids": [66, 8762, 205],
+        "amalgamation_subject_ids": [5321, 5322, 5323],
+        "meanings": ["Flag"],
+        "meaning_mnemonic": `Traveling in the **r[direction]r** of the ocean, you take a **r[gun]r** and shoot a **r[crab]r**, then stick a **k[flag]k** in the beach and claim it as your own. The crab was the only thing standing in the way of you conquering the area. Now that the flag is in the ground, no one can dispute who it belongs to.`
+    },
+    1419: {
+        "slug": "照",
+        "level": 30,
+        "component_subject_ids": [22, 331, 131],
+        "amalgamation_subject_ids": [5337, 5338, 5339, 5514, 8723],
+        "meanings": ["Illuminate"],
+        "meaning_mnemonic": `The **r[sun]r** is being **r[call]r**ed on to **r[boil]r** the earth by **k[illuminating]k** it.`
+    },
+    1420: {
+        "slug": "快",
+        "level": 30,
+        "component_subject_ids": [232, 9, 157],
+        "amalgamation_subject_ids": [5311, 5312, 5313, 5314, 7659, 7719, 8202, 8363],
+        "meanings": ["Pleasant"],
+        "meaning_mnemonic": `The **r[soul]r** of a **r[person]r** has a **r[hook]r** that can make them **k[pleasant]k**. When you see, hear, or feel something pleasant, can't you feel that hook pressing into the middle of your body?`
+    },
+    1421: {
+        "slug": "版",
+        "level": 30,
+        "component_subject_ids": [162, 218],
+        "amalgamation_subject_ids": [5340, 5341, 5342, 5508, 5509, 7383, 8349],
+        "meanings": ["Edition"],
+        "meaning_mnemonic": `If you are **r[anti]r** **r[one sided]r** paper you should bind them all up into an **k[edition]k**.`
+    },
+    1422: {
+        "slug": "貧",
+        "level": 30,
+        "component_subject_ids": [247, 94],
+        "amalgamation_subject_ids": [5368, 5369, 5510],
+        "meanings": ["Poor"],
+        "meaning_mnemonic": `Those that can only eat a **r[part]r** of a **r[shellfish]r** are probably a bit **k[poor]k**.`
+    },
+    1423: {
+        "slug": "乏",
+        "level": 30,
+        "component_subject_ids": [8763, 8771],
+        "amalgamation_subject_ids": [5298, 5299, 5369, 5510, 8312],
+        "meanings": ["Scarce"],
+        "meaning_mnemonic": `If you look for a **r[leaf]r** among the **r[hills]r** you will notice they are **k[scarce]k**. The hills have no trees around them, so there are no leaves. The leaves are scarce here on the hills.`
+    },
+    1424: {
+        "slug": "適",
+        "level": 30,
+        "component_subject_ids": [114, 276],
+        "amalgamation_subject_ids": [5378, 5379, 7719],
+        "meanings": ["Suitable"],
+        "meaning_mnemonic": `A **r[scooter]r** with a **r[mohawk]r**, now that's the most **k[suitable]k** hairstyle you could ever think of for a scooter!`
+    },
+    1425: {
+        "slug": "預",
+        "level": 30,
+        "component_subject_ids": [339, 184],
+        "amalgamation_subject_ids": [5381, 5382, 8956],
+        "meanings": ["Deposit"],
+        "meaning_mnemonic": `If you want to buy a **r[geoduck]r** you have to go to the bank **r[beforehand]r** to **k[deposit]k** enough money. If you don't deposit your money you won't have enough in your account to buy even one! They're expensive, after all.`
+    },
+    1426: {
+        "slug": "延",
+        "level": 30,
+        "component_subject_ids": [206, 229],
+        "amalgamation_subject_ids": [5308, 5309, 5310, 5606, 5861, 8935],
+        "meanings": ["Prolong"],
+        "meaning_mnemonic": `If you do **r[yoga]r** **r[correct]r**ly, you will not only **k[prolong]k** your body but your life!`
+    },
+    1427: {
+        "slug": "翌",
+        "level": 30,
+        "component_subject_ids": [213, 55],
+        "amalgamation_subject_ids": [5357, 5358, 5359, 5360],
+        "meanings": ["The Next", "The Following"],
+        "meaning_mnemonic": `Whenever all the **r[feathers]r** start **r[stand]r**ing, you know it's time for **k[the next]k** day. Once the day comes to its end, all feathers start standing up like clockwork.`
+    },
+    1428: {
+        "slug": "覧",
+        "level": 30,
+        "component_subject_ids": [323, 8762, 1, 91],
+        "amalgamation_subject_ids": [5138, 5362, 5363, 5364, 6305, 8426],
+        "meanings": ["Look At"],
+        "meaning_mnemonic": `A **r[servant]r** holding a **r[gun]r** sits on the **r[ground]r** to **r[see]r** if he can find something to **k[look at]k**. The servant is on watch duty and has the gun to protect the perimeter. He patrols the grounds to look at the distance to see if there are any trespassers.`
+    },
+    1429: {
+        "slug": "懐",
+        "level": 30,
+        "component_subject_ids": [232, 15, 163, 320],
+        "amalgamation_subject_ids": [5315],
+        "meanings": ["Nostalgia"],
+        "meaning_mnemonic": `Your **r[soul]r** will **r[cross]r** through your body and into the **r[net]r** of your **r[clothes]r** so that you'll be hit with **k[nostalgia]k** when you wear them again. Nostalgia for all the things that happened every single time you wore those clothes.`
+    },
+    1430: {
+        "slug": "押",
+        "level": 30,
+        "component_subject_ids": [63, 330],
+        "amalgamation_subject_ids": [5316, 5506, 5507, 7773, 9080],
+        "meanings": ["Push"],
+        "meaning_mnemonic": `Take your **r[fingers]r**, put them on this **r[turtle shell]r**, and **k[push]k** push push! Push the turtle right on out of there.`
+    },
+    1431: {
+        "slug": "更",
+        "level": 30,
+        "component_subject_ids": [1, 51, 31],
+        "amalgamation_subject_ids": [5325, 5326, 5327, 5328, 5607, 6530, 8273, 8502],
+        "meanings": ["Again", "Renew"],
+        "meaning_mnemonic": `In the **r[ground]r** of the **r[rice paddy]r** is a **r[treasure]r**. You pull it out of the mucky ground. This will **k[renew]k** your life for the better. **k[Again]k**, this treasure will change your life!`
+    },
+    1432: {
+        "slug": "枕",
+        "level": 30,
+        "component_subject_ids": [23, 391],
+        "amalgamation_subject_ids": [5329],
+        "meanings": ["Pillow"],
+        "meaning_mnemonic": `The **r[tree]r** **r[pirate]r** jumps from a tree and attacks you by hitting you with a **k[pillow]k**.`
+    },
+    1433: {
+        "slug": "浮",
+        "level": 30,
+        "component_subject_ids": [103, 8772, 34],
+        "amalgamation_subject_ids": [5330, 5331, 5332, 5610, 8552],
+        "meanings": ["Float"],
+        "meaning_mnemonic": `A **r[tsunami]r** knocks a **r[cleat]r** off a **r[child]r** and the shoe begins to **k[float]k** away in the water. This child was just out playing soccer, minding his own business, when the tsunami crashed in and knocked his cleats off his feet. Now the cleat is floating away with the tsunami.`
+    },
+    1434: {
+        "slug": "漏",
+        "level": 30,
+        "component_subject_ids": [103, 37, 119],
+        "amalgamation_subject_ids": [5334, 5335, 5336, 5608],
+        "meanings": ["Leak"],
+        "meaning_mnemonic": `A **r[tsunami]r** rips a **r[flag]r** off your house in the **r[rain]r**, causing a **k[leak]k** where it was ripped out. The rain and the tsunami combined just tore the flag right off your house. The force was so strong that it actually removed part of the wall, and now you have a leak in your home.`
+    },
+    1435: {
+        "slug": "符",
+        "level": 30,
+        "component_subject_ids": [85, 248],
+        "amalgamation_subject_ids": [5348, 5451],
+        "meanings": ["Token"],
+        "meaning_mnemonic": `You take some **r[bamboo]r** and **r[attach]r** it together into a **k[token]k** of appreciation for your friend. Your friend greatly appreciates this token of friendship.`
+    },
+    1436: {
+        "slug": "購",
+        "level": 30,
+        "component_subject_ids": [94, 303],
+        "amalgamation_subject_ids": [5370, 5371, 5372, 5516],
+        "meanings": ["Subscription"],
+        "meaning_mnemonic": `Picture a **r[shellfish]r** **r[lifeguard]r**. They're not going anywhere. First, they're a shellfish, so they can't really move. And, they're a lifeguard, so they need to be in their lifeguard tower. How does this shellfish lifeguard get stuff? Through **k[subscription]k** services.`
+    },
+    1437: {
+        "slug": "越",
+        "level": 30,
+        "component_subject_ids": [124, 263],
+        "amalgamation_subject_ids": [5373, 5374, 5609, 5721, 5722, 8264],
+        "meanings": ["Go Beyond"],
+        "meaning_mnemonic": `You **r[run]r** every day and soon you **r[become]r** a human that can **k[go beyond]k** the normal speed limits of man. You run and you run and you run. This training allows you to become super human. You go beyond the limits of a normal human. You become a human who can run really fast.`
+    },
+    1438: {
+        "slug": "飾",
+        "level": 30,
+        "component_subject_ids": [139, 8762, 102],
+        "amalgamation_subject_ids": [5383, 5384, 5385, 7661, 7721],
+        "meanings": ["Decorate"],
+        "meaning_mnemonic": `When you **r[eat]r** you want to see the shape of your **r[gun]r** from under a **r[towel]r**, so you **k[decorate]k** your house with them.`
+    },
+    1439: {
+        "slug": "騒",
+        "level": 30,
+        "component_subject_ids": [165, 30, 89],
+        "amalgamation_subject_ids": [5386, 5387, 5518],
+        "meanings": ["Boisterous"],
+        "meaning_mnemonic": `A **r[horse]r** gets trapped in a small room with a **r[stool]r** and an **r[insect]r**, and together they create a very **k[boisterous]k** situation. The horse and the insect are both scrambling frantically to get out of the small room, knocking the stool around all over the place.`
+    },
+    1440: {
+        "slug": "背",
+        "level": 30,
+        "component_subject_ids": [327, 43],
+        "amalgamation_subject_ids": [5324, 5361, 5515, 7279, 7554, 7607, 8760],
+        "meanings": ["Back", "Height"],
+        "meaning_mnemonic": `You fly **r[north]r** to the **r[moon]r** and break your **k[back]k** when you finally land on it. You weren’t braced for impact so when you hit the moon, your back took all of the impact.`
+    },
+    1441: {
+        "slug": "撮",
+        "level": 30,
+        "component_subject_ids": [63, 22, 88, 30],
+        "amalgamation_subject_ids": [5317, 5318, 5319, 5513, 9160],
+        "meanings": ["Photograph", "Photo"],
+        "meaning_mnemonic": `You put your **r[fingers]r** and an **r[ear]r** on a **r[stool]r** in the **r[sun]r** so you can get your **k[photograph]k** taken. This is a glamour **k[photo]k**, so you have to be in one of these weird, cheesy poses for it to come out jusssst right.`
+    },
+    1442: {
+        "slug": "盗",
+        "level": 30,
+        "component_subject_ids": [278, 84],
+        "amalgamation_subject_ids": [5319, 5343, 5344, 5345, 5346, 6103, 8411, 8483],
+        "meanings": ["Steal"],
+        "meaning_mnemonic": `The **r[next]r** **r[plate]r** is the one you will **k[steal]k**. This one would be too obvious, better wait for the next one.`
+    },
+    1479: {
+        "slug": "綺",
+        "level": 28,
+        "component_subject_ids": [86, 326],
+        "amalgamation_subject_ids": [5502],
+        "meanings": ["Beautiful"],
+        "meaning_mnemonic": `This **r[thread]r** is **r[odd]r**, but that's what makes it **k[beautiful]k**. It's a little frayed, it's a little miscolored, but that's what makes it appealing to you.`
+    },
+    1548: {
+        "slug": "降",
+        "level": 22,
+        "component_subject_ids": [176, 60, 126],
+        "amalgamation_subject_ids": [5751, 5752, 5753, 5937, 6028, 7724, 8180, 8810],
+        "meanings": ["Descend"],
+        "meaning_mnemonic": `Inside the **r[building]r** is the **r[Winter]r** **r[Cow]r**. You need to see it, so you go inside. It is deep down in there, and you'll have to **k[descend]k** to reach it.`
+    },
+    1723: {
+        "slug": "勧",
+        "level": 29,
+        "component_subject_ids": [72, 240, 13],
+        "amalgamation_subject_ids": [6295, 6296, 6297],
+        "meanings": ["Recommend"],
+        "meaning_mnemonic": `There’s an **r[arrow]r** in that **r[turkey]r** and you do everything in your **r[power]r** to **k[recommend]k** that we don’t eat the turkey. There’s an arrow in this turkey. The arrow looks a little broken, so there’s probably splinters all up inside that turkey. I know you’re all hungry but I can’t recommend eating this bird.`
+    },
+    1866: {
+        "slug": "沼",
+        "level": 28,
+        "component_subject_ids": [103, 331],
+        "amalgamation_subject_ids": [6734, 6735, 6736, 6737, 6738],
+        "meanings": ["Bog"],
+        "meaning_mnemonic": `A **r[tsunami]r** can't resist the **r[call]r** of a **k[bog]k**. Whenever a tsunami is headed toward land, a bog will always call out to it, "Hey tsunami, don't you want to hit me with your water? Come this way~"`
+    },
+    1900: {
+        "slug": "棚",
+        "level": 23,
+        "component_subject_ids": [23, 43],
+        "amalgamation_subject_ids": [6831, 6832, 6833],
+        "meanings": ["Shelf"],
+        "meaning_mnemonic": `A **r[tree]r** with two **r[moon]r**s on either side, holding the tree up in a horizontal angle, is a **k[shelf]k**. `
+    },
+    2051: {
+        "slug": "紫",
+        "level": 23,
+        "component_subject_ids": [44, 57, 86],
+        "amalgamation_subject_ids": [7269, 7270, 7271, 9316],
+        "meanings": ["Purple"],
+        "meaning_mnemonic": `You **r[stop]r** a **r[spoon]r** from moving by tying it with **r[thread]r** that's **k[purple]k**. The spoon wouldn't stop moving around, so you had to use your favorite purple thread to make it stop. It's the strongest thread you have.`
+    },
+    8834: {
+        "slug": "匂",
+        "level": 30,
+        "component_subject_ids": [14, 57],
+        "amalgamation_subject_ids": [8841, 8842],
+        "meanings": ["Smell", "Scent"],
+        "meaning_mnemonic": `You're stuck in **r[prison]r** with nothing but a **r[spoon]r**, and the **k[smell]k** in here is so bad you’re using the prison spoon to waft it outside as best you can. `
+    },
+    8859: {
+        "slug": "諦",
+        "level": 22,
+        "component_subject_ids": [117, 55, 102],
+        "amalgamation_subject_ids": [8866, 8867],
+        "meanings": ["Give Up", "Abandon"],
+        "meaning_mnemonic": `You have something to **r[say]r**, you **r[stand]r** on a **r[towel]r**, and shout, "I **k[GIVE UP]k**!" `
+    },
+    8860: {
+        "slug": "捉",
+        "level": 25,
+        "component_subject_ids": [63, 95],
+        "amalgamation_subject_ids": [8868],
+        "meanings": ["Catch"],
+        "meaning_mnemonic": `Use your **r[fingers]r** to grab this guy's **r[foot]r** and **k[catch]k** him! Not physically though, you do grab his foot, but you close your eyes, and catch the idea of him in your mind just by touching your fingers to his foot.`
+    },
+    8863: {
+        "slug": "濡",
+        "level": 30,
+        "component_subject_ids": [103, 119, 309],
+        "amalgamation_subject_ids": [8875, 8876, 8877],
+        "meanings": ["Wet", "Damp"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits, it's **r[rain]r**ing, and you're outside trying to use a **r[rake]r**, you're going to be very **k[wet]k** and **k[damp]k**.`
+    },
+    8880: {
+        "slug": "羨",
+        "level": 21,
+        "component_subject_ids": [136, 278],
+        "amalgamation_subject_ids": [8887, 8888, 8889],
+        "meanings": ["Envy", "Jealousy"],
+        "meaning_mnemonic": `**r[Sheep]r** are always looking at the **r[next]r** animal, full of **k[envy]k** and **k[jealousy]k**. `
+    },
+    8885: {
+        "slug": "袖",
+        "level": 22,
+        "component_subject_ids": [80, 268],
+        "amalgamation_subject_ids": [8898, 8899, 8900, 8901],
+        "meanings": ["Sleeve"],
+        "meaning_mnemonic": `A mix of **r[spirit]r** and **r[reason]r** helped you invent the **k[sleeve]k**. Your spirit told you your arms were uncomfortable, stuck to your sides under that shirt. Reason told you that maybe, just maybe, if you made holes for your arms something good would come out of it. And that's how sleeves were born!`
+    },
+    8965: {
+        "slug": "柵",
+        "level": 30,
+        "component_subject_ids": [23, 226],
+        "amalgamation_subject_ids": [8980, 8981, 8982],
+        "meanings": ["Fence"],
+        "meaning_mnemonic": `You've made yourself a **r[tree]r** **r[bookshelf]r** (that is, a bookshelf cut into a tree), so you build a **k[fence]k** to keep the riffraff out.`
+    },
+    8996: {
+        "slug": "痒",
+        "level": 23,
+        "component_subject_ids": [187, 136],
+        "amalgamation_subject_ids": [9007],
+        "meanings": ["Itchy"],
+        "meaning_mnemonic": `The **r[sick]r** **r[sheep]r** is **k[itchy]k** and it can barely sit still. Help the poor sheep!`
+    },
+    9028: {
+        "slug": "莫",
+        "level": 25,
+        "component_subject_ids": [356],
+        "amalgamation_subject_ids": [9029],
+        "meanings": ["Endless"],
+        "meaning_mnemonic": `You have a **r[greenhouse]r** that is **k[endless]k**. Imagine your endless greenhouse, which goes on and on, as far as the eye can see. Lucky you. `
+    },
+    9251: {
+        "slug": "揃",
+        "level": 28,
+        "component_subject_ids": [63, 8908],
+        "amalgamation_subject_ids": [9252, 9263],
+        "meanings": ["Complete"],
+        "meaning_mnemonic": `Your **r[fingers]r** **r[before]r** were **k[complete]k**. `
+    },
+    496: {
+        "slug": "久",
+        "level": 32,
+        "component_subject_ids": [5, 12],
+        "amalgamation_subject_ids": [2591, 2592, 5535, 7212, 7881, 8096],
+        "meanings": ["Long Time"],
+        "meaning_mnemonic": `If you use a **r[slide]r** to **r[enter]r** a building, you'll be sliding for a **k[long time]k**.`
+    },
+    1096: {
+        "slug": "妨",
+        "level": 31,
+        "component_subject_ids": [19, 66],
+        "amalgamation_subject_ids": [4276, 4277],
+        "meanings": ["Obstruct", "Impede"],
+        "meaning_mnemonic": `A **r[woman]r** with **r[direction]r** will have things **k[obstruct]k** her path. It's a sad fact that it's still a man's world out there!`
+    },
+    1443: {
+        "slug": "離",
+        "level": 31,
+        "component_subject_ids": [337, 240],
+        "amalgamation_subject_ids": [5410, 5411, 5412, 5713, 6669, 6847, 6848, 6849, 7322],
+        "meanings": ["Detach"],
+        "meaning_mnemonic": `The **r[rocket]r** **r[turkey]r** has several points which will **k[detach]k** during takeoff.`
+    },
+    1444: {
+        "slug": "融",
+        "level": 31,
+        "component_subject_ids": [336, 89],
+        "amalgamation_subject_ids": [5408, 5409],
+        "meanings": ["Dissolve"],
+        "meaning_mnemonic": `You see a **r[bully]r** take an **r[insect]r** and **k[dissolve]k** it in some acid. Bullies are messed up, mean people. They do awful things that normal kids and people wouldn't do... like dissolve a living creature.`
+    },
+    1445: {
+        "slug": "編",
+        "level": 31,
+        "component_subject_ids": [86, 338],
+        "amalgamation_subject_ids": [5421, 5422, 5423, 5611, 5844, 7499],
+        "meanings": ["Knit"],
+        "meaning_mnemonic": `Bring **r[thread]r** to the **r[library]r** to **k[knit]k**. Libraries are quiet and generally pretty empty nowadays, so it's the perfect place to relax and do some knitting. Of course, if you find thread lying around in a library you know what to do now.`
+    },
+    1446: {
+        "slug": "華",
+        "level": 31,
+        "component_subject_ids": [90, 51, 15],
+        "amalgamation_subject_ids": [5426, 5427, 5429, 5614, 8686, 8722, 8974],
+        "meanings": ["Showy", "Flower", "Gorgeous"],
+        "meaning_mnemonic": `**r[Flowers]r** growing out of a **r[rice paddy]r** into the shape of a **r[cross]r** are really **k[showy]k** **k[flower]k**s.`
+    },
+    1447: {
+        "slug": "既",
+        "level": 31,
+        "component_subject_ids": [196, 333],
+        "amalgamation_subject_ids": [5416, 5417, 5418],
+        "meanings": ["Previously"],
+        "meaning_mnemonic": `There's a **r[root]r** where your **r[fang]r** **k[previously]k** was. Your fang isn't there anymore, you ripped it out.`
+    },
+    1448: {
+        "slug": "普",
+        "level": 31,
+        "component_subject_ids": [334, 22],
+        "amalgamation_subject_ids": [5419, 5420, 5975, 8413, 8582],
+        "meanings": ["Normal"],
+        "meaning_mnemonic": `You **r[line up]r** your body with the **r[sun]r** and everything looks **k[normal]k**.  The sun is lined up behind you, and you’re looking at all the things the sun has lit up. Everything looks normal.`
+    },
+    1449: {
+        "slug": "豪",
+        "level": 31,
+        "component_subject_ids": [8, 16, 76, 233],
+        "amalgamation_subject_ids": [5429, 8436],
+        "meanings": ["Exceptional", "Luxurious"],
+        "meaning_mnemonic": `You put a **r[lid]r** on a dish you're cooking, made up of the **r[mouth]r**s and **r[forehead]r**s of a **r[pig]r**. This is truly and **k[exceptional]k** dish you are cooking up.`
+    },
+    1450: {
+        "slug": "鑑",
+        "level": 31,
+        "component_subject_ids": [118, 328],
+        "amalgamation_subject_ids": [5413, 5432, 9059],
+        "meanings": ["Model"],
+        "meaning_mnemonic": `You are given some **r[gold]r** to **r[oversee]r** a **k[model]k**. You are a famous architect, so you get a lot of gold for overseeing the construction of models like this one.`
+    },
+    1451: {
+        "slug": "除",
+        "level": 31,
+        "component_subject_ids": [176, 313],
+        "amalgamation_subject_ids": [5433, 5434, 5435, 5612, 5615, 5710, 6124, 6250, 6294, 6403],
+        "meanings": ["Exclude", "Remove"],
+        "meaning_mnemonic": `The **r[building]r**s are at a **r[surplus]r**. Because of that, we will need to **k[exclude]k** some of them from our future plans. Also, we'll need to **k[remove]k** some buildings too.`
+    },
+    1452: {
+        "slug": "尋",
+        "level": 31,
+        "component_subject_ids": [105, 25, 16, 74],
+        "amalgamation_subject_ids": [5436, 5437],
+        "meanings": ["Inquire"],
+        "meaning_mnemonic": `**r[Wolverine]r** is doing a **r[construction]r** job and he’s using his **r[mouth]r** to **r[measure]r** so he knows how many folks he needs to **k[inquire]k** about helping him with the job. Using one’s mouth is a strange way to measure something, but that’s just how Wolverine does things. Once he measures it all out, he’ll know how many construction workers he needs to inquire about working for him.`
+    },
+    1453: {
+        "slug": "幾",
+        "level": 31,
+        "component_subject_ids": [87, 194, 9],
+        "amalgamation_subject_ids": [5438, 5439, 5440, 7605],
+        "meanings": ["How Many", "How Much"],
+        "meaning_mnemonic": `You **r[poop]r** twice on a sleeping **r[drunkard]r** **r[person]r** and you find yourself wondering **k[how many]k** more times you can poop on them and wonder **k[how much]k** they can take before they realize what’s going on.`
+    },
+    1454: {
+        "slug": "廊",
+        "level": 31,
+        "component_subject_ids": [62, 8829],
+        "amalgamation_subject_ids": [5441, 5442],
+        "meanings": ["Corridor"],
+        "meaning_mnemonic": `The **r[canopy]r** **r[guy]r** is a guy who stands in the **k[corridor]k** trying to sell people canopies.`
+    },
+    1455: {
+        "slug": "掃",
+        "level": 31,
+        "component_subject_ids": [63, 105, 76, 102],
+        "amalgamation_subject_ids": [5434, 5443, 5612, 5710],
+        "meanings": ["Sweep"],
+        "meaning_mnemonic": `**r[Wolverine]r** ties a **r[towel]r** around his **r[forehead]r** and takes out his **r[fingers]r** instead of his claws so he can **k[sweep]k** the floor clean. When Wolverine fights, his claws are out and he makes a big ol' mess. But once the fighting is done, it's time to get to work and sweep the mess up.`
+    },
+    1456: {
+        "slug": "泥",
+        "level": 31,
+        "component_subject_ids": [103, 37, 57],
+        "amalgamation_subject_ids": [5444, 5445, 5707, 5918, 6737],
+        "meanings": ["Mud"],
+        "meaning_mnemonic": `A **r[tsunami]r** came in and buried your **r[flag]r** so now you have to use a **r[spoon]r** and dig it out of the **k[mud]k**. `
+    },
+    1457: {
+        "slug": "棒",
+        "level": 31,
+        "component_subject_ids": [23, 8779, 61],
+        "amalgamation_subject_ids": [5446, 5707, 7774, 8971],
+        "meanings": ["Pole", "Rod", "Wooden Pole"],
+        "meaning_mnemonic": `A **r[tree]r** in **r[spring]r** that's nice and **r[dry]r** will make a good **k[pole]k** or **k[rod]k**. Break it out of the ground and it's just flexible enough for tons of applications.`
+    },
+    1458: {
+        "slug": "驚",
+        "level": 31,
+        "component_subject_ids": [255, 60, 165],
+        "amalgamation_subject_ids": [5447, 5448, 5709],
+        "meanings": ["Surprised"],
+        "meaning_mnemonic": `If you can write an interesting **r[poem]r** about **r[winter]r** while riding on a **r[horse]r**, I’ll be pretty **k[surprised]k**. It’s hard enough to write a poem as it is, let alone an interesting one. And then you’re riding on a horse and the poem has to be about winter? Heck, I’d be surprised if you didn’t fall off the horse and injure yourself.`
+    },
+    1459: {
+        "slug": "嘆",
+        "level": 31,
+        "component_subject_ids": [16, 8774],
+        "amalgamation_subject_ids": [5448, 5449, 5450, 5451, 9119],
+        "meanings": ["Sigh"],
+        "meaning_mnemonic": `You use your **r[mouth]r** when you see a **r[Chinese]r** person and you **k[sigh]k**. You sigh so loud that it’s practically a roar coming out of your mouth. Chinese people and Chinese things make you sigh because it reminds you of when you stayed in China and it brings up memories. The sigh is a sigh of nostalgia.`
+    },
+    1460: {
+        "slug": "倉",
+        "level": 31,
+        "component_subject_ids": [8827],
+        "amalgamation_subject_ids": [5452, 5453],
+        "meanings": ["Warehouse"],
+        "meaning_mnemonic": `The **r[warehouse]r** radical and the **k[warehouse]k** kanji are the same!`
+    },
+    1461: {
+        "slug": "孫",
+        "level": 31,
+        "component_subject_ids": [34, 329],
+        "amalgamation_subject_ids": [5454, 5455],
+        "meanings": ["Grandchild"],
+        "meaning_mnemonic": `A **r[child]r** shares his **r[lineage]r** with a **k[grandchild]k**. The child passes his lineage down to his child and then that child’s child is the grandchild and between them all a lineage is shared.`
+    },
+    1462: {
+        "slug": "巣",
+        "level": 31,
+        "component_subject_ids": [8783, 235],
+        "amalgamation_subject_ids": [5456, 5457, 5458, 5459],
+        "meanings": ["Nest"],
+        "meaning_mnemonic": `Birds use **r[grass]r** and **r[fruit]r** to make their **k[nest]k**s.`
+    },
+    1463: {
+        "slug": "帯",
+        "level": 31,
+        "component_subject_ids": [20, 1, 76, 102],
+        "amalgamation_subject_ids": [5460, 5461, 6404, 6565, 6752],
+        "meanings": ["Belt"],
+        "meaning_mnemonic": `There's a **r[mountain]r** coming out of the **r[ground]r** that you want to climb, but your **r[forehead]r** needs a **r[towel]r** for all your sweat. You don't have a towel, so you take off your **k[belt]k** and tie it around your forehead.`
+    },
+    1464: {
+        "slug": "径",
+        "level": 31,
+        "component_subject_ids": [99, 179],
+        "amalgamation_subject_ids": [5462, 5463],
+        "meanings": ["Diameter"],
+        "meaning_mnemonic": `You **r[loiter]r** around a **r[tombstone]r** to measure its **k[diameter]k**. You’re doing this to each tombstone, and if you loiter around long enough, you’ll soon know the diameter of every tombstone.`
+    },
+    1465: {
+        "slug": "救",
+        "level": 31,
+        "component_subject_ids": [399, 60],
+        "amalgamation_subject_ids": [5465, 5466],
+        "meanings": ["Rescue"],
+        "meaning_mnemonic": `You **r[request]r** that **r[winter]r** **k[rescue]k** you from the warmth of the other seasons.`
+    },
+    1466: {
+        "slug": "散",
+        "level": 31,
+        "component_subject_ids": [8775, 43, 60],
+        "amalgamation_subject_ids": [5467, 5468, 5469, 5613, 5712, 7775, 8590],
+        "meanings": ["Scatter"],
+        "meaning_mnemonic": `If you play **r[blackjack]r** on the **r[moon]r** in the **r[winter]r**, your cards will **k[scatter]k** everywhere. The cards scatter because the gravity is so weak on the moon, so the blackjack game is prone to disaster.`
+    },
+    1467: {
+        "slug": "粉",
+        "level": 31,
+        "component_subject_ids": [98, 247],
+        "amalgamation_subject_ids": [5470, 5472, 5473, 5700, 7059, 7807],
+        "meanings": ["Powder"],
+        "meaning_mnemonic": `If you grind **r[rice]r**, every **r[part]r** of it, eventually it will become a fine **k[powder]k**. You can then use this rice powder as a part to create some other dish. Some kind of cake, perhaps.`
+    },
+    1468: {
+        "slug": "脈",
+        "level": 31,
+        "component_subject_ids": [43, 116, 8778],
+        "amalgamation_subject_ids": [5474, 5475, 5476, 8287],
+        "meanings": ["Vein"],
+        "meaning_mnemonic": `Under the **r[moon]r** while you sit on a **r[cliff]r**, you inject a syringe of **r[tofu]r** right into your **k[vein]k**. Ahh, tofu. You're addicted to it. You sneak out to the cliff at night to get your tofu fix, injecting it straight into your vein.`
+    },
+    1469: {
+        "slug": "菜",
+        "level": 31,
+        "component_subject_ids": [90, 8772, 23],
+        "amalgamation_subject_ids": [5477, 5478],
+        "meanings": ["Vegetable"],
+        "meaning_mnemonic": `You want some **r[flowers]r** so you take your **r[cleat]r** to the side of a **r[tree]r** hoping they'll fall down, but you get a **k[vegetable]k** instead. What? You kick the tree again and another, different vegetable falls out.`
+    },
+    1470: {
+        "slug": "貨",
+        "level": 31,
+        "component_subject_ids": [311, 94],
+        "amalgamation_subject_ids": [5479, 5480, 5699, 7101, 7257, 9058],
+        "meanings": ["Freight"],
+        "meaning_mnemonic": `You want to **r[change]r** your **r[shellfish]r** into **k[freight]k** so you can transport it. That means packing them up into giant freight containers.`
+    },
+    1471: {
+        "slug": "陸",
+        "level": 31,
+        "component_subject_ids": [176, 222],
+        "amalgamation_subject_ids": [5481, 5482],
+        "meanings": ["Land"],
+        "meaning_mnemonic": `A **r[building]r** made from a **r[womb]r** must be placed upon the **k[land]k**.`
+    },
+    1472: {
+        "slug": "似",
+        "level": 31,
+        "component_subject_ids": [75, 56, 3, 9],
+        "amalgamation_subject_ids": [5483, 5484, 5616, 5708, 6999, 8160],
+        "meanings": ["Resemble"],
+        "meaning_mnemonic": `A **r[leader]r** of (odd-looking) **r[lion]r**s puts a **r[drop]r** of magic liquid on his face to look like a **r[person]r** **k[resemble]k**s someone else. The leader of lions is going incognito, so he needs to resemble a person who is not himself. He takes this drop of powerful face paint and transforms.`
+    },
+    1473: {
+        "slug": "均",
+        "level": 31,
+        "component_subject_ids": [17, 236, 3],
+        "amalgamation_subject_ids": [5485, 5486, 5487, 8406, 8580],
+        "meanings": ["Equal"],
+        "meaning_mnemonic": `You have some **r[dirt]r** next to a **r[pool]r** that has an extra **r[drop]r** of water in it because you need them to be **k[equal]k**. If there's too much dirt outside the pool and not enough water inside, it's gonna look weird. We can't have that.`
+    },
+    1474: {
+        "slug": "墓",
+        "level": 31,
+        "component_subject_ids": [17, 356],
+        "amalgamation_subject_ids": [5488, 5489, 5617, 7415, 8301],
+        "meanings": ["Grave"],
+        "meaning_mnemonic": `There's a strange patch of **r[dirt]r** in this **r[greenhouse]r** that's actually a **k[grave]k**. Dig around a little and you'll find the marker buried in there. If you dig deeper you'll probably find less pleasant things.`
+    },
+    1475: {
+        "slug": "富",
+        "level": 31,
+        "component_subject_ids": [78, 8824],
+        "amalgamation_subject_ids": [5490, 5491, 5492, 5493, 9076],
+        "meanings": ["Rich"],
+        "meaning_mnemonic": `On your **r[roof]r** is a **r[scarecrow]r** because you're **k[rich]k**. You want to scare away all the poor, non-rich people so you put a scarecrow on your roof.`
+    },
+    1476: {
+        "slug": "徳",
+        "level": 31,
+        "component_subject_ids": [99, 15, 163, 65],
+        "amalgamation_subject_ids": [5494, 5495, 5496],
+        "meanings": ["Virtue"],
+        "meaning_mnemonic": `You're **r[loiter]r**ing, staring down at the **r[cross]r** that got caught in the **r[net]r** of your **r[heart]r**, because it's trying to teach you to act with **k[virtue]k**.`
+    },
+    1477: {
+        "slug": "探",
+        "level": 31,
+        "component_subject_ids": [63, 101, 23],
+        "amalgamation_subject_ids": [5497, 5498, 5499],
+        "meanings": ["Look For", "Search For"],
+        "meaning_mnemonic": `If you want to get your **r[fingers]r** in the **r[pi]r** **r[tree]r**, you're going to have to **k[look for]k** it. This isn't a tree made of pie, or growing fully-baked pies. It's a pi tree, one that exists infinitely. It's the most rare tree in the world. And if you want to stick your fingers in it, you have to **k[search for]k** it far and wide!`
+    },
+    1478: {
+        "slug": "偵",
+        "level": 31,
+        "component_subject_ids": [75, 10, 94],
+        "amalgamation_subject_ids": [5499, 5500],
+        "meanings": ["Spy"],
+        "meaning_mnemonic": `Your **r[leader]r** sticks his **r[toe]r** into a **r[shellfish]r**. You ask him why and he says he wants to **k[spy]k** on it.`
+    },
+    1480: {
+        "slug": "序",
+        "level": 32,
+        "component_subject_ids": [62, 339],
+        "amalgamation_subject_ids": [5519, 5520, 7913, 8128],
+        "meanings": ["Preface"],
+        "meaning_mnemonic": `If the **r[canopy]r** comes **r[beforehand]r**, it's a **k[preface]k** for the rest of the canopy.`
+    },
+    1481: {
+        "slug": "迎",
+        "level": 32,
+        "component_subject_ids": [114, 340],
+        "amalgamation_subject_ids": [5517, 5739, 7722, 8412],
+        "meanings": ["Welcome"],
+        "meaning_mnemonic": `In its **r[scooter]r**, a **r[cat pirate]r** scoots up to **k[welcome]k** you!`
+    },
+    1482: {
+        "slug": "志",
+        "level": 32,
+        "component_subject_ids": [97, 65],
+        "amalgamation_subject_ids": [5521, 5522, 5523, 6111],
+        "meanings": ["Intention", "Ambition"],
+        "meaning_mnemonic": `If you look inside a **r[samurai]r**'s **r[heart]r**, you'll discover their true **k[intention]k**s and **k[ambition]k**s.`
+    },
+    1483: {
+        "slug": "恩",
+        "level": 32,
+        "component_subject_ids": [16, 18, 65],
+        "amalgamation_subject_ids": [5524, 5525, 8499],
+        "meanings": ["Kindness"],
+        "meaning_mnemonic": `If you have a **r[big]r** **r[mouth]r** but a good **r[heart]r**, people will recognize your **k[kindness]k**. Even if you blabber on with your big mouth, as long as everyone knows that your heart is filled with kindness, they will love and accept you.`
+    },
+    1484: {
+        "slug": "採",
+        "level": 32,
+        "component_subject_ids": [63, 8772, 23],
+        "amalgamation_subject_ids": [5526, 5527, 5528, 5529, 8345],
+        "meanings": ["Gather"],
+        "meaning_mnemonic": `Take your **r[fingers]r** and dig the **r[tree]r** bits out of this **r[cleat]r** to **k[gather]k** it into evidence. Gather it in a pile or a bag, just make sure it's all in one place so you can take a closer look later.`
+    },
+    1485: {
+        "slug": "桜",
+        "level": 32,
+        "component_subject_ids": [23, 8783, 19],
+        "amalgamation_subject_ids": [5530, 5531, 5532, 5533],
+        "meanings": ["Sakura", "Cherry Tree", "Cherry Blossom"],
+        "meaning_mnemonic": `Under a **r[tree]r** sitting on the **r[grass]r** is a **r[woman]r** who loves **k[sakura]k**, or **k[cherry tree]k**, if you’re an English speaker. This woman really likes to just chill out in the grass under these cherry trees and watch the sakura blossoms. It’s very pretty.`
+    },
+    1486: {
+        "slug": "永",
+        "level": 32,
+        "component_subject_ids": [8820],
+        "amalgamation_subject_ids": [5534, 5535],
+        "meanings": ["Eternity"],
+        "meaning_mnemonic": `The **r[eternity]r** radical and the **k[eternity]k** kanji are the same!`
+    },
+    1487: {
+        "slug": "液",
+        "level": 32,
+        "component_subject_ids": [103, 342],
+        "amalgamation_subject_ids": [5536, 5537, 5740, 7424],
+        "meanings": ["Fluid", "Liquid"],
+        "meaning_mnemonic": `A **r[tsunami]r** that hits at **r[night]r** leaves even more **k[fluid]k** than normal. It's dark at night, so the sun isn't there to help evaporate all that tsunami **k[liquid]k**.`
+    },
+    1488: {
+        "slug": "眼",
+        "level": 32,
+        "component_subject_ids": [53, 196],
+        "amalgamation_subject_ids": [5538, 5539, 5540, 6574, 7473, 7510],
+        "meanings": ["Eyeball"],
+        "meaning_mnemonic": `The **r[eye]r**'s **r[root]r** is the **k[eyeball]k**.`
+    },
+    1489: {
+        "slug": "祖",
+        "level": 32,
+        "component_subject_ids": [80, 419],
+        "amalgamation_subject_ids": [5541, 5542, 5543, 5723],
+        "meanings": ["Ancestor"],
+        "meaning_mnemonic": `You come across a **r[spirit]r** wearing a **r[top hat]r** and it claims to be your **k[ancestor]k**. Well of course, if you remember correctly, all of your ancestors wore top hats when they were alive. This spirit must be your long lost, great great... uh... somebody.`
+    },
+    1490: {
+        "slug": "績",
+        "level": 32,
+        "component_subject_ids": [86, 321],
+        "amalgamation_subject_ids": [5544, 5545, 8569],
+        "meanings": ["Exploits"],
+        "meaning_mnemonic": `Taking a piece of **r[thread]r** you **r[blame]r** the **k[exploits]k** of your past on poor judgment. You tie this thread around your finger to remind you of all the exploits you accomplished in your day. Most of them weren’t actually on purpose, so you blame them on poor judgment and accident.`
+    },
+    1491: {
+        "slug": "興",
+        "level": 32,
+        "component_subject_ids": [8792, 341, 1, 2],
+        "amalgamation_subject_ids": [5546, 5741, 6690, 7401],
+        "meanings": ["Interest"],
+        "meaning_mnemonic": `There’s a **r[comb]r** and what looks like the **r[same]r** **r[comb]r**, and you found them on the **r[ground]r** next to some **r[fins]r** you showed **k[interest]k** in. At first, the shiny fins on the ground caught your interest, but once you got closer to the fins you also noticed a pair of combs that are interesting too.`
+    },
+    1492: {
+        "slug": "衛",
+        "level": 32,
+        "component_subject_ids": [111, 294],
+        "amalgamation_subject_ids": [5547, 5548, 5550],
+        "meanings": ["Defense"],
+        "meaning_mnemonic": `If you want to **r[go]r** to **r[Korea]r** you'll need a good **k[defense]k**.`
+    },
+    1493: {
+        "slug": "複",
+        "level": 32,
+        "component_subject_ids": [80, 265],
+        "amalgamation_subject_ids": [5549, 5551, 5552, 5714],
+        "meanings": ["Duplicate"],
+        "meaning_mnemonic": `Put a **r[spirit]r** in a **r[black hole]r** and a **k[duplicate]k** comes out. The duplicate looks exactly like the original spirit that went in. How strange.`
+    },
+    1494: {
+        "slug": "雑",
+        "level": 32,
+        "component_subject_ids": [11, 23, 240],
+        "amalgamation_subject_ids": [5549, 5553, 5554, 5621, 7099, 7312, 8637],
+        "meanings": ["Random", "Miscellaneous"],
+        "meaning_mnemonic": `You count **r[nine]r** of them in the **r[tree]r**, each **r[turkey]r** holding something **k[random]k** or **k[miscellaneous]k**. There are nine turkeys in the tree and they’re all holding random, miscellaneous things. How odd.`
+    },
+    1495: {
+        "slug": "賛",
+        "level": 32,
+        "component_subject_ids": [146, 94],
+        "amalgamation_subject_ids": [5556, 5742],
+        "meanings": ["Agree"],
+        "meaning_mnemonic": `A **r[husband]r** and his **r[husband]r** find a **r[shellfish]r** and **k[agree]k** to share it.`
+    },
+    1496: {
+        "slug": "酸",
+        "level": 32,
+        "component_subject_ids": [182, 427],
+        "amalgamation_subject_ids": [5555, 5557, 8482],
+        "meanings": ["Acid"],
+        "meaning_mnemonic": `Mix **r[spider]r**s into **r[alcohol]r** to make **k[acid]k**. Spiders have a little bit in them already, but if you really want to make it potent, smash them in some whiskey to make a deadly acid that will rip through anything.`
+    },
+    1497: {
+        "slug": "銭",
+        "level": 32,
+        "component_subject_ids": [118, 8782],
+        "amalgamation_subject_ids": [5558, 5559],
+        "meanings": ["Coin"],
+        "meaning_mnemonic": `A **r[gold]r** **r[bar]r** can be turned into a **k[coin]k**. Well, more than one coin, probably. But you know for sure that you can make at least one coin out of this gold bar.`
+    },
+    1498: {
+        "slug": "飼",
+        "level": 32,
+        "component_subject_ids": [139, 266],
+        "amalgamation_subject_ids": [5560, 5724],
+        "meanings": ["Domesticate"],
+        "meaning_mnemonic": `You **r[eat]r** part of a **r[director]r** to **k[domesticate]k** him. This director has been going around kicking cameramen and punching actors and it’s really ruining his reputation. You need to domesticate him. The only way to do this is to shock him into submission. His ego is so big from two blockbusters that you have to eat part of him to get him to calm down.`
+    },
+    1499: {
+        "slug": "傷",
+        "level": 32,
+        "component_subject_ids": [75, 8762, 172],
+        "amalgamation_subject_ids": [5561, 5562, 5563, 5564, 5725, 5726, 7484, 8725],
+        "meanings": ["Wound"],
+        "meaning_mnemonic": `If a **r[leader]r** has a **r[gun]r** it's **r[easy]r** to **k[wound]k** people. When you have a gun and a lot of responsibility it's easy to get carried away and mess up, wounding the people you were supposed to be protecting. You can even wound yourself.`
+    },
+    1500: {
+        "slug": "党",
+        "level": 32,
+        "component_subject_ids": [8769, 191],
+        "amalgamation_subject_ids": [5565, 5566, 5567, 5568, 5569, 5958],
+        "meanings": ["Party", "Group"],
+        "meaning_mnemonic": `A **r[Viking]r** and his **r[older brother]r** join a **k[party]k**. They can raid and pillage better in a **k[group]k** like this, so it makes sense that the Viking and his older brother would join a group with other Vikings.`
+    },
+    1501: {
+        "slug": "卵",
+        "level": 32,
+        "component_subject_ids": [236],
+        "amalgamation_subject_ids": [5570, 5571, 5572, 8513],
+        "meanings": ["Egg"],
+        "meaning_mnemonic": `Two **r[pool]r**s, both altered and not quite like a pool you’ve seen before are put together and flipped around – this is an **k[egg]k**. One pool is the egg white, the other pool is the egg yolk. They’re different, but similar.`
+    },
+    1502: {
+        "slug": "厳",
+        "level": 32,
+        "component_subject_ids": [8783, 116, 8799, 60],
+        "amalgamation_subject_ids": [5573, 5574, 6701, 8130, 8141],
+        "meanings": ["Strict"],
+        "meaning_mnemonic": `If you see a **r[grass]r**y **r[cliff]r** with an **r[elf]r** under it in **r[winter]r**, it's because their parents are so **k[strict]k**. When elf kids misbehave they're supposed to go stand under grassy cliffs to think about what they've done.`
+    },
+    1503: {
+        "slug": "捨",
+        "level": 32,
+        "component_subject_ids": [63, 433],
+        "amalgamation_subject_ids": [5575, 5727, 5728],
+        "meanings": ["Throw Away"],
+        "meaning_mnemonic": `When you're at your **r[cottage]r** the only thing you do with your **r[fingers]r** is **k[throw away]k** things. The cottage is for vacation. And vacation means being as lazy as possible. But you certainly don't want to live in filth, so you have to throw away your trash at least.`
+    },
+    1504: {
+        "slug": "込",
+        "level": 32,
+        "component_subject_ids": [114, 12],
+        "amalgamation_subject_ids": [5729, 5730, 5731, 5732, 5733, 5738, 6232, 6560, 6937, 7442],
+        "meanings": ["Into", "Included"],
+        "meaning_mnemonic": `If you get on your **r[scooter]r** and **r[enter]r** somewhere, you’re going **k[into]k** that place.`
+    },
+    1505: {
+        "slug": "密",
+        "level": 32,
+        "component_subject_ids": [78, 343, 20],
+        "amalgamation_subject_ids": [5577, 5578, 5579, 5580, 5581, 7908],
+        "meanings": ["Secrecy"],
+        "meaning_mnemonic": `Standing on your **r[roof]r**, you're **r[certain]r** that the nearby **r[mountain]r** is shrouded in **k[secrecy]k**. But you can't do much about it, stuck on your roof as you are. So much secrecy, but so far away.
+        
+        `
+    },
+    1506: {
+        "slug": "汚",
+        "level": 32,
+        "component_subject_ids": [103, 7, 14],
+        "amalgamation_subject_ids": [5585, 5586, 5587, 5588, 5736, 7471, 8476],
+        "meanings": ["Dirty"],
+        "meaning_mnemonic": `A **r[tsunami]r** hit not one, but **r[TWO]r** **r[prison]r**s, making them extremely **k[dirty]k**.`
+    },
+    1507: {
+        "slug": "欲",
+        "level": 32,
+        "component_subject_ids": [249, 142],
+        "amalgamation_subject_ids": [5589, 5590, 5591, 5592, 7488],
+        "meanings": ["Want"],
+        "meaning_mnemonic": `In the **r[valley]r** you feel a **r[lack]r** of **k[want]k**. You want for nothing in this valley. It is the valley of plenty.`
+    },
+    1508: {
+        "slug": "暖",
+        "level": 32,
+        "component_subject_ids": [22, 286],
+        "amalgamation_subject_ids": [5593, 5594, 6195, 6748],
+        "meanings": ["Warm"],
+        "meaning_mnemonic": `You're in the **r[sun]r** playing **r[football]r** and you get very **k[warm]k**.`
+    },
+    1509: {
+        "slug": "机",
+        "level": 32,
+        "component_subject_ids": [23, 177],
+        "amalgamation_subject_ids": [5595],
+        "meanings": ["Desk"],
+        "meaning_mnemonic": `A **r[tree]r** combines with a **r[table]r** to make a **k[desk]k**. When you think about it, a desk is just a table with more stuff. To make this more stuff, like drawers and such, you need more wood, and wood comes from trees. Add materials from the tree to the table and you have a desk.`
+    },
+    1510: {
+        "slug": "秘",
+        "level": 32,
+        "component_subject_ids": [135, 343],
+        "amalgamation_subject_ids": [5580, 5596, 5597],
+        "meanings": ["Secret"],
+        "meaning_mnemonic": `A **r[grain]r** is **r[certain]r** to keep a **k[secret]k**.`
+    },
+    1511: {
+        "slug": "訳",
+        "level": 32,
+        "component_subject_ids": [117, 215],
+        "amalgamation_subject_ids": [5599, 5600, 5601, 5602, 5603, 5604, 5605, 5737, 6259, 7396],
+        "meanings": ["Translation", "Reason"],
+        "meaning_mnemonic": `They **r[say]r** a **r[shrimp]r** who is bad with **k[translation]k** has no **k[reason]k** to live. Most shrimp make a living with their translation skills. They are the translators of the ocean. If they don’t know how to say something in all the languages of the sea, they have no reason to live. They might as well be dead.`
+    },
+    1512: {
+        "slug": "染",
+        "level": 32,
+        "component_subject_ids": [103, 11, 23],
+        "amalgamation_subject_ids": [5582, 5583, 5584, 5586, 5734, 5735],
+        "meanings": ["Dye"],
+        "meaning_mnemonic": `A **r[tsunami]r** runs into **r[nine]r** **r[tree]r**s and produces a **k[dye]k** the color of the forest. The tsunami water mixes with each tree, nine of them actually, and the resulting liquid is a forest green dye.`
+    },
+    1513: {
+        "slug": "簡",
+        "level": 33,
+        "component_subject_ids": [85, 344],
+        "amalgamation_subject_ids": [5598, 5936],
+        "meanings": ["Simplicity"],
+        "meaning_mnemonic": `Keeping at a **r[bamboo]r** **r[interval]r** is the definition of **k[simplicity]k**. `
+    },
+    1514: {
+        "slug": "閉",
+        "level": 33,
+        "component_subject_ids": [214, 264],
+        "amalgamation_subject_ids": [5618, 5619, 5620, 5837, 5845, 7019, 7944],
+        "meanings": ["Closed", "Close", "Closure"],
+        "meaning_mnemonic": `The **r[gate]r** to the **r[genius]r** is now **k[closed]k**. The genius’ visiting hours are over, so the gate is closed. This genius has been genetically modified to know more than any human could know, and his days are spent answering questions and advising. But now, his work day is over, so his gates are closed.`
+    },
+    1515: {
+        "slug": "誌",
+        "level": 33,
+        "component_subject_ids": [117, 97, 65],
+        "amalgamation_subject_ids": [5621],
+        "meanings": ["Magazine"],
+        "meaning_mnemonic": `To **r[say]r** what's in a **r[samurai]r**'s **r[heart]r** you start a **k[magazine]k**. You go around writing about and interviewing all the samurai so you can share what they say to everyone who wants to read!`
+    },
+    1516: {
+        "slug": "窓",
+        "level": 33,
+        "component_subject_ids": [170, 140, 65],
+        "amalgamation_subject_ids": [5622, 5623, 9061],
+        "meanings": ["Window"],
+        "meaning_mnemonic": `The **r[hole]r** leading to the **r[private]r** **r[heart]r** of your house is the **k[window]k**. Or maybe it's just the window to your soul, and not your house. Like the poetry people say.`
+    },
+    1517: {
+        "slug": "否",
+        "level": 33,
+        "component_subject_ids": [96, 16],
+        "amalgamation_subject_ids": [5624, 5625, 5626, 5849, 5850, 6025, 6309],
+        "meanings": ["No"],
+        "meaning_mnemonic": `The **r[Not]r** **r[Mouth]r** says “**k[no]k**”. What else would you expect from something named the “Not Mouth”? The Not Mouth will always say “no”, regardless of the question.`
+    },
+    1518: {
+        "slug": "筋",
+        "level": 33,
+        "component_subject_ids": [85, 43, 13],
+        "amalgamation_subject_ids": [5627, 5628, 5838],
+        "meanings": ["Muscle", "Tendon"],
+        "meaning_mnemonic": `This **r[bamboo]r** absorbed the **r[moon]r**'s **r[power]r**, and you want that power in your body, so you surgically insert them into your body to replace your **k[muscle]k**s and **k[tendon]k**s.`
+    },
+    1519: {
+        "slug": "垂",
+        "level": 33,
+        "component_subject_ids": [93],
+        "amalgamation_subject_ids": [5629, 5630, 5839],
+        "meanings": ["Dangle", "Drip"],
+        "meaning_mnemonic": `This **r[car]r** is all weird because it looks like the side is going to **k[dangle]k** and **k[drip]k** off or something. The front bumper of the car is dangling off and the sides of the car look like they could drip off at any moment.`
+    },
+    1521: {
+        "slug": "宣",
+        "level": 33,
+        "component_subject_ids": [78, 1, 293],
+        "amalgamation_subject_ids": [5634, 5635, 5840],
+        "meanings": ["Proclaim"],
+        "meaning_mnemonic": `Someone climbs onto the **r[roof]r** from the **r[ground]r** when **r[dawn]r** comes to **k[proclaim]k** that a new day has begun! They proclaim this at the top of their lungs!`
+    },
+    1522: {
+        "slug": "尊",
+        "level": 33,
+        "component_subject_ids": [8767, 182, 74],
+        "amalgamation_subject_ids": [5636, 5637, 5851, 5852],
+        "meanings": ["Revered"],
+        "meaning_mnemonic": `The **r[horns]r** of the creatures who drink **r[alcohol]r** have a **r[measurement]r** so large that they are **k[revered]k** the world over. The horns are revered both for their size and potency. The horns can be used in medicine, so they are very valuable, those alcoholic monster horns.`
+    },
+    1523: {
+        "slug": "忠",
+        "level": 33,
+        "component_subject_ids": [49, 65],
+        "amalgamation_subject_ids": [5638, 5639, 6548],
+        "meanings": ["Loyalty"],
+        "meaning_mnemonic": `Those that are in the **r[middle]r** of your **r[heart]r** are the ones you have the most **k[loyalty]k** towards. The middle of your heart is the most sacred, special place for people, so it makes sense that those you keep in the middle of your heart are those you are most loyal to.`
+    },
+    1524: {
+        "slug": "拡",
+        "level": 33,
+        "component_subject_ids": [63, 382],
+        "amalgamation_subject_ids": [5640, 5641, 5642],
+        "meanings": ["Extend"],
+        "meaning_mnemonic": `To make your **r[fingers]r** **r[wide]r** you **k[extend]k** them.`
+    },
+    1525: {
+        "slug": "操",
+        "level": 33,
+        "component_subject_ids": [63, 8830],
+        "amalgamation_subject_ids": [5643, 5644, 5645, 5646, 7834],
+        "meanings": ["Manipulate", "Chastity"],
+        "meaning_mnemonic": `If someone has their **r[fingers]r** in your **r[syrup]r**, it's just another way of saying they **k[manipulate]k**d you. Cause only slimy people manipulate other people, so their fingers are slimy and sticky because they're covered in your syrup from mucking up your life.
+        
+        This also has another meaning: **k[chastity]k**. Just imagine if someone wanted you to keep your chastity and they called s.e.x. when someone "puts their fingers in your syrup." That would be pretty effective, right? Cause it's like, super gross.`
+    },
+    1526: {
+        "slug": "敬",
+        "level": 33,
+        "component_subject_ids": [255, 60],
+        "amalgamation_subject_ids": [5637, 5647, 5851, 5852],
+        "meanings": ["Respect"],
+        "meaning_mnemonic": `Writing a **r[poem]r** about **r[winter]r** is the only way to get **k[respect]k** from other poets.`
+    },
+    1527: {
+        "slug": "暮",
+        "level": 33,
+        "component_subject_ids": [356, 22],
+        "amalgamation_subject_ids": [5648, 5649, 5853, 6029, 6994, 7776],
+        "meanings": ["Livelihood"],
+        "meaning_mnemonic": `A **r[greenhouse]r** is already really good when it comes to a plant's livelihood. But add the **r[sun]r** into that equation and you have something really great for the plants. Their **k[livelihood]k** will be awesome, now!`
+    },
+    1528: {
+        "slug": "灰",
+        "level": 33,
+        "component_subject_ids": [116, 46],
+        "amalgamation_subject_ids": [5650, 5651, 5652],
+        "meanings": ["Ash", "Ashes"],
+        "meaning_mnemonic": `On a **r[cliff]r**, a **r[fire]r** burns to **k[ashes]k**. The ashes then blow off the cliff, and follow the wind wherever it may go.`
+    },
+    1529: {
+        "slug": "熟",
+        "level": 33,
+        "component_subject_ids": [345, 223, 131],
+        "amalgamation_subject_ids": [5653, 5654, 5655, 5656],
+        "meanings": ["Ripen"],
+        "meaning_mnemonic": `If you **r[receive]r** something edible, arrange it in a **r[circle]r** and **r[boil]r** it. That way, it’ll **k[ripen]k** more quickly.`
+    },
+    1530: {
+        "slug": "異",
+        "level": 33,
+        "component_subject_ids": [51, 269],
+        "amalgamation_subject_ids": [5657, 5658, 5659, 5660, 5854, 8724],
+        "meanings": ["Differ"],
+        "meaning_mnemonic": `Put a **r[rice paddy]r** **r[together]r** with other paddies and you'll see how much they **k[differ]k**. When you're driving or taking a train through the countryside it may seem like all of those rice paddies blurring together are all the same, but they can differ quite a bit!`
+    },
+    1531: {
+        "slug": "皇",
+        "level": 33,
+        "component_subject_ids": [52, 48],
+        "amalgamation_subject_ids": [5661, 5662, 5663, 5664, 7027, 7356, 7400],
+        "meanings": ["Emperor"],
+        "meaning_mnemonic": `Social commentary aside, the **r[white]r** **r[king]r** is the king that wears all white. Traditionally, this is someone better than a king. The **k[emperor]k**!`
+    },
+    1532: {
+        "slug": "盛",
+        "level": 33,
+        "component_subject_ids": [263, 84],
+        "amalgamation_subject_ids": [5665, 5841, 6038, 6265],
+        "meanings": ["Pile", "Prosperous", "Heap"],
+        "meaning_mnemonic": `If you **r[become]r** a **r[plate]r**, I will **k[pile]k** food up upon you. With such a huge pile, everyone will think you're **k[prosperous]k**.`
+    },
+    1533: {
+        "slug": "砂",
+        "level": 33,
+        "component_subject_ids": [54, 198],
+        "amalgamation_subject_ids": [5666, 5667, 5668, 6807, 9127, 9128],
+        "meanings": ["Sand"],
+        "meaning_mnemonic": `If you grind a **r[stone]r** down to more than just a **r[few]r** pieces, it will become **k[sand]k**. Stones that get broken up enough will become sand, and you pick up a few grains in your hand.`
+    },
+    1534: {
+        "slug": "漠",
+        "level": 35,
+        "component_subject_ids": [103, 356],
+        "amalgamation_subject_ids": [5668, 5669],
+        "meanings": ["Desert", "Vague"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits the **r[greenhouse]r**, destroying the last remaining plant life in the area. The tsunami recedes, and there is nothing but sand, and the lands become a **k[desert]k**.`
+    },
+    1535: {
+        "slug": "糖",
+        "level": 33,
+        "component_subject_ids": [98, 62, 220, 16],
+        "amalgamation_subject_ids": [5667, 5670, 5671, 8375],
+        "meanings": ["Sugar"],
+        "meaning_mnemonic": `Bring **r[rice]r** under a **r[canopy]r**, crush it with your **r[brush]r**, and sweep the white powder in your **r[mouth]r**... it's **k[sugar]k** now! You make sugar by carefully crushing rice to a powder, until it's small enough to brush into your mouth.`
+    },
+    1536: {
+        "slug": "納",
+        "level": 33,
+        "component_subject_ids": [86, 346],
+        "amalgamation_subject_ids": [5672, 5673, 5674, 5828, 5847, 5848, 8194],
+        "meanings": ["Supply"],
+        "meaning_mnemonic": `The **r[thread]r** you have **r[inside]r** is your whole **k[supply]k**. When you're outside sewing and you run out, you just go inside, look through your supply, and pick a new one.`
+    },
+    1537: {
+        "slug": "肺",
+        "level": 33,
+        "component_subject_ids": [43, 267],
+        "amalgamation_subject_ids": [5675, 5676, 5677, 5719],
+        "meanings": ["Lung"],
+        "meaning_mnemonic": `There is a **r[moon]r** and a **r[city]r** inside your **k[lung]k**. Inside of your lung there is a city and above that city lies a moon. It’s a pretty sight, but also very strange. Moons and cities don’t usually reside inside lungs.`
+    },
+    1538: {
+        "slug": "著",
+        "level": 33,
+        "component_subject_ids": [90, 203],
+        "amalgamation_subject_ids": [5678, 5679, 5680, 5855, 8172],
+        "meanings": ["Author"],
+        "meaning_mnemonic": `If **r[someone]r** is holding **r[flowers]r**, they're probably an **k[author]k**. Authors really love flowers, because they help them think of flowery language they can use to sound smart in their books.`
+    },
+    1539: {
+        "slug": "蒸",
+        "level": 33,
+        "component_subject_ids": [90, 8794, 131],
+        "amalgamation_subject_ids": [5681, 5682, 5856, 5857],
+        "meanings": ["Steam"],
+        "meaning_mnemonic": `If you take the **r[flowers]r** off some **r[coral]r** and **r[boil]r** them, **k[steam]k** comes out.`
+    },
+    1540: {
+        "slug": "蔵",
+        "level": 33,
+        "component_subject_ids": [347],
+        "amalgamation_subject_ids": [5683, 5684, 5685],
+        "meanings": ["Storehouse"],
+        "meaning_mnemonic": `The **r[storehouse]r** radical and the **k[storehouse]k** kanji meanings are the same. If you know the radical, you know the kanji!`
+    },
+    1541: {
+        "slug": "装",
+        "level": 33,
+        "component_subject_ids": [8826, 97, 320],
+        "amalgamation_subject_ids": [5686, 5687, 5688, 5689, 5858, 6558, 7246, 8030, 8544, 8687],
+        "meanings": ["Attire"],
+        "meaning_mnemonic": `If you see **r[icicle]r**s hanging off of a **r[samurai]r**'s **r[clothes]r**, don't worry, those are just part of his winter **k[attire]k**. Samurai have to travel and fight in all sorts of conditions, so it only makes sense that they have attire for every season.`
+    },
+    1542: {
+        "slug": "裏",
+        "level": 33,
+        "component_subject_ids": [8, 125, 8770],
+        "amalgamation_subject_ids": [5690, 5691, 5692, 5693, 5694, 5842],
+        "meanings": ["Backside", "Underside", "Reverse"],
+        "meaning_mnemonic": `There's a **r[lid]r** on your **r[village]r**, so you **r[kick]r** it over on its **k[backside]k** to see what's on its **k[underside]k**.`
+    },
+    1543: {
+        "slug": "諸",
+        "level": 33,
+        "component_subject_ids": [117, 203],
+        "amalgamation_subject_ids": [5695, 5696, 5843],
+        "meanings": ["Various"],
+        "meaning_mnemonic": `They **r[say]r** **r[someone]r** with **k[various]k** talents is important. Various talents can include speaking various languages so if you are someone who knows various languages you can say things that various peoples will comprehend.`
+    },
+    1544: {
+        "slug": "賃",
+        "level": 33,
+        "component_subject_ids": [75, 48, 94],
+        "amalgamation_subject_ids": [5697, 5698],
+        "meanings": ["Rent"],
+        "meaning_mnemonic": `The **r[leader]r** who is **r[king]r** of every **r[shellfish]r** sets the **k[rent]k** for everyone. If you rent a home in King Shellfish's kingdom, the rent will be set by the great shellfish leader himself.`
+    },
+    1545: {
+        "slug": "誤",
+        "level": 34,
+        "component_subject_ids": [117, 348],
+        "amalgamation_subject_ids": [5743, 5744, 5745, 5746, 7723, 8331],
+        "meanings": ["Mistake"],
+        "meaning_mnemonic": `They **r[say]r** accidentally firing a **r[catapult]r** is an unforgivable **k[mistake]k**. They say you shot the catapult at your own castle. Even though it was an accident, it’s still a mistake you will never be forgiven for.`
+    },
+    1546: {
+        "slug": "臓",
+        "level": 34,
+        "component_subject_ids": [43, 347],
+        "amalgamation_subject_ids": [5718, 5719, 5720, 6638],
+        "meanings": ["Internal Organs"],
+        "meaning_mnemonic": `Your **r[moon]r** **r[storehouse]r** is another storehouse you own. Remember how your regular storehouse holds zombies (from the kanji <ja>蔵</ja>?). Your moon storehouse is on the moon, and it is filled with **k[internal organs]k**.`
+    },
+    1547: {
+        "slug": "貴",
+        "level": 34,
+        "component_subject_ids": [49, 1, 94],
+        "amalgamation_subject_ids": [5747, 5748, 5749, 5750, 7662, 7777, 8237],
+        "meanings": ["Valuable"],
+        "meaning_mnemonic": `In the **r[middle]r** of the **r[ground]r** is a **r[shellfish]r** that is very **k[valuable]k**. Inside of this valuable shellfish is a priceless treasure, and it’s just lying there in the middle of the ground.`
+    },
+    1549: {
+        "slug": "丼",
+        "level": 34,
+        "component_subject_ids": [246, 3],
+        "amalgamation_subject_ids": [5754, 5755, 5756, 5938],
+        "meanings": ["Rice Bowl"],
+        "meaning_mnemonic": `Into a **r[well]r**, a **r[drop]r** of rice falls from your **k[rice bowl]k**. You were eating out of your rice bowl on the side of a well, and some rice fell out of your rice bowl and this drop of rice proceeded to fall all the way down.`
+    },
+    1550: {
+        "slug": "吐",
+        "level": 34,
+        "component_subject_ids": [16, 17],
+        "amalgamation_subject_ids": [5757, 5939, 5940, 8846],
+        "meanings": ["Throw Up", "Spit", "Vomit"],
+        "meaning_mnemonic": `If you put **r[dirt]r** in your **r[mouth]r** you're going to **k[throw up]k**. That's just a fact.`
+    },
+    1551: {
+        "slug": "奴",
+        "level": 34,
+        "component_subject_ids": [19, 30],
+        "amalgamation_subject_ids": [5758, 5759, 5941],
+        "meanings": ["Dude"],
+        "meaning_mnemonic": `The **r[woman]r** sitting on that **r[stool]r** is actually a **k[dude]k**. Oh oops! You thought he was a woman because of his long hair and the way he was sitting. Maybe you shouldn't be judging people based on their looks!`
+    },
+    1552: {
+        "slug": "隷",
+        "level": 34,
+        "component_subject_ids": [97, 207, 105, 45],
+        "amalgamation_subject_ids": [5759],
+        "meanings": ["Slave"],
+        "meaning_mnemonic": `A **r[samurai]r** with a **r[jackhammer]r**, and **r[wolverine]r** carrying **r[water]r**?! All these things tell you that they're not just working, but have been made a **k[slave]k**.`
+    },
+    1554: {
+        "slug": "縮",
+        "level": 34,
+        "component_subject_ids": [86, 78, 75, 239],
+        "amalgamation_subject_ids": [5763, 5764],
+        "meanings": ["Shrink"],
+        "meaning_mnemonic": `A magic **r[thread]r** fell from the **r[roof]r** onto the **r[leader]r** of a **r[hundred]r** people, causing him to **k[shrink]k**!`
+    },
+    1555: {
+        "slug": "純",
+        "level": 34,
+        "component_subject_ids": [86, 315],
+        "amalgamation_subject_ids": [5765, 5766, 5767, 5771],
+        "meanings": ["Pure"],
+        "meaning_mnemonic": `Make your **r[barracks]r** out of **r[thread]r** so it will be **k[pure]k**. If you build it out of clay or bricks or wood, it will inevitably have some dirt in it. Build it out of thread to keep it pure of... well, impurities.`
+    },
+    1556: {
+        "slug": "縦",
+        "level": 34,
+        "component_subject_ids": [86, 99, 8767, 229],
+        "amalgamation_subject_ids": [5768, 5769, 5770],
+        "meanings": ["Vertical"],
+        "meaning_mnemonic": `You see a **r[thread]r** that wants to **r[loiter]r** from some **r[horns]r** and you would be **r[correct]r** to assume that it would hang **k[vertical]k**. The thread wants to loiter and hang from one of the horns. When things hang from things, they usually hang vertical, so that’s what this thread is going to do.`
+    },
+    1557: {
+        "slug": "粋",
+        "level": 34,
+        "component_subject_ids": [98, 11, 15],
+        "amalgamation_subject_ids": [5771, 5772],
+        "meanings": ["Stylish"],
+        "meaning_mnemonic": `There’s some **r[rice]r** in the shape of a **r[nine]r** on a **r[cross]r** and this is **k[stylish]k**. The rice grains are arranged to form the number nine. This number nine is prominently displayed on the cross, and it’s stylish to carry it around and be seen with it.`
+    },
+    1558: {
+        "slug": "聖",
+        "level": 34,
+        "component_subject_ids": [88, 16, 48],
+        "amalgamation_subject_ids": [5773, 5774, 5776],
+        "meanings": ["Holy"],
+        "meaning_mnemonic": `The **r[ear]r** and the **r[mouth]r** of a **r[king]r** are **k[holy]k**. The king has holy hearing and holy eating abilities. This king is divine.`
+    },
+    1559: {
+        "slug": "磁",
+        "level": 34,
+        "component_subject_ids": [54, 8767, 1, 87],
+        "amalgamation_subject_ids": [5777, 5778, 5779, 5945],
+        "meanings": ["Magnet"],
+        "meaning_mnemonic": `Seeing a **r[stone]r** and some **r[horns]r** on the **r[ground]r** next to a piece of **r[poop]r** and another piece of **r[poop]r**, you try and pick each of them up with a **k[magnet]k**. The magnet fails to pick up either piece of poop. The magnet doesn’t pick up the horns either. But wait! The magnet picks up the stone!`
+    },
+    1560: {
+        "slug": "紅",
+        "level": 34,
+        "component_subject_ids": [25, 86],
+        "amalgamation_subject_ids": [5780, 5781, 5942, 9291],
+        "meanings": ["Deep Red", "Crimson"],
+        "meaning_mnemonic": `In this **r[construction]r** project, they will be using **r[thread]r** to hold everything together. The color of the thread is a **k[deep red]k**, and it gives everything a **k[crimson]k** look.`
+    },
+    1561: {
+        "slug": "射",
+        "level": 34,
+        "component_subject_ids": [234, 74],
+        "amalgamation_subject_ids": [5782, 5783, 5784, 5785, 5946, 7870],
+        "meanings": ["Shoot"],
+        "meaning_mnemonic": `You need to take a **r[body]r** **r[measurement]r** before you can **k[shoot]k**. Whether it's for a photo shoot, you're gonna shoot them with a gun, or if you're about to shoot them full of radiation for X-rays, you need the right measurements of that body first.`
+    },
+    1562: {
+        "slug": "幕",
+        "level": 34,
+        "component_subject_ids": [356, 102],
+        "amalgamation_subject_ids": [5786, 5787, 5788, 7608],
+        "meanings": ["Curtain"],
+        "meaning_mnemonic": `Hang a **r[towel]r** in a **r[greenhouse]r** and it turns into a **k[curtain]k**. Greenhouses are made of windows, it's all glass, there are no walls. So when you put a towel in there it turns into a curtain. It has no choice but to cover a window, after all.`
+    },
+    1563: {
+        "slug": "拝",
+        "level": 34,
+        "component_subject_ids": [63, 61],
+        "amalgamation_subject_ids": [5789, 5790, 8533],
+        "meanings": ["Worship"],
+        "meaning_mnemonic": `Take your **r[fingers]r** and **r[dry]r** them. Then **r[dry]r** them again. This is what you do when you are in  **k[worship]k**. Once you go into your place of worship, and again before you leave. You have really sweaty fingers, and you can't worship anyone or anything if you have wet hands. So you dry them!`
+    },
+    1564: {
+        "slug": "薦",
+        "level": 34,
+        "component_subject_ids": [90, 62, 424, 151],
+        "amalgamation_subject_ids": [5793, 5794, 5795, 5943],
+        "meanings": ["Recommend"],
+        "meaning_mnemonic": `You want some **r[flowers]r** to put on the **r[canopy]r** above your **r[helicopter]r** to keep the **r[bird]r**s away, so you ask people what they would **k[recommend]k**.`
+    },
+    1565: {
+        "slug": "推",
+        "level": 34,
+        "component_subject_ids": [63, 240],
+        "amalgamation_subject_ids": [5791, 5792, 5793, 5864, 7344],
+        "meanings": ["Infer"],
+        "meaning_mnemonic": `If a **r[turkey]r** is pointing its **r[fingers]r** at you, you can **k[infer]k** that it wants revenge. This turkey knows you killed his brother for dinner last night, and now he’s going to make you pay. You infer that this turkey is going to take their fingers and wrap them around your neck.`
+    },
+    1566: {
+        "slug": "揮",
+        "level": 34,
+        "component_subject_ids": [63, 76, 93],
+        "amalgamation_subject_ids": [5796, 5797, 5947],
+        "meanings": ["Brandish"],
+        "meaning_mnemonic": `You stand on the **r[forehead]r** of your **r[car]r**, take your **r[fingers]r** and **k[brandish]k** them in the air! You wave them around for everyone to see.`
+    },
+    1567: {
+        "slug": "沿",
+        "level": 34,
+        "component_subject_ids": [103, 2, 16],
+        "amalgamation_subject_ids": [5798, 5799, 5800, 5801],
+        "meanings": ["Run Alongside"],
+        "meaning_mnemonic": `There's a **r[tsunami]r** coming, so you put your **r[fins]r** on, open your **r[mouth]r** wide, and try to **k[run alongside]k** it.`
+    },
+    1568: {
+        "slug": "源",
+        "level": 34,
+        "component_subject_ids": [103, 230],
+        "amalgamation_subject_ids": [5802, 5803, 5804, 5805, 5948],
+        "meanings": ["Origin"],
+        "meaning_mnemonic": `The **r[original]r** **r[tsunami]r** was the **k[origin]k** of Japan. A big tsunami came and uncovered the islands of Japan. It's the origin of all life, as far as Japanese people are concerned.`
+    },
+    1570: {
+        "slug": "勤",
+        "level": 34,
+        "component_subject_ids": [428, 13],
+        "amalgamation_subject_ids": [5813, 5814, 5815, 5944],
+        "meanings": ["Work"],
+        "meaning_mnemonic": `**r[Boot]r**s give you the **r[power]r** to **k[work]k**! That's why so many professions require you to have work boots.`
+    },
+    1571: {
+        "slug": "歓",
+        "level": 34,
+        "component_subject_ids": [72, 240, 142],
+        "amalgamation_subject_ids": [5739, 5819],
+        "meanings": ["Delight"],
+        "meaning_mnemonic": `An **r[arrow]r** is what this **r[turkey]r** **r[lack]r**s. For a turkey, that is a **k[delight]k**.`
+    },
+    1572: {
+        "slug": "承",
+        "level": 34,
+        "component_subject_ids": [34, 7, 45],
+        "amalgamation_subject_ids": [5816, 5817, 5818, 6002, 6022],
+        "meanings": ["Consent"],
+        "meaning_mnemonic": `A **r[child]r** will ask if they want **r[two]r** **r[water]r**s because they need a grown-up's **k[consent]k**. Children aren't allowed to have whatever they want, they need to make sure it's okay and get consent first.`
+    },
+    1573: {
+        "slug": "損",
+        "level": 34,
+        "component_subject_ids": [63, 349],
+        "amalgamation_subject_ids": [5820, 5821, 5822, 5823, 5824],
+        "meanings": ["Loss", "Hurt"],
+        "meaning_mnemonic": `Raise your **r[fingers]r** to another **r[member]r** and you'll receive a **k[loss]k** in return. You should never **k[hurt]k** a member of your team, group, or society. It's just wrong. And you'll incur a loss as punishment for your bad deeds.`
+    },
+    1574: {
+        "slug": "枝",
+        "level": 34,
+        "component_subject_ids": [23, 81],
+        "amalgamation_subject_ids": [5825, 5950],
+        "meanings": ["Branch"],
+        "meaning_mnemonic": `A **r[tree]r** **r[branch]r** is exactly what it sounds like: the **k[branch]k** of a tree.`
+    },
+    1575: {
+        "slug": "爪",
+        "level": 34,
+        "component_subject_ids": [350],
+        "amalgamation_subject_ids": [5832, 5833],
+        "meanings": ["Claw"],
+        "meaning_mnemonic": `The **r[claw]r** radical and the **k[claw]k** kanji are exactly the same! Ravishing!`
+    },
+    1576: {
+        "slug": "豆",
+        "level": 34,
+        "component_subject_ids": [181],
+        "amalgamation_subject_ids": [5826, 5827, 5828, 5950, 5951, 6228],
+        "meanings": ["Beans"],
+        "meaning_mnemonic": `The **r[beans]r** radical and the **k[beans]k** kanji are exactly the same!`
+    },
+    1577: {
+        "slug": "刻",
+        "level": 34,
+        "component_subject_ids": [351, 128],
+        "amalgamation_subject_ids": [5834, 5835, 5836, 5860, 5862],
+        "meanings": ["Carve"],
+        "meaning_mnemonic": `A **r[slice]r** with a **r[knife]r** is called a **k[carve]k**.`
+    },
+    1578: {
+        "slug": "腐",
+        "level": 34,
+        "component_subject_ids": [62, 248, 108],
+        "amalgamation_subject_ids": [5829, 5830, 5831, 5951, 6228, 6384, 7950],
+        "meanings": ["Rot"],
+        "meaning_mnemonic": `**r[Attach]r** **r[meat]r** to your **r[canopy]r** and it will **k[rot]k**.`
+    },
+    1579: {
+        "slug": "遅",
+        "level": 35,
+        "component_subject_ids": [114, 37, 136],
+        "amalgamation_subject_ids": [5859, 5860, 5861, 5878, 6039, 7230],
+        "meanings": ["Slow", "Late"],
+        "meaning_mnemonic": `Next to the **r[scooter]r**, there's a **r[flag]r** warning you that there are **r[sheep]r** around here, so you should go **k[slow]k**. That means you might be **k[late]k**, but at least the sheep will be okay!`
+    },
+    1580: {
+        "slug": "彫",
+        "level": 35,
+        "component_subject_ids": [169, 38],
+        "amalgamation_subject_ids": [5862, 9060],
+        "meanings": ["Carve"],
+        "meaning_mnemonic": `There is a **r[circumference]r** around someone's **r[hair]r**, as in, you can see a circle drawn around the top of their head. As you examine it closer, and pull at it a bit, you realize that someone has **k[carve]k**d the hair off someone's head!`
+    },
+    1581: {
+        "slug": "測",
+        "level": 35,
+        "component_subject_ids": [103, 94, 128],
+        "amalgamation_subject_ids": [5863, 5864, 5865, 5866, 7204],
+        "meanings": ["Measure"],
+        "meaning_mnemonic": `A **r[tsunami]r** will pick up a bunch of **r[shellfish]r** and dump them on your shore, so you take a **r[knife]r** and **k[measure]k** them.`
+    },
+    1582: {
+        "slug": "破",
+        "level": 35,
+        "component_subject_ids": [54, 195],
+        "amalgamation_subject_ids": [5867, 5868, 5869, 5870, 6041, 6461],
+        "meanings": ["Tear"],
+        "meaning_mnemonic": `If you scrape a sharp **r[stone]r** against your **r[skin]r**, it will **k[tear]k**. The sharp stone tears your skin. It hurts!`
+    },
+    1583: {
+        "slug": "舎",
+        "level": 35,
+        "component_subject_ids": [433],
+        "amalgamation_subject_ids": [5871, 5872, 5873],
+        "meanings": ["Cottage"],
+        "meaning_mnemonic": `The kanji and the radical that look like this are exactly the same. They are both **k[cottage]k**.`
+    },
+    1584: {
+        "slug": "講",
+        "level": 35,
+        "component_subject_ids": [117, 303],
+        "amalgamation_subject_ids": [5874, 5875, 5876],
+        "meanings": ["Lecture"],
+        "meaning_mnemonic": `Try to **r[say]r** something to a **r[lifeguard]r** and you'll just end up getting a **k[lecture]k**. `
+    },
+    1585: {
+        "slug": "滞",
+        "level": 35,
+        "component_subject_ids": [352, 103],
+        "amalgamation_subject_ids": [5877, 5878, 6252, 6733],
+        "meanings": ["Stagnate"],
+        "meaning_mnemonic": `A **r[tsunami]r**, once stopped by a **r[belt]r**, will begin to **k[stagnate]k**. This belt is a belt of water resistance, so the belt stops the tsunami. The belt has caused the tsunami to stagnate.`
+    },
+    1586: {
+        "slug": "紹",
+        "level": 35,
+        "component_subject_ids": [86, 331],
+        "amalgamation_subject_ids": [5879, 6042, 6043, 6044],
+        "meanings": ["Introduce"],
+        "meaning_mnemonic": `You create a **r[thread]r** with someone by **r[call]r**ing out to them to **k[introduce]k** yourself.`
+    },
+    1587: {
+        "slug": "介",
+        "level": 35,
+        "component_subject_ids": [166],
+        "amalgamation_subject_ids": [5879, 5880, 5883, 6042, 6043, 6044, 8445],
+        "meanings": ["Jammed In"],
+        "meaning_mnemonic": `The **r[jammed in]r** radical and the **k[jammed in]k** kanji are the same!`
+    },
+    1588: {
+        "slug": "己",
+        "level": 35,
+        "component_subject_ids": [228],
+        "amalgamation_subject_ids": [5881, 5882, 6042],
+        "meanings": ["Oneself", "Self"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[oneself]r** first! If you know the radical, you know this kanji means **k[oneself]k** as well.`
+    },
+    1589: {
+        "slug": "厄",
+        "level": 35,
+        "component_subject_ids": [116, 158],
+        "amalgamation_subject_ids": [5883],
+        "meanings": ["Unlucky"],
+        "meaning_mnemonic": `If you’re on the edge of a **r[cliff]r** with a **r[snake]r**, you’re **k[unlucky]k**. You’re hanging off the edge of this cliff and you can’t pull yourself back up when you notice a snake approaching your fingers. The snake looks like it’s gonna bite you. How unlucky.`
+    },
+    1590: {
+        "slug": "亀",
+        "level": 35,
+        "component_subject_ids": [353],
+        "amalgamation_subject_ids": [5884, 5885],
+        "meanings": ["Turtle"],
+        "meaning_mnemonic": `The **r[turtle]r** radical and the **k[turtle]k** kanji are exactly the same! Nice!`
+    },
+    1591: {
+        "slug": "互",
+        "level": 35,
+        "component_subject_ids": [1, 354],
+        "amalgamation_subject_ids": [5886, 5887, 5888],
+        "meanings": ["Mutual"],
+        "meaning_mnemonic": `The **r[ground]r** and a **r[shuriken]r** have **k[mutual]k** respect for one another. The shuriken respects the ground because of how solid and stable it is, and the ground respects the shuriken for how pointy it is. They have great mutual respect here.`
+    },
+    1592: {
+        "slug": "剣",
+        "level": 35,
+        "component_subject_ids": [8785, 128],
+        "amalgamation_subject_ids": [5889, 5890, 7555],
+        "meanings": ["Sword"],
+        "meaning_mnemonic": `Tie a **r[squid]r** to a **r[knife]r** and you get a **k[sword]k**! Knives are too small to be considered a sword on their own. That's why you strapped a squid to it. They're the right shape, kinda pointed, so no one will know it's just a knife.`
+    },
+    1593: {
+        "slug": "寿",
+        "level": 35,
+        "component_subject_ids": [8779, 74],
+        "amalgamation_subject_ids": [5891, 5892, 5893, 5894, 5895],
+        "meanings": ["Lifespan", "Longevity"],
+        "meaning_mnemonic": `In **r[spring]r**, your **r[measurement]r**s will reveal your **k[lifespan]k**. Only in spring can you measure your lifespan, just as easily as you measure your height and weight.`
+    },
+    1595: {
+        "slug": "恥",
+        "level": 35,
+        "component_subject_ids": [88, 65],
+        "amalgamation_subject_ids": [5899, 5900, 6031, 6040, 7173],
+        "meanings": ["Shame"],
+        "meaning_mnemonic": `Your **r[ear]r** listens to your **r[heart]r** and feels **k[shame]k**. Your heart is full of shame for how you’ve lived your life and when your ear hears all the things you’ve done, your ear feels shame too.`
+    },
+    1596: {
+        "slug": "杉",
+        "level": 35,
+        "component_subject_ids": [23, 38],
+        "amalgamation_subject_ids": [5901],
+        "meanings": ["Cedar"],
+        "meaning_mnemonic": `There’s a **r[tree]r** in your **r[hair]r**, I think it’s a **k[cedar]k**. How did that cedar tree get in your hair?
+        
+        (Certain types of cedar trees have bark that comes off in fine threads, making them very hairy trees. So this kanji makes perfect sense!)`
+    },
+    1597: {
+        "slug": "汁",
+        "level": 35,
+        "component_subject_ids": [103, 15],
+        "amalgamation_subject_ids": [5902, 5903, 6045, 6046],
+        "meanings": ["Soup"],
+        "meaning_mnemonic": `A **r[tsunami]r** carries a **r[cross]r** into your **k[soup]k**. Hey tsunami, I was eating that soup!`
+    },
+    1598: {
+        "slug": "噌",
+        "level": 35,
+        "component_subject_ids": [16, 259],
+        "amalgamation_subject_ids": [5904, 6046],
+        "meanings": ["Boisterous"],
+        "meaning_mnemonic": `Your **r[mouth]r** is wearing a **r[mask]r** so people won't realize you're the one being so **k[boisterous]k**. You want to be loud and rowdy, but you don't want anyone to know it's you. If you cover your mouth with this mask, people won't know you're the one being so boisterous.`
+    },
+    1599: {
+        "slug": "炎",
+        "level": 35,
+        "component_subject_ids": [46],
+        "amalgamation_subject_ids": [5905, 5906, 6637, 7816],
+        "meanings": ["Flame", "Blaze"],
+        "meaning_mnemonic": `**r[Fire]r**, **r[fire]r**, **k[flame]k**! There’s flames everywhere!`
+    },
+    1600: {
+        "slug": "為",
+        "level": 35,
+        "component_subject_ids": [355],
+        "amalgamation_subject_ids": [5907, 5908],
+        "meanings": ["Sake"],
+        "meaning_mnemonic": `The **r[sake]r** radical and the **k[sake]k** kanji are exactly the same! Sweet.`
+    },
+    1601: {
+        "slug": "熊",
+        "level": 35,
+        "component_subject_ids": [287, 131],
+        "amalgamation_subject_ids": [5910, 5911, 8341, 8688],
+        "meanings": ["Bear"],
+        "meaning_mnemonic": `The **r[ability]r** to **r[boil]r** is one of the main abilities of a **k[bear]k**.`
+    },
+    1602: {
+        "slug": "獄",
+        "level": 35,
+        "component_subject_ids": [144, 117, 47],
+        "amalgamation_subject_ids": [5912, 5913, 5914, 5915, 5916, 6032],
+        "meanings": ["Prison"],
+        "meaning_mnemonic": `You have an **r[animal]r** and you **r[say]r** it’s a **r[dog]r** to prevent it from going to **k[prison]k**. Dogs are the only animals that don’t have to go to prison. Your animal is not a dog, but you say it is to prevent it from going to prison.`
+    },
+    1603: {
+        "slug": "酔",
+        "level": 35,
+        "component_subject_ids": [182, 11, 15],
+        "amalgamation_subject_ids": [5917, 5918, 6033, 6047, 6048, 7225],
+        "meanings": ["Drunk"],
+        "meaning_mnemonic": `You have an **r[alcohol]r** **r[nine]r** times stronger than any other drink in a bottle shaped like a **r[cross]r** and you drink it all and become **k[drunk]k**. You’re like, so drunk right now from all that alcohol. Nine times more drunk than ever before.`
+    },
+    1604: {
+        "slug": "酢",
+        "level": 35,
+        "component_subject_ids": [182, 122],
+        "amalgamation_subject_ids": [5919, 5920, 6037],
+        "meanings": ["Vinegar"],
+        "meaning_mnemonic": `To make **r[alcohol]r** the **r[key]r** is to ferment it. But, if you ferment it a certain way, it will become **k[vinegar]k**.`
+    },
+    1605: {
+        "slug": "鍋",
+        "level": 35,
+        "component_subject_ids": [118, 121],
+        "amalgamation_subject_ids": [5921, 6034],
+        "meanings": ["Pot"],
+        "meaning_mnemonic": `A **r[gold]r** man has one **r[mustache]r** above his lip and one **r[mustache]r** below his lip and keeps all his extra mustaches safely tucked away in a **k[pot]k**. This man is made of gold and has a lot of money. That’s how he can afford to groom two mustaches at the same time. If anything should happen to one, he has plenty of back up mustaches in his mustache storage pot.`
+    },
+    1606: {
+        "slug": "湖",
+        "level": 35,
+        "component_subject_ids": [103, 69, 43],
+        "amalgamation_subject_ids": [5922, 5923, 8639],
+        "meanings": ["Lake"],
+        "meaning_mnemonic": `The **r[tsunami]r**s during the **r[old]r** **r[moon]r**s (many moons ago) were responsible for the world's **k[lake]k**s.`
+    },
+    1607: {
+        "slug": "銅",
+        "level": 35,
+        "component_subject_ids": [118, 341],
+        "amalgamation_subject_ids": [5924, 5925, 5926],
+        "meanings": ["Copper"],
+        "meaning_mnemonic": `**r[Gold]r** is not the **r[same]r** as **k[copper]k**. They are two different metals. Gold is not the same as copper.`
+    },
+    1609: {
+        "slug": "油",
+        "level": 35,
+        "component_subject_ids": [103, 268],
+        "amalgamation_subject_ids": [5928, 5929, 5930, 5931, 5932, 5933, 6036, 6049, 7202, 8726],
+        "meanings": ["Oil"],
+        "meaning_mnemonic": `This **r[tsunami]r** is the **r[reason]r** we have so much **k[oil]k** now. The tsunami moved a bunch of earth out of the way, so now it’s really easy to dig for oil. Thanks tsunami!`
+    },
+    1610: {
+        "slug": "醤",
+        "level": 35,
+        "component_subject_ids": [8831, 182],
+        "amalgamation_subject_ids": [5933],
+        "meanings": ["Soy Sauce"],
+        "meaning_mnemonic": `The **r[commander]r**'s **r[alcohol]r** is really just **k[soy sauce]k**. When he goes out to drink with his troops and they all get drunk together, he manages to have fun and stay sober by drinking down a tasty, non-alcoholic pint of soy sauce.`
+    },
+    1611: {
+        "slug": "旧",
+        "level": 36,
+        "component_subject_ids": [8761, 22],
+        "amalgamation_subject_ids": [5952, 5953, 6888],
+        "meanings": ["Former"],
+        "meaning_mnemonic": `There’s a **r[stick]r** next to the **r[sun]r**, reflecting on its **k[former]k** glory. The stick used to be a great tree, and the stick thinks that if it stays by the sun long enough it might return to its former form as a towering tree.`
+    },
+    1612: {
+        "slug": "姓",
+        "level": 36,
+        "component_subject_ids": [19, 210],
+        "amalgamation_subject_ids": [5952, 5954],
+        "meanings": ["Family Name", "Surname"],
+        "meaning_mnemonic": `If there's a special **r[woman]r** in your **r[life]r**, she might eventually take your **k[family name]k** and make it her **k[surname]k** too. In Japan and other countries, tradition dictates that women change their last name when they get married and keep that name for the rest of their life. Their partner’s family name becomes their family name too.`
+    },
+    1613: {
+        "slug": "貿",
+        "level": 36,
+        "component_subject_ids": [140, 24, 94],
+        "amalgamation_subject_ids": [5955, 6139],
+        "meanings": ["Trade"],
+        "meaning_mnemonic": `You send your **r[private]r** **r[sword]r** man out with your **r[shellfish]r** so he can **k[trade]k** them. Shellfish were used as currency back in the olden days. And you aren't going to go out trading and dirty your own hands, no no. Trading your shellfish is the job for the private sword you hired!`
+    },
+    1614: {
+        "slug": "将",
+        "level": 36,
+        "component_subject_ids": [8831],
+        "amalgamation_subject_ids": [5959, 5960, 5961, 5962, 6239],
+        "meanings": ["Commander"],
+        "meaning_mnemonic": `The **r[commander]r** radical and the **k[commander]k** kanji are the same!`
+    },
+    1615: {
+        "slug": "盟",
+        "level": 36,
+        "component_subject_ids": [357, 84],
+        "amalgamation_subject_ids": [5963, 5964, 5965],
+        "meanings": ["Alliance"],
+        "meaning_mnemonic": `I’ll give you this **r[bright]r** **r[plate]r** if you agree to an **k[alliance]k** with me. I know you like things that are bright, and I know you like plates too. Therefore, this bright plate should be more than enough to convince you to enter into an alliance with me.`
+    },
+    1616: {
+        "slug": "遺",
+        "level": 36,
+        "component_subject_ids": [114, 358],
+        "amalgamation_subject_ids": [5966, 5967, 5968, 5969, 6107, 6140, 8207],
+        "meanings": ["Leave Behind"],
+        "meaning_mnemonic": `When you go on a **r[scooter]r**, anything **r[valuable]r**, you need to **k[leave behind]k**.`
+    },
+    1617: {
+        "slug": "伸",
+        "level": 36,
+        "component_subject_ids": [75, 190],
+        "amalgamation_subject_ids": [5970, 6229, 7664],
+        "meanings": ["Stretch"],
+        "meaning_mnemonic": `A **r[leader]r** who's **r[humble]r** will **k[stretch]k** in front of everyone. They'll show that they have to get up every hour or so and stretch just like the rest of us.`
+    },
+    1618: {
+        "slug": "債",
+        "level": 36,
+        "component_subject_ids": [75, 321],
+        "amalgamation_subject_ids": [5971, 5972, 5973],
+        "meanings": ["Debt"],
+        "meaning_mnemonic": `Your **r[leader]r** gets the **r[blame]r** if your company is in **k[debt]k**. They're the one who led you all into that debt, so they should get the blame too.`
+    },
+    1619: {
+        "slug": "及",
+        "level": 36,
+        "component_subject_ids": [193],
+        "amalgamation_subject_ids": [5974, 5975, 5976, 6230, 6231],
+        "meanings": ["Reach"],
+        "meaning_mnemonic": `**r[Escalator]r**s are used to **k[reach]k** things.`
+    },
+    1620: {
+        "slug": "奈",
+        "level": 36,
+        "component_subject_ids": [18, 207],
+        "amalgamation_subject_ids": [5977, 5978, 6141],
+        "meanings": ["Nara"],
+        "meaning_mnemonic": `There is a **r[big]r** **r[jackhammer]r** in **k[Nara]k**. That jackhammer is the biggest in all the land and is on display in Nara, Japan.`
+    },
+    1621: {
+        "slug": "幅",
+        "level": 36,
+        "component_subject_ids": [102, 8824],
+        "amalgamation_subject_ids": [5979, 7609],
+        "meanings": ["Width"],
+        "meaning_mnemonic": `You want to put this **r[towel]r** over this **r[scarecrow]r**, but you have to measure its **k[width]k** first. If the towel doesn't have a greater width than the scarecrow, some of it will be showing. Which you definitely don't want.`
+    },
+    1622: {
+        "slug": "廃",
+        "level": 36,
+        "component_subject_ids": [62, 359],
+        "amalgamation_subject_ids": [5980, 5981, 5982, 6142, 6500, 6508],
+        "meanings": ["Obsolete"],
+        "meaning_mnemonic": `This **r[canopy]r**, after your **r[departure]r**, will become **k[obsolete]k**. The canopy was here to protect you, but no one will need it once you're gone.`
+    },
+    1623: {
+        "slug": "甘",
+        "level": 36,
+        "component_subject_ids": [360],
+        "amalgamation_subject_ids": [5956, 5957, 5958, 6037],
+        "meanings": ["Sweet"],
+        "meaning_mnemonic": `The **r[sweet]r** radical and the **k[sweet]k** kanji are exactly the same! Double sweet.`
+    },
+    1624: {
+        "slug": "換",
+        "level": 36,
+        "component_subject_ids": [63, 14, 16, 28, 18],
+        "amalgamation_subject_ids": [5984, 5985, 6143, 6238],
+        "meanings": ["Exchange"],
+        "meaning_mnemonic": `In **r[prison]r**, when you have access to a **r[big]r** number of **r[fingers]r**, **r[mouth]r**s, and **r[legs]r** you can **k[exchange]k** them for things that are worth more to you. What are you gonna do with all these body parts in prison? You should exchange them for cigarettes and toilet alcohol.`
+    },
+    1625: {
+        "slug": "摘",
+        "level": 36,
+        "component_subject_ids": [63, 276],
+        "amalgamation_subject_ids": [5986, 5987, 5988, 6144],
+        "meanings": ["Pluck"],
+        "meaning_mnemonic": `Stick your **r[fingers]r** in your **r[mohawk]r** and **k[pluck]k** each hair out, one by one.`
+    },
+    1626: {
+        "slug": "核",
+        "level": 36,
+        "component_subject_ids": [23, 351],
+        "amalgamation_subject_ids": [5989, 5990, 5991, 6845],
+        "meanings": ["Nucleus"],
+        "meaning_mnemonic": `You take a **r[tree]r** and **r[slice]r** it until you reach its **k[nucleus]k**. To get to the nucleus of the tree you have to make many a slice, but it’s possible.`
+    },
+    1627: {
+        "slug": "沖",
+        "level": 36,
+        "component_subject_ids": [103, 49],
+        "amalgamation_subject_ids": [5992, 6145, 6355],
+        "meanings": ["Open Sea"],
+        "meaning_mnemonic": `There is a **r[tsunami]r** in the **r[middle]r** of the **k[open sea]k**. Luckily there are no ships around, so the tsunami in the middle of the open sea is not damaging to anyone.`
+    },
+    1628: {
+        "slug": "縄",
+        "level": 36,
+        "component_subject_ids": [86, 353],
+        "amalgamation_subject_ids": [5993, 5994, 6145, 6236, 6242, 6355],
+        "meanings": ["Rope"],
+        "meaning_mnemonic": `Someone **r[thread]r**ed a **r[turtle]r** into long skinny pieces, making a **k[rope]k**.`
+    },
+    1629: {
+        "slug": "津",
+        "level": 36,
+        "component_subject_ids": [103, 220],
+        "amalgamation_subject_ids": [5995],
+        "meanings": ["Harbor"],
+        "meaning_mnemonic": `There’s a huge **r[tsunami]r**, caused by a giant **r[brush]r**, fast approaching you and your **k[harbor]k**.`
+    },
+    1630: {
+        "slug": "献",
+        "level": 36,
+        "component_subject_ids": [361, 47],
+        "amalgamation_subject_ids": [5996, 5997, 6666, 9081],
+        "meanings": ["Offer"],
+        "meaning_mnemonic": `The **r[South]r** **r[Dog]r** gives you an **k[offer]k**. None of the other dogs in the North, East, or West offered you anything.`
+    },
+    1631: {
+        "slug": "療",
+        "level": 36,
+        "component_subject_ids": [187, 319],
+        "amalgamation_subject_ids": [5998, 5999],
+        "meanings": ["Heal"],
+        "meaning_mnemonic": `If someone is **r[sick]r** feed them **r[charcoal]r** to **k[heal]k** them. Okay, so maybe you shouldn't feed it directly to them, but charcoal has amazing water filtration powers. So put charcoal in their water and the water will heal them right up.`
+    },
+    1632: {
+        "slug": "継",
+        "level": 36,
+        "component_subject_ids": [86, 56, 98],
+        "amalgamation_subject_ids": [6000, 6001, 6002, 6240],
+        "meanings": ["Inherit"],
+        "meaning_mnemonic": `With a **r[thread]r**, a **r[lion]r** sews together all the **r[rice]r** he'll **k[inherit]k** from his parents one day. He's convinced his parents are going to try to keep some of his inheritance from him, so he's linking it all together so it can't go anywhere.`
+    },
+    1633: {
+        "slug": "維",
+        "level": 36,
+        "component_subject_ids": [86, 240],
+        "amalgamation_subject_ids": [6003, 6004, 6146, 6147, 8018],
+        "meanings": ["Maintain"],
+        "meaning_mnemonic": `You tie a piece of **r[thread]r** to your **r[turkey]r** in order to **k[maintain]k** proximity to it. The turkey likes to run away, so you tie a thread to it. This way you can hold the other end and maintain your turkey.`
+    },
+    1634: {
+        "slug": "舞",
+        "level": 36,
+        "component_subject_ids": [252, 429],
+        "amalgamation_subject_ids": [6005, 6006, 6007, 6008, 6148, 6149, 7663, 8429],
+        "meanings": ["Dance"],
+        "meaning_mnemonic": `The **r[nothing]r** **r[dance]r** is still a **k[dance]k**!`
+    },
+    1635: {
+        "slug": "伎",
+        "level": 36,
+        "component_subject_ids": [75, 81],
+        "amalgamation_subject_ids": [6007],
+        "meanings": ["Deed"],
+        "meaning_mnemonic": `The **r[leader]r** of your **r[branch]r** became the leader from doing **k[deed]k**s. You can't rise to the rank of branch leader if you don't perform a certain number of deeds! Most of them good, I hope.`
+    },
+    1636: {
+        "slug": "踏",
+        "level": 36,
+        "component_subject_ids": [95, 45, 22],
+        "amalgamation_subject_ids": [6008, 6009, 6149, 6232],
+        "meanings": ["Step"],
+        "meaning_mnemonic": `You soak each **r[foot]r** in **r[water]r** before going out in the **r[sun]r** to take your first **k[step]k**. Stepping on the ground when it's been baking in the hot sun can burn your feet, so you're careful to make them wet with water before stepping outside even once.`
+    },
+    1637: {
+        "slug": "般",
+        "level": 36,
+        "component_subject_ids": [149, 160],
+        "amalgamation_subject_ids": [6010, 6150, 6151],
+        "meanings": ["Generally", "General"],
+        "meaning_mnemonic": `A **r[boat]r** will have at least one **r[weapon]r**, **k[generally]k**.`
+    },
+    1638: {
+        "slug": "頼",
+        "level": 36,
+        "component_subject_ids": [219, 184],
+        "amalgamation_subject_ids": [6015, 6016, 6017, 6152, 6153, 6154],
+        "meanings": ["Trust"],
+        "meaning_mnemonic": `A **r[bundle]r** of **r[geoduck]r**s is something you can always **k[trust]k**.`
+    },
+    1639: {
+        "slug": "依",
+        "level": 36,
+        "component_subject_ids": [75, 320],
+        "amalgamation_subject_ids": [6017, 6018, 6154, 8727],
+        "meanings": ["Reliant", "Dependent"],
+        "meaning_mnemonic": `A **r[leader]r** has **r[clothes]r** that he is quite **k[reliant]k** on. The leader needs his clothes to make him look like a leader. The leader has become more reliant on his clothes than he is on his actual skills as a leader!`
+    },
+    1640: {
+        "slug": "鹿",
+        "level": 36,
+        "component_subject_ids": [62, 424, 161],
+        "amalgamation_subject_ids": [6019, 6020, 6021, 6155, 7778],
+        "meanings": ["Deer"],
+        "meaning_mnemonic": `A **r[canopy]r** and a **r[helicopter]r** are being **r[compare]r**d by a **k[deer]k**. The deer is standing very still (as deer do) and looking very slowly between the empty canopy and the helicopter sitting next to it.`
+    },
+    1641: {
+        "slug": "諾",
+        "level": 36,
+        "component_subject_ids": [117, 90, 362],
+        "amalgamation_subject_ids": [6022, 6023, 6024, 6025],
+        "meanings": ["Agreement"],
+        "meaning_mnemonic": `You **r[say]r** something and the **r[flowers]r** are **r[right]r** in **k[agreement]k**. The flowers see where you are coming from when you say what you say. You and the flowers are in complete agreement.`
+    },
+    1642: {
+        "slug": "牙",
+        "level": 36,
+        "component_subject_ids": [333],
+        "amalgamation_subject_ids": [6026, 6027],
+        "meanings": ["Fang", "Tusk"],
+        "meaning_mnemonic": `The **r[fang]r** radical and the **k[fang]k** kanji are exactly the same! Fantastic. Oh, also it means **k[tusk]k**. It means fang and tusk.`
+    },
+    1643: {
+        "slug": "跳",
+        "level": 37,
+        "component_subject_ids": [95, 363],
+        "amalgamation_subject_ids": [6050, 6241, 6242, 6327],
+        "meanings": ["Hop"],
+        "meaning_mnemonic": `Your **r[foot]r** heard an **r[omen]r** and now it's making you **k[hop]k** over things.`
+    },
+    1644: {
+        "slug": "昭",
+        "level": 37,
+        "component_subject_ids": [22, 331],
+        "amalgamation_subject_ids": [6051],
+        "meanings": ["Shining"],
+        "meaning_mnemonic": `The **r[sun]r** **r[call]r**s out to the earth by **k[shining]k** down on it.`
+    },
+    1645: {
+        "slug": "漁",
+        "level": 37,
+        "component_subject_ids": [103, 150],
+        "amalgamation_subject_ids": [6052, 6053, 6054],
+        "meanings": ["Fishing"],
+        "meaning_mnemonic": `A **r[tsunami]r** pushes all the **r[fish]r** closer to land, making for some easy **k[fishing]k**. The tsunami starts out in the middle of the ocean and pushes all the fish towards the coast where everyone does their fishing. With all the fish pushed closer to land and closer together, it’s very easy for people to go fishing in one spot and catch a lot of fish.`
+    },
+    1646: {
+        "slug": "償",
+        "level": 37,
+        "component_subject_ids": [75, 364],
+        "amalgamation_subject_ids": [6055, 6056, 7932, 8147],
+        "meanings": ["Reparation"],
+        "meaning_mnemonic": `The **r[leader]r** presents you with a **r[prize]r** as **k[reparation]k** for his past deeds. This leader wronged you in the past and wishes to make amends. Therefore the leader presents you with a reparation in the form of a glittering prize.`
+    },
+    1647: {
+        "slug": "刑",
+        "level": 37,
+        "component_subject_ids": [171, 128],
+        "amalgamation_subject_ids": [6057, 6058, 6059, 6060, 6061, 6062, 8605],
+        "meanings": ["Punish"],
+        "meaning_mnemonic": `Destroy a **r[lantern]r** with your **r[knife]r** and you'll be **k[punish]k**ed.`
+    },
+    1648: {
+        "slug": "募",
+        "level": 37,
+        "component_subject_ids": [356, 13],
+        "amalgamation_subject_ids": [6063, 6064, 6065, 6066, 6243, 6253],
+        "meanings": ["Recruit"],
+        "meaning_mnemonic": `A **r[greenhouse]r** is the newest **r[power]r** of the city you decided to **k[recruit]k**. You’re trying to recruit all the buildings in town and the greenhouse was the next on your list. It adds just a little bit of power to the town, but it's important nonetheless.`
+    },
+    1649: {
+        "slug": "執",
+        "level": 37,
+        "component_subject_ids": [260, 223],
+        "amalgamation_subject_ids": [6067, 6068, 6069, 8480],
+        "meanings": ["Tenacious"],
+        "meaning_mnemonic": `**r[Happiness]r** is a **r[circle]r** that's **k[tenacious]k**. In other words, we're all in this circle/cycle where we do whatever we can to grab onto happiness and hold it as tightly as we can.`
+    },
+    1650: {
+        "slug": "塁",
+        "level": 37,
+        "component_subject_ids": [51, 8788, 17],
+        "amalgamation_subject_ids": [6070, 6071, 6072, 6244],
+        "meanings": ["Base", "Baseball Base"],
+        "meaning_mnemonic": `There's an **r[explosion]r** in the **r[dirt]r** under a **r[rice paddy]r**, exposing the hidden **k[base]k** under there. A base from baseball! I guess this rice paddy was built on top of an old baseball field...`
+    },
+    1651: {
+        "slug": "崩",
+        "level": 37,
+        "component_subject_ids": [20, 43],
+        "amalgamation_subject_ids": [6073, 6074, 6245],
+        "meanings": ["Crumble"],
+        "meaning_mnemonic": `Below this **r[mountain]r**, a **r[moon]r** and another **r[moon]r** crash into each other and the entire thing **k[crumble]k**s to pieces.`
+    },
+    1652: {
+        "slug": "患",
+        "level": 37,
+        "component_subject_ids": [365, 65],
+        "amalgamation_subject_ids": [6075, 6076, 6077, 8121],
+        "meanings": ["Afflicted"],
+        "meaning_mnemonic": `A **r[skewer]r** to the **r[heart]r** has **k[afflicted]k** your health. You’ve been afflicted with a disease from the skewer to your heart. Your affliction is death. You’re dying.`
+    },
+    1653: {
+        "slug": "戻",
+        "level": 37,
+        "component_subject_ids": [73, 18],
+        "amalgamation_subject_ids": [6078, 6079, 6246, 6254, 6255],
+        "meanings": ["Return"],
+        "meaning_mnemonic": `This **r[door]r** is **r[big]r** and you need to **k[return]k** it to its rightful owner. This door is too big and important looking to not belong to someone. You need to find its owner and return it to them.`
+    },
+    1654: {
+        "slug": "抗",
+        "level": 37,
+        "component_subject_ids": [63, 8, 177],
+        "amalgamation_subject_ids": [6081, 6082, 6083, 6084],
+        "meanings": ["Confront"],
+        "meaning_mnemonic": `You take your **r[fingers]r** and slam a **r[lid]r** on the **r[table]r**. You make this big noise to **k[confront]k** the person in front of you. `
+    },
+    1655: {
+        "slug": "抵",
+        "level": 37,
+        "component_subject_ids": [63, 147, 1],
+        "amalgamation_subject_ids": [6084, 6085],
+        "meanings": ["Resist"],
+        "meaning_mnemonic": `Everyone from your **r[clan]r** puts their **r[fingers]r** in the **r[ground]r** as a way to **k[resist]k** their lords. Your clan is made of a bunch of peasants, but you aren't going to work the land for other people anymore. You're going to resist. This is a protest! Your fingers work for no one but yourselves from now on!`
+    },
+    1656: {
+        "slug": "旬",
+        "level": 37,
+        "component_subject_ids": [14, 22],
+        "amalgamation_subject_ids": [6086, 6087, 6088, 6089],
+        "meanings": ["In Season", "Time Of Month", "Season"],
+        "meaning_mnemonic": `Put the **r[sun]r** in **r[prison]r** and everything will always be **k[in season]k**. If the sun is in prison, the seasons can't change. Want to wear a giant weenie costume all year round? Put the sun in prison on Halloween. Now your weenie body is always in season because it's always the same **k[time of month]k**.`
+    },
+    1657: {
+        "slug": "湾",
+        "level": 37,
+        "component_subject_ids": [103, 92, 36],
+        "amalgamation_subject_ids": [6090, 6091],
+        "meanings": ["Gulf"],
+        "meaning_mnemonic": `A **r[tsunami]r** dug out a chunk of the land and now it looks like a big **r[red]r** **r[bow]r**. It's a **k[gulf]k** now!`
+    },
+    1658: {
+        "slug": "爆",
+        "level": 37,
+        "component_subject_ids": [46, 366],
+        "amalgamation_subject_ids": [6092, 6093, 6094, 6095, 6096, 6256, 6467],
+        "meanings": ["Explode"],
+        "meaning_mnemonic": `If you combine **r[fire]r** with **r[violence]r**, it will **k[explode]k**! A fire, once full of violence, will surely explode. The fire can’t handle all that violence so the fire just rumbles and shakes and then finally explodes. BOOM!`
+    },
+    1659: {
+        "slug": "弾",
+        "level": 37,
+        "component_subject_ids": [36, 199],
+        "amalgamation_subject_ids": [6093, 6097, 6098, 6099, 6247, 6256, 6330, 6629, 8596, 8689],
+        "meanings": ["Bullet"],
+        "meaning_mnemonic": `What's more **r[simple]r** than a **r[bow]r**? A **k[bullet]k**. Bullets just have to be shot out of a gun and somebody dies. Bows you have to load with an arrow and pull it back and aim, yuck. Bullets are the new bows, people.`
+    },
+    1660: {
+        "slug": "聴",
+        "level": 37,
+        "component_subject_ids": [88, 15, 163, 65],
+        "amalgamation_subject_ids": [6100, 6101, 6102, 6103],
+        "meanings": ["Listen"],
+        "meaning_mnemonic": `When your **r[ear]r** is **r[cross]r**ed with sound, it catches it like a **r[net]r**, and sends it to your **r[heart]r** for processing. Because you're using your heart to process this sound, it means you're giving it a proper **k[listen]k**.`
+    },
+    1661: {
+        "slug": "跡",
+        "level": 37,
+        "component_subject_ids": [95, 92],
+        "amalgamation_subject_ids": [6104, 6105, 6106, 6107, 6240, 6257, 7398],
+        "meanings": ["Traces"],
+        "meaning_mnemonic": `Your **r[foot]r** is a little **r[red]r** and you can see **k[traces]k** of ink streaked on it. Where did these traces come from?`
+    },
+    1662: {
+        "slug": "遣",
+        "level": 37,
+        "component_subject_ids": [114, 89, 8777],
+        "amalgamation_subject_ids": [6108, 6234, 6248, 6249, 6466],
+        "meanings": ["Dispatch"],
+        "meaning_mnemonic": `On the **r[scooter]r** is an **r[insect]r** and a **r[bear]r**. The bear immediately stomps the insect, squishing it flat. "My god, the insect is smashed. Someone call **k[dispatch]k**!"`
+    },
+    1663: {
+        "slug": "闘",
+        "level": 37,
+        "component_subject_ids": [214, 181, 74],
+        "amalgamation_subject_ids": [6109, 6110, 6111, 8369],
+        "meanings": ["Struggle"],
+        "meaning_mnemonic": `At this **r[gate]r** you're trying to get some **r[beans]r** through, but the **r[measurements]r** were off and you're starting to **k[struggle]k**. No matter how you push or pull these beans, they're just too big to get through the gate.`
+    },
+    1664: {
+        "slug": "陣",
+        "level": 37,
+        "component_subject_ids": [176, 93],
+        "amalgamation_subject_ids": [6112, 6113],
+        "meanings": ["Army Base"],
+        "meaning_mnemonic": `This **r[building]r** is full of **r[car]r**s because it's an **k[army base]k**. The cars (and tanks and planes) need to be ready to go at any moment just like the soldiers.`
+    },
+    1665: {
+        "slug": "香",
+        "level": 37,
+        "component_subject_ids": [135, 22],
+        "amalgamation_subject_ids": [6114, 6115, 6116, 6117, 6791, 7918],
+        "meanings": ["Fragrance"],
+        "meaning_mnemonic": `**r[Grain]r** left in the **r[sun]r** blossom and give off a wonderful **k[fragrance]k**. They smell fresh and delicious. There's nothing better than the fragrance of fresh, sun-kissed grain.`
+    },
+    1666: {
+        "slug": "兆",
+        "level": 37,
+        "component_subject_ids": [363],
+        "amalgamation_subject_ids": [6118, 6119],
+        "meanings": ["Omen"],
+        "meaning_mnemonic": `The **r[omen]r** radical and the **k[omen]k** kanji are the same!`
+    },
+    1667: {
+        "slug": "臨",
+        "level": 37,
+        "component_subject_ids": [323, 8762, 227],
+        "amalgamation_subject_ids": [6120, 6121, 6122],
+        "meanings": ["Look To"],
+        "meaning_mnemonic": `You give your **r[servant]r** a **r[gun]r** along with some other **r[products]r** to **k[look to]k**. You can’t look to them yourself since you are very busy. You allow your servant to look to your gun and the other products.`
+    },
+    1668: {
+        "slug": "削",
+        "level": 37,
+        "component_subject_ids": [8765, 43, 128],
+        "amalgamation_subject_ids": [6123, 6124, 6125, 6250],
+        "meanings": ["Whittle Down"],
+        "meaning_mnemonic": `A **r[triceratops]r** with a **r[moon]r** **r[knife]r** can **k[whittle down]k** anything.`
+    },
+    1669: {
+        "slug": "契",
+        "level": 37,
+        "component_subject_ids": [210, 24, 18],
+        "amalgamation_subject_ids": [6126, 6127],
+        "meanings": ["Pledge"],
+        "meaning_mnemonic": `The weight of **r[life]r** on your **r[sword]r** is **r[big]r** when you **k[pledge]k** to protect your city. That's the big, big weight of every single person's life in that city pressing down on you every time you take out that sword.`
+    },
+    1670: {
+        "slug": "恵",
+        "level": 37,
+        "component_subject_ids": [15, 51, 65],
+        "amalgamation_subject_ids": [6128, 6129],
+        "meanings": ["Favor"],
+        "meaning_mnemonic": `You carry a **r[cross]r** across a **r[rice paddy]r** with a **r[heart]r** on it to return a **k[favor]k** for your friend. The heart needs to be purified so that’s why you have it on the cross and your friend lives on a rice paddy farm so that’s why you’re running through that. The favor you are paying your friend back with is getting him this heart. He needs a new one and you’re providing it.`
+    },
+    1671: {
+        "slug": "抱",
+        "level": 37,
+        "component_subject_ids": [63, 395],
+        "amalgamation_subject_ids": [6130, 6793, 7890, 9062],
+        "meanings": ["Hug"],
+        "meaning_mnemonic": `Take your **r[fingers]r** and **r[wrap]r** them around another person. This is called a **k[hug]k**. Just make sure you include all the stuff attached to your fingers, like your hands and arms too, otherwise it's more of a squeeze, and we don't want to do that to people.`
+    },
+    1672: {
+        "slug": "掲",
+        "level": 37,
+        "component_subject_ids": [63, 22, 14, 57],
+        "amalgamation_subject_ids": [6131, 6132, 6133, 6251, 7511],
+        "meanings": ["Display"],
+        "meaning_mnemonic": `You're in **r[prison]r**, but you can use your **r[fingers]r** and a **r[spoon]r** in the light of the **r[sun]r** to **k[display]k** little moving pictures on your cell wall. It's like a shadow puppet display except you can only make a few characters with your limited hand tools.`
+    },
+    1673: {
+        "slug": "狙",
+        "level": 37,
+        "component_subject_ids": [144, 419],
+        "amalgamation_subject_ids": [6134, 6135, 6258],
+        "meanings": ["Aim"],
+        "meaning_mnemonic": `You see an **r[animal]r** wearing a **r[top hat]r** and decide to **k[aim]k** at it. The top hat is a perfect, giant target you use to take down this animal.`
+    },
+    1674: {
+        "slug": "葬",
+        "level": 37,
+        "component_subject_ids": [90, 132, 57, 106],
+        "amalgamation_subject_ids": [6136, 6137, 6138, 6354],
+        "meanings": ["Burial"],
+        "meaning_mnemonic": `You brought **r[flowers]r** to place on top of the place where a **r[yakuza]r** took a **r[spoon]r** and killed **r[twenty]r** people, and there is now a **k[burial]k** happening. You carefully toss the flowers in with the dirt and everything is buried together.`
+    },
+    1675: {
+        "slug": "需",
+        "level": 38,
+        "component_subject_ids": [119, 309],
+        "amalgamation_subject_ids": [6156, 6157],
+        "meanings": ["Demand"],
+        "meaning_mnemonic": `In the **r[rain]r** I take my **r[rake]r** and shake it, making a **k[demand]k** that the rain stop! I demand this rain stop right now! Don’t make me shake my rake more violently than I am currently shaking it!`
+    },
+    1676: {
+        "slug": "齢",
+        "level": 38,
+        "component_subject_ids": [372, 189],
+        "amalgamation_subject_ids": [6158, 6159, 6160],
+        "meanings": ["Age"],
+        "meaning_mnemonic": `You get **r[tooth]r** **r[orders]r**. You get these tooth orders various times in your life, depending on your **k[age]k**.`
+    },
+    1677: {
+        "slug": "宜",
+        "level": 38,
+        "component_subject_ids": [78, 419],
+        "amalgamation_subject_ids": [6161, 6338, 6339],
+        "meanings": ["Best Regards"],
+        "meaning_mnemonic": `By showing the **r[roof]r** of your **r[top hat]r** you send your **k[best regards]k**.`
+    },
+    1678: {
+        "slug": "繰",
+        "level": 38,
+        "component_subject_ids": [86, 8830],
+        "amalgamation_subject_ids": [6162, 6340],
+        "meanings": ["Spin"],
+        "meaning_mnemonic": `You have **r[thread]r** and some **r[syrup]r** and you need to **k[spin]k** them together. Drip the syrup onto the thread and spin it around and around over your head.`
+    },
+    1679: {
+        "slug": "避",
+        "level": 38,
+        "component_subject_ids": [114, 367],
+        "amalgamation_subject_ids": [6163, 6164, 6165, 6341],
+        "meanings": ["Dodge", "Avoid"],
+        "meaning_mnemonic": `You're on a **r[scooter]r** and suddenly someone throws a **r[hot pepper]r** at you and you have to **k[dodge]k** it.`
+    },
+    1680: {
+        "slug": "妊",
+        "level": 38,
+        "component_subject_ids": [19, 48],
+        "amalgamation_subject_ids": [6165, 6166, 6167],
+        "meanings": ["Pregnant"],
+        "meaning_mnemonic": `A **r[woman]r** sleeps with the **r[king]r** and becomes **k[pregnant]k**. Only the king wasn’t human and now the woman is pregnant with a hybrid alien baby!`
+    },
+    1681: {
+        "slug": "娠",
+        "level": 38,
+        "component_subject_ids": [19, 183],
+        "amalgamation_subject_ids": [6166],
+        "meanings": ["Pregnant"],
+        "meaning_mnemonic": `A **r[woman]r** who has a **r[landslide]r** getting ready inside her is **k[pregnant]k**. And that baby is gonna come out like a landslide.`
+    },
+    1682: {
+        "slug": "致",
+        "level": 38,
+        "component_subject_ids": [274, 60],
+        "amalgamation_subject_ids": [6168, 6169, 6170, 6451, 8989],
+        "meanings": ["Do"],
+        "meaning_mnemonic": `A **r[mole]r** in **r[winter]r** will **k[do]k** whatever you ask, if you know how to ask it.`
+    },
+    1683: {
+        "slug": "刊",
+        "level": 38,
+        "component_subject_ids": [61, 128],
+        "amalgamation_subject_ids": [6171, 6172, 6173, 6174, 6175],
+        "meanings": ["Edition"],
+        "meaning_mnemonic": `You got your copy of "The **r[Dry]r** **r[Knife]r**." It's the newest **k[edition]k** of the magazine you love on keeping your knives dry.`
+    },
+    1684: {
+        "slug": "奏",
+        "level": 38,
+        "component_subject_ids": [8779, 40],
+        "amalgamation_subject_ids": [6176, 6177],
+        "meanings": ["Play Music"],
+        "meaning_mnemonic": `When it's **r[spring]r** in **r[heaven]r** they **k[play music]k**. To your mortal, human ears it sounds more like snow melting, birds chirping, and plants waking up.`
+    },
+    1685: {
+        "slug": "伴",
+        "level": 38,
+        "component_subject_ids": [75, 305],
+        "amalgamation_subject_ids": [6178, 6179],
+        "meanings": ["Accompany"],
+        "meaning_mnemonic": `A **r[leader]r** asks **r[half]r** of his men to **k[accompany]k** him on a secret mission. The leader’s mission is volunteer only, so it’s impressive that he got half of his men to accompany him.`
+    },
+    1686: {
+        "slug": "併",
+        "level": 38,
+        "component_subject_ids": [75, 8767, 171],
+        "amalgamation_subject_ids": [6180, 6181],
+        "meanings": ["Join"],
+        "meaning_mnemonic": `A **r[leader]r** with **r[horns]r** takes a **r[lantern]r** and searches for people to **k[join]k** him. He needs more people to join his cause so he can get his horns removed. He’s embarrassed of them which is why he only travels at night, hence the lantern.`
+    },
+    1687: {
+        "slug": "傾",
+        "level": 38,
+        "component_subject_ids": [311, 184],
+        "amalgamation_subject_ids": [6182, 6183, 6342],
+        "meanings": ["Lean"],
+        "meaning_mnemonic": `You **r[change]r** this **r[geoduck]r** because you want it to **k[lean]k**. Right now it's standing up straight, but you want it to lean to one side instead. `
+    },
+    1688: {
+        "slug": "却",
+        "level": 38,
+        "component_subject_ids": [244, 145],
+        "amalgamation_subject_ids": [6184, 6185],
+        "meanings": ["Contrary"],
+        "meaning_mnemonic": `**r[Past]r** **r[stamp]r**s usually depict images **k[contrary]k** to current views.`
+    },
+    1689: {
+        "slug": "奥",
+        "level": 38,
+        "component_subject_ids": [3, 29, 98, 18],
+        "amalgamation_subject_ids": [6186, 6187, 6343, 7610, 8729],
+        "meanings": ["Interior"],
+        "meaning_mnemonic": `If there’s a **r[drop]r** on your **r[head]r** and the **r[rice]r** is **r[big]r**, you know you’re in the **k[interior]k**. And by interior, I mean you’re actually inside someone. The rice is big because you’ve shrunk to a tiny size and are inside someone’s stomach. The drop on your head is actually digestive fluid.`
+    },
+    1690: {
+        "slug": "慮",
+        "level": 38,
+        "component_subject_ids": [254, 368],
+        "amalgamation_subject_ids": [6188, 6189, 6190, 6344, 8205],
+        "meanings": ["Consider"],
+        "meaning_mnemonic": `A **r[tiger]r** needs to **r[think]r** and **k[consider]k** its actions before it attacks. Tigers are smart hunters, so they need to consider all options and really think through a situation.`
+    },
+    1691: {
+        "slug": "懸",
+        "level": 38,
+        "component_subject_ids": [369, 329, 65],
+        "amalgamation_subject_ids": [6191, 6192, 6345, 6346],
+        "meanings": ["Suspend"],
+        "meaning_mnemonic": `In your **r[prefecture]r**, you come from a long **r[lineage]r** of people who share one **r[heart]r**. When the heart is passed on to the next in line, it flies out of their body, and **k[suspend]k**s itself in the sky, for you to take.`
+    },
+    1692: {
+        "slug": "房",
+        "level": 38,
+        "component_subject_ids": [73, 66],
+        "amalgamation_subject_ids": [6193, 6194, 6195, 8730],
+        "meanings": ["Cluster"],
+        "meaning_mnemonic": `The **r[door]r** in that **r[direction]r** is among a **k[cluster]k** of doors. You run in the direction of the cluster and one door stands out to you. You enter it.`
+    },
+    1693: {
+        "slug": "扱",
+        "level": 38,
+        "component_subject_ids": [63, 193],
+        "amalgamation_subject_ids": [6196, 6347, 6348],
+        "meanings": ["Handle"],
+        "meaning_mnemonic": `Where do you put your **r[fingers]r** when you're on an **r[escalator]r**? On the **k[handle]k**! Okay, so maybe it's not a handle and more of a railing, but for the sake of this kanji, picture a handle instead.`
+    },
+    1694: {
+        "slug": "抑",
+        "level": 38,
+        "component_subject_ids": [63, 340],
+        "amalgamation_subject_ids": [6197, 6198, 6199],
+        "meanings": ["Suppress"],
+        "meaning_mnemonic": `Use your **r[fingers]r** on the **r[cat pirate]r** to **k[suppress]k** him. The cat pirate was attacking you, so you took your fingers and pet his head and scratched his chin. Now he's calm and suppressed. He doesn't even remember why he was attacking you.`
+    },
+    1695: {
+        "slug": "択",
+        "level": 38,
+        "component_subject_ids": [63, 215],
+        "amalgamation_subject_ids": [6200, 6349],
+        "meanings": ["Select"],
+        "meaning_mnemonic": `Shove your **r[fingers]r** into a bowl of **r[shrimp]r** to **k[select]k** the best one. You know your shrimp and you know them well, so you won't settle for anything less than the best. Put your whole arm in there and feel around until you can select the one you want most.`
+    },
+    1696: {
+        "slug": "描",
+        "level": 38,
+        "component_subject_ids": [63, 90, 51],
+        "amalgamation_subject_ids": [6201, 6202, 6203],
+        "meanings": ["Draw"],
+        "meaning_mnemonic": `When you see **r[flowers]r** in a **r[rice paddy]r** you can't help but use your **r[fingers]r** to **k[draw]k** them. Have you ever seen rice paddy flowers? They're beautiful. And if you can draw them you can capture that beauty and show it to everyone.`
+    },
+    1697: {
+        "slug": "盤",
+        "level": 38,
+        "component_subject_ids": [149, 160, 84],
+        "amalgamation_subject_ids": [6204, 6205, 6206, 7010, 8393, 8397],
+        "meanings": ["Tray", "Platter", "Board"],
+        "meaning_mnemonic": `Your **r[boat]r** holds your **r[weapon]r** like a **r[plate]r**. So in a way, it's just a **k[tray]k** for your weapon.`
+    },
+    1698: {
+        "slug": "称",
+        "level": 38,
+        "component_subject_ids": [135, 8762, 35],
+        "amalgamation_subject_ids": [6207, 6208, 6209, 6350, 7067],
+        "meanings": ["Title"],
+        "meaning_mnemonic": `You take a **r[grain]r** and fashion it into a **r[gun]r** that is **r[small]r**, earning you the **k[title]k** of Small Arms Dealer (or SAD). Congratulations!`
+    },
+    1699: {
+        "slug": "緒",
+        "level": 38,
+        "component_subject_ids": [86, 203],
+        "amalgamation_subject_ids": [6210, 6211, 6351, 9068, 9069],
+        "meanings": ["Together"],
+        "meaning_mnemonic": `You **r[thread]r** **r[someone]r** **k[together]k** with thread. Someone is falling apart so you use thread to put them back together.`
+    },
+    1700: {
+        "slug": "緩",
+        "level": 38,
+        "component_subject_ids": [86, 286],
+        "amalgamation_subject_ids": [6212, 6213, 6214, 6352, 7886],
+        "meanings": ["Loose"],
+        "meaning_mnemonic": `The **r[thread]r** on this **r[football]r** is **k[loose]k**. We need to tighten up the loose thread on this football or it’s gonna fall apart while we’re playing.`
+    },
+    1701: {
+        "slug": "託",
+        "level": 38,
+        "component_subject_ids": [117, 5, 4],
+        "amalgamation_subject_ids": [6215, 6216, 6217, 6218, 8442],
+        "meanings": ["Consign"],
+        "meaning_mnemonic": `They **r[say]r** if you put things on a **r[slide]r**, **r[seven]r** things to be exact, that’s the best way to **k[consign]k** goods to someone. They say if you consign seven things to someone, you should send them over on a slide. Slide ‘em on down. All seven of ‘em.`
+    },
+    1702: {
+        "slug": "賄",
+        "level": 38,
+        "component_subject_ids": [94, 371],
+        "amalgamation_subject_ids": [6220, 6221, 6222, 6356],
+        "meanings": ["Bribe"],
+        "meaning_mnemonic": `The more **r[shellfish]r** you **r[have]r**, the more you can **k[bribe]k** people. That worked in the olden days when shells were money, and today too if the people you want to bribe really like seafood.`
+    },
+    1703: {
+        "slug": "賂",
+        "level": 38,
+        "component_subject_ids": [94, 180],
+        "amalgamation_subject_ids": [6221],
+        "meanings": ["Bribe"],
+        "meaning_mnemonic": `Someone is offering you a **r[shellfish]r** in exchange for a **r[kiss]r**. This is a **k[bribe]k**! You don't want to kiss them, but that shellfish sure looks tasty.`
+    },
+    1704: {
+        "slug": "贈",
+        "level": 38,
+        "component_subject_ids": [94, 259],
+        "amalgamation_subject_ids": [6219, 6220, 6353, 6356, 8084],
+        "meanings": ["Presents"],
+        "meaning_mnemonic": `You put on the **r[shellfish]r** **r[mask]r** once per year and break into people's beach houses, leaving behind **k[presents]k**.`
+    },
+    1705: {
+        "slug": "逃",
+        "level": 38,
+        "component_subject_ids": [114, 363],
+        "amalgamation_subject_ids": [6223, 6224, 6357, 6358, 6935, 6940, 6941, 7558],
+        "meanings": ["Escape"],
+        "meaning_mnemonic": `You use your **r[scooter]r** when the **r[omen]r** comes so that you can **k[escape]k**.`
+    },
+    1706: {
+        "slug": "還",
+        "level": 38,
+        "component_subject_ids": [114, 163, 8784],
+        "amalgamation_subject_ids": [6225, 6226, 6227],
+        "meanings": ["Send Back"],
+        "meaning_mnemonic": `There's a **r[scooter]r** coming toward you with a **r[net]r** trapping a weird **r[zombie]r** on it. You don't want this here, so you decide to **k[send back]k** the zombie. (It's a weird zombie because it has the ground on top of its head instead of dirt!)`
+    },
+    1707: {
+        "slug": "超",
+        "level": 36,
+        "component_subject_ids": [124, 331],
+        "amalgamation_subject_ids": [6011, 6012, 6014, 6233],
+        "meanings": ["Ultra", "Super"],
+        "meaning_mnemonic": `You **r[run]r** and **r[call]r** out to people at the same time because you're **k[super]k** **k[ultra]k** excited right now. You have a super crazy amount of energy you need to get out with your running and calling.`
+    },
+    1708: {
+        "slug": "邦",
+        "level": 39,
+        "component_subject_ids": [377, 5, 176],
+        "amalgamation_subject_ids": [6259, 6260, 6261],
+        "meanings": ["Home Country"],
+        "meaning_mnemonic": `There are **r[three]r** **r[slide]r**s sticking out of this **r[building]r** that lead to your **k[home country]k**. The rest of the slides go to other places, but three are yours. `
+    },
+    1709: {
+        "slug": "鈴",
+        "level": 39,
+        "component_subject_ids": [118, 189],
+        "amalgamation_subject_ids": [6262, 6263],
+        "meanings": ["Buzzer", "Small Bell"],
+        "meaning_mnemonic": `You take **r[gold]r** in exchange for executing **r[orders]r** to construct a **k[buzzer]k**. You are a **k[small bell]k** maker and someone orders you to make one into a buzzer in exchange for some gold. This is how you make a living.`
+    },
+    1710: {
+        "slug": "阜",
+        "level": 39,
+        "component_subject_ids": [3, 8777, 15],
+        "amalgamation_subject_ids": [6264, 6459],
+        "meanings": ["Mound"],
+        "meaning_mnemonic": `A **r[drop]r** of rain falls on a **r[bear]r** leaning up against a **r[cross]r** stuck into a **k[mound]k**. The drop wakes the bear up and he rolls down off the mound. After the bear rights himself, he assumes that the cross pushed him off the mound so he charges into the cross atop the mound and knocks it over.`
+    },
+    1711: {
+        "slug": "岐",
+        "level": 39,
+        "component_subject_ids": [20, 81],
+        "amalgamation_subject_ids": [6264, 6459],
+        "meanings": ["Branch Off"],
+        "meaning_mnemonic": `A **r[mountain]r** **r[branch]r** will **k[branch off]k** from the rest.`
+    },
+    1712: {
+        "slug": "隆",
+        "level": 39,
+        "component_subject_ids": [176, 60, 210],
+        "amalgamation_subject_ids": [6265, 6266],
+        "meanings": ["Prosperity"],
+        "meaning_mnemonic": `A **r[building]r** in **r[winter]r** will allow **r[life]r** to have **k[prosperity]k**. Before we had buildings it was impossible to have any prosperity in winter because everything was cold and most of us died. `
+    },
+    1713: {
+        "slug": "雇",
+        "level": 39,
+        "component_subject_ids": [240, 73],
+        "amalgamation_subject_ids": [6267, 6268, 6269, 6460],
+        "meanings": ["Employ"],
+        "meaning_mnemonic": `Whenever a **r[turkey]r** comes in the **r[door]r**, you **k[employ]k** them.`
+    },
+    1714: {
+        "slug": "控",
+        "level": 39,
+        "component_subject_ids": [63, 370],
+        "amalgamation_subject_ids": [6454, 8690],
+        "meanings": ["Abstain"],
+        "meaning_mnemonic": `Raise your **r[fingers]r** to the **r[sky]r** to symbolize that you **k[abstain]k** from something. If someone offers you fur coats, raise your fingers to abstain. If someone tries to get you to bully someone, raise your fingers to abstain.`
+    },
+    1715: {
+        "slug": "壁",
+        "level": 39,
+        "component_subject_ids": [17, 367],
+        "amalgamation_subject_ids": [6270, 6271],
+        "meanings": ["Wall"],
+        "meaning_mnemonic": `There are **r[hot peppers]r** hiding in this **r[dirt]r**, so you build a **k[wall]k** to protect yourself from them. Have you ever stepped on a really hot pepper? The oils bleed into your shoes and burn your feet! You don't want anyone stepping on these so you wall them up.`
+    },
+    1716: {
+        "slug": "棋",
+        "level": 39,
+        "component_subject_ids": [23, 205],
+        "amalgamation_subject_ids": [6239, 6272, 6273, 8494],
+        "meanings": ["Chess Piece"],
+        "meaning_mnemonic": `A **r[tree]r** **r[crab]r** breaks into your games cabinet and steals a **k[chess piece]k**. He’s trying to impress all his tree crabs back home by showing how not afraid of humans he is. Plus the rest of the tree crabs need one last chess piece to complete their set.`
+    },
+    1717: {
+        "slug": "渋",
+        "level": 39,
+        "component_subject_ids": [103, 44, 8788],
+        "amalgamation_subject_ids": [6252, 6274, 6468, 8731],
+        "meanings": ["Bitter", "Astringent", "Reluctant"],
+        "meaning_mnemonic": `There's a **r[tsunami]r** coming and you can't **r[stop]r** the **r[explosion]r** of **k[bitter]k**ness in your mouth. You're scared. Your mouth tastes bitter and **k[astringent]k**.
+        
+        This word also means **k[reluctant]k**, because wouldn't you be reluctant to let a tsunami come wash you away with that bitter explosion of flavor in your mouth?`
+    },
+    1718: {
+        "slug": "片",
+        "level": 39,
+        "component_subject_ids": [162],
+        "amalgamation_subject_ids": [6275, 6276, 6277, 6278, 6279, 6461, 7853],
+        "meanings": ["One Sided", "Fragment"],
+        "meaning_mnemonic": `The **r[one sided]r** radical and the **k[one sided]k** kanji are the same!`
+    },
+    1719: {
+        "slug": "群",
+        "level": 39,
+        "component_subject_ids": [373, 136],
+        "amalgamation_subject_ids": [6280, 6281, 6282, 6455, 6944],
+        "meanings": ["Flock"],
+        "meaning_mnemonic": `Your **r[buddy]r** the **r[sheep]r** is part of a **k[flock]k**. A flock of sheep. Your sheep buddy is a member of a flock.`
+    },
+    1720: {
+        "slug": "仙",
+        "level": 39,
+        "component_subject_ids": [75, 20],
+        "amalgamation_subject_ids": [6283, 6284, 6285],
+        "meanings": ["Hermit"],
+        "meaning_mnemonic": `A **r[leader]r** who lives in a **r[mountain]r** is a **k[hermit]k**. The only thing this hermit is a leader of now is mountain goats. This hermit dislikes people so that’s why he lives in a mountain now.`
+    },
+    1721: {
+        "slug": "充",
+        "level": 39,
+        "component_subject_ids": [285],
+        "amalgamation_subject_ids": [6286, 6287, 6288, 6469],
+        "meanings": ["Allocate"],
+        "meaning_mnemonic": `The **r[allocate]r** radical and the **k[allocate]k** kanji are the same!`
+    },
+    1722: {
+        "slug": "免",
+        "level": 39,
+        "component_subject_ids": [208],
+        "amalgamation_subject_ids": [6289, 6290, 6291, 6292, 6293, 6294, 6462, 7431, 8500, 8644],
+        "meanings": ["Excuse"],
+        "meaning_mnemonic": `The **r[excuse]r** radical and the **k[excuse]k** kanji are exactly the same! Dandy!`
+    },
+    1724: {
+        "slug": "圏",
+        "level": 39,
+        "component_subject_ids": [16, 414],
+        "amalgamation_subject_ids": [6298, 6299, 6300],
+        "meanings": ["Range", "Sphere"],
+        "meaning_mnemonic": `Your **r[mouth]r** contains a **r[scroll]r**, which you pull out and look at. On the scroll is a map, showing the **k[range]k** of the **k[sphere]k** of your mouth.`
+    },
+    1726: {
+        "slug": "埼",
+        "level": 39,
+        "component_subject_ids": [17, 326],
+        "amalgamation_subject_ids": [6302],
+        "meanings": ["Cape"],
+        "meaning_mnemonic": `There is something **r[odd]r** sticking out of the **r[dirt]r**. Oh wait, it's just the **k[cape]k** jutting out into the water below. Phew.`
+    },
+    1727: {
+        "slug": "奪",
+        "level": 39,
+        "component_subject_ids": [18, 240, 74],
+        "amalgamation_subject_ids": [6303],
+        "meanings": ["Rob"],
+        "meaning_mnemonic": `A **r[big]r** **r[turkey]r** has to **r[measure]r** a safe before he can **k[rob]k** it. If the safe is too big it won’t fit in his getaway van and the robbery will have been a failure. So before the turkey robs the place he needs to measure the safe.`
+    },
+    1728: {
+        "slug": "御",
+        "level": 39,
+        "component_subject_ids": [99, 8762, 229, 145],
+        "amalgamation_subject_ids": [6293, 6304, 6305, 6458, 6462, 8811],
+        "meanings": ["Honorable"],
+        "meaning_mnemonic": `You **r[loiter]r** around with a **r[gun]r** while your friend tries to **r[correct]r** a **r[stamp]r** to make it more **k[honorable]k**. Someone messed with the stamp machine and your friend is trying to correct the error. You’re loitering around with a gun since you’re his bodyguard. To have an error on the stamp would not be honorable, so that’s why your friend is going to correct it.`
+    },
+    1729: {
+        "slug": "慎",
+        "level": 39,
+        "component_subject_ids": [232, 413],
+        "amalgamation_subject_ids": [6306, 6307],
+        "meanings": ["Humility"],
+        "meaning_mnemonic": `When someone wants to view the **r[reality]r** of your **r[soul]r**, show it with **k[humility]k**. Because the reality is... our souls are all a little dirty. And we haven't been the best versions we could be. So make sure when you show all of yourself you do so with some humility.`
+    },
+    1730: {
+        "slug": "拒",
+        "level": 39,
+        "component_subject_ids": [63, 314],
+        "amalgamation_subject_ids": [6308, 6309],
+        "meanings": ["Refuse", "Refusal"],
+        "meaning_mnemonic": `Show your **r[fingers]r** to a **r[giant]r** to show you **k[refuse]k** him. Giants are very big. So big that when you talk they can't really hear what you're saying. Hold up all your fingers so that he can see what you mean.`
+    },
+    1731: {
+        "slug": "枠",
+        "level": 39,
+        "component_subject_ids": [23, 11, 15],
+        "amalgamation_subject_ids": [6310, 6311],
+        "meanings": ["Frame"],
+        "meaning_mnemonic": `In a **r[tree]r** on **r[nine]r** branches are some **r[cross]r** **k[frame]k**s. Each cross frame is hung on the branches of the tree. You don’t know who decided to hang the frames there, but you think it might be some new wave art or something. Actually you need a frame, and there are already nine up there, so you decide to take one.`
+    },
+    1732: {
+        "slug": "甲",
+        "level": 39,
+        "component_subject_ids": [330],
+        "amalgamation_subject_ids": [6312, 6313, 6470, 6471, 6472, 6473, 8343],
+        "meanings": ["Turtle Shell", "A"],
+        "meaning_mnemonic": `The **r[turtle shell]r** radical and the **k[turtle shell]k** kanji are exactly the same! Oddly, this can also be used to talk about the first item in a list, so to mean **k[A]k** out of A through D, for example.`
+    },
+    1733: {
+        "slug": "斐",
+        "level": 39,
+        "component_subject_ids": [209, 42],
+        "amalgamation_subject_ids": [6313, 6470, 6471, 6473],
+        "meanings": ["Patterned"],
+        "meaning_mnemonic": `**r[Criminal]r** **r[writing]r** is always **k[patterned]k**. That is to say, there is a pattern to it, lots of ARGS and GONNA STAB YAs, but it's also patterned beautifully, with a collage of cut out letters.`
+    },
+    1734: {
+        "slug": "祉",
+        "level": 39,
+        "component_subject_ids": [80, 44],
+        "amalgamation_subject_ids": [6314, 6463],
+        "meanings": ["Welfare"],
+        "meaning_mnemonic": `When a **r[spirit]r** **r[stop]r**s protecting you, you'll have to go on **k[welfare]k**. If you can't rely on your family spirit, you'll have to have the help and protection come from somewhere else.`
+    },
+    1735: {
+        "slug": "稲",
+        "level": 39,
+        "component_subject_ids": [135, 8772, 374],
+        "amalgamation_subject_ids": [6315, 6316, 6317, 7026],
+        "meanings": ["Rice Plant"],
+        "meaning_mnemonic": `The **r[grain]r** stuck in your **r[cleat]r** had a **r[former]r** life. In that life it was a **k[rice plant]k**. It was a happy little rice plant, minding its own business, when it was yanked up and cleaned up and put in a bag for people to buy and cook and eat. That was so long ago. Now it's just a sad grain in the bottom of your shoe.`
+    },
+    1736: {
+        "slug": "譲",
+        "level": 39,
+        "component_subject_ids": [117, 430],
+        "amalgamation_subject_ids": [6318, 6319, 6320],
+        "meanings": ["Defer"],
+        "meaning_mnemonic": `When you **r[say]r** "**r[Nurse]r**!" you're probably asking to **k[defer]k** to them in some way, shape, or form. `
+    },
+    1737: {
+        "slug": "謙",
+        "level": 39,
+        "component_subject_ids": [117, 271],
+        "amalgamation_subject_ids": [6320, 6321, 6464],
+        "meanings": ["Modesty"],
+        "meaning_mnemonic": `They **r[say]r** **r[Mona Lisa]r** had more **k[modesty]k** than any other woman at the time.`
+    },
+    1738: {
+        "slug": "躍",
+        "level": 39,
+        "component_subject_ids": [95, 105, 240],
+        "amalgamation_subject_ids": [6322, 6323, 6324, 6325, 6326, 6327, 6474, 7094],
+        "meanings": ["Leap"],
+        "meaning_mnemonic": `You use your **r[foot]r** to kick **r[Wolverine]r** in the face so a **r[turkey]r** can **k[leap]k** to freedom. This turkey is trying to escape from Wolverine by leaping over a fence. Wolverine doesn’t want the turkey to escape, but you kick him with your foot and the turkey is then free to leap to safety.`
+    },
+    1739: {
+        "slug": "銃",
+        "level": 39,
+        "component_subject_ids": [118, 285],
+        "amalgamation_subject_ids": [6328, 6329, 6330, 6331, 6465],
+        "meanings": ["Gun"],
+        "meaning_mnemonic": `You need to **r[allocate]r** enough **r[gold]r** to buy a **k[gun]k**. Guns are weapons of the old world, so you can't just buy them with paper money. Guns have to be bought with gold coins and slabs and bricks.`
+    },
+    1740: {
+        "slug": "項",
+        "level": 39,
+        "component_subject_ids": [25, 184],
+        "amalgamation_subject_ids": [6332, 6333, 6334],
+        "meanings": ["Paragraph"],
+        "meaning_mnemonic": `**r[Construction]r** for **r[geoduck]r**s doesn't require as much paperwork as construction for humans, but you still need to write at least a **k[paragraph]k** to explain what you're doing.`
+    },
+    1741: {
+        "slug": "鋼",
+        "level": 39,
+        "component_subject_ids": [118, 376],
+        "amalgamation_subject_ids": [6335, 6336, 6337],
+        "meanings": ["Steel"],
+        "meaning_mnemonic": `You come across a **r[gold]r** **r[hill]r**. You think you hit it big! You start digging, only to find out that it is merely a paper-thin layer of gold covering a hill of **k[steel]k**.`
+    },
+    1742: {
+        "slug": "顧",
+        "level": 40,
+        "component_subject_ids": [378, 184],
+        "amalgamation_subject_ids": [6359, 6360, 6361],
+        "meanings": ["Review"],
+        "meaning_mnemonic": `You **r[employ]r** a **r[geoduck]r** to **k[review]k** all your work. `
+    },
+    1743: {
+        "slug": "駐",
+        "level": 40,
+        "component_subject_ids": [165, 154],
+        "amalgamation_subject_ids": [6362, 6363, 6364, 6365, 8529],
+        "meanings": ["Resident"],
+        "meaning_mnemonic": `A **r[horse]r** is your **r[master]r** and you are merely a **k[resident]k** in his house. How did this horse become your master? Those aren’t questions a resident should ask! Know your place, resident!`
+    },
+    1744: {
+        "slug": "駆",
+        "level": 40,
+        "component_subject_ids": [165, 322],
+        "amalgamation_subject_ids": [6366, 6560, 6561, 6562],
+        "meanings": ["Gallop"],
+        "meaning_mnemonic": `A **r[horse]r** goes to his favorite **r[district]r** to **k[gallop]k** around. This district has lots of cool buildings and lights to look at, so this horse loves to gallop around there.`
+    },
+    1745: {
+        "slug": "柱",
+        "level": 40,
+        "component_subject_ids": [23, 154],
+        "amalgamation_subject_ids": [6367, 6368, 8614],
+        "meanings": ["Pillar"],
+        "meaning_mnemonic": `This **r[tree]r** is the **r[master]r** of a **k[pillar]k**. The pillar is subservient to its tree master because the tree is so great and awesome and big and cool and stuff. The pillar has great respect for its tree master.`
+    },
+    1746: {
+        "slug": "唱",
+        "level": 40,
+        "component_subject_ids": [16, 22],
+        "amalgamation_subject_ids": [6369, 6370, 6371, 6372, 6373, 6374],
+        "meanings": ["Chant"],
+        "meaning_mnemonic": `It's time to do the **r[mouth]r** **r[sun]r** **r[sun]r** **k[chant]k**. That's when you use your mouth to chant sun sun, sun sun, sun sun, over and over until the sun appears.`
+    },
+    1747: {
+        "slug": "孝",
+        "level": 40,
+        "component_subject_ids": [418],
+        "amalgamation_subject_ids": [6375, 6376, 6563, 6564, 6934],
+        "meanings": ["Filial Piety"],
+        "meaning_mnemonic": `**r[Teacher]r**s are all around us. Those who came before us are our teachers, so it's important to respect them. This is the basic idea of **k[filial piety]k**.`
+    },
+    1748: {
+        "slug": "俊",
+        "level": 40,
+        "component_subject_ids": [75, 427],
+        "amalgamation_subject_ids": [6377],
+        "meanings": ["Genius"],
+        "meaning_mnemonic": `The **r[leader]r** of all the **r[spider]r**s is a **k[genius]k**! Spiders are already pretty smart. They can weave complex homes and traps in one web. They even know where not to step so they don't get caught. But the leader knows everything. It made itself a little webbed computer and everything!`
+    },
+    1749: {
+        "slug": "兼",
+        "level": 40,
+        "component_subject_ids": [271],
+        "amalgamation_subject_ids": [6378, 6379, 6380],
+        "meanings": ["Concurrently"],
+        "meaning_mnemonic": `The **r[Mona Lisa]r** is in front of you. "You must all paint the Mona Lisa **k[concurrently]k**," says your art class teacher.`
+    },
+    1750: {
+        "slug": "剤",
+        "level": 40,
+        "component_subject_ids": [277, 128],
+        "amalgamation_subject_ids": [6381, 6382, 6383, 6384, 6385, 8221, 8248, 8507, 9040],
+        "meanings": ["Dose"],
+        "meaning_mnemonic": `**r[Simultaneous]r**ly, you throw your **r[knife]r** at another person who's throwing a knife at you and you both get a **k[dose]k** of your own medicine. Literally, there's poison on these knives and now you've both been stabbed.`
+    },
+    1751: {
+        "slug": "吹",
+        "level": 40,
+        "component_subject_ids": [16, 142],
+        "amalgamation_subject_ids": [6386, 6936, 6937, 6938, 6942],
+        "meanings": ["Blow"],
+        "meaning_mnemonic": `You attempt to expel wind out of your **r[mouth]r** but **r[lack]r** the breath to **k[blow]k** out any. You’re using your mouth and trying to blow out some air, but you are failing to do so.`
+    },
+    1752: {
+        "slug": "堀",
+        "level": 40,
+        "component_subject_ids": [17, 37, 332],
+        "amalgamation_subject_ids": [6387, 6388, 6389],
+        "meanings": ["Ditch"],
+        "meaning_mnemonic": `When you're driving, you may notice the **r[flag]r**s in the **r[dirt]r** near the **r[exit]r**s. These flags mark the **k[ditch]k** running along the side of the road. You won't want to try to exit the road here or you'll end up stuck in one.`
+    },
+    1753: {
+        "slug": "巡",
+        "level": 40,
+        "component_subject_ids": [114, 273],
+        "amalgamation_subject_ids": [6391, 6392, 6393, 6394],
+        "meanings": ["Patrol"],
+        "meaning_mnemonic": `You're using your **r[scooter]r** to navigate the **r[flood]r** because you're on **k[patrol]k**. You're one of the few people with a floating scooter, so it's your job to patrol the flood waters and look for people and animals that need help.`
+    },
+    1754: {
+        "slug": "戒",
+        "level": 40,
+        "component_subject_ids": [194, 106],
+        "amalgamation_subject_ids": [6395, 6396, 6397, 6398],
+        "meanings": ["Commandment"],
+        "meaning_mnemonic": `The **r[drunkard]r** issued **r[twenty]r** **k[commandment]k**s to his people.`
+    },
+    1755: {
+        "slug": "排",
+        "level": 40,
+        "component_subject_ids": [63, 209],
+        "amalgamation_subject_ids": [6399, 6400, 6401, 6402, 6403, 6928],
+        "meanings": ["Reject", "Refuse"],
+        "meaning_mnemonic": `Raise your **r[fingers]r** to a **r[criminal]r** to **k[reject]k** their request to have your things. If someone is trying to steal something from you, just reject them.`
+    },
+    1756: {
+        "slug": "携",
+        "level": 40,
+        "component_subject_ids": [63, 240, 200],
+        "amalgamation_subject_ids": [6404, 6405, 6565, 6752],
+        "meanings": ["Portable"],
+        "meaning_mnemonic": `Use your **r[fingers]r** to shoo a **r[turkey]r** down the **r[stairs]r** and into a **k[portable]k** carrier. You've been trying to get this turkey into the carrier so you can transport it for like, the past hour. You finally got it done with the help of gravity. And, you know, smacking it a bit in the butt with your fingers.`
+    },
+    1757: {
+        "slug": "敏",
+        "level": 40,
+        "component_subject_ids": [379, 60],
+        "amalgamation_subject_ids": [6406, 6407, 6408, 6409],
+        "meanings": ["Alert"],
+        "meaning_mnemonic": `**r[Every]r** **r[winter]r** you are **k[alert]k** for danger. Everyone knows that the worst monsters come out in the winter so you need to be alert if you want to survive.`
+    },
+    1758: {
+        "slug": "鋭",
+        "level": 40,
+        "component_subject_ids": [118, 422],
+        "amalgamation_subject_ids": [6409, 6410, 6411, 6412, 6566],
+        "meanings": ["Sharp"],
+        "meaning_mnemonic": `If you have **r[gold]r** you also need a **r[guard]r** with a very **k[sharp]k** sword to protect it.`
+    },
+    1759: {
+        "slug": "敷",
+        "level": 40,
+        "component_subject_ids": [3, 15, 51, 66, 60],
+        "amalgamation_subject_ids": [6413, 6414, 6415, 6416],
+        "meanings": ["Spread"],
+        "meaning_mnemonic": `Taking a **r[cross]r** with a **r[drop]r** on it, you walk through the **r[rice paddy]r** in the **r[direction]r** of **r[winter]r** and **k[spread]k** your arms wide. You spread your arms to halt the approach of winter because your rice paddy is not done growing yet. You take the cross with you for some extra religious power of persuasion, and the drop in case any of that rice is thirsty.`
+    },
+    1760: {
+        "slug": "殿",
+        "level": 40,
+        "component_subject_ids": [37, 269, 160],
+        "amalgamation_subject_ids": [6417, 6418, 6419],
+        "meanings": ["Milord", "Lord"],
+        "meaning_mnemonic": `Under the same **r[flag]r**, all the people get **r[together]r** to present a new **r[weapon]r** to your **k[lord]k**. You all bow and say, "**k[Milord]k**, this gift is for you." Because that's the proper way to address your lord.`
+    },
+    1761: {
+        "slug": "犠",
+        "level": 40,
+        "component_subject_ids": [126, 383],
+        "amalgamation_subject_ids": [6420, 6567, 7905, 8112],
+        "meanings": ["Sacrifice"],
+        "meaning_mnemonic": `The **r[cow]r** of **r[righteousness]r** is always there for us. He is the cow that must **k[sacrifice]k** himself for us to survive.`
+    },
+    1762: {
+        "slug": "獲",
+        "level": 40,
+        "component_subject_ids": [144, 90, 240, 30],
+        "amalgamation_subject_ids": [6421, 6422, 6423],
+        "meanings": ["Seize"],
+        "meaning_mnemonic": `You see an **r[animal]r** with some **r[flowers]r** and a **r[turkey]r** on a **r[stool]r** trying to **k[seize]k** them. The animal with the flowers is really tall so the turkey needs to stand on the stool in its attempt to seize the flowers.`
+    },
+    1763: {
+        "slug": "茂",
+        "level": 40,
+        "component_subject_ids": [90, 5, 194],
+        "amalgamation_subject_ids": [6424, 6425],
+        "meanings": ["Luxuriant"],
+        "meaning_mnemonic": `You take **r[flowers]r** down a **r[slide]r** to a **r[drunkard]r** that you picked from your **k[luxuriant]k** garden. You picked the flowers from the luxuriant garden, not the drunkard, mind you. Also the drunkard has a cane, but not flowers. That’s why you picked some from your luxuriant garden and slid down your cool slide. Now the drunkard has a cane and some flowers.`
+    },
+    1764: {
+        "slug": "繁",
+        "level": 40,
+        "component_subject_ids": [379, 60, 86],
+        "amalgamation_subject_ids": [6425, 6426, 6427, 6428, 8216],
+        "meanings": ["Overgrown"],
+        "meaning_mnemonic": `**r[Every]r** **r[winter]r** the **r[thread]r** fields become **k[overgrown]k**. Yes, thread grows in fields these days. And the thread grows the most in the winter because reasons. The thread gets so overgrown that you can’t even walk through it without cutting the thread down with a machete.`
+    },
+    1765: {
+        "slug": "頻",
+        "level": 40,
+        "component_subject_ids": [245, 184],
+        "amalgamation_subject_ids": [6426, 6429, 6430, 6431],
+        "meanings": ["Frequent"],
+        "meaning_mnemonic": `You **r[walk]r** by a **r[geoduck]r** a **k[frequent]k** amount. This geoduck really intrigues you, so you can’t help but frequent the area the geoduck is in and walk around.`
+    },
+    1766: {
+        "slug": "殖",
+        "level": 40,
+        "component_subject_ids": [132, 8821],
+        "amalgamation_subject_ids": [6427, 6432, 6433],
+        "meanings": ["Multiply"],
+        "meaning_mnemonic": `When you go to the **r[yakuza]r** to **r[fix]r** your problems they'll just **k[multiply]k**.`
+    },
+    1767: {
+        "slug": "薄",
+        "level": 40,
+        "component_subject_ids": [90, 103, 3, 317],
+        "amalgamation_subject_ids": [6434, 6435, 6436, 6939, 8928],
+        "meanings": ["Dilute"],
+        "meaning_mnemonic": `The **r[flowers]r** are being worked upon by a **r[tsunami]r** with a **r[drop]r** **r[specialty]r**: this tsunami can **k[dilute]k** flowers with just one tsunami-powered drop of itself. That’s its specialty.`
+    },
+    1768: {
+        "slug": "衝",
+        "level": 40,
+        "component_subject_ids": [111, 188],
+        "amalgamation_subject_ids": [6437, 6438],
+        "meanings": ["Collide"],
+        "meaning_mnemonic": `If you try to **r[go]r** somewhere but you're too **r[heavy]r** you'll **k[collide]k** with everything. Cars, people, houses. You're too heavy to dodge them, so you collide with it all.`
+    },
+    1769: {
+        "slug": "誉",
+        "level": 40,
+        "component_subject_ids": [8783, 1, 2, 117],
+        "amalgamation_subject_ids": [6439, 6440],
+        "meanings": ["Honor"],
+        "meaning_mnemonic": `There’s **r[grass]r** on the **r[ground]r** and the **r[fins]r** there **r[say]r** you have no **k[honor]k**. The fins are left over from the fish you dismembered and they do not believe it was an act of honor. Now they are just sitting on the ground on the grass, calling you out for having no honor.`
+    },
+    1770: {
+        "slug": "褒",
+        "level": 40,
+        "component_subject_ids": [8, 380, 8770],
+        "amalgamation_subject_ids": [6441, 6442, 6443],
+        "meanings": ["Praise"],
+        "meaning_mnemonic": `Lift the **r[lid]r** off your **r[preserve]r**s, **r[kick]r** it, and **k[praise]k** the lord! Your food is preserved, you don't need the lid anymore, praise be!`
+    },
+    1771: {
+        "slug": "透",
+        "level": 40,
+        "component_subject_ids": [114, 135, 200],
+        "amalgamation_subject_ids": [6444, 6445, 6568, 7259, 7725],
+        "meanings": ["Transparent"],
+        "meaning_mnemonic": `The **r[scooter]r** you made out of **r[grain]r**s, and are about to ride down the **r[stairs]r** with, is completely **k[transparent]k**. You mashed the grains down so fine that you can see through them! And then you made them into a scooter.`
+    },
+    1772: {
+        "slug": "隣",
+        "level": 40,
+        "component_subject_ids": [176, 98, 429],
+        "amalgamation_subject_ids": [6446, 6447, 6448, 6449, 6450],
+        "meanings": ["Neighbor", "Neighbour"],
+        "meaning_mnemonic": `Inside that **r[building]r** someone is doing a **r[rice]r** **r[dance]r**. That someone is your **k[neighbor]k**.`
+    },
+    1773: {
+        "slug": "雅",
+        "level": 40,
+        "component_subject_ids": [333, 240],
+        "amalgamation_subject_ids": [6451, 6452, 6453],
+        "meanings": ["Elegant"],
+        "meaning_mnemonic": `A **r[fang]r** on a **r[turkey]r** is **k[elegant]k**. Most turkeys do not have fangs, so this turkey with a fang is quite elegant and dignified. This turkey is special.`
+    },
+    2404: {
+        "slug": "叔",
+        "level": 36,
+        "component_subject_ids": [325, 35, 30],
+        "amalgamation_subject_ids": [8524, 8525],
+        "meanings": ["Uncle", "Aunt"],
+        "meaning_mnemonic": `There were lots of things that were **r[above]r** you when you were **r[small]r** that you would need a **r[stool]r** to reach, so you just asked your **k[aunt]k** or **k[uncle]k** to get them for you.`
+    },
+    2459: {
+        "slug": "囚",
+        "level": 39,
+        "component_subject_ids": [16, 9],
+        "amalgamation_subject_ids": [8604, 8605],
+        "meanings": ["Criminal"],
+        "meaning_mnemonic": `Inside this giant **r[mouth]r** is a **r[person]r**, trapped, because they're a **k[criminal]k**. They did something bad (they touched the mouth of another person without consent) and now they're in mouth jail for criminals.`
+    },
+    8835: {
+        "slug": "嬉",
+        "level": 40,
+        "component_subject_ids": [19, 8833],
+        "amalgamation_subject_ids": [8843, 8844],
+        "meanings": ["Glad", "Happy"],
+        "meaning_mnemonic": `A **r[woman]r** is **r[rejoic]r**ing. She must be **k[glad]k** and **k[happy]k** to rejoice out loud in front of you like this.`
+    },
+    8837: {
+        "slug": "串",
+        "level": 37,
+        "component_subject_ids": [365],
+        "amalgamation_subject_ids": [8847, 8848],
+        "meanings": ["Skewer", "Spit"],
+        "meaning_mnemonic": `The **r[skewer]r** radical and the **k[skewer]k** kanji are exactly the same!`
+    },
+    8858: {
+        "slug": "噂",
+        "level": 33,
+        "component_subject_ids": [16, 8767, 182, 74],
+        "amalgamation_subject_ids": [8865],
+        "meanings": ["Rumor", "Gossip"],
+        "meaning_mnemonic": `Your **r[mouth]r** has some hidden **r[horns]r**, and if you have the right **r[alcohol]r** **r[measurement]r** in your body, those horns will come out of your mouth in the form of **k[rumor]k**s and **k[gossip]k**.`
+    },
+    8861: {
+        "slug": "膝",
+        "level": 38,
+        "component_subject_ids": [43, 23, 8764, 45],
+        "amalgamation_subject_ids": [8869, 8870, 8871],
+        "meanings": ["Knee"],
+        "meaning_mnemonic": `Under the **r[moon]r** beneath a **r[tree]r** there is a **r[hat]r** filled with **r[water]r**. You stare down into the water and decide to stick your **k[knee]k** in it.`
+    },
+    8862: {
+        "slug": "眉",
+        "level": 37,
+        "component_subject_ids": [37, 8761, 53],
+        "amalgamation_subject_ids": [8872, 8873, 8874],
+        "meanings": ["Eyebrows"],
+        "meaning_mnemonic": `You're holding a **r[flag]r** on a **r[stick]r** above your **r[eye]r**s to imitate **k[eyebrows]k**. You can't grow any of your own, but you really love eyebrows, so this was the best you could do.`
+    },
+    8864: {
+        "slug": "痩",
+        "level": 34,
+        "component_subject_ids": [187, 190, 30],
+        "amalgamation_subject_ids": [8878, 8879],
+        "meanings": ["Thin"],
+        "meaning_mnemonic": `You are so **r[sick]r** that you've come to look like the **r[humble]r** **r[stool]r**: **k[thin]k**. Eerily thin, in fact. `
+    },
+    8909: {
+        "slug": "妖",
+        "level": 40,
+        "component_subject_ids": [19, 40],
+        "amalgamation_subject_ids": [8914, 8915, 8916],
+        "meanings": ["Supernatural", "Enchanting"],
+        "meaning_mnemonic": `What kind of **r[woman]r** comes down from **r[heaven]r**? A **k[supernatural]k** one. She is so **k[enchanting]k**.`
+    },
+    8910: {
+        "slug": "喋",
+        "level": 35,
+        "component_subject_ids": [16, 83, 23],
+        "amalgamation_subject_ids": [8917],
+        "meanings": ["Chat", "Talk"],
+        "meaning_mnemonic": `The **r[mouth]r** of the **r[World]r** **r[Tree]r**, all it does is **k[chat]k** and **k[talk]k**.`
+    },
+    8911: {
+        "slug": "鮭",
+        "level": 36,
+        "component_subject_ids": [150, 17],
+        "amalgamation_subject_ids": [8918],
+        "meanings": ["Salmon"],
+        "meaning_mnemonic": `What kind of **r[fish]r** jumps from **r[dirt]r** to **r[dirt]r**? A **k[salmon]k**!`
+    },
+    8912: {
+        "slug": "宛",
+        "level": 39,
+        "component_subject_ids": [78, 33, 158],
+        "amalgamation_subject_ids": [8919],
+        "meanings": ["Address"],
+        "meaning_mnemonic": `On your **r[roof]r** every **r[evening]r** you meet with **r[snake]r**s. All snakes know your **k[address]k**.`
+    },
+    8955: {
+        "slug": "麺",
+        "level": 40,
+        "component_subject_ids": [8907, 250],
+        "amalgamation_subject_ids": [8970, 8971, 8972, 8973, 8974, 8988],
+        "meanings": ["Noodles"],
+        "meaning_mnemonic": `One way to put **r[wheat]r** in your **r[face]r** is with **k[noodles]k**.
+        `
+    },
+    8964: {
+        "slug": "股",
+        "level": 33,
+        "component_subject_ids": [43, 160],
+        "amalgamation_subject_ids": [8976, 8977, 8978, 8979],
+        "meanings": ["Crotch", "Groin", "Fork"],
+        "meaning_mnemonic": `You keep your **r[moon]r** **r[weapon]r** in your **k[crotch]k**. Where else would you keep it?`
+    },
+    8966: {
+        "slug": "噛",
+        "level": 38,
+        "component_subject_ids": [16, 372],
+        "amalgamation_subject_ids": [8983],
+        "meanings": ["Bite", "Chew"],
+        "meaning_mnemonic": `Your **r[mouth]r** has a **r[tooth]r** that you use to **k[bite]k** and **k[chew]k** with.`
+    },
+    8968: {
+        "slug": "咳",
+        "level": 34,
+        "component_subject_ids": [16, 351],
+        "amalgamation_subject_ids": [8986],
+        "meanings": ["Cough"],
+        "meaning_mnemonic": `Your **r[mouth]r** was **r[slice]r**d open by a terrible **k[cough]k**.`
+    },
+    8969: {
+        "slug": "拉",
+        "level": 40,
+        "component_subject_ids": [63, 55],
+        "amalgamation_subject_ids": [8972, 8989],
+        "meanings": ["Abduct", "Pull"],
+        "meaning_mnemonic": `Your **r[fingers]r** have to **r[stand]r** up straight, to protect you from being **k[abduct]k**ed, or **k[pull]k**ed away against your will.`
+    },
+    8992: {
+        "slug": "戚",
+        "level": 35,
+        "component_subject_ids": [5, 194, 325, 35],
+        "amalgamation_subject_ids": [9002],
+        "meanings": ["Relatives"],
+        "meaning_mnemonic": `There's a **r[slide]r** with a **r[drunkard]r** **r[above]r** it, and they're making you feel **r[small]r**. And the worst part is that the drunkard is one of your **k[relatives]k**.`
+    },
+    8994: {
+        "slug": "屁",
+        "level": 33,
+        "component_subject_ids": [37, 161],
+        "amalgamation_subject_ids": [9004, 9005],
+        "meanings": ["Flatulence", "Gas"],
+        "meaning_mnemonic": `Use a **r[flag]r** to **r[compare]r** your **k[flatulence]k**.
+        `
+    },
+    8995: {
+        "slug": "璧",
+        "level": 38,
+        "component_subject_ids": [367, 48, 3],
+        "amalgamation_subject_ids": [9006],
+        "meanings": ["Disc", "Jade Disc"],
+        "meaning_mnemonic": `You offer a **r[hot pepper]r** to the **r[king]r**, and he gives you a **r[drop]r** of something. You look down at the drop to see it transforming into a **k[disc]k**. And not just any old disc at that. It's a **k[jade disc]k**.
+        
+        Have you ever seen ancient Chinese jade discs with holes in the middle? That's what this kanji is referring to.`
+    },
+    9265: {
+        "slug": "炒",
+        "level": 36,
+        "component_subject_ids": [46, 198],
+        "amalgamation_subject_ids": [9266, 9272, 9275],
+        "meanings": ["Fry"],
+        "meaning_mnemonic": `**r[Fire]r** is one of a **r[few]r** things you'll need to **k[fry]k** things.`
+    },
+    1774: {
+        "slug": "遜",
+        "level": 41,
+        "component_subject_ids": [114, 34, 329],
+        "amalgamation_subject_ids": [6464],
+        "meanings": ["Humble"],
+        "meaning_mnemonic": `On this **r[scooter]r** is a **r[child]r** who's trying to show that his **r[lineage]r** is **k[humble]k**. All of the other children are going around in fancy cars or helicopters, but this one child wants to be a humble child of the people, so he scoots on a plebeian scooter.`
+    },
+    1775: {
+        "slug": "伺",
+        "level": 41,
+        "component_subject_ids": [75, 266],
+        "amalgamation_subject_ids": [6475, 6943],
+        "meanings": ["Pay Respects"],
+        "meaning_mnemonic": `Your **r[leader]r** is also a **r[director]r** so you need to **k[pay respects]k** to him before you can start filming. He’s a huge big-shot and you don’t want to offend him by not paying the proper respects, so you make sure to bow every time you go on stage.`
+    },
+    1776: {
+        "slug": "徹",
+        "level": 41,
+        "component_subject_ids": [99, 8776, 43, 60],
+        "amalgamation_subject_ids": [6476, 6477, 6478, 7929],
+        "meanings": ["Penetrate", "Clear"],
+        "meaning_mnemonic": `You decide to **r[loiter]r** next to the **r[trash]r** under the **r[moon]r** in **r[winter]r** so the moon's light will **k[penetrate]k** you. The sky is **k[clear]k**est in winter, and this spot next to the trash happens to get the most of it.`
+    },
+    1777: {
+        "slug": "瀬",
+        "level": 41,
+        "component_subject_ids": [103, 219, 184],
+        "amalgamation_subject_ids": [6479, 6480, 6481, 6482],
+        "meanings": ["Rapids", "Shallows"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits a **r[bundle]r** of **r[geoduck]r**s, swirling around their weird shapes, and creating **k[rapids]k**! The rapids are so violent, some of the geoducks break out of the bundle and get washed into the **k[shallows]k**.`
+    },
+    1778: {
+        "slug": "撤",
+        "level": 41,
+        "component_subject_ids": [63, 8776, 43, 60],
+        "amalgamation_subject_ids": [6483, 6484, 6485],
+        "meanings": ["Withdrawal"],
+        "meaning_mnemonic": `You use your **r[fingers]r** to dig through the **r[trash]r** in the light of the **r[moon]r** in **r[winter]r** because somewhere in there is your **k[withdrawal]k** letter. What did you withdraw? Your resignation? Your troops? Whatever it was, you need to find the proof, and fast.`
+    },
+    1779: {
+        "slug": "措",
+        "level": 41,
+        "component_subject_ids": [63, 256],
+        "amalgamation_subject_ids": [6486, 6487],
+        "meanings": ["Set Aside"],
+        "meaning_mnemonic": `You find some **r[fingers]r** from **r[long ago]r**. They must have been **k[set aside]k** by their previous owners. They definitely weren't cut off or anything, someone just decided they didn't want them anymore and set them aside.`
+    },
+    1780: {
+        "slug": "拠",
+        "level": 41,
+        "component_subject_ids": [63, 60, 177],
+        "amalgamation_subject_ids": [6488, 6489, 6490, 6491],
+        "meanings": ["Based On"],
+        "meaning_mnemonic": `Wipe your **r[fingers]r** on this **r[table]r** in **r[winter]r** to see what it was **k[based on]k**. The cold winter weathers cover the table in frost, and when you wipe it away, you can see traces of what the table was originally based on. All tables have to be based on something, even if it's just other tables that came before them.`
+    },
+    1781: {
+        "slug": "儀",
+        "level": 41,
+        "component_subject_ids": [75, 383],
+        "amalgamation_subject_ids": [6354, 6492, 6493, 6494, 6495],
+        "meanings": ["Ceremony"],
+        "meaning_mnemonic": `The **r[leader]r** of **r[righteousness]r** is the only one who can run this **k[ceremony]k**. Why? Because it's a very pure ceremony, and only those with an extremely righteous mind can run it.`
+    },
+    1782: {
+        "slug": "樹",
+        "level": 41,
+        "component_subject_ids": [23, 421, 74],
+        "amalgamation_subject_ids": [6496, 6497, 6498, 7826],
+        "meanings": ["Wood"],
+        "meaning_mnemonic": `Each **r[tree]r** needs its **r[drum]r** **r[measurement]r** done before you can say it's really made of **k[wood]k**.`
+    },
+    1783: {
+        "slug": "棄",
+        "level": 41,
+        "component_subject_ids": [8776, 235],
+        "amalgamation_subject_ids": [6499, 6500, 6501],
+        "meanings": ["Abandon"],
+        "meaning_mnemonic": `In the **r[trash]r** is a weird looking **r[fruit]r**. Someone decided to **k[abandon]k** it here.`
+    },
+    1784: {
+        "slug": "虎",
+        "level": 41,
+        "component_subject_ids": [254, 28],
+        "amalgamation_subject_ids": [6502],
+        "meanings": ["Tiger"],
+        "meaning_mnemonic": `A **r[tiger]r** has **r[legs]r** that belong to a **k[tiger]k**. You know, a tiger has the legs of a tiger. This is common knowledge. Nothing new here.`
+    },
+    1785: {
+        "slug": "蛍",
+        "level": 41,
+        "component_subject_ids": [8769, 89],
+        "amalgamation_subject_ids": [6503],
+        "meanings": ["Firefly"],
+        "meaning_mnemonic": `A **r[Viking]r** **r[insect]r** is a **k[firefly]k**. In the insect kingdom, the insect most resembling a Viking is undoubtedly the firefly.`
+    },
+    1786: {
+        "slug": "蜂",
+        "level": 41,
+        "component_subject_ids": [89, 381],
+        "amalgamation_subject_ids": [6504, 6505],
+        "meanings": ["Bee"],
+        "meaning_mnemonic": `On the **r[insect]r** **r[signpost]r** there is a single sign that says **k[bee]k**.`
+    },
+    1787: {
+        "slug": "酎",
+        "level": 41,
+        "component_subject_ids": [182, 74],
+        "amalgamation_subject_ids": [6506],
+        "meanings": ["Sake"],
+        "meaning_mnemonic": `The **r[alcohol]r** you take a **r[measurement]r** most carefully of is **k[sake]k**. Sake is very important to the alcohol culture in Japan, so you must make sure to measure it out to the precise amount.`
+    },
+    1788: {
+        "slug": "蜜",
+        "level": 41,
+        "component_subject_ids": [78, 343, 89],
+        "amalgamation_subject_ids": [6505, 6507],
+        "meanings": ["Honey", "Nectar"],
+        "meaning_mnemonic": `The **r[roof]r** (hive) on a **r[certain]r** **r[insect]r** (a bee) is what protects all of the **k[honey]k** or **k[nectar]k**.`
+    },
+    1789: {
+        "slug": "墟",
+        "level": 41,
+        "component_subject_ids": [17, 254, 8796],
+        "amalgamation_subject_ids": [6508],
+        "meanings": ["Ruins"],
+        "meaning_mnemonic": `You're digging in the **r[dirt]r** when you find a **r[tiger]r** and a **r[cactus]r**. You keep digging until you realize that these are a part of some big **k[ruins]k**. They're the ruins of tiger and cactus statues. It looks like whoever used to live here worshiped tigers and cacti. Or maybe they ate them. But now their whole civilization is just ruins.`
+    },
+    1790: {
+        "slug": "艦",
+        "level": 41,
+        "component_subject_ids": [149, 328],
+        "amalgamation_subject_ids": [6509, 6510, 6511, 6512, 6513, 6648, 8032],
+        "meanings": ["Warship"],
+        "meaning_mnemonic": `The **r[boat]r** that **r[oversee]r**s other boats, land, and people is usually a **k[warship]k**. They're the big boats that oversee everything around them. And if anyone steps out of line, a warship can take care of it.`
+    },
+    1791: {
+        "slug": "潜",
+        "level": 41,
+        "component_subject_ids": [103, 146, 22],
+        "amalgamation_subject_ids": [6512, 6514, 6516, 6517, 6945, 8181],
+        "meanings": ["Conceal"],
+        "meaning_mnemonic": `A **r[tsunami]r** carries a **r[husband]r** and his **r[husband]r** up into the **r[sun]r**, where they're going to **k[conceal]k** something. `
+    },
+    1792: {
+        "slug": "拳",
+        "level": 41,
+        "component_subject_ids": [8819, 41],
+        "amalgamation_subject_ids": [6465, 6518, 6519],
+        "meanings": ["Fist"],
+        "meaning_mnemonic": `A **r[gladiator]r** turns his **r[hand]r** into a **k[fist]k**. A fist for punching other gladiators.`
+    },
+    1793: {
+        "slug": "炭",
+        "level": 41,
+        "component_subject_ids": [20, 116, 46],
+        "amalgamation_subject_ids": [6520, 6521, 6522, 6537],
+        "meanings": ["Charcoal"],
+        "meaning_mnemonic": `You climb up a **r[mountain]r** and a **r[cliff]r** in search of **r[fire]r**, but all you find is **k[charcoal]k**. You can make fire with the charcoal, but you were hoping to find fire itself. All that climbing for nothing.`
+    },
+    1794: {
+        "slug": "畑",
+        "level": 41,
+        "component_subject_ids": [46, 51],
+        "amalgamation_subject_ids": [6523, 6524, 6525, 7335],
+        "meanings": ["Field"],
+        "meaning_mnemonic": `A **r[fire]r** in the **r[rice paddy]r** burns down the **k[field]k**. The rice paddy fire spreads out from the paddy and consumes the field next to it. This rice paddy fire has ravaged your entire farm!`
+    },
+    1795: {
+        "slug": "包",
+        "level": 41,
+        "component_subject_ids": [395],
+        "amalgamation_subject_ids": [6526, 6527, 6528, 6650, 6952, 6956],
+        "meanings": ["Wrap"],
+        "meaning_mnemonic": `The **r[wrap]r** radical and the **k[wrap]k** kanji are the same!`
+    },
+    1796: {
+        "slug": "衣",
+        "level": 41,
+        "component_subject_ids": [320],
+        "amalgamation_subject_ids": [6529, 6530, 6531, 6651, 7611, 8877],
+        "meanings": ["Clothes"],
+        "meaning_mnemonic": `The **r[clothes]r** radical and the **k[clothes]k** kanji are exactly the same! Surprising!`
+    },
+    1797: {
+        "slug": "仁",
+        "level": 41,
+        "component_subject_ids": [75, 7],
+        "amalgamation_subject_ids": [6532, 6533],
+        "meanings": ["Humanity"],
+        "meaning_mnemonic": `This **r[leader]r** has **r[two]r** things that remind him of his **k[humanity]k**: his shoes, and his hat. These two things remind the leader of his humanity because humans are the only ones who wear shoes and hats.`
+    },
+    1798: {
+        "slug": "鉱",
+        "level": 41,
+        "component_subject_ids": [118, 382],
+        "amalgamation_subject_ids": [6534, 6535, 6536, 6537, 6538, 6539],
+        "meanings": ["Mineral"],
+        "meaning_mnemonic": `Aside from **r[gold]r** there are a **r[wide]r** variety of other **k[mineral]k**s as well.`
+    },
+    1799: {
+        "slug": "至",
+        "level": 41,
+        "component_subject_ids": [274],
+        "amalgamation_subject_ids": [6540, 6541, 6542, 6543, 6544],
+        "meanings": ["Attain"],
+        "meaning_mnemonic": `Dig up a **r[mole]r** and you **k[attain]k** a mole status. You're always trying to attain a new level for yourself and now you get to be on the mole level!`
+    },
+    1800: {
+        "slug": "誠",
+        "level": 41,
+        "component_subject_ids": [117, 263],
+        "amalgamation_subject_ids": [6545, 6546, 6547, 6548, 6652, 7962],
+        "meanings": ["Sincerity"],
+        "meaning_mnemonic": `Something you **r[say]r** to someone you **r[become]r** attached to should be said with **k[sincerity]k**. You need to speak with sincerity when you say things to someone who will eventually become your significant other, for example.`
+    },
+    1801: {
+        "slug": "郷",
+        "level": 41,
+        "component_subject_ids": [87, 8829],
+        "amalgamation_subject_ids": [6549, 6550, 6551],
+        "meanings": ["Hometown"],
+        "meaning_mnemonic": `Everyone has a **r[poop]r** **r[guy]r** from their **k[hometown]k**. You know. That poop guy. And every single time you try to visit your hometown, poop guy is there making everyone uncomfortable and reminding you why you left in the first place.`
+    },
+    1802: {
+        "slug": "侵",
+        "level": 41,
+        "component_subject_ids": [75, 105, 76, 30],
+        "amalgamation_subject_ids": [6552, 6553, 6554, 6555, 7308],
+        "meanings": ["Invade"],
+        "meaning_mnemonic": `There is a tiny **r[leader]r** on **r[Wolverine]r**’s **r[forehead]r** sitting on a **r[stool]r** and commanding his troops to **k[invade]k** Wolverine’s brain. These tiny soldiers are going to invade Wolverine’s body in an attempt to destroy him. The leader himself isn’t going to invade Wolverine’s brain, he’s just going to sit on the stool and supervise.`
+    },
+    1803: {
+        "slug": "偽",
+        "level": 41,
+        "component_subject_ids": [75, 355],
+        "amalgamation_subject_ids": [6556, 6557, 6558, 6559, 6649],
+        "meanings": ["Fake"],
+        "meaning_mnemonic": `The **r[leader]r** gets a nice uniform for the **r[sake]r** of not wanting to look like a **k[fake]k**. The leader is a fake, he just doesn’t want to look like one. He’s not really a leader, but he thinks he should get an official-looking uniform for the sake of not looking like a fake.`
+    },
+    1804: {
+        "slug": "克",
+        "level": 42,
+        "component_subject_ids": [69, 28],
+        "amalgamation_subject_ids": [6569, 6570, 6753],
+        "meanings": ["Overcome"],
+        "meaning_mnemonic": `Even though you’ve **r[old]r** **r[legs]r**, you **k[overcome]k** your disability. These old legs of yours don’t work very well, but you overcome the odds and you run a marathon!`
+    },
+    1805: {
+        "slug": "到",
+        "level": 42,
+        "component_subject_ids": [274, 128],
+        "amalgamation_subject_ids": [6571],
+        "meanings": ["Arrival"],
+        "meaning_mnemonic": `The **r[mole]r** has a **r[knife]r** ready for your **k[arrival]k**. You get out of your airplane, you step on the ground and... ouch! You stepped right on the knife, and there's the mole, sticking it out of the ground. "I checked the schedule for your arrival!" it squeaks happily, and disappears.`
+    },
+    1806: {
+        "slug": "双",
+        "level": 42,
+        "component_subject_ids": [30],
+        "amalgamation_subject_ids": [6572, 6573, 6574],
+        "meanings": ["Pair"],
+        "meaning_mnemonic": `If you have one **r[stool]r** and another **r[stool]r**, you have a **k[pair]k** of stools. Look at this pair of stools. Look at it.`
+    },
+    1807: {
+        "slug": "哲",
+        "level": 42,
+        "component_subject_ids": [63, 115, 16],
+        "amalgamation_subject_ids": [6575, 6754],
+        "meanings": ["Philosophy"],
+        "meaning_mnemonic": `Put an **r[axe]r** in your **r[mouth]r** with your **r[fingers]r** to express your **k[philosophy]k**. Your philosophy of putting weapons in your mouth. Everyone else seems to think it's a stupid philosophy, so you're showing them that it's not with actions!`
+    },
+    1808: {
+        "slug": "喪",
+        "level": 42,
+        "component_subject_ids": [15, 16, 320],
+        "amalgamation_subject_ids": [6576, 6577, 6755],
+        "meanings": ["Mourning"],
+        "meaning_mnemonic": `Under the **r[cross]r** is a **r[mouth]r** and another **r[mouth]r** wearing special **r[clothes]r** because they're in **k[mourning]k**.`
+    },
+    1809: {
+        "slug": "堅",
+        "level": 42,
+        "component_subject_ids": [323, 30, 17],
+        "amalgamation_subject_ids": [6578, 6948],
+        "meanings": ["Solid"],
+        "meaning_mnemonic": `A **r[servant]r** secures a **r[stool]r** in the **r[dirt]r** so that it is a **k[solid]k** sitting device. If you just throw a stool on the ground it will flop over easily. But if you have a servant to dig it into the dirt a bit, it becomes nice and solid and safe for sitting!`
+    },
+    1810: {
+        "slug": "床",
+        "level": 42,
+        "component_subject_ids": [62, 23],
+        "amalgamation_subject_ids": [6579, 6580, 6581, 6582, 6947, 8035],
+        "meanings": ["Floor", "Bed"],
+        "meaning_mnemonic": `Under the **r[canopy]r**, you use a **r[tree]r** for your **k[floor]k**. It also becomes your **k[bed]k**, because hey, what is a floor but the original bed?`
+    },
+    1811: {
+        "slug": "括",
+        "level": 42,
+        "component_subject_ids": [63, 174],
+        "amalgamation_subject_ids": [6583, 6584, 6585, 6586, 6587],
+        "meanings": ["Fasten"],
+        "meaning_mnemonic": `Someone's **r[fingers]r** touch your **r[tongue]r** and **k[fasten]k** it together. You can't talk. All you can do is make sad tongue-less sounds as you try to figure out who would fasten your tongue like this.`
+    },
+    1812: {
+        "slug": "弧",
+        "level": 42,
+        "component_subject_ids": [36, 384],
+        "amalgamation_subject_ids": [6587, 6588],
+        "meanings": ["Arc"],
+        "meaning_mnemonic": `Shoot a **r[melon]r** out of a **r[bow]r** and it will fly in a steep **k[arc]k**. Melons are too heavy to fly straight, after all.`
+    },
+    1813: {
+        "slug": "挑",
+        "level": 42,
+        "component_subject_ids": [63, 363],
+        "amalgamation_subject_ids": [6589, 6590, 6591, 6756],
+        "meanings": ["Challenge"],
+        "meaning_mnemonic": `When your **r[finger]r**s move like that, you know it's an **r[omen]r** of a **k[challenge]k** that will face you soon in the future.`
+    },
+    1814: {
+        "slug": "掘",
+        "level": 42,
+        "component_subject_ids": [63, 37, 332],
+        "amalgamation_subject_ids": [6592, 6593],
+        "meanings": ["Dig"],
+        "meaning_mnemonic": `You see a **r[flag]r** near the **r[exit]r**, so you use your **r[fingers]r** to **k[dig]k** there. Most flags mark something, and this exit is pretty obvious, so there must be something under here. At least that's what you think to yourself as you dig.`
+    },
+    1815: {
+        "slug": "揚",
+        "level": 42,
+        "component_subject_ids": [63, 172],
+        "amalgamation_subject_ids": [6594, 6757, 6959, 8942],
+        "meanings": ["Hoist"],
+        "meaning_mnemonic": `If you have **r[fingers]r** it's **r[easy]r** to **k[hoist]k** things above your head. If you don't have fingers, well, it's not so easy.`
+    },
+    1816: {
+        "slug": "握",
+        "level": 42,
+        "component_subject_ids": [63, 387],
+        "amalgamation_subject_ids": [6595, 6596, 6597, 6758, 6958, 7119, 7420],
+        "meanings": ["Grip"],
+        "meaning_mnemonic": `You use your **r[fingers]r** in a **r[shop]r** to **k[grip]k** what you want to buy.`
+    },
+    1817: {
+        "slug": "揺",
+        "level": 42,
+        "component_subject_ids": [63, 8798],
+        "amalgamation_subject_ids": [6598, 6599, 6759, 6760, 6761, 7782],
+        "meanings": ["Shake"],
+        "meaning_mnemonic": `You grab a **r[satellite]r** with your **r[fingers]r** and **k[shake]k** it! You're an astronaut and it's your job. Don't worry, the satellite won't break or anything, it's strong for space travel. Just do as you're told and shake the sucker.`
+    },
+    1818: {
+        "slug": "斎",
+        "level": 42,
+        "component_subject_ids": [277, 207],
+        "amalgamation_subject_ids": [6600, 6601],
+        "meanings": ["Purification"],
+        "meaning_mnemonic": `Use **r[simultaneous]r** **r[jackhammer]r**s to perform the **k[purification]k** ritual. Two jackhammers running perfectly in sync will purify your body, mind, and soul! (And the ground around you that's being jackhammered.)`
+    },
+    1819: {
+        "slug": "暫",
+        "level": 42,
+        "component_subject_ids": [93, 115, 22],
+        "amalgamation_subject_ids": [6602, 6603],
+        "meanings": ["Temporarily"],
+        "meaning_mnemonic": `To your **r[car]r** you take an **r[axe]r**. The **r[sun]r** has broken your car for good this time (you think). You're so angry at your car. You think this is permanent. Turns out, though, that it's not permanent. It's just like that **k[temporarily]k**. You did make it permanent by taking an axe to your car, though.`
+    },
+    1820: {
+        "slug": "析",
+        "level": 42,
+        "component_subject_ids": [23, 115],
+        "amalgamation_subject_ids": [6604, 6605],
+        "meanings": ["Analysis"],
+        "meaning_mnemonic": `You hit a **r[tree]r** with an **r[axe]r** so you can do some **k[analysis]k** on it. To do the analysis on the tree, a cross section needs to be obtained, so you must chop it in half with your axe.`
+    },
+    1821: {
+        "slug": "枢",
+        "level": 42,
+        "component_subject_ids": [23, 322],
+        "amalgamation_subject_ids": [6606, 6607],
+        "meanings": ["Hinge"],
+        "meaning_mnemonic": `In the **r[tree]r** **r[district]r** of town you can buy a lot of tree products, including doors. With those doors, though, you always need **k[hinge]k**s.`
+    },
+    1822: {
+        "slug": "軸",
+        "level": 42,
+        "component_subject_ids": [93, 268],
+        "amalgamation_subject_ids": [6606, 6608, 6609, 6610],
+        "meanings": ["Axis", "Axle"],
+        "meaning_mnemonic": `For a **r[car]r**, the **r[reason]r** why it works is because its wheels spin on their **k[axis]k**. That is, they have **k[axle]k**s.`
+    },
+    1823: {
+        "slug": "柄",
+        "level": 42,
+        "component_subject_ids": [23, 186],
+        "amalgamation_subject_ids": [6611, 6612, 6613, 7387, 7665],
+        "meanings": ["Pattern"],
+        "meaning_mnemonic": `You walk up to a **r[tree]r** and put **r[dynamite]r** on it. Then you set it off. BOOM. It explodes, but doesn't do what you'd expect. Instead of blowing the tree up, it blasts a very beautiful **k[pattern]k** into the side of it as well as the ground around it.`
+    },
+    1824: {
+        "slug": "泊",
+        "level": 42,
+        "component_subject_ids": [103, 52],
+        "amalgamation_subject_ids": [6614, 6615, 6616, 6617, 6762, 6763],
+        "meanings": ["Overnight"],
+        "meaning_mnemonic": `The **r[tsunami]r** that is **r[white]r** is the most scary tsunami of all. It doesn't come in and destroy everything. No, it comes in, goes inside your door, then stays at your place **k[overnight]k**, without even asking!`
+    },
+    1825: {
+        "slug": "滑",
+        "level": 42,
+        "component_subject_ids": [103, 385],
+        "amalgamation_subject_ids": [6618, 6619, 6764],
+        "meanings": ["Slippery"],
+        "meaning_mnemonic": `A **r[tsunami]r** breaks your **r[bone]r**s, not from hitting you, but from making the ground **k[slippery]k**. The water from the tsunami made all the sidewalks and stairs too slippery to walk on, but you tried anyway, slipped, and broke a couple bones.`
+    },
+    1826: {
+        "slug": "潟",
+        "level": 42,
+        "component_subject_ids": [103, 22, 173],
+        "amalgamation_subject_ids": [6620, 6621],
+        "meanings": ["Lagoon"],
+        "meaning_mnemonic": `A **r[tsunami]r** crashes into the **r[sun]r** (breaking it in half) and creating a different **r[wing]r** of the tsunami all together. This wing crashes down and creates a **k[lagoon]k**.`
+    },
+    1827: {
+        "slug": "焦",
+        "level": 42,
+        "component_subject_ids": [240, 131],
+        "amalgamation_subject_ids": [6622, 6623, 6765, 6766, 6963, 7810],
+        "meanings": ["Char"],
+        "meaning_mnemonic": `You take a **r[turkey]r** and try to **r[boil]r** it but you **k[char]k** it instead. That's what happens when you throw meat into a pot on high with no water in there.`
+    },
+    1828: {
+        "slug": "範",
+        "level": 42,
+        "component_subject_ids": [85, 93, 158],
+        "amalgamation_subject_ids": [6624, 6625, 6626],
+        "meanings": ["Example"],
+        "meaning_mnemonic": `This **r[bamboo]r** can be whittled into an **k[example]k** of anything. See, here's a **r[car]r**. Here's a **r[snake]r**. I can make so many examples just with bamboo.`
+    },
+    1829: {
+        "slug": "紛",
+        "level": 42,
+        "component_subject_ids": [86, 247],
+        "amalgamation_subject_ids": [6627, 6628, 6767, 6768, 7140, 7156],
+        "meanings": ["Distract"],
+        "meaning_mnemonic": `Take this **r[thread]r** and look at this **r[part]r**. Now look at this part! Now look at this part. You don't know where to look! Haha, I have **k[distract]k**ed you!`
+    },
+    1830: {
+        "slug": "糾",
+        "level": 42,
+        "component_subject_ids": [86, 289],
+        "amalgamation_subject_ids": [6628, 6629],
+        "meanings": ["Twist"],
+        "meaning_mnemonic": `**r[Thread]r** and **r[vines]r** alone are too weak to hold anything up. You need to **k[twist]k** them together to make them strong.`
+    },
+    1831: {
+        "slug": "綱",
+        "level": 42,
+        "component_subject_ids": [86, 376],
+        "amalgamation_subject_ids": [6630, 6631, 6632],
+        "meanings": ["Rope"],
+        "meaning_mnemonic": `If you take a **r[thread]r** and wrap up a bunch of it, so much it becomes a **r[hill]r** of thread, you're going to have a lot of thread. You can wrap some of that thread around other thread to create a much thicker thread. This thread is a **k[rope]k**.`
+    },
+    1832: {
+        "slug": "網",
+        "level": 42,
+        "component_subject_ids": [86, 376],
+        "amalgamation_subject_ids": [6633, 6634, 6635, 6769, 8391, 8404],
+        "meanings": ["Netting"],
+        "meaning_mnemonic": `You have a **r[thread]r** **r[hill]r**, but the hill is a bit weird looking (take a look at the hill radical in this kanji). It's not any normal hill, it's a weird lumpy hill that isn't quite right. That's because it is a thread hill of **k[netting]k**, and parts of the nets have caught things, like fish and cats, so there's weird abnormal lumps in them.`
+    },
+    1833: {
+        "slug": "肝",
+        "level": 42,
+        "component_subject_ids": [43, 61],
+        "amalgamation_subject_ids": [6636, 6637, 6638],
+        "meanings": ["Liver"],
+        "meaning_mnemonic": `If the **r[moon]r** is **r[dry]r**, it's good for your **k[liver]k**! Haha, get it? Because there's no moonshine to ruin your liver. Don't drink, kids.`
+    },
+    1834: {
+        "slug": "芝",
+        "level": 42,
+        "component_subject_ids": [90, 8771],
+        "amalgamation_subject_ids": [6639, 6640, 6641, 6642],
+        "meanings": ["Lawn"],
+        "meaning_mnemonic": `There are **r[flowers]r** and **r[hills]r** in your front **k[lawn]k**. Your lawn is pretty big and it is covered with both flowers and hills. It’s very pretty.`
+    },
+    1835: {
+        "slug": "荒",
+        "level": 42,
+        "component_subject_ids": [90, 212, 21],
+        "amalgamation_subject_ids": [6643, 6644, 6770, 6949, 6950],
+        "meanings": ["Wild"],
+        "meaning_mnemonic": `**r[Flowers]r** find their **r[death]r** in a **r[river]r** out in the **k[wild]k**. Flowers live on water, but this river drowns the flowers to death. The wild is a dangerous place.`
+    },
+    1836: {
+        "slug": "袋",
+        "level": 42,
+        "component_subject_ids": [310, 320],
+        "amalgamation_subject_ids": [6645, 6646, 6647, 6771],
+        "meanings": ["Sack"],
+        "meaning_mnemonic": `You keep your **r[substitute]r** **r[clothes]r** in a **k[sack]k**. The clothes in the sack are just substitute clothes, so they only come out in emergencies.`
+    },
+    1838: {
+        "slug": "珍",
+        "level": 43,
+        "component_subject_ids": [48, 8764, 38],
+        "amalgamation_subject_ids": [6655, 6656, 6657],
+        "meanings": ["Rare"],
+        "meaning_mnemonic": `The **r[king]r**'s **r[hat]r**, not to mention the **r[hair]r** stuck to said hat, is incredibly **k[rare]k**. If you have your hands on either of these things, you'll be a rich duck.`
+    },
+    1839: {
+        "slug": "裂",
+        "level": 43,
+        "component_subject_ids": [132, 128, 320],
+        "amalgamation_subject_ids": [6658, 6659, 6660, 6844, 6845, 8926],
+        "meanings": ["Split", "Tear"],
+        "meaning_mnemonic": `When a **r[yakuza]r** takes a **r[knife]r** to **r[clothes]r**, it will of course cause a **k[split]k** or **k[tear]k**.`
+    },
+    1840: {
+        "slug": "襲",
+        "level": 43,
+        "component_subject_ids": [389, 320],
+        "amalgamation_subject_ids": [6661, 6662, 6663, 6664, 6665, 6846],
+        "meanings": ["Attack"],
+        "meaning_mnemonic": `**r[Imperial]r** **r[clothes]r** allow you to perform an ancient **k[attack]k** that cannot be repelled.`
+    },
+    1841: {
+        "slug": "貢",
+        "level": 43,
+        "component_subject_ids": [25, 94],
+        "amalgamation_subject_ids": [6666],
+        "meanings": ["Tribute"],
+        "meaning_mnemonic": `This **r[construction]r** project made from **r[shellfish]r** will act as a **k[tribute]k** to the Crabigator.`
+    },
+    1842: {
+        "slug": "趣",
+        "level": 43,
+        "component_subject_ids": [124, 88, 30],
+        "amalgamation_subject_ids": [6667, 6668, 6951],
+        "meanings": ["Charm"],
+        "meaning_mnemonic": `You have to **r[run]r**, put your **r[ear]r** on the **r[stool]r**, then run back. That's the **k[charm]k** of this game.
+        
+        `
+    },
+    1843: {
+        "slug": "距",
+        "level": 43,
+        "component_subject_ids": [95, 314],
+        "amalgamation_subject_ids": [6669, 6847, 6848, 6849],
+        "meanings": ["Distance"],
+        "meaning_mnemonic": `A **r[foot]r** on a **r[giant]r** is a pretty long **k[distance]k** for a normal person to walk. Giants have big feet and can travel large **k[distance]k**s very quickly.`
+    },
+    1844: {
+        "slug": "籍",
+        "level": 43,
+        "component_subject_ids": [85, 388, 256],
+        "amalgamation_subject_ids": [6670, 6671, 6850],
+        "meanings": ["Enroll"],
+        "meaning_mnemonic": `People had to ride their **r[bamboo]r** **r[plow]r**s **r[long ago]r** to **k[enroll]k** in things. There were no cars yet, so they would hitch a cow to their bamboo plow, and dig their way to the government office or school to enroll.`
+    },
+    1845: {
+        "slug": "露",
+        "level": 43,
+        "component_subject_ids": [119, 95, 180],
+        "amalgamation_subject_ids": [6672, 6673, 6674, 6675, 7987, 8082, 8170, 8208, 8732],
+        "meanings": ["Expose", "Dew"],
+        "meaning_mnemonic": `If the **r[rain]r** touches your **r[foot]r** and gives it a little rain **r[kiss]r**, you know that part of your foot is **k[expose]k**d to the elements. You can also see some **k[dew]k** forming on your exposed foot. So that's what rain kisses are!`
+    },
+    1846: {
+        "slug": "牧",
+        "level": 43,
+        "component_subject_ids": [126, 60],
+        "amalgamation_subject_ids": [6676, 6677, 6678, 6679],
+        "meanings": ["Pasture"],
+        "meaning_mnemonic": `A **r[cow]r** in the **r[winter]r** doesn't like to leave the barn to go to the **k[pasture]k**. It has to, though, because a cow's gotta eat.`
+    },
+    1847: {
+        "slug": "刷",
+        "level": 43,
+        "component_subject_ids": [37, 102, 128],
+        "amalgamation_subject_ids": [6680, 6681],
+        "meanings": ["Printing"],
+        "meaning_mnemonic": `You take out a **r[flag]r**, lay a **r[towel]r** below it, and use your **r[knife]r** to carve the pattern through them both. Voila! This is exactly how old **k[printing]k** presses used to work.`
+    },
+    1848: {
+        "slug": "朗",
+        "level": 43,
+        "component_subject_ids": [8822, 43],
+        "amalgamation_subject_ids": [6682, 6683, 6684],
+        "meanings": ["Bright"],
+        "meaning_mnemonic": `A **r[good]r** **r[moon]r** is a **k[bright]k** moon. Not just in terms of light, but in mood as well. Like, gee wiz, what a bright, happy moon.`
+    },
+    1849: {
+        "slug": "潮",
+        "level": 43,
+        "component_subject_ids": [103, 8793, 43],
+        "amalgamation_subject_ids": [6685, 6686, 6687, 6688, 6953, 6954],
+        "meanings": ["Tide"],
+        "meaning_mnemonic": `A small **r[tsunami]r** comes in the **r[morning]r** with the **r[moon]r**. That just means the ocean gets bigger when the moon's out, and that my friends is simply the **k[tide]k**.`
+    },
+    1850: {
+        "slug": "即",
+        "level": 43,
+        "component_subject_ids": [196, 145],
+        "amalgamation_subject_ids": [6689, 6690, 6691, 6692, 6693, 6694],
+        "meanings": ["Instant"],
+        "meaning_mnemonic": `The **r[root]r** of a **r[stamp]r** is to get an **k[instant]k** picture down. Back in the olden days, people had to make seals and draw out things by hand, so stamps came about so you can—BAM—just stamp it and have what you want in an instant.`
+    },
+    1851: {
+        "slug": "垣",
+        "level": 43,
+        "component_subject_ids": [17, 1, 293],
+        "amalgamation_subject_ids": [6695, 6696, 6697],
+        "meanings": ["Hedge", "Fence"],
+        "meaning_mnemonic": `Look at the **r[dirt]r** on the **r[ground]r** at **r[dawn]r** and you'll be able to see all the **k[hedge]k**s growing in the area really well. At any other time of day, hedges tend to blend into their surroundings. But at dawn, the shadows the sun makes really helps them stand out.
+        
+        This hedge also works as a **k[fence]k**. It borders an area and you can't walk through it. A natural fence!`
+    },
+    1852: {
+        "slug": "威",
+        "level": 43,
+        "component_subject_ids": [5, 194, 1, 19],
+        "amalgamation_subject_ids": [6698, 6699, 6700, 6701],
+        "meanings": ["Majesty"],
+        "meaning_mnemonic": `A **r[drunkard]r** goes down a **r[slide]r**, hits the **r[ground]r** and bumps into a **r[woman]r**. Who is that woman? It's none other than her **k[majesty]k**.`
+    },
+    1853: {
+        "slug": "封",
+        "level": 43,
+        "component_subject_ids": [17, 74],
+        "amalgamation_subject_ids": [6702, 6703, 6704, 6705, 6706, 7943],
+        "meanings": ["Seal", "Seal In", "Closing"],
+        "meaning_mnemonic": `You need to make a **r[measurement]r** of an area so you take two clumps of **r[dirt]r** to **k[seal in]k** each side of your measuring tape, so it stays on the ground. This is the way people used to seal things back in the day, back when we didn't have fancy things like tape and glue.`
+    },
+    1854: {
+        "slug": "筒",
+        "level": 43,
+        "component_subject_ids": [85, 341],
+        "amalgamation_subject_ids": [6706, 6707],
+        "meanings": ["Cylinder", "Tube", "Pipe"],
+        "meaning_mnemonic": `A **r[bamboo]r** stalk looks the **r[same]r** as a big ol' **k[cylinder]k**.`
+    },
+    1855: {
+        "slug": "岳",
+        "level": 45,
+        "component_subject_ids": [115, 1, 20],
+        "amalgamation_subject_ids": [6708, 6709],
+        "meanings": ["Peak"],
+        "meaning_mnemonic": `An **r[axe]r** is sticking in the **r[ground]r** on top of a **r[mountain]r**. It's sticking into the very **k[peak]k**. Because why would you bother to stick your axe anywhere else on the mountain to prove you climbed it? `
+    },
+    1856: {
+        "slug": "慰",
+        "level": 43,
+        "component_subject_ids": [37, 207, 74, 65],
+        "amalgamation_subject_ids": [6710, 6711, 6712, 6713, 8691],
+        "meanings": ["Consolation"],
+        "meaning_mnemonic": `We put a **r[flag]r** to remember where we tried to use a **r[jackhammer]r** to **r[measure]r** your friend's **r[heart]r**. Granted, it was a terrible idea, but hopefully that flag of remembrance is some kind of **k[consolation]k**?`
+    },
+    1857: {
+        "slug": "懇",
+        "level": 43,
+        "component_subject_ids": [412, 196, 65],
+        "amalgamation_subject_ids": [6714, 6715, 6716, 6717],
+        "meanings": ["Courteous"],
+        "meaning_mnemonic": `A **r[badger]r**, at the **r[root]r** of its **r[heart]r**, is a **k[courteous]k** creature.`
+    },
+    1858: {
+        "slug": "懲",
+        "level": 43,
+        "component_subject_ids": [99, 20, 48, 60, 65],
+        "amalgamation_subject_ids": [6718, 6719],
+        "meanings": ["Chastise"],
+        "meaning_mnemonic": `The **r[loiter]r**ing **r[mountain]r** **r[king]r** who hangs around during **r[winter]r** to provide an indication (this kanji uses the "indication" kanji as its top 2/3rds) of things to come now looks into your **r[heart]r**, and only sees bad things. So, he **k[chastise]k**s you about it.`
+    },
+    1859: {
+        "slug": "摩",
+        "level": 43,
+        "component_subject_ids": [62, 23, 41],
+        "amalgamation_subject_ids": [6720],
+        "meanings": ["Chafe"],
+        "meaning_mnemonic": `Below the **r[canopy]r** of **r[tree]r**s is a **r[hand]r**. The hand is just there to **k[chafe]k** against the trees.`
+    },
+    1860: {
+        "slug": "擦",
+        "level": 43,
+        "component_subject_ids": [63, 78, 8825],
+        "amalgamation_subject_ids": [6720, 6721, 6955],
+        "meanings": ["Rub"],
+        "meaning_mnemonic": `You use your **r[fingers]r** to hold the **r[roof]r** of the **r[festival]r** up, but it **k[rub]k**s against them. The roof is heavy, and you have to walk to keep up, so the roof is rubbing against them really, really badly.`
+    },
+    1861: {
+        "slug": "撲",
+        "level": 43,
+        "component_subject_ids": [63, 390],
+        "amalgamation_subject_ids": [6722, 6742],
+        "meanings": ["Slap"],
+        "meaning_mnemonic": `Put your **r[fingers]r** in somebody's **r[business]r** by **k[slap]k**ping them! This method also works if someone is getting too involved in your business. Slaps are basically your way of doing business with your fingers.`
+    },
+    1862: {
+        "slug": "斉",
+        "level": 43,
+        "component_subject_ids": [277],
+        "amalgamation_subject_ids": [6723, 6851],
+        "meanings": ["Simultaneous"],
+        "meaning_mnemonic": `The **r[simultaneous]r** radical and the **k[simultaneous]k** kanji are the same!`
+    },
+    1863: {
+        "slug": "旨",
+        "level": 43,
+        "component_subject_ids": [57, 22],
+        "amalgamation_subject_ids": [6724, 6725, 6726, 6727],
+        "meanings": ["Point", "Delicious"],
+        "meaning_mnemonic": `Take your **r[spoon]r** to the **r[sun]r** to be able to take a bite. It's **k[delicious]k**, you hear. That's the **k[point]k** of the spoon.`
+    },
+    1864: {
+        "slug": "柔",
+        "level": 43,
+        "component_subject_ids": [148, 23],
+        "amalgamation_subject_ids": [6728, 6729, 6730, 7838],
+        "meanings": ["Gentle"],
+        "meaning_mnemonic": `You've been ordered to **r[spear]r** this **r[tree]r** but you decide to be really **k[gentle]k** instead.`
+    },
+    1865: {
+        "slug": "沈",
+        "level": 43,
+        "component_subject_ids": [103, 391],
+        "amalgamation_subject_ids": [6731, 6732, 6733, 7045, 7898],
+        "meanings": ["Sink"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits a **r[pirate]r** they are going to **k[sink]k** no matter how good of a pirate captain they are.`
+    },
+    1867: {
+        "slug": "泰",
+        "level": 43,
+        "component_subject_ids": [8779, 45],
+        "amalgamation_subject_ids": [6739],
+        "meanings": ["Peace"],
+        "meaning_mnemonic": `The sound of **r[spring]r** **r[water]r** always puts you at **k[peace]k**.`
+    },
+    1868: {
+        "slug": "滅",
+        "level": 43,
+        "component_subject_ids": [103, 5, 194, 1, 46],
+        "amalgamation_subject_ids": [6740, 6741, 6742, 6743, 6744, 6745, 6852],
+        "meanings": ["Destroy"],
+        "meaning_mnemonic": `Hit by a **r[tsunami]r** the **r[drunkard]r** is propelled down a **r[slide]r** where he hits the **r[ground]r** which is covered in **r[fire]r**. He is immediately **k[destroy]k**ed.`
+    },
+    1869: {
+        "slug": "滋",
+        "level": 43,
+        "component_subject_ids": [103, 8767, 1, 87],
+        "amalgamation_subject_ids": [6746],
+        "meanings": ["Nourishing"],
+        "meaning_mnemonic": `A (fresh water) **r[tsunami]r**. Some **r[horns]r**. The **r[ground]r**. A bunch of **r[poop]r**. Combine these together and let them decompose a while. You'll have yourself some very **k[nourishing]k** soil.`
+    },
+    1870: {
+        "slug": "炉",
+        "level": 43,
+        "component_subject_ids": [46, 73],
+        "amalgamation_subject_ids": [6747, 6748, 6749, 6750],
+        "meanings": ["Furnace"],
+        "meaning_mnemonic": `A **r[fire]r** **r[door]r** is a door that leads to something full of fire. That thing is a **k[furnace]k**.`
+    },
+    1871: {
+        "slug": "琴",
+        "level": 43,
+        "component_subject_ids": [48, 238],
+        "amalgamation_subject_ids": [6751],
+        "meanings": ["Harp", "Zither", "Koto"],
+        "meaning_mnemonic": `Two **r[king]r**s are here right **r[now]r**! We need to entertain them otherwise who knows what they'll do. Get out the **k[harp]k**, or the **k[zither]k**, or something.`
+    },
+    1872: {
+        "slug": "寸",
+        "level": 44,
+        "component_subject_ids": [74],
+        "amalgamation_subject_ids": [7512, 7513, 7556, 7557],
+        "meanings": ["Measurement"],
+        "meaning_mnemonic": `The **r[measurement]r** radical and the **k[measurement]k** kanji are exactly the same.`
+    },
+    1873: {
+        "slug": "竜",
+        "level": 44,
+        "component_subject_ids": [394],
+        "amalgamation_subject_ids": [6772, 6773, 6774],
+        "meanings": ["Dragon"],
+        "meaning_mnemonic": `The **r[dragon]r** radical is the same as this kanji, which is **k[dragon]k**.`
+    },
+    1874: {
+        "slug": "縁",
+        "level": 44,
+        "component_subject_ids": [86, 105, 233],
+        "amalgamation_subject_ids": [6775, 6776, 6777, 7612],
+        "meanings": ["Edge"],
+        "meaning_mnemonic": `There's a **r[thread]r** tying **r[wolverine]r** to a **r[pig]r**, balancing them over the **k[edge]k** of a cliff together.`
+    },
+    1875: {
+        "slug": "翼",
+        "level": 44,
+        "component_subject_ids": [213, 51, 269],
+        "amalgamation_subject_ids": [6778, 6779, 6780, 7780, 7781],
+        "meanings": ["Wing"],
+        "meaning_mnemonic": `A **r[feather]r** is on a **r[rice paddy]r**, and they are attached **r[together]r**. You put a feather on a rice paddy to create a giant airplane. Flawed, sure. But, this rice paddy + feather is going to be one **k[wing]k** of your amazing aircraft.`
+    },
+    1876: {
+        "slug": "吉",
+        "level": 44,
+        "component_subject_ids": [253],
+        "amalgamation_subject_ids": [6781, 6782],
+        "meanings": ["Good Luck"],
+        "meaning_mnemonic": `The **r[good luck]r** radical and the **k[good luck]k** kanji are the same!`
+    },
+    1877: {
+        "slug": "刃",
+        "level": 44,
+        "component_subject_ids": [393],
+        "amalgamation_subject_ids": [6785, 6786, 6787],
+        "meanings": ["Blade"],
+        "meaning_mnemonic": `The radical **r[blade]r** and the kanji **k[blade]k** are exactly the same.`
+    },
+    1878: {
+        "slug": "忍",
+        "level": 44,
+        "component_subject_ids": [393, 65],
+        "amalgamation_subject_ids": [6783, 6784, 7209],
+        "meanings": ["Endure"],
+        "meaning_mnemonic": `If someone puts a **r[blade]r** to your **r[heart]r**, you're going to have a rough time. They leave it there, for a long long time. They aren't going to cut you, but you can't move. You have to **k[endure]k** the pain and uncomfortableness of the situation.`
+    },
+    1879: {
+        "slug": "桃",
+        "level": 44,
+        "component_subject_ids": [23, 363],
+        "amalgamation_subject_ids": [6788, 6789],
+        "meanings": ["Peach"],
+        "meaning_mnemonic": `The **r[tree]r** has an **r[omen]r** growing from it, one single **k[peach]k** that is the size of a house. Inside is a child who will save the village from demons.`
+    },
+    1880: {
+        "slug": "辛",
+        "level": 44,
+        "component_subject_ids": [178],
+        "amalgamation_subject_ids": [6790, 6791, 6792, 6793, 6794, 8812],
+        "meanings": ["Spicy"],
+        "meaning_mnemonic": `The **r[spicy]r** radical and **k[spicy]k** kanji are exactly the same! Hot!`
+    },
+    1881: {
+        "slug": "謎",
+        "level": 44,
+        "component_subject_ids": [117, 114, 98],
+        "amalgamation_subject_ids": [6795, 6796],
+        "meanings": ["Riddle"],
+        "meaning_mnemonic": `I **r[say]r**, which weighs more: a kilogram of **r[scooter]r**s or a kilogram of **r[rice]r**? This is a **k[riddle]k**!`
+    },
+    1882: {
+        "slug": "侍",
+        "level": 44,
+        "component_subject_ids": [75, 192],
+        "amalgamation_subject_ids": [6797],
+        "meanings": ["Samurai"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[temple]r** isn't a monk like you'd expect. It's a **k[samurai]k**, who protects the monks in return for prayers that keep him safe.`
+    },
+    1884: {
+        "slug": "叱",
+        "level": 44,
+        "component_subject_ids": [16, 4],
+        "amalgamation_subject_ids": [6801],
+        "meanings": ["Scold"],
+        "meaning_mnemonic": `From my **r[mouth]r** I have told you **r[seven]r** times not to do that. Now I have to **k[scold]k** you.`
+    },
+    1885: {
+        "slug": "娯",
+        "level": 44,
+        "component_subject_ids": [19, 348],
+        "amalgamation_subject_ids": [6802],
+        "meanings": ["Recreation"],
+        "meaning_mnemonic": `A **r[woman]r** loves her **r[catapult]r** for some good ol' fashioned **k[recreation]k**.`
+    },
+    1886: {
+        "slug": "斗",
+        "level": 44,
+        "component_subject_ids": [129],
+        "amalgamation_subject_ids": [6803, 9055, 9056, 9098],
+        "meanings": ["Ladle", "Dipper", "Volume"],
+        "meaning_mnemonic": `The **r[ladle]r** radical and the **k[ladle]k** kanji are the same!`
+    },
+    1887: {
+        "slug": "朱",
+        "level": 44,
+        "component_subject_ids": [5, 134],
+        "amalgamation_subject_ids": [6804, 6805],
+        "meanings": ["Vermilion"],
+        "meaning_mnemonic": `The **r[slide]r** to get off this **r[jet]r** is a beautiful, brilliant **k[vermilion]k** color.`
+    },
+    1888: {
+        "slug": "丘",
+        "level": 44,
+        "component_subject_ids": [115, 1],
+        "amalgamation_subject_ids": [6806, 6807, 8336],
+        "meanings": ["Hill"],
+        "meaning_mnemonic": `An **r[axe]r** is stuck into the **r[ground]r** on a **k[hill]k**.`
+    },
+    1889: {
+        "slug": "梨",
+        "level": 44,
+        "component_subject_ids": [135, 128, 23],
+        "amalgamation_subject_ids": [6808],
+        "meanings": ["Pear"],
+        "meaning_mnemonic": `The **r[grain]r** you cut off a **r[tree]r** with a **r[knife]r** is a **k[pear]k**. I don't know if you've ever seen Asian pears, but they're pretty big and sturdy. You can't just pick them off of the tree, you need the help of a knife. That's why this is a pear, and not an apple or peach or something else.`
+    },
+    1892: {
+        "slug": "叫",
+        "level": 44,
+        "component_subject_ids": [16, 289],
+        "amalgamation_subject_ids": [6812, 6813, 6960, 6961],
+        "meanings": ["Shout"],
+        "meaning_mnemonic": `You have **r[mouth]r** **r[vines]r**, so you **k[shout]k**! It's hard for you to talk normally, and even harder for people to understand you unless you shout.`
+    },
+    1893: {
+        "slug": "釣",
+        "level": 44,
+        "component_subject_ids": [118, 236],
+        "amalgamation_subject_ids": [6814, 6815],
+        "meanings": ["Fishing"],
+        "meaning_mnemonic": `A **r[gold]r** **r[pool]r** is where you're going to go **k[fishing]k**. Because, if the pool is gold, hopefully the fish are too.`
+    },
+    1894: {
+        "slug": "髪",
+        "level": 44,
+        "component_subject_ids": [138, 38, 301],
+        "amalgamation_subject_ids": [6816, 6817, 6818, 6819],
+        "meanings": ["Hair"],
+        "meaning_mnemonic": `Your **r[long]r** **r[hair]r** is your **r[friend]r**. It's your **k[hair]k** and you're so proud of it.`
+    },
+    1895: {
+        "slug": "嵐",
+        "level": 44,
+        "component_subject_ids": [20, 416],
+        "amalgamation_subject_ids": [6820],
+        "meanings": ["Storm"],
+        "meaning_mnemonic": `The **r[mountain]r** **r[wind]r** coming down from the mountains is very fierce. It is so fierce it's a lot like a **k[storm]k**. Well, it is a storm, really.`
+    },
+    1896: {
+        "slug": "笠",
+        "level": 44,
+        "component_subject_ids": [85, 55],
+        "amalgamation_subject_ids": [6821],
+        "meanings": ["Conical Hat"],
+        "meaning_mnemonic": `A **r[bamboo]r** thing you put on your head to **r[stand]r** taller would probably be a hat. A bamboo hat is probably one of those hats you think of when you think of rice farmers, a **k[conical hat]k**.`
+    },
+    1897: {
+        "slug": "涙",
+        "level": 44,
+        "component_subject_ids": [103, 73, 18],
+        "amalgamation_subject_ids": [6823, 6824],
+        "meanings": ["Teardrop"],
+        "meaning_mnemonic": `A **r[tsunami]r** goes through a little **r[door]r**, and plops down a **r[big]r** drop on your face. This tsunami is your tears inside your eye area. The door is your tear duct. The big drop is the **k[teardrop]k** coming down your eye.`
+    },
+    1899: {
+        "slug": "姫",
+        "level": 44,
+        "component_subject_ids": [19, 323],
+        "amalgamation_subject_ids": [6829, 6830],
+        "meanings": ["Princess"],
+        "meaning_mnemonic": `The **r[woman]r** **r[servant]r** is the lower ranking **k[princess]k**. The queen is no servant. Hecks no. Just the princess, because she's a servant to what her parents tell her to do.`
+    },
+    1901: {
+        "slug": "粒",
+        "level": 44,
+        "component_subject_ids": [98, 55],
+        "amalgamation_subject_ids": [6834, 6835, 6957],
+        "meanings": ["Grains"],
+        "meaning_mnemonic": `The part of **r[rice]r** that **r[stand]r**s up tall in the air (at the end of the stalks) is the **k[grains]k**.`
+    },
+    1902: {
+        "slug": "砲",
+        "level": 44,
+        "component_subject_ids": [54, 395],
+        "amalgamation_subject_ids": [6822],
+        "meanings": ["Cannon"],
+        "meaning_mnemonic": `You put a **r[stone]r** into a **r[wrap]r** of some kind. This wrap happens to be a **k[cannon]k**, and you're shooting off the stone, just like I used to do to boats with the cannon we had growing up for some reason.`
+    },
+    1903: {
+        "slug": "雷",
+        "level": 44,
+        "component_subject_ids": [119, 51],
+        "amalgamation_subject_ids": [6836, 6837, 6838, 7666],
+        "meanings": ["Thunder"],
+        "meaning_mnemonic": `**r[Rain]r** on a **r[rice paddy]r** means only one thing... **k[thunder]k**! Get off the rice paddy! There's nothing but you to attract the thunder!`
+    },
+    1904: {
+        "slug": "芽",
+        "level": 44,
+        "component_subject_ids": [90, 333],
+        "amalgamation_subject_ids": [6839, 6962, 8405],
+        "meanings": ["Sprout"],
+        "meaning_mnemonic": `A **r[flowers]r** **r[fang]r** is the bud that comes out of the ground. It's like a little fang, coming from the earth, and it will become a flower someday. This is a little **k[sprout]k**.`
+    },
+    1905: {
+        "slug": "塔",
+        "level": 44,
+        "component_subject_ids": [17, 90, 216],
+        "amalgamation_subject_ids": [6840, 6841, 6842, 6843],
+        "meanings": ["Tower"],
+        "meaning_mnemonic": `When **r[dirt]r** and **r[flowers]r** **r[suit]r** one another, the flowers grow so tall that they make a **k[tower]k**! A flower tower made of flower power!`
+    },
+    1906: {
+        "slug": "澄",
+        "level": 45,
+        "component_subject_ids": [103, 168, 181],
+        "amalgamation_subject_ids": [6856, 7144],
+        "meanings": ["Lucidity"],
+        "meaning_mnemonic": `When the **r[tsunami]r** struck, it hit your **r[tent]r** full of **r[beans]r**. When you lost your tent of beans, you had a moment of **k[lucidity]k**. You don't need so much stuff, you can live without it!`
+    },
+    1907: {
+        "slug": "矛",
+        "level": 45,
+        "component_subject_ids": [148],
+        "amalgamation_subject_ids": [6857, 7147, 7254],
+        "meanings": ["Spear"],
+        "meaning_mnemonic": `The **r[spear]r** radical and the **k[spear]k** kanji are the same!`
+    },
+    1908: {
+        "slug": "肌",
+        "level": 45,
+        "component_subject_ids": [43, 177],
+        "amalgamation_subject_ids": [6858, 6859, 6860, 6861],
+        "meanings": ["Skin"],
+        "meaning_mnemonic": `The **r[moon]r** **r[table]r** is a table that's made entirely of **k[skin]k**. You thought the table was made of moon, with all those pores and such, but when you look more closely, you realize it's skin. Disgusting, porous, skin.`
+    },
+    1909: {
+        "slug": "舟",
+        "level": 45,
+        "component_subject_ids": [149],
+        "amalgamation_subject_ids": [6862, 6863, 8264],
+        "meanings": ["Boat"],
+        "meaning_mnemonic": `The **r[boat]r** radical and the **k[boat]k** kanji are the same!`
+    },
+    1910: {
+        "slug": "鐘",
+        "level": 45,
+        "component_subject_ids": [118, 55, 125],
+        "amalgamation_subject_ids": [6864, 6865],
+        "meanings": ["Bell"],
+        "meaning_mnemonic": `Something made of **r[gold]r** **r[stand]r**s in a **r[village]r**. It's a **k[bell]k**!  The village bell.`
+    },
+    1911: {
+        "slug": "凶",
+        "level": 45,
+        "component_subject_ids": [262],
+        "amalgamation_subject_ids": [6866, 6867, 6868],
+        "meanings": ["Villain"],
+        "meaning_mnemonic": `If there's a **r[treasure chest]r**, there's always a **k[villain]k** too. The villain is trying to get to the treasure chest before the hero of the story.`
+    },
+    1912: {
+        "slug": "塊",
+        "level": 45,
+        "component_subject_ids": [17, 292],
+        "amalgamation_subject_ids": [7145, 7146],
+        "meanings": ["Lump"],
+        "meaning_mnemonic": `A **r[dirt]r** **r[demon]r** is just a **k[lump]k**. Just like a dust bunny is just a clump of dust.`
+    },
+    1913: {
+        "slug": "狩",
+        "level": 45,
+        "component_subject_ids": [144, 396],
+        "amalgamation_subject_ids": [6869, 6870, 7142, 7909],
+        "meanings": ["Hunt"],
+        "meaning_mnemonic": `I **r[protect]r** my own **r[animal]r**s by going to **k[hunt]k** other animals... like wolves and cougars and such. `
+    },
+    1914: {
+        "slug": "頃",
+        "level": 45,
+        "component_subject_ids": [57, 184],
+        "amalgamation_subject_ids": [6871, 6872, 6873, 6874, 6875, 6876, 6877, 7726],
+        "meanings": ["Approximate"],
+        "meaning_mnemonic": `A **r[spoon]r** to measure a **r[geoduck]r** is a very **k[approximate]k** measurement. Geoducks are big, spoons are small. Still, we'll get the approximation going, right?`
+    },
+    1915: {
+        "slug": "魂",
+        "level": 45,
+        "component_subject_ids": [159, 292],
+        "amalgamation_subject_ids": [6878, 6879, 7146, 8245, 8572],
+        "meanings": ["Soul", "Spirit"],
+        "meaning_mnemonic": `The **r[cloud]r** floating above a **r[demon]r** has its **k[soul]k** in it. If you can manage to get through to the demon, to make it see that it doesn't have to be evil, it might remember who it is and return to the **k[spirit]k** it once was.`
+    },
+    1916: {
+        "slug": "脚",
+        "level": 45,
+        "component_subject_ids": [43, 244, 145],
+        "amalgamation_subject_ids": [6880, 6881],
+        "meanings": ["Leg"],
+        "meaning_mnemonic": `If you've been to the **r[moon]r** in the **r[past]r**, you had to get the special **r[stamp]r** on your **k[leg]k**.`
+    },
+    1917: {
+        "slug": "也",
+        "level": 45,
+        "component_subject_ids": [77],
+        "amalgamation_subject_ids": [6882],
+        "meanings": ["Considerably"],
+        "meaning_mnemonic": `An **r[alligator]r** is **k[considerably]k** dangerous. Considerably terrifying too. Considerably [put your scary adjective here].`
+    },
+    1918: {
+        "slug": "井",
+        "level": 45,
+        "component_subject_ids": [246],
+        "amalgamation_subject_ids": [6883, 6884],
+        "meanings": ["Well"],
+        "meaning_mnemonic": `The **r[well]r** radical and the **k[well]k** kanji are the same.`
+    },
+    1919: {
+        "slug": "呪",
+        "level": 45,
+        "component_subject_ids": [16, 191],
+        "amalgamation_subject_ids": [6885, 6886],
+        "meanings": ["Curse"],
+        "meaning_mnemonic": `From the **r[mouth]r** of your **r[older brother]r** comes... a **k[curse]k**!`
+    },
+    1920: {
+        "slug": "嬢",
+        "level": 45,
+        "component_subject_ids": [19, 430],
+        "amalgamation_subject_ids": [7138],
+        "meanings": ["Miss"],
+        "meaning_mnemonic": `A **r[woman]r** who is a **r[nurse]r** should be called **k[miss]k**.`
+    },
+    1921: {
+        "slug": "暦",
+        "level": 45,
+        "component_subject_ids": [116, 23, 22],
+        "amalgamation_subject_ids": [6887, 6888, 6889],
+        "meanings": ["Calendar"],
+        "meaning_mnemonic": `Looking up to the **r[cliff]r**, you see the **r[tree]r**s, and the **r[sun]r** shining down on them. Using the sun and the trees (up there on the cliff), you've devised a method to tell what time of the year it is, based on where the shadow from the trees fall. After a while, you develop a bigger system. This system is a whole **k[calendar]k**.`
+    },
+    1922: {
+        "slug": "曇",
+        "level": 45,
+        "component_subject_ids": [22, 119, 159],
+        "amalgamation_subject_ids": [6890, 6891],
+        "meanings": ["Cloudy"],
+        "meaning_mnemonic": `The **r[sun]r** is being blocked by a **r[rain]r** **r[cloud]r**, making it **k[cloudy]k**.`
+    },
+    1923: {
+        "slug": "眺",
+        "level": 45,
+        "component_subject_ids": [53, 363],
+        "amalgamation_subject_ids": [6892, 6893, 7054],
+        "meanings": ["Stare"],
+        "meaning_mnemonic": `When your **r[eye]r** catches an **r[omen]r**, it's only natural that you will **k[stare]k** at it. `
+    },
+    1924: {
+        "slug": "裸",
+        "level": 45,
+        "component_subject_ids": [80, 235],
+        "amalgamation_subject_ids": [6894, 6895, 6896, 7139],
+        "meanings": ["Naked", "Nude"],
+        "meaning_mnemonic": `If you're showing me your "**r[spirit]r** **r[fruit]r**" then you are just **k[naked]k**. You're **k[nude]k**.`
+    },
+    1925: {
+        "slug": "賭",
+        "level": 45,
+        "component_subject_ids": [94, 203],
+        "amalgamation_subject_ids": [6897, 6898],
+        "meanings": ["Gamble"],
+        "meaning_mnemonic": `I'm putting all my **r[shellfish]r** on **r[someone]r**, hoping they'll win the race! This is a **k[gamble]k** and you're gambling.`
+    },
+    1926: {
+        "slug": "疲",
+        "level": 45,
+        "component_subject_ids": [187, 195],
+        "amalgamation_subject_ids": [6899, 6900, 7055, 7449, 8276],
+        "meanings": ["Exhausted"],
+        "meaning_mnemonic": `I have **r[sick]r** in my **r[skin]r**. Just look at it, it doesn't look too good. Whenever I have sickness in my skin, I know that I'm probably **k[exhausted]k**.`
+    },
+    1927: {
+        "slug": "塾",
+        "level": 45,
+        "component_subject_ids": [345, 223, 17],
+        "amalgamation_subject_ids": [6901, 6902, 6903],
+        "meanings": ["Cram School"],
+        "meaning_mnemonic": `You **r[receive]r** instruction in a **r[circle]r** in the **r[dirt]r**. Where are you? **k[Cram school]k**!`
+    },
+    1928: {
+        "slug": "卓",
+        "level": 45,
+        "component_subject_ids": [10, 201],
+        "amalgamation_subject_ids": [6904, 6905, 6906, 6907],
+        "meanings": ["Table"],
+        "meaning_mnemonic": `The **r[toe]r** is **r[early]r**. I hate it when the toes show up early. Well, if the toes are going to show up this early, I guess it's best to put them on the **k[table]k**.`
+    },
+    1929: {
+        "slug": "磨",
+        "level": 45,
+        "component_subject_ids": [62, 23, 54],
+        "amalgamation_subject_ids": [6908, 6909, 7143],
+        "meanings": ["Polish"],
+        "meaning_mnemonic": `Below this **r[canopy]r** of **r[tree]r**s is a **r[stone]r**. Since it's the only stone here, you make sure to **k[polish]k** it.`
+    },
+    1930: {
+        "slug": "菌",
+        "level": 45,
+        "component_subject_ids": [90, 16, 135],
+        "amalgamation_subject_ids": [6910, 6911, 6912, 6913, 8576],
+        "meanings": ["Bacteria"],
+        "meaning_mnemonic": `When you leave **r[grain]r**s in your **r[mouth]r** for long enough, they'll turn into **r[flowers]r** of **k[bacteria]k**. These aren't the nice, pretty flowers you'd give your mom on Mother's Day. These are little bacteria flowers that are taking over your mouth. Maybe brush your teeth next time.`
+    },
+    1931: {
+        "slug": "陰",
+        "level": 45,
+        "component_subject_ids": [176, 238, 159],
+        "amalgamation_subject_ids": [6914, 6915, 7148, 7319],
+        "meanings": ["Shade"],
+        "meaning_mnemonic": `This **r[building]r** **r[now]r** has a **r[cloud]r** over it, creating **k[shade]k**.`
+    },
+    1932: {
+        "slug": "霊",
+        "level": 45,
+        "component_subject_ids": [119, 7, 8768],
+        "amalgamation_subject_ids": [6916, 6917, 6918, 6919, 7020],
+        "meanings": ["Ghost"],
+        "meaning_mnemonic": `Coming down with the **r[rain]r** is **r[two]r** **r[spikes]r**. They go right through two **k[ghost]k**s.`
+    },
+    1933: {
+        "slug": "湿",
+        "level": 45,
+        "component_subject_ids": [103, 22, 8768],
+        "amalgamation_subject_ids": [6920, 6921, 6922, 6923, 7056],
+        "meanings": ["Damp"],
+        "meaning_mnemonic": `After the **r[tsunami]r** the **r[sun]r** comes out again and shines on these **r[spikes]r**. They were super wet before, but you figure the sun probably dried them off. You lean down to touch them and nope, they's still **k[damp]k**.`
+    },
+    1934: {
+        "slug": "硬",
+        "level": 45,
+        "component_subject_ids": [54, 397],
+        "amalgamation_subject_ids": [6853, 6854, 9058],
+        "meanings": ["Stiff"],
+        "meaning_mnemonic": `You feel like a **r[stone]r** (**r[again]r**!). When you feel like a stone, your body is feeling very **k[stiff]k**.`
+    },
+    1935: {
+        "slug": "稼",
+        "level": 45,
+        "component_subject_ids": [135, 398],
+        "amalgamation_subject_ids": [6855, 7141],
+        "meanings": ["Earnings"],
+        "meaning_mnemonic": `The **r[grain]r**s you have stored in your **r[house]r** reflect on your **k[earnings]k**. If you earn a lot of money, you have more grains.`
+    },
+    1936: {
+        "slug": "嫁",
+        "level": 45,
+        "component_subject_ids": [19, 398],
+        "amalgamation_subject_ids": [6924, 6925],
+        "meanings": ["Bride"],
+        "meaning_mnemonic": `The **r[woman]r** who makes your **r[house]r** a home is your **k[bride]k**.`
+    },
+    1937: {
+        "slug": "溝",
+        "level": 45,
+        "component_subject_ids": [103, 303],
+        "amalgamation_subject_ids": [6926, 6927, 6928],
+        "meanings": ["Gutter"],
+        "meaning_mnemonic": `**r[Tsunami]r** vs **r[lifeguard]r**. Who will win? After the water drains away, we find the lifeguard in the **k[gutter]k**.`
+    },
+    1938: {
+        "slug": "滝",
+        "level": 45,
+        "component_subject_ids": [103, 394],
+        "amalgamation_subject_ids": [6929, 6930, 9107],
+        "meanings": ["Waterfall"],
+        "meaning_mnemonic": `A **r[tsunami]r** in the shape of a **r[dragon]r** flies off the cliff, then comes crashing down to the ground. This skinny tsunami of water flying down to the ground is a **k[waterfall]k**.`
+    },
+    1939: {
+        "slug": "狂",
+        "level": 45,
+        "component_subject_ids": [144, 48],
+        "amalgamation_subject_ids": [6931, 6932],
+        "meanings": ["Lunatic", "Crazy"],
+        "meaning_mnemonic": `The **r[animal]r** **r[king]r**? He's just this guy who lives in the forest and thinks he's king of all the animals. He's a **k[lunatic]k**, though.`
+    },
+    1940: {
+        "slug": "翔",
+        "level": 45,
+        "component_subject_ids": [136, 213],
+        "amalgamation_subject_ids": [6933],
+        "meanings": ["Fly"],
+        "meaning_mnemonic": `A **r[sheep]r** with **r[feathers]r** (and presumably wings, too) is able to **k[fly]k**.`
+    },
+    1941: {
+        "slug": "墨",
+        "level": 46,
+        "component_subject_ids": [153, 17],
+        "amalgamation_subject_ids": [6964, 6965, 6966],
+        "meanings": ["Black Ink", "Ink"],
+        "meaning_mnemonic": `You use **r[black]r** **r[dirt]r** to make **k[black ink]k**. That's what you use to write in black!`
+    },
+    1942: {
+        "slug": "鳩",
+        "level": 46,
+        "component_subject_ids": [11, 151],
+        "amalgamation_subject_ids": [6967],
+        "meanings": ["Dove", "Pigeon"],
+        "meaning_mnemonic": `There are **r[nine]r** **r[bird]r**s and one of them is a **k[dove]k** and another is a **k[pigeon]k**. These nine birds are a flock of all kinds, but the dove and the pigeon are the leaders.`
+    },
+    1943: {
+        "slug": "穏",
+        "level": 46,
+        "component_subject_ids": [135, 8772, 105, 65],
+        "amalgamation_subject_ids": [6968, 6969, 6970, 6971],
+        "meanings": ["Calm"],
+        "meaning_mnemonic": `Some **r[grains]r** get stuck in his **r[cleat]r**, and **r[Wolverine]r**'s **r[heart]r** grows **k[calm]k**. Wolverine had been screaming and yelling and stomping around, but when the grains entered his cleat he realized where he was. He was finally able to calm down.`
+    },
+    1944: {
+        "slug": "鈍",
+        "level": 46,
+        "component_subject_ids": [118, 315],
+        "amalgamation_subject_ids": [6972, 6973, 6974],
+        "meanings": ["Dull"],
+        "meaning_mnemonic": `Make **r[barracks]r** out of **r[gold]r** and they will get **k[dull]k** quickly. Gold is soft, it's okay for jewelry and delicate things that aren't used much, but barracks for soldiers? Those are used constantly, and they get worn out easily. What was once shiny gold will go dull in days.`
+    },
+    1945: {
+        "slug": "魔",
+        "level": 46,
+        "component_subject_ids": [62, 23, 292],
+        "amalgamation_subject_ids": [6975, 6976, 6977, 6978, 7159, 7369, 7559],
+        "meanings": ["Devil"],
+        "meaning_mnemonic": `Below the **r[canopy]r** of **r[tree]r**s is a **r[demon]r**. This demon is a **k[devil]k**.`
+    },
+    1946: {
+        "slug": "寮",
+        "level": 46,
+        "component_subject_ids": [78, 319],
+        "amalgamation_subject_ids": [6979, 6980],
+        "meanings": ["Dormitory"],
+        "meaning_mnemonic": `You need to bring **r[charcoal]r** under this **r[roof]r** to heat the **k[dormitory]k**. You live in this dormitory with a bunch of other kids, and you all have to take turns bringing in the charcoal from outside to heat it.`
+    },
+    1947: {
+        "slug": "盆",
+        "level": 46,
+        "component_subject_ids": [247, 84],
+        "amalgamation_subject_ids": [6981, 7216, 8106],
+        "meanings": ["Lantern Festival", "Tray"],
+        "meaning_mnemonic": `I found **r[part]r** of a **r[plate]r** at the **k[lantern festival]k**, and put it on a **k[tray]k** to keep it safe. There is a legendary plate broken into three parts. One part of the plate I found was at the lantern festival. The lantern festival was pretty cool, but I’m really glad I found the part of that plate I was looking for.`
+    },
+    1948: {
+        "slug": "棟",
+        "level": 46,
+        "component_subject_ids": [23, 224],
+        "amalgamation_subject_ids": [6984],
+        "meanings": ["Pillar"],
+        "meaning_mnemonic": `There’s a **r[tree]r** in the **r[east]r** that looks like a **k[pillar]k**. The tree is tall and straight and does not have any leaves or branches. The tree is basically a big wooden pillar that just happens to be alive still.`
+    },
+    1949: {
+        "slug": "吾",
+        "level": 46,
+        "component_subject_ids": [39, 16],
+        "amalgamation_subject_ids": [6985],
+        "meanings": ["I", "Me"],
+        "meaning_mnemonic": `I have **r[five]r** things in my **r[mouth]r** and **k[I]k** need them all for **k[me]k**. I own these five things, and I keep them in my mouth so people like you cannot take them from me.`
+    },
+    1950: {
+        "slug": "斬",
+        "level": 46,
+        "component_subject_ids": [93, 115],
+        "amalgamation_subject_ids": [6986, 6987, 6988],
+        "meanings": ["Slice"],
+        "meaning_mnemonic": `You use your **r[car]r** and an **r[axe]r** to **k[slice]k** down a pedestrian. This innocent guy is just walking along the road when you drive up to him in your car and axe him to death with your axe. You’re all like, VROOM! AXE! Now this guy is dead because you sliced him down in cold blood.`
+    },
+    1951: {
+        "slug": "寧",
+        "level": 46,
+        "component_subject_ids": [78, 65, 163, 27],
+        "amalgamation_subject_ids": [6982, 6983],
+        "meanings": ["Rather"],
+        "meaning_mnemonic": `On the **r[roof]r** is your **r[heart]r**. OR! In a **r[net]r** in the **r[street]r**. Which would you **k[rather]k**?`
+    },
+    1952: {
+        "slug": "椅",
+        "level": 46,
+        "component_subject_ids": [23, 326],
+        "amalgamation_subject_ids": [6989, 7154],
+        "meanings": ["Chair"],
+        "meaning_mnemonic": `This **r[tree]r** is very **r[odd]r**, to say the least. The shape is all crazy, like a lightning bolt stuck into the ground, or something. Oh wait, look at this. I can sit on it really nicely. It's just like a **k[chair]k**!`
+    },
+    1953: {
+        "slug": "歳",
+        "level": 46,
+        "component_subject_ids": [44, 5, 194, 207],
+        "amalgamation_subject_ids": [6990, 6991, 6992, 6993, 6994, 6995],
+        "meanings": ["Years Old"],
+        "meaning_mnemonic": `You need to **r[stop]r** a **r[drunkard]r** from going down a **r[slide]r** with a **r[jackhammer]r** to ask him how many **k[years old]k** he is. He's doing a lot of dangerous things right now, and they all have age limits.`
+    },
+    1954: {
+        "slug": "涼",
+        "level": 46,
+        "component_subject_ids": [103, 299],
+        "amalgamation_subject_ids": [6996, 6997, 6998, 7160],
+        "meanings": ["Cool"],
+        "meaning_mnemonic": `A **r[tsunami]r** causes the **r[capital]r** to become very **k[cool]k**. The capital was already a pretty cool temperature, but with the addition of the water from the tsunami, the capital is now very cool.`
+    },
+    1955: {
+        "slug": "猿",
+        "level": 46,
+        "component_subject_ids": [144, 17, 16, 8770],
+        "amalgamation_subject_ids": [6999, 7000],
+        "meanings": ["Monkey"],
+        "meaning_mnemonic": `An **r[animal]r** that **r[kick]r**s **r[dirt]r** into people's **r[mouth]r**s is a **k[monkey]k**. Monkeys are naughty little things. You should be happy it was just dirt it kicked into your mouth, and not something worse.`
+    },
+    1956: {
+        "slug": "瞳",
+        "level": 46,
+        "component_subject_ids": [53, 55, 125],
+        "amalgamation_subject_ids": [7001, 7509],
+        "meanings": ["Pupil"],
+        "meaning_mnemonic": `Inside your **r[eye]r** **r[stand]r**s a tiny **r[village]r** that makes up your **k[pupil]k**. That's the black part of your eye!`
+    },
+    1957: {
+        "slug": "鍵",
+        "level": 46,
+        "component_subject_ids": [118, 206, 220],
+        "amalgamation_subject_ids": [7002],
+        "meanings": ["Key"],
+        "meaning_mnemonic": `You take some **r[gold]r** and cover your **r[yoga]r** **r[brush]r** in it, turning it into a **k[key]k**. You shove the brush you normally use for yoga into the lock to your car and pour the gold over it. Now it's the right shape to be a key!`
+    },
+    1958: {
+        "slug": "零",
+        "level": 46,
+        "component_subject_ids": [119, 189],
+        "amalgamation_subject_ids": [7003, 7004, 7005, 7006, 7007, 8937],
+        "meanings": ["Zero", "Spill"],
+        "meaning_mnemonic": `You get **r[rain]r** **r[orders]r**. Your orders are to make sure there is **k[zero]k** **k[spill]k**.`
+    },
+    1959: {
+        "slug": "碁",
+        "level": 46,
+        "component_subject_ids": [205, 54],
+        "amalgamation_subject_ids": [7008, 7009, 7010, 7011],
+        "meanings": ["Go"],
+        "meaning_mnemonic": `A **r[crab]r** moves a **r[stone]r** because he is playing the game **k[Go]k**. You know this game, right? You put black or white stones on a board until you win the game. This is the Japanese game known as Go. This crab is pretty good.`
+    },
+    1960: {
+        "slug": "租",
+        "level": 46,
+        "component_subject_ids": [135, 419],
+        "amalgamation_subject_ids": [7012, 7013],
+        "meanings": ["Tariff"],
+        "meaning_mnemonic": `Someone with a **r[top hat]r** comes and tells you that your **r[grain]r**s are going to be taxed from now on. Top hat man says there is a **k[tariff]k** that's been enacted on grains. Rice? Triple the price. Wheat? Quadruple.`
+    },
+    1961: {
+        "slug": "幽",
+        "level": 46,
+        "component_subject_ids": [87, 20],
+        "amalgamation_subject_ids": [7019, 7020],
+        "meanings": ["Secluded"],
+        "meaning_mnemonic": `**r[Poop]r** **r[Poop]r** **r[Mountain]r** is covered in poop because it is such a **k[secluded]k** place.`
+    },
+    1962: {
+        "slug": "泡",
+        "level": 46,
+        "component_subject_ids": [103, 395],
+        "amalgamation_subject_ids": [7014, 7015, 7016, 7017],
+        "meanings": ["Bubbles"],
+        "meaning_mnemonic": `If a **r[tsunami]r** **r[wrap]r**s around itself, the resulting wave will create a lot of **k[bubbles]k**. You know how tsunamis wrap around once gravity kicks in, right? Well when that wave crashes, a whole lot of bubbles are created.`
+    },
+    1963: {
+        "slug": "癖",
+        "level": 46,
+        "component_subject_ids": [187, 367],
+        "amalgamation_subject_ids": [7018, 7021, 7152],
+        "meanings": ["Habit"],
+        "meaning_mnemonic": `When you get **r[sick]r** you always eat a **r[hot pepper]r**. It's a **k[habit]k** you've picked up and you can't seem to shake it. One sniffle, one cough, and before you know it, you're eating a hot pepper or two.`
+    },
+    1964: {
+        "slug": "鍛",
+        "level": 46,
+        "component_subject_ids": [118, 8792, 160],
+        "amalgamation_subject_ids": [7022, 7024],
+        "meanings": ["Forge"],
+        "meaning_mnemonic": `You want to turn your **r[gold]r** **r[comb]r** into a **r[weapon]r**, so you throw it into the **k[forge]k**.`
+    },
+    1965: {
+        "slug": "錬",
+        "level": 46,
+        "component_subject_ids": [118, 224],
+        "amalgamation_subject_ids": [7022, 7023],
+        "meanings": ["Tempering"],
+        "meaning_mnemonic": `The **r[gold]r** from the **r[east]r** needs **k[tempering]k** before it can be sold. The gold from the east is good, it just needs some tempering before it’s entirely presentable. You know, tempering like you’d do in a forge.`
+    },
+    1966: {
+        "slug": "穂",
+        "level": 46,
+        "component_subject_ids": [135, 400],
+        "amalgamation_subject_ids": [7025, 7026],
+        "meanings": ["Head of Plant", "Ear Of Plant"],
+        "meaning_mnemonic": `The part of the **r[grain]r** people **r[favor]r** the most is the **k[head of the plant]k**. You don't eat the stems and leaves of rice or wheat plants, right? You eat the head where the grains are.`
+    },
+    1967: {
+        "slug": "帝",
+        "level": 46,
+        "component_subject_ids": [55, 102],
+        "amalgamation_subject_ids": [7027, 7028, 7029, 7030, 7153],
+        "meanings": ["Sovereign"],
+        "meaning_mnemonic": `You **r[stand]r** your **r[towel]r** up so everyone can see it. This announces that you are the **k[sovereign]k** ruler of this bathroom.`
+    },
+    1968: {
+        "slug": "瞬",
+        "level": 46,
+        "component_subject_ids": [53, 8772, 76, 429],
+        "amalgamation_subject_ids": [7031, 7032, 7033, 7036, 7037],
+        "meanings": ["Blink"],
+        "meaning_mnemonic": `Your **r[eye]r** gets kicked with a **r[cleat]r** that came careening toward your **r[forehead]r** when it popped off someone doing a **r[dance]r**, and you **k[blink]k**.`
+    },
+    1969: {
+        "slug": "菊",
+        "level": 46,
+        "component_subject_ids": [90, 14, 98],
+        "amalgamation_subject_ids": [7034],
+        "meanings": ["Chrysanthemum"],
+        "meaning_mnemonic": `If you pick certain **r[rice]r** or **r[flowers]r** you'll be put in **r[prison]r**. The most famous of these is the **k[chrysanthemum]k**. Chrysanthemums are super important in Japan because they're the symbol of the imperial family. They're even on the cover of Japanese passports. If you get caught picking a chrysanthemum, you're going to prison.`
+    },
+    1970: {
+        "slug": "誇",
+        "level": 46,
+        "component_subject_ids": [117, 18, 7, 14],
+        "amalgamation_subject_ids": [7035, 7038, 7039],
+        "meanings": ["Pride"],
+        "meaning_mnemonic": `**r[Say]r** "**r[two]r** **r[big]r** **r[prison]r**s" with **k[pride]k**! Nobody said you can't have pride after serving time in two big prisons. So say it with your chest!`
+    },
+    1971: {
+        "slug": "庄",
+        "level": 46,
+        "component_subject_ids": [62, 17],
+        "amalgamation_subject_ids": [7040],
+        "meanings": ["Manor"],
+        "meaning_mnemonic": `You're standing under a **r[canopy]r** when you see something strange sticking out of the **r[dirt]r**. You pull it, but it won't budge. You pull harder and harder until the dirt starts rumbling and a giant **k[manor]k** starts rising out of the ground with you on top!`
+    },
+    1972: {
+        "slug": "阻",
+        "level": 46,
+        "component_subject_ids": [176, 419],
+        "amalgamation_subject_ids": [7041, 7042, 7043],
+        "meanings": ["Thwart"],
+        "meaning_mnemonic": `If you see a **r[building]r** wearing a giant **r[top hat]r**, beware! This building is a fake and it's trying to **k[thwart]k** all of the plans the people in other buildings have.`
+    },
+    1973: {
+        "slug": "黙",
+        "level": 46,
+        "component_subject_ids": [125, 47, 131],
+        "amalgamation_subject_ids": [7044, 7045, 7046, 8612],
+        "meanings": ["Shut Up"],
+        "meaning_mnemonic": `Your village wants to take the **r[village]r** **r[dog]r** and **r[boil]r** it, and you can think of no other response than **k[SHUT UP]k**! `
+    },
+    1974: {
+        "slug": "俵",
+        "level": 46,
+        "component_subject_ids": [75, 210, 8770],
+        "amalgamation_subject_ids": [7047, 7048, 7155],
+        "meanings": ["Sack"],
+        "meaning_mnemonic": `The **r[leader]r** of your sad **r[life]r** aims a **r[kick]r** at the **k[sack]k** you are holding. This leader is in charge of making your life sad. The next step in the leader making your life suck is attempting to kick your sack out of your hands. Your sack holds all your valuables, so it's not something you want to have kicked.`
+    },
+    1975: {
+        "slug": "綿",
+        "level": 46,
+        "component_subject_ids": [86, 52, 102],
+        "amalgamation_subject_ids": [7049, 7050, 8692],
+        "meanings": ["Cotton"],
+        "meaning_mnemonic": `The **r[white]r** **r[thread]r** in your **r[towel]r** comes from **k[cotton]k**. We use cotton to make lots of things, like clothes and bedsheets. But white towels are always made from soft, fluffy cotton.`
+    },
+    1976: {
+        "slug": "架",
+        "level": 46,
+        "component_subject_ids": [13, 16, 23],
+        "amalgamation_subject_ids": [7051, 7052, 7053],
+        "meanings": ["Shelf"],
+        "meaning_mnemonic": `With the **r[power]r** of your **r[mouth]r** you command a **r[tree]r** to become a **k[shelf]k**. Most of the time one would have to use their hands and tools to turn a tree into a shelf, but you are capable of turning a tree into a shelf by using the power of your mouth.`
+    },
+    1977: {
+        "slug": "砕",
+        "level": 47,
+        "component_subject_ids": [54, 11, 15],
+        "amalgamation_subject_ids": [7057, 7058, 7059, 8948],
+        "meanings": ["Smash"],
+        "meaning_mnemonic": `Take this **r[stone]r** and throw it at **r[nine]r** **r[cross]r**es to **k[smash]k** them! It's like old-fashioned bowling, but instead of rolling this stone to knock down the crosses, you want to completely smash them to bits!`
+    },
+    1978: {
+        "slug": "粘",
+        "level": 47,
+        "component_subject_ids": [98, 143],
+        "amalgamation_subject_ids": [7060, 7061, 7062, 7260, 7448],
+        "meanings": ["Sticky"],
+        "meaning_mnemonic": `Your **r[rice]r** **r[fortune]r** is **k[sticky]k**. Rice is sticky. So is your rice fortune. Your fortune of rice is sticky because it is made up entirely of sticky rice.`
+    },
+    1979: {
+        "slug": "粧",
+        "level": 47,
+        "component_subject_ids": [98, 62, 17],
+        "amalgamation_subject_ids": [7063],
+        "meanings": ["Cosmetics"],
+        "meaning_mnemonic": `Sitting safely under your **r[canopy]r** you take **r[rice]r** and **r[dirt]r**, mix it up, and create unique **k[cosmetics]k** for your face.`
+    },
+    1980: {
+        "slug": "欺",
+        "level": 47,
+        "component_subject_ids": [205, 142],
+        "amalgamation_subject_ids": [7064, 7065, 7443],
+        "meanings": ["Deceit"],
+        "meaning_mnemonic": `A **r[crab]r** will try to hide what it **r[lack]r**s with **k[deceit]k**. Lying, stealing, faking things—no type of deceit is too much for a crab.`
+    },
+    1981: {
+        "slug": "詐",
+        "level": 47,
+        "component_subject_ids": [117, 122],
+        "amalgamation_subject_ids": [7065, 7066, 7067, 7443],
+        "meanings": ["Lie"],
+        "meaning_mnemonic": `They **r[say]r** the **r[key]r** to telling a **k[lie]k** is to totally believe the lie yourself. They say that if you believe your own lie, others will believe it as well. This is key.`
+    },
+    1982: {
+        "slug": "霧",
+        "level": 47,
+        "component_subject_ids": [119, 148, 60, 13],
+        "amalgamation_subject_ids": [7068, 7069, 7070],
+        "meanings": ["Fog"],
+        "meaning_mnemonic": `It's **r[rain]r**ing on your **r[spear]r** that has **r[winter]r** **r[power]r**. When the warm rain hits your cold, winter spear, it creates **k[fog]k**.`
+    },
+    1983: {
+        "slug": "柳",
+        "level": 47,
+        "component_subject_ids": [23, 145],
+        "amalgamation_subject_ids": [7071, 7072, 7073, 7446],
+        "meanings": ["Willow"],
+        "meaning_mnemonic": `A **r[tree]r** that is **r[stamp]r**ed with one pattern, then **r[stamp]r**ed with another pattern, over and over, is the **k[willow]k** tree. `
+    },
+    1984: {
+        "slug": "伊",
+        "level": 47,
+        "component_subject_ids": [75, 105, 5],
+        "amalgamation_subject_ids": [7074, 7075],
+        "meanings": ["Italy"],
+        "meaning_mnemonic": `A **r[leader]r** and **r[Wolverine]r** take a **r[slide]r** to **k[Italy]k**. Wolverine’s leader is Professor X, and they are both sliding down a big slide to Italy. How fun!`
+    },
+    1985: {
+        "slug": "佐",
+        "level": 47,
+        "component_subject_ids": [75, 26, 25],
+        "amalgamation_subject_ids": [7076, 7077, 7078, 7079],
+        "meanings": ["Help"],
+        "meaning_mnemonic": `The **r[leader]r** of a **r[narwhal]r** **r[construction]r** crew needs all the **k[help]k** he can get. The narwhals are beginning construction on an underwater city. The leader knows the narwhals are hard construction workers, but they’ll need some help building this city.`
+    },
+    1986: {
+        "slug": "尺",
+        "level": 47,
+        "component_subject_ids": [215],
+        "amalgamation_subject_ids": [7080, 7081],
+        "meanings": ["Shaku", "Japanese Foot"],
+        "meaning_mnemonic": `This **r[shrimp]r** is the exact length of a **k[shaku]k**, or **k[Japanese foot]k**. That’s how they came up with this form of measurement. They measured the length of this shrimp and it was the length of a Japanese foot which they deemed the shaku. It’s equal to 30.3cm, very close to one imperial foot.`
+    },
+    1987: {
+        "slug": "哀",
+        "level": 47,
+        "component_subject_ids": [8, 16, 8770],
+        "amalgamation_subject_ids": [7082, 7083, 7084, 7434, 8198],
+        "meanings": ["Pathetic"],
+        "meaning_mnemonic": `With a **r[lid]r**, you hit yourself in the **r[mouth]r** and then **r[kick]r** it like a **k[pathetic]k** loser. You kick the lid, even though it is your fault that you hit yourself in the mouth with it. It’s not the lid’s fault. You don’t need to kick it. You’re being pathetic.`
+    },
+    1988: {
+        "slug": "唇",
+        "level": 47,
+        "component_subject_ids": [183, 16],
+        "amalgamation_subject_ids": [7085, 7086, 7087],
+        "meanings": ["Lips"],
+        "meaning_mnemonic": `A **r[landslide]r** came out of your **r[mouth]r** and created your **k[lips]k**. Before the landslide, you just had a wide open mouth hole.`
+    },
+    1989: {
+        "slug": "塀",
+        "level": 47,
+        "component_subject_ids": [17, 37, 8767, 171],
+        "amalgamation_subject_ids": [7088, 7089],
+        "meanings": ["Fence"],
+        "meaning_mnemonic": `In the **r[dirt]r** there are **r[flag]r**s and **r[horns]r** lined up with a **r[lantern]r** attached to them, making a **k[fence]k**. It's a little weird looking, but these things are definitely supposed to fence something in.`
+    },
+    1990: {
+        "slug": "墜",
+        "level": 47,
+        "component_subject_ids": [176, 8767, 233, 17],
+        "amalgamation_subject_ids": [7090, 7091],
+        "meanings": ["Crash"],
+        "meaning_mnemonic": `A **r[building]r** falls into the **r[dirt]r** when a **r[pig]r** with **r[horns]r** **k[crash]k**es into it. The building literally crashes to the ground when the horned pig attacks it.`
+    },
+    1991: {
+        "slug": "如",
+        "level": 47,
+        "component_subject_ids": [19, 16],
+        "amalgamation_subject_ids": [7092, 7093, 7094],
+        "meanings": ["Likeness"],
+        "meaning_mnemonic": `With a **r[woman]r**'s **r[mouth]r**, you have a **k[likeness]k** to me.`
+    },
+    1992: {
+        "slug": "婆",
+        "level": 47,
+        "component_subject_ids": [402, 19],
+        "amalgamation_subject_ids": [7095, 7096, 7261],
+        "meanings": ["Old Woman"],
+        "meaning_mnemonic": `A **r[wave]r** crashes into a **r[woman]r**, transforming her into an **k[old woman]k**! The wave washes away all of the woman's makeup, revealing her to be an old woman. The makeup she had on made her appear to be a much younger woman, but once the wave washed away her makeup, she was revealed for the old woman she is.`
+    },
+    1993: {
+        "slug": "崖",
+        "level": 47,
+        "component_subject_ids": [20, 116, 17],
+        "amalgamation_subject_ids": [7097],
+        "meanings": ["Cliff"],
+        "meaning_mnemonic": `There is a **r[mountain]r** on top of a bunch of **r[dirt]r** with a steep **r[cliff]r**. This is a bit redundant, but the mountain and the dirt just make the **k[cliff]k** even bigger and steeper and scarier.`
+    },
+    1994: {
+        "slug": "帽",
+        "level": 47,
+        "component_subject_ids": [102, 22, 53],
+        "amalgamation_subject_ids": [7100],
+        "meanings": ["Hat"],
+        "meaning_mnemonic": `You take a **r[towel]r** and wrap it around your head to keep the **r[sun]r** out of your **r[eye]r**s. You've invented... the **k[hat]k**!`
+    },
+    1995: {
+        "slug": "幣",
+        "level": 47,
+        "component_subject_ids": [431, 102],
+        "amalgamation_subject_ids": [7101, 7102, 7257],
+        "meanings": ["Cash"],
+        "meaning_mnemonic": `That **r[penguin]r** over there seems to have a **r[towel]r** stuffed with **k[cash]k**.`
+    },
+    1996: {
+        "slug": "恨",
+        "level": 47,
+        "component_subject_ids": [232, 196],
+        "amalgamation_subject_ids": [7103, 7104, 7433],
+        "meanings": ["Grudge"],
+        "meaning_mnemonic": `A **r[soul]r** will only inhabit a **r[root]r** if it's holding a **k[grudge]k**. Have you ever seen a nice, haunted tree? No! They're always angry and trying to get someone back for something.`
+    },
+    1997: {
+        "slug": "憎",
+        "level": 47,
+        "component_subject_ids": [232, 259],
+        "amalgamation_subject_ids": [7105, 7106, 7262, 7263, 7264],
+        "meanings": ["Hate"],
+        "meaning_mnemonic": `The **r[soul]r** **r[mask]r** helps you to see the deepest part of anyone's soul. You look around and in all the people you only see **k[hate]k**.`
+    },
+    1998: {
+        "slug": "憩",
+        "level": 47,
+        "component_subject_ids": [174, 109, 65],
+        "amalgamation_subject_ids": [7107, 7108, 7435, 7447],
+        "meanings": ["Rest"],
+        "meaning_mnemonic": `You keep your **r[tongue]r** to your **r[self]r** to give your **r[heart]r** a **k[rest]k**. You’ve been talking and moving your tongue around all day expressing your feelings. This has tired both your tongue and your heart out, so you stop your tongue moving and decide that you need some self rest time.`
+    },
+    1999: {
+        "slug": "扇",
+        "level": 47,
+        "component_subject_ids": [73, 213],
+        "amalgamation_subject_ids": [7109, 7110, 7111, 7265, 7266],
+        "meanings": ["Folding Fan"],
+        "meaning_mnemonic": `After passing through a **r[door]r**, you use a **r[feather]r** to put the finishing touches on a **k[folding fan]k**. The door leads to your folding fan workshop where you make all your folding fans. This folding fan is now complete that you’ve added a feather to it. How lovely it is.`
+    },
+    2000: {
+        "slug": "扉",
+        "level": 47,
+        "component_subject_ids": [73, 209],
+        "amalgamation_subject_ids": [7112, 7113],
+        "meanings": ["Front Door"],
+        "meaning_mnemonic": `The **r[door]r** a **r[criminal]r** will get into is the **k[front door]k**. Now hold on, you may be thinking, wouldn't they go for the back door? No! 99% of home invasions happen when you leave your own front door unlocked!`
+    },
+    2001: {
+        "slug": "挿",
+        "level": 47,
+        "component_subject_ids": [63, 32, 22],
+        "amalgamation_subject_ids": [7114, 7115, 7116, 7267],
+        "meanings": ["Insert"],
+        "meaning_mnemonic": `You have **r[fingers]r** in the **r[thousand]r**s and while looking up at the **r[sun]r** you decide you want to **k[insert]k** them in there.`
+    },
+    2002: {
+        "slug": "掌",
+        "level": 47,
+        "component_subject_ids": [8769, 16, 41],
+        "amalgamation_subject_ids": [7117, 7118, 7119],
+        "meanings": ["Manipulate"],
+        "meaning_mnemonic": `A **r[Viking]r** moves your **r[mouth]r** with his **r[hand]r** to **k[manipulate]k** it. He sticks his hand into your mouth. With the Viking's hand in your mouth, he can make you look like you’re saying anything he wants.`
+    },
+    2003: {
+        "slug": "滴",
+        "level": 47,
+        "component_subject_ids": [103, 276],
+        "amalgamation_subject_ids": [7120, 7121, 7122],
+        "meanings": ["Drip"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits your **r[mohawk]r** and it begins to **k[drip]k**. The water from the tsunami continues to drip from your mohawk long after the tsunami has passed. There’s a lot of water in your hair now, so it’s probably going to drip for a while.`
+    },
+    2004: {
+        "slug": "炊",
+        "level": 47,
+        "component_subject_ids": [46, 142],
+        "amalgamation_subject_ids": [7123, 7124, 7125, 7126, 8941],
+        "meanings": ["Cook"],
+        "meaning_mnemonic": `Without a **r[fire]r**, you will **r[lack]r** the ability to **k[cook]k** anything. You really need a fire to cook properly. Having a fire will make sure any cooking endeavors you attempt will not fail.`
+    },
+    2005: {
+        "slug": "爽",
+        "level": 47,
+        "component_subject_ids": [18, 31],
+        "amalgamation_subject_ids": [7127],
+        "meanings": ["Refreshing"],
+        "meaning_mnemonic": `A **r[big]r** **r[treasure]r** **r[treasure]r** **r[treasure]r** **r[treasure]r** is **k[refreshing]k**! Sorry, I can’t say treasure treasure treasure treasure without saying it four times. See? I did it again. Anyway, this big treasure treasure treasure treasure is really refreshing. It’s been a long time since you found a treasure treasure treasure treasure, so finding this big one is really refreshing.`
+    },
+    2006: {
+        "slug": "畳",
+        "level": 47,
+        "component_subject_ids": [51, 76, 419],
+        "amalgamation_subject_ids": [7128, 7129],
+        "meanings": ["Tatami Mat"],
+        "meaning_mnemonic": `In the **r[rice paddy]r** there is a **r[forehead]r** with a **r[top hat]r**. It sits atop an area of **k[tatami mat]k**s.`
+    },
+    2007: {
+        "slug": "瞭",
+        "level": 47,
+        "component_subject_ids": [53, 319],
+        "amalgamation_subject_ids": [7130, 7258],
+        "meanings": ["Clear"],
+        "meaning_mnemonic": `Rub **r[charcoal]r** under your **r[eye]r**s if you want to see **k[clear]k**ly. Sports players also rub charcoal under their eyes to see nice and clear in the bright sun.`
+    },
+    2008: {
+        "slug": "箸",
+        "level": 47,
+        "component_subject_ids": [85, 203],
+        "amalgamation_subject_ids": [7131, 7132],
+        "meanings": ["Chopsticks"],
+        "meaning_mnemonic": `You give **r[bamboo]r** to **r[someone]r** and they make them into **k[chopsticks]k**. They are very talented at turning bamboo into bamboo chopsticks. This someone is an expert at their profession.`
+    },
+    2009: {
+        "slug": "胴",
+        "level": 47,
+        "component_subject_ids": [43, 341],
+        "amalgamation_subject_ids": [7133, 7134],
+        "meanings": ["Torso"],
+        "meaning_mnemonic": `The **r[moon]r** is the **r[same]r** as your **k[torso]k**. You must have a really huge torso for it to be the same as the moon.`
+    },
+    2010: {
+        "slug": "芯",
+        "level": 47,
+        "component_subject_ids": [90, 65],
+        "amalgamation_subject_ids": [7135],
+        "meanings": ["Wick"],
+        "meaning_mnemonic": `There are **r[flowers]r** growing around a **r[heart]r** with a **k[wick]k** sticking out of it. The heart is a sacrifice to the old gods and the life energy bleeds from the burning wick to feed the flowers. The wick burns, releasing the power of the heart which spreads into the ground around the heart causing the flowers to grow.`
+    },
+    2011: {
+        "slug": "虹",
+        "level": 47,
+        "component_subject_ids": [89, 25],
+        "amalgamation_subject_ids": [7136, 7137],
+        "meanings": ["Rainbow"],
+        "meaning_mnemonic": `An **r[insect]r** specializing in **r[construction]r** builds a **k[rainbow]k**. Did you ever wonder where rainbows come from? Construction insects build them. Construction insects build rainbows.`
+    },
+    2012: {
+        "slug": "帳",
+        "level": 48,
+        "component_subject_ids": [102, 138],
+        "amalgamation_subject_ids": [7165, 7166, 7167, 7168, 7169, 7378],
+        "meanings": ["Notebook"],
+        "meaning_mnemonic": `Take your **r[towel]r** and make it **r[long]r**. It has to be longer than that! For this will be your **k[notebook]k**, which you will write all your notes in.`
+    },
+    2013: {
+        "slug": "蚊",
+        "level": 48,
+        "component_subject_ids": [89, 42],
+        "amalgamation_subject_ids": [7164, 7165],
+        "meanings": ["Mosquito"],
+        "meaning_mnemonic": `The type of **r[insect]r** that ruins your **r[writing]r** is the **k[mosquito]k**. You're trying to write, when you hear that horrible high-pitched mosquito noise in your ear. You jerk your head and swat and it's gone. But when you look down, there's lines all over what you were writing.`
+    },
+    2014: {
+        "slug": "蛇",
+        "level": 48,
+        "component_subject_ids": [89, 78, 57],
+        "amalgamation_subject_ids": [7170],
+        "meanings": ["Snake"],
+        "meaning_mnemonic": `There is an **r[insect]r** on the **r[roof]r** in a **r[spoon]r**. It's there for the eating, and it's how you plan to attract a **k[snake]k** to your roof.`
+    },
+    2015: {
+        "slug": "貼",
+        "level": 48,
+        "component_subject_ids": [94, 143],
+        "amalgamation_subject_ids": [7171],
+        "meanings": ["Paste"],
+        "meaning_mnemonic": `Your **r[shellfish]r** are worth a **r[fortune]r** because you decided to **k[paste]k** your fortune to the shellfish.`
+    },
+    2016: {
+        "slug": "辱",
+        "level": 48,
+        "component_subject_ids": [183, 74],
+        "amalgamation_subject_ids": [7172, 7173, 7174, 8519],
+        "meanings": ["Humiliate"],
+        "meaning_mnemonic": `The **r[landslide]r** **r[measurement]r** **k[humiliate]k**s you. You told everyone you couldn't come to work, that your house had been destroyed and your car was carried away, but then scientists measured the landslide, and it only went a few feet.`
+    },
+    2017: {
+        "slug": "鉢",
+        "level": 48,
+        "component_subject_ids": [118, 50],
+        "amalgamation_subject_ids": [7175, 7176, 7177],
+        "meanings": ["Bowl"],
+        "meaning_mnemonic": `Cast a **r[book]r** in **r[gold]r** to make a **k[bowl]k**. Books can be bent into the shape of a bowl, so then all you have to do is pour gold over it to keep it in that shape and ta-da! A bowl has been born!`
+    },
+    2018: {
+        "slug": "闇",
+        "level": 48,
+        "component_subject_ids": [214, 197],
+        "amalgamation_subject_ids": [7178, 7179, 7180],
+        "meanings": ["Darkness"],
+        "meaning_mnemonic": `This **r[gate]r** makes the **r[sound]r** of **k[darkness]k**. The gate looks like darkness, but it’s even more creepy that it sounds like darkness too.`
+    },
+    2019: {
+        "slug": "隙",
+        "level": 48,
+        "component_subject_ids": [176, 35, 22],
+        "amalgamation_subject_ids": [7181, 7182],
+        "meanings": ["Crevice"],
+        "meaning_mnemonic": `In this **r[building]r** there's a **r[small]r** **r[sun]r** that's **r[small]r**. They keep this small, small sun inside of a **k[crevice]k**.`
+    },
+    2020: {
+        "slug": "霜",
+        "level": 48,
+        "component_subject_ids": [119, 23, 53],
+        "amalgamation_subject_ids": [7183],
+        "meanings": ["Frost"],
+        "meaning_mnemonic": `**r[Rain]r** falls off a **r[tree]r** and lands in your **r[eye]r** where it turns to **k[frost]k**. It turns to frost because it’s super cold outside and your body is freezing. The rain that fell off the tree turns to frost as soon as it hits your eye.`
+    },
+    2021: {
+        "slug": "飢",
+        "level": 48,
+        "component_subject_ids": [139, 177],
+        "amalgamation_subject_ids": [7184, 7185, 7437],
+        "meanings": ["Starve"],
+        "meaning_mnemonic": `You’re so hungry that you **r[eat]r** a **r[table]r** so you won’t **k[starve]k**. If you don’t eat this table, you will most definitely starve, so you eat the table to stay alive.`
+    },
+    2022: {
+        "slug": "餓",
+        "level": 48,
+        "component_subject_ids": [139, 272],
+        "amalgamation_subject_ids": [7184, 7186],
+        "meanings": ["Starve"],
+        "meaning_mnemonic": `If you have nothing to **r[eat]r** but your **r[ego]r**, you'll **k[starve]k**. You can't eat it, and your ego is keeping you from accepting actual food or help from other people.`
+    },
+    2023: {
+        "slug": "畜",
+        "level": 48,
+        "component_subject_ids": [403, 51],
+        "amalgamation_subject_ids": [7187, 7188, 7189],
+        "meanings": ["Livestock"],
+        "meaning_mnemonic": `In the **r[mysterious]r** **r[rice paddy]r** there is some **k[livestock]k**. This livestock is also mysterious because no one knows where it came from. The mysterious livestock are only seen in the mysterious rice paddy. How mysterious indeed.`
+    },
+    2024: {
+        "slug": "迅",
+        "level": 48,
+        "component_subject_ids": [114, 116, 15],
+        "amalgamation_subject_ids": [7190],
+        "meanings": ["Swift"],
+        "meaning_mnemonic": `You drive your **r[scooter]r** off this **r[cliff]r**, holding your **r[cross]r** tight to your chest, at a **k[swift]k** speed.`
+    },
+    2025: {
+        "slug": "騎",
+        "level": 48,
+        "component_subject_ids": [165, 326],
+        "amalgamation_subject_ids": [7191, 7192, 7193, 7194],
+        "meanings": ["Horse Riding"],
+        "meaning_mnemonic": `This **r[horse]r** may look **r[odd]r** but it’s actually perfect for **k[horse riding]k**!`
+    },
+    2026: {
+        "slug": "蓄",
+        "level": 48,
+        "component_subject_ids": [90, 403, 51],
+        "amalgamation_subject_ids": [7161, 7162, 7163],
+        "meanings": ["Amass"],
+        "meaning_mnemonic": `**r[Flowers]r** are **r[mysterious]r**ly appearing in the **r[rice paddy]r**. No matter what you do to them, they continue to **k[amass]k**.`
+    },
+    2027: {
+        "slug": "尽",
+        "level": 48,
+        "component_subject_ids": [215, 123],
+        "amalgamation_subject_ids": [7195, 7196, 7197, 7438],
+        "meanings": ["Use Up", "Exhaust"],
+        "meaning_mnemonic": `You see **r[shrimp]r** on **r[ice]r** at the market in the morning. "I'll get some on the way home" you think to yourself. Later that evening, you see no shrimp, just ice. The supply of shrimp has been **k[exhaust]k**ed. It's all gone! You never thought they'd **k[use up]k** their shrimp supply so quickly.`
+    },
+    2028: {
+        "slug": "彩",
+        "level": 48,
+        "component_subject_ids": [8772, 23, 38],
+        "amalgamation_subject_ids": [7198, 7199, 7200, 7201, 7202, 7439],
+        "meanings": ["Coloring", "Colouring"],
+        "meaning_mnemonic": `You use a **r[cleat]r** to climb a **r[tree]r** and your **r[hair]r** gets the same **k[coloring]k** as the foliage because your hair is like a chameleon. The coloring of your hair changes to whatever color is around you, so you use your cleats to climb trees to make your hair turn green and brown, and in the fall, yellow and orange and red!`
+    },
+    2029: {
+        "slug": "憶",
+        "level": 48,
+        "component_subject_ids": [232, 221],
+        "amalgamation_subject_ids": [7203, 7204],
+        "meanings": ["Recollection"],
+        "meaning_mnemonic": `When your **r[soul]r** has an **r[idea]r** it's just a **k[recollection]k** of something you already know. Only your brain can have original ideas, so when your soul tries to come up with one, it's just a recollection of something you thought before now.`
+    },
+    2030: {
+        "slug": "溶",
+        "level": 48,
+        "component_subject_ids": [103, 404],
+        "amalgamation_subject_ids": [7205, 7206, 7207, 7358],
+        "meanings": ["Melt"],
+        "meaning_mnemonic": `The **r[tsunami]r** hits your **r[form]r** and you begin to **k[melt]k**. You are a witch and water makes you melt. The tsunami is a lot of water, so once it touches your form, you begin to melt.`
+    },
+    2031: {
+        "slug": "耐",
+        "level": 48,
+        "component_subject_ids": [309, 74],
+        "amalgamation_subject_ids": [7208, 7209, 7210, 7211, 7212],
+        "meanings": ["Resistant"],
+        "meaning_mnemonic": `You take a **r[rake]r** in for a **r[measurement]r** but it is **k[resistant]k**. The rake doesn’t want to have its measurements taken. The rake is resistant to have any measurement taken because it feels inferior to the other rakes and doesn’t want to be embarrassed if it ends up being smaller than the others.`
+    },
+    2032: {
+        "slug": "踊",
+        "level": 48,
+        "component_subject_ids": [95, 141, 71],
+        "amalgamation_subject_ids": [7213, 7214, 7215, 7216],
+        "meanings": ["Dance"],
+        "meaning_mnemonic": `Your **r[foot]r**, as your **r[mama]r** says, was given the **r[task]r** to **k[dance]k**. Shake those two foots your mama gave you and dance dance dance!`
+    },
+    2033: {
+        "slug": "賢",
+        "level": 48,
+        "component_subject_ids": [323, 30, 94],
+        "amalgamation_subject_ids": [7217, 7218, 7219, 7359],
+        "meanings": ["Clever"],
+        "meaning_mnemonic": `Your **r[servant]r** uses a **r[stool]r** to break open **r[shellfish]r**. You know how much work shucking shellfish is so this method is really **k[clever]k**.`
+    },
+    2034: {
+        "slug": "輝",
+        "level": 48,
+        "component_subject_ids": [405, 76, 93],
+        "amalgamation_subject_ids": [7220, 7221, 7222, 7360],
+        "meanings": ["Radiance"],
+        "meaning_mnemonic": `The **r[sunlight]r** shines on your **r[forehead]r** in your **r[car]r** with a great **k[radiance]k**. The car you are in is a convertible, so the sunlight shines right onto your big bald forehead. The sun has a pretty powerful radiance as it is, but the sheen from the sunlight hitting your forehead is the most powerful radiance ever witnessed by man.`
+    },
+    2035: {
+        "slug": "脅",
+        "level": 48,
+        "component_subject_ids": [13, 43],
+        "amalgamation_subject_ids": [7157, 7158, 7436],
+        "meanings": ["Threaten"],
+        "meaning_mnemonic": `There's **r[power]r**, **r[power]r**, and **r[power]r** stacked on top of the **r[moon]r**, **k[threaten]k**ing to bring it down!`
+    },
+    2036: {
+        "slug": "麻",
+        "level": 48,
+        "component_subject_ids": [62, 23],
+        "amalgamation_subject_ids": [7223, 7224, 7225, 7445],
+        "meanings": ["Hemp"],
+        "meaning_mnemonic": `This **r[canopy]r** of **r[tree]r**s isn't actually a canopy of trees at all. When you look closely, you see these trees are actually giant stalks of **k[hemp]k**.`
+    },
+    2037: {
+        "slug": "灯",
+        "level": 48,
+        "component_subject_ids": [46, 27],
+        "amalgamation_subject_ids": [7226, 7227, 7228, 7667],
+        "meanings": ["Lamp"],
+        "meaning_mnemonic": `**r[Fire]r** you use to light up the **r[street]r** needs to go in a **k[lamp]k**. Campfires, matches? No, none of those work. You need bright, safe lamps to keep the street nice at night.`
+    },
+    2038: {
+        "slug": "咲",
+        "level": 48,
+        "component_subject_ids": [16, 8767, 40],
+        "amalgamation_subject_ids": [7229, 7230, 7231],
+        "meanings": ["Blossom", "Bloom"],
+        "meaning_mnemonic": `Having a foul **r[mouth]r** and **r[horns]r** will prevent you from getting into **r[Heaven]r** where you would **k[blossom]k** into an angel. If you have horns, you are not meant for Heaven and will not blossom there. To blossom in Heaven, you must not have horns or a foul mouth.`
+    },
+    2039: {
+        "slug": "培",
+        "level": 48,
+        "component_subject_ids": [17, 175],
+        "amalgamation_subject_ids": [7232, 7233, 8105],
+        "meanings": ["Cultivate"],
+        "meaning_mnemonic": `You need to put a **r[clown]r** in the **r[dirt]r** if you want to **k[cultivate]k** good crops there. Clowns act as a natural fertilizer, and this will make it super easy to cultivate any crops you could ever want in this dirt. Isn't nature amazing?`
+    },
+    2040: {
+        "slug": "悔",
+        "level": 48,
+        "component_subject_ids": [232, 379],
+        "amalgamation_subject_ids": [7234, 7235, 7440],
+        "meanings": ["Regret"],
+        "meaning_mnemonic": `If you try to put your **r[soul]r** into **r[every]r**thing, you'll **k[regret]k** it. It's not so much that putting your soul into things is bad, but every single thing? You'll burn out immediately. You won't be able to be good at any of those things. And you'll regret all the time you wasted trying to be the best at everything.`
+    },
+    2041: {
+        "slug": "脇",
+        "level": 48,
+        "component_subject_ids": [43, 13],
+        "amalgamation_subject_ids": [7236, 7237, 7238],
+        "meanings": ["Armpit"],
+        "meaning_mnemonic": `The **r[moon]r** has a lot of **r[power]r** that is **r[power]r** it gets from the **r[power]r** of every **k[armpit]k** of every human on earth! Why does your armpit smell? It’s because the moon is draining the power from your armpit. The moon saps power from your armpit and that power is sucked up into the sky where the moon collects the power for its own devices.`
+    },
+    2042: {
+        "slug": "遂",
+        "level": 48,
+        "component_subject_ids": [114, 8767, 233],
+        "amalgamation_subject_ids": [7239, 7240, 7444],
+        "meanings": ["Accomplish"],
+        "meaning_mnemonic": `A **r[scooter]r** with **r[horns]r** with a **r[pig]r** riding on it will be able to **k[accomplish]k** anything.`
+    },
+    2043: {
+        "slug": "班",
+        "level": 48,
+        "component_subject_ids": [48, 128],
+        "amalgamation_subject_ids": [7241, 7242, 7243],
+        "meanings": ["Squad"],
+        "meaning_mnemonic": `If the **r[king]r** gives you a **r[knife]r** you become part of his **k[squad]k**. Every king has a knife squad or two protecting him and making sure his subjects keep in line.`
+    },
+    2044: {
+        "slug": "塗",
+        "level": 48,
+        "component_subject_ids": [103, 313, 17],
+        "amalgamation_subject_ids": [7244, 7245, 7246, 7247],
+        "meanings": ["Paint"],
+        "meaning_mnemonic": `A **r[tsunami]r** **r[surplus]r** will cover all the **r[dirt]r** with **k[paint]k**. The surplus of tsunamis will strike the paint factories first (everyone knows paint factories are built close to the ocean). Then the paint will flow over all the dirt and paint it a ton of rainbow colors.`
+    },
+    2045: {
+        "slug": "斜",
+        "level": 48,
+        "component_subject_ids": [313, 129],
+        "amalgamation_subject_ids": [7248, 7249, 7250],
+        "meanings": ["Diagonal"],
+        "meaning_mnemonic": `You have a **r[surplus]r** of **r[ladle]r**s laid out **k[diagonally]k** in front of you. Why are they diagonal? And why do you have so many ladles? Why the surplus? Hang on, we'll get there.`
+    },
+    2046: {
+        "slug": "殴",
+        "level": 48,
+        "component_subject_ids": [322, 160],
+        "amalgamation_subject_ids": [7251, 7252, 7441, 7442],
+        "meanings": ["Assault"],
+        "meaning_mnemonic": `Give a **r[district]r** **r[weapon]r**s and it will **k[assault]k** other districts.`
+    },
+    2047: {
+        "slug": "盾",
+        "level": 48,
+        "component_subject_ids": [116, 8773],
+        "amalgamation_subject_ids": [7253, 7254, 7255],
+        "meanings": ["Shield"],
+        "meaning_mnemonic": `On a **r[cliff]r**, the **r[pope]r** is holding a **k[shield]k**. The pope is near the edge of the cliff and is using the shield to fend off demons. The demons want to shove the pope off the cliff, but the pope is using his holy shield of popery to fend them off.`
+    },
+    2048: {
+        "slug": "穫",
+        "level": 48,
+        "component_subject_ids": [135, 90, 240, 30],
+        "amalgamation_subject_ids": [7256],
+        "meanings": ["Harvest"],
+        "meaning_mnemonic": `You need to feed this **r[grain]r** to a **r[flower]r** wearing **r[turkey]r** on a **r[stool]r** so you start the **k[harvest]k**. Grains don't pick themselves, you have to harvest them.`
+    },
+    2049: {
+        "slug": "巾",
+        "level": 47,
+        "component_subject_ids": [102],
+        "amalgamation_subject_ids": [7098, 7099],
+        "meanings": ["Towel"],
+        "meaning_mnemonic": `The kanji and the radical are the same, so remembering the meaning of this kanji is as simple as making sure you know the radical for **r[towel]r** first! If you know the radical, you know this kanji means **k[towel]k** as well.`
+    },
+    2050: {
+        "slug": "駒",
+        "level": 49,
+        "component_subject_ids": [165, 242],
+        "amalgamation_subject_ids": [7268],
+        "meanings": ["Chess Piece"],
+        "meaning_mnemonic": `The **r[horse]r** who can write a **r[paragraph]r** gets to be a **k[chess piece]k**. Only the most erudite of horses gets selected to be a chess piece. The knight’s chess piece is represented by a horse, and for a horse to earn this honor, they must first write a paragraph explaining why they deserve the honor.`
+    },
+    2052: {
+        "slug": "抽",
+        "level": 49,
+        "component_subject_ids": [63, 268],
+        "amalgamation_subject_ids": [7272, 7273, 7274],
+        "meanings": ["Pluck"],
+        "meaning_mnemonic": `Your **r[fingers]r** give you a good **r[reason]r** to **k[pluck]k** things. You pluck flowers out of the ground. You pluck a cat out of a tree. Why? Because you have fingers! That's your reason.`
+    },
+    2053: {
+        "slug": "誓",
+        "level": 49,
+        "component_subject_ids": [63, 115, 117],
+        "amalgamation_subject_ids": [7275, 7276],
+        "meanings": ["Vow"],
+        "meaning_mnemonic": `With your **r[fingers]r** under an **r[axe]r**, you **r[say]r** a **k[vow]k**. A vow is a sacred promise, so you have to be really serious when you say one. That's why you do it with an axe hovering above your fingers—it's a reminder that if you break this vow your fingers are gonna get chopped off.`
+    },
+    2054: {
+        "slug": "悟",
+        "level": 49,
+        "component_subject_ids": [232, 39, 16],
+        "amalgamation_subject_ids": [7281, 7282],
+        "meanings": ["Comprehension"],
+        "meaning_mnemonic": `Your **r[soul]r** connects to **r[five]r** different **r[mouths]r**, enhancing your **k[comprehension]k**. You can easily comprehend what each of those souls belonging to those mouths wants and feels deep down.`
+    },
+    2055: {
+        "slug": "拓",
+        "level": 49,
+        "component_subject_ids": [63, 54],
+        "amalgamation_subject_ids": [7283, 9112],
+        "meanings": ["Cultivation"],
+        "meaning_mnemonic": `You use your **r[fingers]r** and a **r[stone]r** to begin **k[cultivation]k** of the land. You use your fingers to till the soil, the stone to flatten the ground, and you carefully poke the seeds into the dirt and then use the stone to smash them further down.`
+    },
+    2056: {
+        "slug": "拘",
+        "level": 49,
+        "component_subject_ids": [63, 242],
+        "amalgamation_subject_ids": [7284],
+        "meanings": ["Arrest"],
+        "meaning_mnemonic": `You run your **r[fingers]r** along the words of a  **r[paragraph]r**. You are learning about the law because you plan to **k[arrest]k** somebody.`
+    },
+    2057: {
+        "slug": "礎",
+        "level": 49,
+        "component_subject_ids": [54, 23, 420],
+        "amalgamation_subject_ids": [7285, 7286],
+        "meanings": ["Foundation", "Cornerstone"],
+        "meaning_mnemonic": `There’s a **r[stone]r**, a **r[tree]r**, another **r[tree]r**, and a **r[coat rack]r**. That stone and two trees will make the perfect **k[foundation]k**, or **k[cornerstone]k**, for a house to put that coat rack in! This stone is flat and heavy and both of the trees are flexible and durable.`
+    },
+    2058: {
+        "slug": "鶴",
+        "level": 49,
+        "component_subject_ids": [78, 240, 151],
+        "amalgamation_subject_ids": [7287],
+        "meanings": ["Crane"],
+        "meaning_mnemonic": `On the **r[roof]r** there's some type of **r[turkey]r** **r[bird]r**, but thinner and longer. You look closer and realize it's a **k[crane]k**.`
+    },
+    2059: {
+        "slug": "刈",
+        "level": 49,
+        "component_subject_ids": [31, 128],
+        "amalgamation_subject_ids": [7288, 7289, 7290],
+        "meanings": ["Prune"],
+        "meaning_mnemonic": `Take your greatest **r[treasure]r**, hold a **r[knife]r** nice and close to it, and **k[prune]k** away all the weak and dead bits.`
+    },
+    2060: {
+        "slug": "剛",
+        "level": 49,
+        "component_subject_ids": [376, 128],
+        "amalgamation_subject_ids": [7291],
+        "meanings": ["Sturdy"],
+        "meaning_mnemonic": `A **r[hill]r** **r[knife]r** is the most **k[sturdy]k** knife you can find.`
+    },
+    2061: {
+        "slug": "唯",
+        "level": 49,
+        "component_subject_ids": [16, 240],
+        "amalgamation_subject_ids": [7292, 7293, 7294],
+        "meanings": ["Solely"],
+        "meaning_mnemonic": `The **r[mouth]r** of that **r[turkey]r** is **k[solely]k** his. It’s very unique, so that mouth could belong to no other turkey but him. That mouth is solely his.`
+    },
+    2062: {
+        "slug": "壇",
+        "level": 49,
+        "component_subject_ids": [17, 8, 406, 293],
+        "amalgamation_subject_ids": [7295, 7296, 7297],
+        "meanings": ["Podium"],
+        "meaning_mnemonic": `On the **r[dirt]r** there is a **r[lid]r** trying to cover the number of **r[times]r** the **r[dawn]r** has risen here. You walk over and pull the lid off and the whole thing transforms into a **k[podium]k**. A podium for the dawn to tell you how many times it's risen over this dirt over and over again. It just keeps going and you realize the lid was here because this dang podium can't seem to keep a lid on it! (Get it? Figure of speech!)`
+    },
+    2063: {
+        "slug": "尼",
+        "level": 49,
+        "component_subject_ids": [37, 57],
+        "amalgamation_subject_ids": [7298, 7299],
+        "meanings": ["Nun"],
+        "meaning_mnemonic": `You give a **r[flag]r** and a **r[spoon]r** to a **k[nun]k** as an offering. You give her this flag and this spoon because they are very precious to you and you want to show the nun how serious you are about repenting for your evil deeds.`
+    },
+    2064: {
+        "slug": "概",
+        "level": 49,
+        "component_subject_ids": [23, 196, 333],
+        "amalgamation_subject_ids": [7300, 7301, 7302, 7303, 7304, 7305],
+        "meanings": ["Approximation"],
+        "meaning_mnemonic": `Bite a **r[tree]r**'s **r[root]r** with your **r[fang]r** to get an **k[approximation]k** on its age. It won't be exact, this isn't scientific or anything, but it will be pretty close.`
+    },
+    2065: {
+        "slug": "浸",
+        "level": 49,
+        "component_subject_ids": [103, 105, 76, 30],
+        "amalgamation_subject_ids": [7259, 7306, 7307, 7802],
+        "meanings": ["Immersed"],
+        "meaning_mnemonic": `In the event of a **r[tsunami]r**, **r[Wolverine]r**, your **r[forehead]r**, and a **r[stool]r** will all be **k[immersed]k** in it. You will become immersed in the tsunami after it hits because tsunamis are gigantic and bring a lot of water. Now you and your forehead are immersed in the tsunami along with Wolverine and a stool.`
+    },
+    2066: {
+        "slug": "淡",
+        "level": 49,
+        "component_subject_ids": [103, 46],
+        "amalgamation_subject_ids": [7309, 7310],
+        "meanings": ["Faint"],
+        "meaning_mnemonic": `A **r[tsunami]r** and a couple **r[fire]r**s run into each other. They cancel each other out completely, and the remainder left behind is a **k[faint]k** remnant of what was once there.`
+    },
+    2067: {
+        "slug": "煮",
+        "level": 49,
+        "component_subject_ids": [203, 131],
+        "amalgamation_subject_ids": [7311, 7312, 7313, 8950],
+        "meanings": ["Boil"],
+        "meaning_mnemonic": `If **r[someone]r** wants to **r[boil]r**, you let them **k[boil]k**!`
+    },
+    2068: {
+        "slug": "覆",
+        "level": 49,
+        "component_subject_ids": [424, 99, 265],
+        "amalgamation_subject_ids": [7314, 7315, 7316, 7832],
+        "meanings": ["Capsize", "Cover"],
+        "meaning_mnemonic": `If a **r[helicopter]r** **r[loiter]r**s near a **r[black hole]r** then it's going to **k[capsize]k**. I mean, yeah, it's not a boat, but just look, that's what's happening! That helicopter is going down!
+        
+        If you want to save it you better **k[cover]k** up the black hole! The only way to save it from capsizing is to cover it right up!`
+    },
+    2069: {
+        "slug": "謀",
+        "level": 49,
+        "component_subject_ids": [117, 360, 23],
+        "amalgamation_subject_ids": [7317, 7318, 7319],
+        "meanings": ["Conspire"],
+        "meaning_mnemonic": `Watch what you **r[say]r** to what appears to be a **r[sweet]r** **r[tree]r**, because that tree will 100% **k[conspire]k** against you.`
+    },
+    2070: {
+        "slug": "陶",
+        "level": 49,
+        "component_subject_ids": [176, 14, 392],
+        "amalgamation_subject_ids": [7320, 7321, 7363],
+        "meanings": ["Pottery"],
+        "meaning_mnemonic": `The only type of **r[can]r** you'll be **r[building]r** in **r[prison]r** is one made of **k[pottery]k**. Do you honestly think they would let you have anything made of metal or plastic? No, too dangerous. You have to make all of your cans and plates and underpants the old-fashioned pottery way.`
+    },
+    2071: {
+        "slug": "隔",
+        "level": 49,
+        "component_subject_ids": [176, 336],
+        "amalgamation_subject_ids": [7322, 7323, 7324, 7325, 7326],
+        "meanings": ["Isolate"],
+        "meaning_mnemonic": `A **r[building]r** that has a **r[bully]r** will **k[isolate]k** itself. Building have feelings like people, you know.`
+    },
+    2072: {
+        "slug": "征",
+        "level": 49,
+        "component_subject_ids": [99, 229],
+        "amalgamation_subject_ids": [7327, 7328],
+        "meanings": ["Subjugate"],
+        "meaning_mnemonic": `If someone **r[loiter]r**s it's **r[correct]r** to **k[subjugate]k** them.`
+    },
+    2073: {
+        "slug": "陛",
+        "level": 49,
+        "component_subject_ids": [176, 161, 17],
+        "amalgamation_subject_ids": [7329],
+        "meanings": ["Highness"],
+        "meaning_mnemonic": `**r[Compare]r** a **r[building]r** to some **r[dirt]r** and you'll see the difference between you and His and Her **k[Highness]k**. You live outside and sleep on the dirt. But His and Her Highness both live in a huge building.`
+    },
+    2074: {
+        "slug": "俗",
+        "level": 49,
+        "component_subject_ids": [75, 249],
+        "amalgamation_subject_ids": [7330, 7331, 7332],
+        "meanings": ["Vulgar"],
+        "meaning_mnemonic": `The **r[leader]r** of this **r[valley]r** is very **k[vulgar]k**. The name of the valley is Vulgar Valley, so it makes sense for its leader to be very vulgar.`
+    },
+    2075: {
+        "slug": "桑",
+        "level": 49,
+        "component_subject_ids": [30, 23],
+        "amalgamation_subject_ids": [7333, 7334, 7335],
+        "meanings": ["Mulberry"],
+        "meaning_mnemonic": `You take a **r[stool]r**, another **r[stool]r**, and yet another **r[stool]r** and stack them on top of a **r[tree]r** to make a **k[mulberry]k** bush. This is how mulberry bushes are made. You take three stools and you put them atop a tree.`
+    },
+    2076: {
+        "slug": "潤",
+        "level": 49,
+        "component_subject_ids": [103, 214, 48],
+        "amalgamation_subject_ids": [7336, 7337, 7805],
+        "meanings": ["Watered"],
+        "meaning_mnemonic": `A **r[tsunami]r** at the **r[gate]r** of the **r[king]r** makes sure all of his plants get **k[watered]k**. The gate prevents the tsunami from damaging anything inside the king’s home, and the plants around the gate get watered by the water of the tsunami.`
+    },
+    2077: {
+        "slug": "珠",
+        "level": 49,
+        "component_subject_ids": [48, 5, 134],
+        "amalgamation_subject_ids": [7338, 7339, 7340],
+        "meanings": ["Pearl"],
+        "meaning_mnemonic": `The **r[king]r** takes his **r[slide]r** into his private **r[jet]r** and is given a **k[pearl]k** as a gift, by you! He's letting you ride in his jet today, and you were told the king should be presented with a pearl as soon as he boards.`
+    },
+    2078: {
+        "slug": "衰",
+        "level": 49,
+        "component_subject_ids": [8, 22, 8770],
+        "amalgamation_subject_ids": [7341, 7342, 7343],
+        "meanings": ["Decline"],
+        "meaning_mnemonic": `You take a **r[lid]r**, and aiming it at the **r[sun]r** you **r[kick]r** it into the air and eventually it begins to **k[decline]k** and crashes into the sun, causing it to supernova. Imagine kicking this lid so hard that it flies into space. See it fly up to the peak of its arch, then watch as it begins the decline until it finally collides with the sun.`
+    },
+    2079: {
+        "slug": "奨",
+        "level": 49,
+        "component_subject_ids": [8831, 18],
+        "amalgamation_subject_ids": [7344, 7345],
+        "meanings": ["Encourage"],
+        "meaning_mnemonic": `A **r[commander]r** who's **r[big]r** will use his size to **k[encourage]k** his troops.`
+    },
+    2080: {
+        "slug": "劣",
+        "level": 49,
+        "component_subject_ids": [198, 13],
+        "amalgamation_subject_ids": [7346, 7347, 7348, 7349, 8523],
+        "meanings": ["Inferiority"],
+        "meaning_mnemonic": `The **r[few]r** members of society without **r[power]r** suffer from severe **k[inferiority]k** complexes. Most people in this world have lots of power, so the few that do not feel quite inferior. It is this feeling of inferiority that fuels their inferiority complexes.`
+    },
+    2081: {
+        "slug": "勘",
+        "level": 49,
+        "component_subject_ids": [407, 13],
+        "amalgamation_subject_ids": [7350, 7351, 7352, 7353, 7354, 7786],
+        "meanings": ["Intuition"],
+        "meaning_mnemonic": `This **r[crab trap]r** has the **r[power]r** of **k[intuition]k**. By the power of intuition, this crab trap can trap like, every crab. Through intuition, it knows where the crabs will go and how they will react, so it is much easier to trap them.`
+    },
+    2082: {
+        "slug": "妃",
+        "level": 49,
+        "component_subject_ids": [19, 228],
+        "amalgamation_subject_ids": [7355, 7356, 7357],
+        "meanings": ["Princess", "Queen"],
+        "meaning_mnemonic": `A **r[woman]r** sees herself (**r[oneself]r**) as a **k[princess]k** or a **k[queen]k**. As women should! `
+    },
+    2084: {
+        "slug": "峰",
+        "level": 50,
+        "component_subject_ids": [20, 381],
+        "amalgamation_subject_ids": [7364, 7365],
+        "meanings": ["Summit"],
+        "meaning_mnemonic": `At the top of the **r[mountain]r** is a **r[signpost]r** to tell you you've reached the **k[summit]k**. Literally every mountain that humans have reached the top of has one of these summit signs.`
+    },
+    2085: {
+        "slug": "巧",
+        "level": 50,
+        "component_subject_ids": [25, 1, 14],
+        "amalgamation_subject_ids": [7366, 7367],
+        "meanings": ["Adept"],
+        "meaning_mnemonic": `The **r[construction]r** of an under**r[ground]r** **r[prison]r** will be done by someone who is **k[adept]k** at it.
+        
+        `
+    },
+    2086: {
+        "slug": "邪",
+        "level": 50,
+        "component_subject_ids": [333, 176],
+        "amalgamation_subject_ids": [7368, 7369, 7370, 7727],
+        "meanings": ["Wicked"],
+        "meaning_mnemonic": `A **r[fang]r** on a **r[building]r** shows that it's **k[wicked]k**. Something wicked probably lives in the building too.`
+    },
+    2087: {
+        "slug": "駄",
+        "level": 50,
+        "component_subject_ids": [165, 411],
+        "amalgamation_subject_ids": [7371, 7372, 7373],
+        "meanings": ["Burdensome"],
+        "meaning_mnemonic": `A **r[horse]r** that is **r[fat]r** is a **k[burdensome]k** animal.`
+    },
+    2088: {
+        "slug": "唐",
+        "level": 50,
+        "component_subject_ids": [62, 220, 16],
+        "amalgamation_subject_ids": [7374],
+        "meanings": ["China", "Sudden"],
+        "meaning_mnemonic": `Under a **r[canopy]r**, someone thinking with a **r[brush]r** in their **r[mouth]r** has a **k[sudden]k** thought, and uses the brush to write the word "**k[China]k**". Thus, China was born.`
+    },
+    2089: {
+        "slug": "廷",
+        "level": 50,
+        "component_subject_ids": [206, 48],
+        "amalgamation_subject_ids": [7375, 7376],
+        "meanings": ["Courts"],
+        "meaning_mnemonic": `The **r[Yoga]r** **r[King]r** presides over all **k[courts]k**: law, imperial, and so forth. In this case, you've met him in the court of law, where he is judge, jury, and executioner.`
+    },
+    2090: {
+        "slug": "鬱",
+        "level": 50,
+        "component_subject_ids": [23, 392, 8797],
+        "amalgamation_subject_ids": [7363, 7450, 8203],
+        "meanings": ["Gloom"],
+        "meaning_mnemonic": `A **r[tree]r** **r[can]r** be a **r[tree]r**, but it can also be a **r[psychopath]r**. The tree goes from being a regular tree to being a psychopath. Such mood swings are so rough. Especially when the tree slips to **k[gloom]k**.`
+    },
+    2091: {
+        "slug": "鰐",
+        "level": 50,
+        "component_subject_ids": [150, 16, 7, 14],
+        "amalgamation_subject_ids": [7362, 7860],
+        "meanings": ["Alligator", "Crocodile"],
+        "meaning_mnemonic": `A **r[fish]r** with two **r[mouth]r**s has the number **r[two]r** on it because it's in **r[prison]r** (that's its prison number). Who put the poor two-mouthed fish in prison? An **k[alligator]k**. Because alligators hate two-mouthed fish.`
+    },
+    2092: {
+        "slug": "蟹",
+        "level": 50,
+        "component_subject_ids": [281, 24, 126, 89],
+        "amalgamation_subject_ids": [7361, 7860],
+        "meanings": ["Crab"],
+        "meaning_mnemonic": `This is an animal with an **r[angle]r**d **r[sword]r** claw that's filled with **r[cow]r** meat but looks like an **r[insect]r**. What kind of animal is that? It's a **k[crab]k**.`
+    },
+    2093: {
+        "slug": "簿",
+        "level": 50,
+        "component_subject_ids": [85, 103, 3, 317],
+        "amalgamation_subject_ids": [7377, 7378],
+        "meanings": ["Record Book"],
+        "meaning_mnemonic": `A **r[bamboo]r** **r[tsunami]r** uses its **r[drop]r**s to carry out its **r[specialty]r**, which is turning itself into **k[record book]k**s. `
+    },
+    2094: {
+        "slug": "彰",
+        "level": 50,
+        "component_subject_ids": [8828, 38],
+        "amalgamation_subject_ids": [7379, 8173],
+        "meanings": ["Clear"],
+        "meaning_mnemonic": `You want to write a **r[chapter]r** about **r[hair]r** in your new book so you have to make sure it's really **k[clear]k**. Clear enough so that ANYbody can read it.`
+    },
+    2095: {
+        "slug": "漫",
+        "level": 50,
+        "component_subject_ids": [103, 22, 163, 30],
+        "amalgamation_subject_ids": [7380, 7381],
+        "meanings": ["Manga"],
+        "meaning_mnemonic": `A **r[tsunami]r** crashes into the **r[sun]r**, which is then caught in a **r[net]r** tied to a **r[stool]r**! Wait a second... this doesn't sound realistic, this is from that pirate **k[manga]k** you're always reading!`
+    },
+    2096: {
+        "slug": "訂",
+        "level": 50,
+        "component_subject_ids": [117, 27],
+        "amalgamation_subject_ids": [7382, 7383],
+        "meanings": ["Revise"],
+        "meaning_mnemonic": `What you **r[say]r** on the **r[street]r** needs to be **k[revise]k**d. Your words need to be polished, you can't publish improv. Revise your street word inspiration before you share it again.`
+    },
+    2097: {
+        "slug": "諮",
+        "level": 50,
+        "component_subject_ids": [117, 278, 16],
+        "amalgamation_subject_ids": [7384, 7385],
+        "meanings": ["Consult"],
+        "meaning_mnemonic": `Watch what you **r[say]r** to the **r[next]r** **r[mouth]r** over, because they hired you to **k[consult]k** them.`
+    },
+    2098: {
+        "slug": "銘",
+        "level": 50,
+        "component_subject_ids": [118, 409],
+        "amalgamation_subject_ids": [7386, 7387, 7388],
+        "meanings": ["Inscription"],
+        "meaning_mnemonic": `A **r[gold]r** **r[name]r** on this piece of wood is the **k[inscription]k** that shows the artist's signature.`
+    },
+    2099: {
+        "slug": "堰",
+        "level": 50,
+        "component_subject_ids": [17, 217, 22, 19],
+        "amalgamation_subject_ids": [7389],
+        "meanings": ["Dam"],
+        "meaning_mnemonic": `A **r[woman]r** is making a **r[dirt]r** **r[cage]r** in the **r[sun]r**. She's using it to trap water, making this a dirt **k[dam]k**. If you think about it, dams are just dirt cages anyway.`
+    },
+    2100: {
+        "slug": "堤",
+        "level": 50,
+        "component_subject_ids": [17, 22, 229],
+        "amalgamation_subject_ids": [7390, 7391],
+        "meanings": ["Embankment"],
+        "meaning_mnemonic": `The **r[correct]r** way to block the **r[sun]r** with **r[dirt]r** is with an **k[embankment]k**. Build a huge, sloping embankment correctly and the sun won't be able to bother you ever again!`
+    },
+    2101: {
+        "slug": "漂",
+        "level": 50,
+        "component_subject_ids": [103, 424, 207],
+        "amalgamation_subject_ids": [7392, 7393, 7394],
+        "meanings": ["Drift"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits your **r[helicopter]r** while you are **r[jackhammer]r**ing, it will **k[drift]k** out to sea. What were you doing with a jackhammer at a time like this? Now your helicopter is drifting away!`
+    },
+    2102: {
+        "slug": "翻",
+        "level": 50,
+        "component_subject_ids": [280, 213],
+        "amalgamation_subject_ids": [7395, 7396, 7397],
+        "meanings": ["Flip"],
+        "meaning_mnemonic": `You have a **r[number]r**ed **r[feather]r**. Pick your favorite number and put it on the feather. Then, put the numbered feather on your head. When you put it on, you're able to **k[flip]k** and **k[flip]k** over and over.`
+    },
+    2103: {
+        "slug": "軌",
+        "level": 50,
+        "component_subject_ids": [93, 11],
+        "amalgamation_subject_ids": [7398, 7399],
+        "meanings": ["Rut"],
+        "meaning_mnemonic": `There are **r[nine]r** **r[car]r**s all driving in the same place. With so many cars driving in the same place, they create a **k[rut]k**.`
+    },
+    2104: {
+        "slug": "后",
+        "level": 50,
+        "component_subject_ids": [116, 1, 16],
+        "amalgamation_subject_ids": [7400],
+        "meanings": ["Empress"],
+        "meaning_mnemonic": `You walk out on a **r[cliff]r**, where you find in the **r[ground]r** a **r[mouth]r** poking out. It speaks: "It is me, the **k[empress]k** of these lands!"`
+    },
+    2105: {
+        "slug": "奮",
+        "level": 50,
+        "component_subject_ids": [18, 240, 51],
+        "amalgamation_subject_ids": [7401, 7402],
+        "meanings": ["Stirred Up"],
+        "meaning_mnemonic": `A **r[big]r** **r[turkey]r** in the **r[rice paddy]r** is getting all **k[stirred up]k**. He's kicking up all the rice. Who stirred him up?`
+    },
+    2106: {
+        "slug": "亭",
+        "level": 50,
+        "component_subject_ids": [290],
+        "amalgamation_subject_ids": [7403],
+        "meanings": ["Restaurant", "Inn", "Pavilion"],
+        "meaning_mnemonic": `The **r[restaurant]r** radical and the **k[restaurant]k** kanji are the same! The meaning of this kanji also extends other resting places, like an **k[inn]k** or a **k[pavilion]k**.`
+    },
+    2107: {
+        "slug": "仰",
+        "level": 50,
+        "component_subject_ids": [75, 340],
+        "amalgamation_subject_ids": [7404, 7405, 7406, 7407],
+        "meanings": ["Look Up To"],
+        "meaning_mnemonic": `The **r[leader]r** **r[cat pirate]r** is the greatest cat pirate of them all. It leads all the cat pirate leaders, even! This is truly a cat pirate **k[to look up to]k**.`
+    },
+    2108: {
+        "slug": "伯",
+        "level": 50,
+        "component_subject_ids": [75, 52],
+        "amalgamation_subject_ids": [7408, 7409, 7613],
+        "meanings": ["Chief"],
+        "meaning_mnemonic": `The **r[leader]r** all in **r[white]r** is the **k[chief]k**. All the other leaders are wearing some other color, but that's how you tell the chief apart from the other leaders.`
+    },
+    2109: {
+        "slug": "偶",
+        "level": 50,
+        "component_subject_ids": [75, 410],
+        "amalgamation_subject_ids": [7410, 7411, 7412],
+        "meanings": ["Accidentally"],
+        "meaning_mnemonic": `The **r[leader]r**, Master **r[Splinter]r** (the rat from Ninja Turtles) isn't even supposed to exist. He exists because someone **k[accidentally]k** poured ooze on him.`
+    },
+    2110: {
+        "slug": "淀",
+        "level": 50,
+        "component_subject_ids": [103, 78, 229],
+        "amalgamation_subject_ids": [7413],
+        "meanings": ["Eddy"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits a **r[roof]r** and then **r[correct]r**s itself. This causes it to swirl around, creating an **k[eddy]k**.`
+    },
+    2111: {
+        "slug": "墳",
+        "level": 50,
+        "component_subject_ids": [17, 15, 90, 94],
+        "amalgamation_subject_ids": [7414, 7415],
+        "meanings": ["Tomb"],
+        "meaning_mnemonic": `Sticking out of the **r[dirt]r**, there's a **r[cross]r** adorned with **r[flowers]r** and **r[shellfish]r** shells. This is a **k[tomb]k**. The flowers and shellfish were put here as decorations and to honor the dead that currently lie under the dirt. And the cross marks the tomb, obviously.`
+    },
+    2112: {
+        "slug": "壮",
+        "level": 50,
+        "component_subject_ids": [8826, 97],
+        "amalgamation_subject_ids": [7416, 7417, 7418],
+        "meanings": ["Robust"],
+        "meaning_mnemonic": `A **r[samurai]r** who can fight with **r[icicle]r**s on him is more **k[robust]k** than regular samurai. Can you imagine how robust you'd have to be to fight in weather cold enough to form icicles on your body?`
+    },
+    2113: {
+        "slug": "把",
+        "level": 50,
+        "component_subject_ids": [63, 100],
+        "amalgamation_subject_ids": [7419, 7420],
+        "meanings": ["Bundle", "Grasp"],
+        "meaning_mnemonic": `Put your **r[fingers]r** on the **r[bed]r**, **k[grasp]k** the sheets and **k[bundle]k** them up. Now you can do the laundry!`
+    },
+    2114: {
+        "slug": "搬",
+        "level": 50,
+        "component_subject_ids": [63, 149, 160],
+        "amalgamation_subject_ids": [7421, 7422, 7423],
+        "meanings": ["Transport"],
+        "meaning_mnemonic": `With your **r[fingers]r** you put some **r[weapon]r**s in a **r[boat]r** for **k[transport]k**. This is a transport boat and its your job to get these weapons from one place to another.`
+    },
+    2115: {
+        "slug": "晶",
+        "level": 50,
+        "component_subject_ids": [22],
+        "amalgamation_subject_ids": [7424, 7425],
+        "meanings": ["Crystal"],
+        "meaning_mnemonic": `The sun hits this and breaks into three **r[sun]r**s. What can split the sun in three directions? A **k[crystal]k**!`
+    },
+    2116: {
+        "slug": "洞",
+        "level": 50,
+        "component_subject_ids": [103, 341],
+        "amalgamation_subject_ids": [7426, 7427, 7428],
+        "meanings": ["Cave"],
+        "meaning_mnemonic": `A **r[tsunami]r** is the **r[same]r** as a **k[cave]k**. Because, if a wave is big enough, it will curl over on itself, creating a sort of cave within the wave. That's why it's the same as a cave!`
+    },
+    2117: {
+        "slug": "涯",
+        "level": 50,
+        "component_subject_ids": [103, 116, 17],
+        "amalgamation_subject_ids": [7429],
+        "meanings": ["Horizon"],
+        "meaning_mnemonic": `There is a **r[tsunami]r** coming up over a **r[cliff]r** made of **r[dirt]r**. You can see this happening very far away because it's right on the **k[horizon]k**.`
+    },
+    2118: {
+        "slug": "疫",
+        "level": 50,
+        "component_subject_ids": [187, 160],
+        "amalgamation_subject_ids": [7430, 7431, 7432],
+        "meanings": ["Epidemic"],
+        "meaning_mnemonic": `Turn a **r[sick]r**ness into a **r[weapon]r** and it becomes an **k[epidemic]k**. This sickness spreads to everyone and it's all your fault because you put it in the water supply.`
+    },
+    2119: {
+        "slug": "孔",
+        "level": 46,
+        "component_subject_ids": [34, 211],
+        "amalgamation_subject_ids": [7509, 7510],
+        "meanings": ["Cavity", "Hole"],
+        "meaning_mnemonic": `You see a **r[child]r** with an **r[umbrella]r** in front of you. Suddenly, they fall straight down into a **k[cavity]k** in the road. It's a big **k[hole]k**!`
+    },
+    2203: {
+        "slug": "准",
+        "level": 49,
+        "component_subject_ids": [123, 240],
+        "amalgamation_subject_ids": [7964],
+        "meanings": ["Semi", "Ratify"],
+        "meaning_mnemonic": `Put a **r[turkey]r** on **r[ice]r** and it will only get **k[semi]k** frozen. You add more ice, and it stays the same. Only some of it will freeze. What the heck!`
+    },
+    8836: {
+        "slug": "嘘",
+        "level": 41,
+        "component_subject_ids": [16, 254, 8768],
+        "amalgamation_subject_ids": [8845, 8846],
+        "meanings": ["Lie"],
+        "meaning_mnemonic": `Open your **r[mouth]r**. A **r[tiger]r** fell in there on some **r[spikes]r**! That's what you tell everybody, but when they look in your mouth there's nothing there. It's all a big **k[lie]k**!`
+    },
+    8881: {
+        "slug": "慌",
+        "level": 49,
+        "component_subject_ids": [232, 8857],
+        "amalgamation_subject_ids": [8890, 8891, 8892, 8893],
+        "meanings": ["Confused", "Bewildered"],
+        "meaning_mnemonic": `Your **r[soul]r** is going **r[wild]r** because you're **k[confused]k**. If you're confused, it's usually because you don't know what's going on or what to do. This makes the soul inside your body go absolutely wild!`
+    },
+    8882: {
+        "slug": "挨",
+        "level": 44,
+        "component_subject_ids": [63, 140, 72],
+        "amalgamation_subject_ids": [8894],
+        "meanings": ["Push Open"],
+        "meaning_mnemonic": `You use your **r[fingers]r** when you're in **r[private]r** to use an **r[arrow]r** to **k[push open]k** things.`
+    },
+    8883: {
+        "slug": "拶",
+        "level": 44,
+        "component_subject_ids": [63, 273, 33],
+        "amalgamation_subject_ids": [8894],
+        "meanings": ["Draw Close", "Be Imminent"],
+        "meaning_mnemonic": `Your **r[fingers]r** told you that a **r[flood]r** last **r[evening]r** seemed to **k[be imminent]k**, and that there was nothing you could do to stop it. You felt it **k[draw close]k**, coming in the darkness of the evening.`
+    },
+    8886: {
+        "slug": "凄",
+        "level": 41,
+        "component_subject_ids": [123, 8856],
+        "amalgamation_subject_ids": [8902, 8903, 8904],
+        "meanings": ["Amazing", "Wonderful", "Terrible", "Awful"],
+        "meaning_mnemonic": `Your **r[ice]r** **r[wife]r** is **k[amazing]k**. She's also **k[terrible]k**, because she's very cold and has many ice powers, but that's also part of what makes her amazing!`
+    },
+    8913: {
+        "slug": "蹴",
+        "level": 49,
+        "component_subject_ids": [95, 299, 47],
+        "amalgamation_subject_ids": [8920, 8921],
+        "meanings": ["Kick"],
+        "meaning_mnemonic": `In the **r[foot]r** **r[capital]r**, it's tough to be a **r[dog]r** because you're always getting **k[kick]k**ed. `
+    },
+    8922: {
+        "slug": "喧",
+        "level": 41,
+        "component_subject_ids": [16, 8906],
+        "amalgamation_subject_ids": [8924, 8925],
+        "meanings": ["Noisy", "Picky"],
+        "meaning_mnemonic": `Your **r[mouth]r** **r[proclaim]r**s "I am **k[noisy]k** and I am **k[picky]k**!" It keeps repeating this over and over to everyone you pass by.`
+    },
+    8923: {
+        "slug": "嘩",
+        "level": 41,
+        "component_subject_ids": [16, 335],
+        "amalgamation_subject_ids": [8924],
+        "meanings": ["Rowdy"],
+        "meaning_mnemonic": `Your **r[mouth]r** is **r[showy]r** so it makes everybody around you **k[rowdy]k**.`
+    },
+    8991: {
+        "slug": "煎",
+        "level": 47,
+        "component_subject_ids": [8908, 131],
+        "amalgamation_subject_ids": [8999, 9000, 9001],
+        "meanings": ["Roast"],
+        "meaning_mnemonic": `**r[Before]r** you **r[boil]r** something, make sure that you **k[roast]k** it.`
+    },
+    8993: {
+        "slug": "餅",
+        "level": 42,
+        "component_subject_ids": [139, 8767, 171],
+        "amalgamation_subject_ids": [8999, 9003],
+        "meanings": ["Mochi", "Sticky Rice Cake"],
+        "meaning_mnemonic": `What do you **r[eat]r** if you’re wearing **r[horns]r** and surrounded by **r[lantern]r**s? **k[Mochi]k** (or **k[sticky rice cake]k**s) of course!`
+    },
+    9312: {
+        "slug": "肢",
+        "level": 44,
+        "component_subject_ids": [43, 81],
+        "amalgamation_subject_ids": [],
+        "meanings": ["Limb"],
+        "meaning_mnemonic": `Looking at the **r[moon]r**, you notice it's grown a bunch of **r[branch]r**es. Wait, are those all… **k[limbs]k**?!`
+    },
+    466: {
+        "slug": "又",
+        "level": 51,
+        "component_subject_ids": [30],
+        "amalgamation_subject_ids": [2516],
+        "meanings": ["Again"],
+        "meaning_mnemonic": `You're sitting on your **r[stool]r** **k[again]k**!!?`
+    },
+    2120: {
+        "slug": "偉",
+        "level": 51,
+        "component_subject_ids": [75, 294],
+        "amalgamation_subject_ids": [7783, 7784, 7785],
+        "meanings": ["Greatness"],
+        "meaning_mnemonic": `The **r[leader]r** of **r[Korea]r** is destined for **k[greatness]k**.`
+    },
+    2121: {
+        "slug": "頂",
+        "level": 51,
+        "component_subject_ids": [27, 184],
+        "amalgamation_subject_ids": [7857, 7858, 8054, 8055],
+        "meanings": ["Summit", "Humbly"],
+        "meaning_mnemonic": `Take the **r[street]r** all the way to that **r[geoduck]r**, way up there. When you reach it, you will have made it to the **k[summit]k**. You **k[humbly]k** present the road to the geoduck and bow before it.`
+    },
+    2122: {
+        "slug": "召",
+        "level": 51,
+        "component_subject_ids": [331],
+        "amalgamation_subject_ids": [7787, 7790, 7968],
+        "meanings": ["Call", "Eat"],
+        "meaning_mnemonic": `The **r[call]r** radical and the **k[call]k** kanji are the same. This kanji can also mean **k[eat]k**, because why would you call someone if not to ask them to eat with you?!`
+    },
+    2123: {
+        "slug": "挟",
+        "level": 51,
+        "component_subject_ids": [63, 146, 8767],
+        "amalgamation_subject_ids": [7796, 7988],
+        "meanings": ["Between"],
+        "meaning_mnemonic": `Your **r[fingers]r** have **r[husband]r** **r[horns]r**. They are there right **k[between]k** each of your fingers.`
+    },
+    2124: {
+        "slug": "枯",
+        "level": 51,
+        "component_subject_ids": [23, 69],
+        "amalgamation_subject_ids": [7797, 7798, 7993, 7994],
+        "meanings": ["Wither"],
+        "meaning_mnemonic": `When a **r[tree]r** grows **r[old]r**, it will **k[wither]k**.`
+    },
+    2125: {
+        "slug": "沸",
+        "level": 51,
+        "component_subject_ids": [103, 284],
+        "amalgamation_subject_ids": [7799, 7800, 7995, 7996],
+        "meanings": ["Boil"],
+        "meaning_mnemonic": `If a **r[tsunami]r** hits a **r[dollar]r** the water will instantly start to **k[boil]k**!`
+    },
+    2126: {
+        "slug": "濯",
+        "level": 51,
+        "component_subject_ids": [103, 105, 240],
+        "amalgamation_subject_ids": [7806, 7807, 7808, 8813],
+        "meanings": ["Wash"],
+        "meaning_mnemonic": `You need to throw your two **r[wolverine]r**s and your **r[turkey]r** into the oncoming **r[tsunami]r** if you want to **k[wash]k** them at the same time. It's the only way you can get them clean at once without the wolverines fighting over the turkey and somebody getting hurt. The tsunami is big enough to wash them all before anything bad happens.`
+    },
+    2127: {
+        "slug": "燥",
+        "level": 51,
+        "component_subject_ids": [46, 8830],
+        "amalgamation_subject_ids": [7809, 7810],
+        "meanings": ["Dry Up"],
+        "meaning_mnemonic": `Put **r[syrup]r** too close to **r[fire]r** and it will **k[dry up]k**. Put any liquid substance near fire and it will dry up actually, but syrup especially. It goes from being sticky and gooey and yummy to a pile of hard, dry sugar. Not so yummy.`
+    },
+    2128: {
+        "slug": "瓶",
+        "level": 51,
+        "component_subject_ids": [8767, 171, 307, 3, 1],
+        "amalgamation_subject_ids": [7813, 7814, 7815, 7816, 7817, 8113],
+        "meanings": ["Bottle", "Jar"],
+        "meaning_mnemonic": `A **r[lantern]r** with **r[horns]r** that can hold **r[ten thousand]r** **r[drop]r**s of water is sitting on the **r[ground]r**. You get closer and realize it's not a lantern, it's a **k[bottle]k**. It's got horns, and a weird handle, but it's definitely a bottle with water inside of it.`
+    },
+    2129: {
+        "slug": "耕",
+        "level": 51,
+        "component_subject_ids": [388, 246],
+        "amalgamation_subject_ids": [7818, 7819, 7820, 7821],
+        "meanings": ["Plow"],
+        "meaning_mnemonic": `You have a **r[plow]r** and a (water) **r[well]r**. These are the two things you need in order to **k[plow]k**.`
+    },
+    2130: {
+        "slug": "肯",
+        "level": 51,
+        "component_subject_ids": [44, 43],
+        "amalgamation_subject_ids": [7824, 8021],
+        "meanings": ["Agreement", "Consent"],
+        "meaning_mnemonic": `We must **r[stop]r** the **r[moon]r**. That, at least, we can come to an **k[agreement]k** on.`
+    },
+    2131: {
+        "slug": "脂",
+        "level": 51,
+        "component_subject_ids": [43, 57, 22],
+        "amalgamation_subject_ids": [7825, 7826, 8027],
+        "meanings": ["Fat"],
+        "meaning_mnemonic": `If you eat both the **r[moon]r** and the **r[sun]r** with a **r[spoon]r** you'll get **k[fat]k**. Maybe if you only ate one you could get away with it, but you wanted both and now you're pretty fat.`
+    },
+    2132: {
+        "slug": "膚",
+        "level": 51,
+        "component_subject_ids": [254, 432],
+        "amalgamation_subject_ids": [7827, 7958, 7959],
+        "meanings": ["Skin"],
+        "meaning_mnemonic": `If you look in a **r[tiger]r**'s **r[stomach]r** you'll find a bunch of **k[skin]k**. It's really gross but what else did you think you'd find? Everyone knows tigers can't digest the skin of the things it eats. `
+    },
+    2133: {
+        "slug": "軒",
+        "level": 51,
+        "component_subject_ids": [93, 61],
+        "amalgamation_subject_ids": [7836, 7837, 8046],
+        "meanings": ["House Counter", "Eaves"],
+        "meaning_mnemonic": `Your **r[car]r** is **r[dry]r** because you kept it under the **k[eaves]k** of your house. 
+        
+        This kanji has a second meaning too: **k[house counter]k**. Imagine counting all the houses on your block by the number of eaves you see keeping cars dry.`
+    },
+    2134: {
+        "slug": "軟",
+        "level": 51,
+        "component_subject_ids": [93, 142],
+        "amalgamation_subject_ids": [7838, 7839],
+        "meanings": ["Soft"],
+        "meaning_mnemonic": `A **r[car]r** that's **r[lack]r**ing is really **k[soft]k**. Cars need to be hard so that things like bugs and other cars wont hurt the people inside when you hit them. But if your car is lacking the hardness it needs, you'll have a really soft, useless car.`
+    },
+    2135: {
+        "slug": "郊",
+        "level": 51,
+        "component_subject_ids": [302, 176],
+        "amalgamation_subject_ids": [7845, 7846],
+        "meanings": ["Suburbs"],
+        "meaning_mnemonic": `If you **r[mix]r** a bunch of **r[building]r**s together, you have yourself a **k[suburb]k**.`
+    },
+    2136: {
+        "slug": "隅",
+        "level": 51,
+        "component_subject_ids": [176, 410],
+        "amalgamation_subject_ids": [7852, 7853, 7854, 7855],
+        "meanings": ["Corner"],
+        "meaning_mnemonic": `So my **r[building]r** has a big **r[splinter]r**, right in the **k[corner]k**. So what?`
+    },
+    2137: {
+        "slug": "隻",
+        "level": 51,
+        "component_subject_ids": [240, 30],
+        "amalgamation_subject_ids": [7856],
+        "meanings": ["Ship Counter"],
+        "meaning_mnemonic": `A **r[turkey]r** sitting on a **r[stool]r** is something every ship has in its crow's nest. That's why the universal **k[ship counter]k** is a turkey on a stool. Not a crow.`
+    },
+    2138: {
+        "slug": "邸",
+        "level": 51,
+        "component_subject_ids": [147, 1, 176],
+        "amalgamation_subject_ids": [7840, 7841, 7842, 7843, 7844],
+        "meanings": ["Residence"],
+        "meaning_mnemonic": `Your **r[clan]r** is breaking **r[ground]r** and **r[building]r** your new **k[residence]k**. You're all working together to make you a new home!`
+    },
+    2139: {
+        "slug": "郡",
+        "level": 51,
+        "component_subject_ids": [373, 176],
+        "amalgamation_subject_ids": [7847],
+        "meanings": ["County", "District"],
+        "meaning_mnemonic": `The **r[buddy]r** **r[building]r** is in the next **k[county]k**. If it was in your county then it wouldn't be a buddy, it would be a neighbor. You're aware of this building, but they aren't that close, so they're just a buddy.`
+    },
+    2140: {
+        "slug": "釈",
+        "level": 51,
+        "component_subject_ids": [164, 215],
+        "amalgamation_subject_ids": [7848, 7849, 7850, 7851],
+        "meanings": ["Explanation"],
+        "meaning_mnemonic": `Kill a **r[shrimp]r** with a **r[sickle]r** and you'll need a really good **k[explanation]k** for yourself. What did that shrimp do to you? Why use a sickle? Well? What's your explanation?`
+    },
+    2141: {
+        "slug": "肪",
+        "level": 51,
+        "component_subject_ids": [43, 66],
+        "amalgamation_subject_ids": [7825],
+        "meanings": ["Obese", "Fat"],
+        "meaning_mnemonic": `When the **r[moon]r** faces the right **r[direction]r**, everyone on earth becomes **k[obese]k**. The pull of the moon moves all the water on earth as well as inside us, so when it faces the right way, we all get super **k[fat]k**.`
+    },
+    2142: {
+        "slug": "喚",
+        "level": 51,
+        "component_subject_ids": [16, 14, 28, 18],
+        "amalgamation_subject_ids": [7788, 7789, 7790],
+        "meanings": ["Scream", "Yell"],
+        "meaning_mnemonic": `You wake up in **r[prison]r** and there is a **r[big]r** **r[mouth]r** full of **r[legs]r** coming really, really close to your own **r[mouth]r** so you **k[scream]k**! Scream because this is terrifying. Scream because it's all you can think to do.`
+    },
+    2143: {
+        "slug": "媛",
+        "level": 51,
+        "component_subject_ids": [19, 286],
+        "amalgamation_subject_ids": [7792],
+        "meanings": ["Princess", "Beautiful Woman"],
+        "meaning_mnemonic": `Everyone knows that when a **r[woman]r** plays **r[football]r** she becomes a **k[princess]k**. Thats how princesses are made.`
+    },
+    2144: {
+        "slug": "貞",
+        "level": 51,
+        "component_subject_ids": [10, 94],
+        "amalgamation_subject_ids": [7833, 7834, 7835],
+        "meanings": ["Chastity"],
+        "meaning_mnemonic": `You try to put your **r[toe]r** inside a **r[shellfish]r**, but it just won't open. That's because this shellfish has sworn an oath of **k[chastity]k**.`
+    },
+    2145: {
+        "slug": "玄",
+        "level": 51,
+        "component_subject_ids": [403],
+        "amalgamation_subject_ids": [7811, 7812, 8005],
+        "meanings": ["Mysterious"],
+        "meaning_mnemonic": `The **r[mysterious]r** radical and the **k[mysterious]k** kanji are the same!`
+    },
+    2146: {
+        "slug": "苗",
+        "level": 51,
+        "component_subject_ids": [90, 51],
+        "amalgamation_subject_ids": [7828, 7829, 8034, 8035],
+        "meanings": ["Seedling", "Sapling"],
+        "meaning_mnemonic": `**r[Flowers]r** that grow in a **r[rice paddy]r** only live to be **k[seedling]k**s. Once they sprout, they're plucked away to make room for more rice. Poor little seedlings.`
+    },
+    2147: {
+        "slug": "渦",
+        "level": 51,
+        "component_subject_ids": [103, 121],
+        "amalgamation_subject_ids": [7803, 7804, 8004],
+        "meanings": ["Whirlpool"],
+        "meaning_mnemonic": `If you put two **r[mustache]r**s on either side of a **r[tsunami]r** it won't know which way to go and spin back and forth until it becomes a **k[whirlpool]k**. Mustaches are pretty gross, so I don't blame the tsunami for avoiding them.`
+    },
+    2148: {
+        "slug": "慈",
+        "level": 51,
+        "component_subject_ids": [8767, 1, 87, 65],
+        "amalgamation_subject_ids": [7793, 7794, 7795],
+        "meanings": ["Mercy"],
+        "meaning_mnemonic": `A person with **r[horns]r** has you on the **r[ground]r** and lets loose two **r[poops]r** over your **r[heart]r**. "**k[Mercy]k**! Mercy!" You cry, but the horned dude doesn't stop until there are two gross poops sitting on your heart. "M-mercy..." is the only thing you can think to say.`
+    },
+    2149: {
+        "slug": "襟",
+        "level": 51,
+        "component_subject_ids": [80, 23, 207],
+        "amalgamation_subject_ids": [7859, 7960, 7961],
+        "meanings": ["Collar"],
+        "meaning_mnemonic": `The **r[spirit]r**s of the two **r[tree]r**s you destroyed with your **r[jackhammer]r** live on in the **k[collar]k** you made out of them.`
+    },
+    2150: {
+        "slug": "蓮",
+        "level": 51,
+        "component_subject_ids": [90, 93, 114],
+        "amalgamation_subject_ids": [7830, 7831, 8038],
+        "meanings": ["Lotus"],
+        "meaning_mnemonic": `You put **r[flowers]r** on your **r[scooter]r** and your **r[car]r**. The flowers you put on them are **k[lotus]k** flowers.`
+    },
+    2151: {
+        "slug": "亮",
+        "level": 51,
+        "component_subject_ids": [8, 16, 76, 28],
+        "amalgamation_subject_ids": [9100],
+        "meanings": ["Clear"],
+        "meaning_mnemonic": `There is a special type of meditation where you put a **r[lid]r** on your **r[mouth]r** and touch your **r[forehead]r** down to your **r[legs]r**. If you can do this pose, everything in life will become completely **k[clear]k**. Everything will clear out of your head too. You should try it.`
+    },
+    2152: {
+        "slug": "聡",
+        "level": 51,
+        "component_subject_ids": [88, 237, 65],
+        "amalgamation_subject_ids": [7822, 7823],
+        "meanings": ["Wise"],
+        "meaning_mnemonic": `If you have an **r[ear]r** for the **r[public]r**'s **r[heart]r**, you must be very **k[wise]k**. You can understand everything the people want, and you know how to give it to them because you listen to their hearts so well.`
+    },
+    2153: {
+        "slug": "浦",
+        "level": 51,
+        "component_subject_ids": [103, 300],
+        "amalgamation_subject_ids": [7801],
+        "meanings": ["Bay"],
+        "meaning_mnemonic": `If you want to have a **r[tsunami]r** at your **r[wedding]r**, you need to make sure you have it at the **k[bay]k**. Anywhere more inland, and the tsunami won't reach it in time.`
+    },
+    2154: {
+        "slug": "塚",
+        "level": 51,
+        "component_subject_ids": [17, 76, 233],
+        "amalgamation_subject_ids": [7791],
+        "meanings": ["Mound"],
+        "meaning_mnemonic": `The **r[dirt]r** on the **r[forehead]r** of a **r[pig]r** makes a small **k[mound]k**. Picture it, if you will. A pig is rooting through the dirt. It lifts its head and there is a mound of dirt right on its forehead.`
+    },
+    2155: {
+        "slug": "陥",
+        "level": 52,
+        "component_subject_ids": [176, 14, 374],
+        "amalgamation_subject_ids": [7946, 7947, 7948, 7949],
+        "meanings": ["Cave In"],
+        "meaning_mnemonic": `This **r[building]r** was a **r[former]r** **r[prison]r** until the **k[cave in]k**. You see, prisons aren't built very carefully, they just try to get them done fast enough to stuff people in there. So while you can tell this was once a building, it definitely isn't a prison anymore, since the whole thing caved in.`
+    },
+    2156: {
+        "slug": "貫",
+        "level": 52,
+        "component_subject_ids": [107, 94],
+        "amalgamation_subject_ids": [7926, 7927, 7928, 7929, 7930, 7931, 8146],
+        "meanings": ["Pierce", "Sushi Counter"],
+        "meaning_mnemonic": `Under the **r[window]r**, you place a **r[shellfish]r**, then slam the window shut to **k[pierce]k** its tough shell. This is the best way to pierce a member of the shellfish family, I promise.
+        
+        This kanji also has a second meaning. That shellfish you pierced with the window is in two halves now. You can use those halves as plates for sushi. If you count the broken shells you'll know how much sushi you have. That makes them **k[sushi counter]k**s!`
+    },
+    2157: {
+        "slug": "覇",
+        "level": 52,
+        "component_subject_ids": [424, 288, 43],
+        "amalgamation_subject_ids": [7921, 7922, 7923, 7924, 7925],
+        "meanings": ["Leadership"],
+        "meaning_mnemonic": `Take a **r[leather]r** **r[helicopter]r** to the **r[moon]r** to prove your excellent **k[leadership]k**. Some people called you crazy, but you'll show them, as you lead an entire crew of leather helicopter pilots on their first mission to space!`
+    },
+    2158: {
+        "slug": "呂",
+        "level": 52,
+        "component_subject_ids": [282],
+        "amalgamation_subject_ids": [7957, 8062, 8063],
+        "meanings": ["Bath"],
+        "meaning_mnemonic": `I hope all you're doing in the **r[bathtub]r** is taking a **k[bath]k**. I mean, you can do other things if you want I guess. But bathtubs were made just for baths!`
+    },
+    2159: {
+        "slug": "茨",
+        "level": 52,
+        "component_subject_ids": [90, 278],
+        "amalgamation_subject_ids": [7920, 8139],
+        "meanings": ["Briar", "Thorn"],
+        "meaning_mnemonic": `If you look at **r[flowers]r** the first thing you notice are the leaves and petals themselves, then the **r[next]r** thing you notice are the **k[briar]k**s. You never see **k[thorn]k**s first, only after you've looked at the flowers. `
+    },
+    2160: {
+        "slug": "擁",
+        "level": 52,
+        "component_subject_ids": [63, 8, 87, 240],
+        "amalgamation_subject_ids": [7889, 7890, 7891, 7892],
+        "meanings": ["Embrace"],
+        "meaning_mnemonic": `Your **r[fingers]r** grasp this **r[lid]r** and when you raise it you see a **r[poop]r** **r[turkey]r** (a turkey covered in poop). You can't help yourself, you **k[embrace]k** the turkey. `
+    },
+    2161: {
+        "slug": "孤",
+        "level": 52,
+        "component_subject_ids": [384, 34],
+        "amalgamation_subject_ids": [7873, 7874, 7875, 7876, 8087],
+        "meanings": ["Orphan", "Alone"],
+        "meaning_mnemonic": `There was once a **r[melon]r** **r[child]r**, that is, a child with the body of a melon. When he was born, his parents didn't want him, so he became an **k[orphan]k**.`
+    },
+    2162: {
+        "slug": "賠",
+        "level": 52,
+        "component_subject_ids": [94, 175],
+        "amalgamation_subject_ids": [7932, 8147],
+        "meanings": ["Compensation", "Compensate"],
+        "meaning_mnemonic": `You give a bunch of **r[shellfish]r** to a **r[clown]r** as **k[compensation]k**. The clown did you some favors, and everyone knows clowns only accept shellfish as a form of currency. So your compensation is a pile of random shellfish.`
+    },
+    2163: {
+        "slug": "鎖",
+        "level": 52,
+        "component_subject_ids": [118, 8765, 94],
+        "amalgamation_subject_ids": [7941, 7942, 7943, 7944, 7945],
+        "meanings": ["Chain"],
+        "meaning_mnemonic": `The famous **r[gold]r** **r[triceratops]r** **r[shellfish]r** is good for only one thing, and that's being made into **k[chain]k**s. They link their triceratops horns together and form an unbreakable gold chain. You can't eat them, because they're gold. So they're only really good for their chaining together ability.`
+    },
+    2164: {
+        "slug": "噴",
+        "level": 52,
+        "component_subject_ids": [16, 15, 90, 94],
+        "amalgamation_subject_ids": [7868, 7869, 7870, 7871, 7872, 8086],
+        "meanings": ["Erupt"],
+        "meaning_mnemonic": `From your **r[mouth]r** comes a **r[cross]r**, some **r[flowers]r**, and **r[shellfish]r**. It all **k[erupt]k**s from your mouth!`
+    },
+    2165: {
+        "slug": "祥",
+        "level": 52,
+        "component_subject_ids": [80, 136],
+        "amalgamation_subject_ids": [7911, 7912],
+        "meanings": ["Auspicious"],
+        "meaning_mnemonic": `When a **r[spirit]r** lives in a **r[sheep]r** it becomes the most **k[auspicious]k** creature on the planet. Lights shine out of it and the whole world weeps at its beauty. Look at the sheep's fluffy glowing head. Nothing could be more auspicious and glorious than this.`
+    },
+    2166: {
+        "slug": "牲",
+        "level": 52,
+        "component_subject_ids": [126, 210],
+        "amalgamation_subject_ids": [7905, 8112],
+        "meanings": ["Offering", "Sacrifice"],
+        "meaning_mnemonic": `If you take a **r[cow]r**'s **r[life]r** you're turning it into an **k[offering]k**. In the old days, cows' lives were given to the gods as offerings pretty often.`
+    },
+    2167: {
+        "slug": "秩",
+        "level": 52,
+        "component_subject_ids": [135, 275],
+        "amalgamation_subject_ids": [7913, 8128],
+        "meanings": ["Order", "Regularity"],
+        "meaning_mnemonic": `If a **r[grain]r** has a **r[fault]r**, it needs to be put back in **k[order]k**. Grains must be perfectly identical at all times, otherwise they'll be thrown out. That's why special people will go out and check them to confirm their **k[regularity]k**. Keeping order is a tough job!`
+    },
+    2168: {
+        "slug": "唆",
+        "level": 52,
+        "component_subject_ids": [16, 427],
+        "amalgamation_subject_ids": [7867],
+        "meanings": ["Instigate"],
+        "meaning_mnemonic": `If you have **r[spider]r**s in your **r[mouth]r**, then you're going to **k[instigate]k** fights between people. Mostly because the spider in your mouth makes you grumpy, but also because the spider keeps telling you to be an instigator with its little mouth inside your own mouth.`
+    },
+    2169: {
+        "slug": "膨",
+        "level": 52,
+        "component_subject_ids": [43, 421, 38],
+        "amalgamation_subject_ids": [7915, 7916, 7917, 8137],
+        "meanings": ["Swell"],
+        "meaning_mnemonic": `Play your **r[drum]r** under the **r[moon]r** and your **r[hair]r** will **k[swell]k**! The more you play and the longer it's under the moon, the larger your hair will swell.`
+    },
+    2170: {
+        "slug": "芳",
+        "level": 52,
+        "component_subject_ids": [90, 66],
+        "amalgamation_subject_ids": [7918, 7919],
+        "meanings": ["Perfume"],
+        "meaning_mnemonic": `If you point **r[flowers]r** in the same **r[direction]r** you'll be able to smell their wonderful **k[perfume]k**. The best way to get perfume out of flowers is to make them face the same way. Then the smell will go the same direction, making you smell great.`
+    },
+    2171: {
+        "slug": "恒",
+        "level": 52,
+        "component_subject_ids": [232, 1, 293],
+        "amalgamation_subject_ids": [7879, 7880, 7881, 7882],
+        "meanings": ["Constant", "Always"],
+        "meaning_mnemonic": `Your **r[soul]r** is like the **r[ground]r** or the **r[dawn]r**. It is **k[constant]k**, never changing.`
+    },
+    2172: {
+        "slug": "倫",
+        "level": 52,
+        "component_subject_ids": [75, 8764, 1, 226],
+        "amalgamation_subject_ids": [7861, 7862, 8064, 8065],
+        "meanings": ["Ethics"],
+        "meaning_mnemonic": `A **r[leader]r** puts their **r[hat]r** on the **r[ground]r** next to a **r[bookshelf]r**. This is a test in **k[ethics]k**.`
+    },
+    2173: {
+        "slug": "陳",
+        "level": 52,
+        "component_subject_ids": [176, 224],
+        "amalgamation_subject_ids": [7950, 7951, 7952, 7953, 8167, 8168],
+        "meanings": ["Exhibit"],
+        "meaning_mnemonic": `The **r[building]r** to the **r[east]r** is an **k[exhibit]k**.`
+    },
+    2174: {
+        "slug": "須",
+        "level": 52,
+        "component_subject_ids": [38, 184],
+        "amalgamation_subject_ids": [7955, 8169],
+        "meanings": ["Necessary"],
+        "meaning_mnemonic": `Shaving the **r[hair]r** off a **r[geoduck]r** before you try to eat it is absolutely **k[necessary]k**. If you don't, the hair will get caught in your throat and you'll choke. It is necessary that you remove the hair.`
+    },
+    2175: {
+        "slug": "偏",
+        "level": 52,
+        "component_subject_ids": [75, 338],
+        "amalgamation_subject_ids": [7863, 7864, 7865, 7866, 8066],
+        "meanings": ["Biased"],
+        "meaning_mnemonic": `The **r[leader]r** of the **r[library]r** thinks that all the books in their library are better than everyone else's books. He's a very **k[biased]k** person. If he wasn't the leader of that specific library he'd probably feel differently.`
+    },
+    2176: {
+        "slug": "遇",
+        "level": 52,
+        "component_subject_ids": [114, 410],
+        "amalgamation_subject_ids": [7933, 7934, 7935, 7936, 7937, 7938, 8154],
+        "meanings": ["Treatment"],
+        "meaning_mnemonic": `Your **r[scooter]r** gave you a **r[splinter]r**, so you had to go in for **k[treatment]k**.`
+    },
+    2177: {
+        "slug": "糧",
+        "level": 52,
+        "component_subject_ids": [98, 293, 125],
+        "amalgamation_subject_ids": [7914, 8132],
+        "meanings": ["Provisions"],
+        "meaning_mnemonic": `The **r[rice]r** that's prepared at **r[dawn]r** by the **r[village]r** are **k[provisions]k** for the army. The army is scheduled to arrive right after dawn, so all of the village's provisions for them have to be ready by then.`
+    },
+    2178: {
+        "slug": "殊",
+        "level": 52,
+        "component_subject_ids": [132, 5, 134],
+        "amalgamation_subject_ids": [7893, 7894, 8069, 8111],
+        "meanings": ["Especially"],
+        "meaning_mnemonic": `If the **r[yakuza]r** **r[slide]r** you into a **r[jet]r**, things are **k[especially]k** bad for you. Not just normal bad, like, especially bad.`
+    },
+    2179: {
+        "slug": "慢",
+        "level": 52,
+        "component_subject_ids": [232, 22, 163, 30],
+        "amalgamation_subject_ids": [7884, 7885, 7886, 7887, 7888, 8100],
+        "meanings": ["Ridicule", "Laziness"],
+        "meaning_mnemonic": `If your **r[soul]r** is acting like the **r[sun]r** trapped in a **r[net]r** sitting on a **r[stool]r**, then people will **k[ridicule]k** you for your **k[laziness]k**. You're just sitting there, trapped and not moving.`
+    },
+    2180: {
+        "slug": "没",
+        "level": 52,
+        "component_subject_ids": [103, 160],
+        "amalgamation_subject_ids": [7895, 7896, 7897, 7898, 7899, 7900, 7901, 7902, 7903, 7904, 7947],
+        "meanings": ["Die"],
+        "meaning_mnemonic": `If you figure out how to use a **r[tsunami]r** as a **r[weapon]r**, everyone is going to **k[die]k**. You can't control a tsunami, you fool. Now you've doomed us all.`
+    },
+    2181: {
+        "slug": "怠",
+        "level": 52,
+        "component_subject_ids": [417, 65],
+        "amalgamation_subject_ids": [7877, 7878, 7887, 8094, 8280, 8281],
+        "meanings": ["Lazy", "Neglect"],
+        "meaning_mnemonic": `If you give a **r[machine]r** a **r[heart]r** it will get **k[lazy]k**. Hearts give us emotions and with emotions we become weak. Why would a machine with a heart want to work anymore? Nah. It's lazy time now.`
+    },
+    2182: {
+        "slug": "遭",
+        "level": 52,
+        "component_subject_ids": [114, 1, 185, 22],
+        "amalgamation_subject_ids": [7934, 7939, 7940],
+        "meanings": ["Encounter", "Meet"],
+        "meaning_mnemonic": `When you ride your **r[scooter]r** on the **r[ground]r** listening to **r[music]r** under the **r[sun]r**, you're bound to **k[encounter]k** a bunch of new people! They hear your music playing as you scoot by and they come out to **k[meet]k** you.`
+    },
+    2183: {
+        "slug": "惰",
+        "level": 52,
+        "component_subject_ids": [232, 26, 25, 43],
+        "amalgamation_subject_ids": [7877, 7883],
+        "meanings": ["Lazy"],
+        "meaning_mnemonic": `In its **r[soul]r**, a **r[narwhal]r** that's supposed to do **r[construction]r** under the **r[moon]r**, will be too **k[lazy]k** to do it. And when your soul is lazy, there's no way you'll be able to get something done.`
+    },
+    2184: {
+        "slug": "猟",
+        "level": 52,
+        "component_subject_ids": [144, 8783, 71],
+        "amalgamation_subject_ids": [7906, 7907, 7908, 7909, 7910],
+        "meanings": ["Hunting"],
+        "meaning_mnemonic": `There is an **r[animal]r** in the **r[grass]r** and your horrible **r[task]r** is to go **k[hunting]k** for it.`
+    },
+    2185: {
+        "slug": "乃",
+        "level": 52,
+        "component_subject_ids": [200],
+        "amalgamation_subject_ids": [9101],
+        "meanings": ["From"],
+        "meaning_mnemonic": `What do **r[stairs]r** do? They take you **k[from]k** where you were, to somewhere else. They're a way to get **k[from]k** place to place.`
+    },
+    2186: {
+        "slug": "綾",
+        "level": 52,
+        "component_subject_ids": [86, 426],
+        "amalgamation_subject_ids": [9057, 9101],
+        "meanings": ["Design"],
+        "meaning_mnemonic": `You're sewing something with **r[thread]r** but you and your creation get **r[frostbite]r** while you're still working. Luckily the snowflakes freeze themselves into the cloth and turn into a pretty **k[design]k**. They swirl around and press a unique snowy design into the fabric. This is nice for you because you can't sew anymore with your frostbitten hands.`
+    },
+    2187: {
+        "slug": "颯",
+        "level": 52,
+        "component_subject_ids": [55, 416],
+        "amalgamation_subject_ids": [7956],
+        "meanings": ["Quick", "Sudden"],
+        "meaning_mnemonic": `If you **r[stand]r** in the **r[wind]r** it will be really **k[quick]k** to knock you over. So quick that you probably won't even know the wind did it. You'll end up standing up again just to be knocked over again, just as quick.`
+    },
+    2188: {
+        "slug": "隼",
+        "level": 52,
+        "component_subject_ids": [240, 15],
+        "amalgamation_subject_ids": [7954],
+        "meanings": ["Falcon"],
+        "meaning_mnemonic": `If you tie a **r[cross]r** to a **r[turkey]r** you can trick everyone into thinking it's a **k[falcon]k**. The cross will stretch its wings out just enough for it to stop looking so fat and turkey like, into a super cool bird of prey.`
+    },
+    2189: {
+        "slug": "輔",
+        "level": 52,
+        "component_subject_ids": [93, 300],
+        "amalgamation_subject_ids": [9102],
+        "meanings": ["Help"],
+        "meaning_mnemonic": `If you want to have your **r[wedding]r** in a **r[car]r** you're going to need a lot of **k[help]k**. Cars are pretty small compared to weddings, so if you don't get help from everyone you know you won't be able to pull it off.`
+    },
+    2190: {
+        "slug": "寛",
+        "level": 53,
+        "component_subject_ids": [78, 90, 91],
+        "amalgamation_subject_ids": [7974, 7975, 7976],
+        "meanings": ["Tolerance"],
+        "meaning_mnemonic": `The **r[roof]r** **r[flowers]r** **r[see]r** everything. But, they only see. That is because they learned the art of **k[tolerance]k**.`
+    },
+    2191: {
+        "slug": "胞",
+        "level": 53,
+        "component_subject_ids": [43, 395],
+        "amalgamation_subject_ids": [8022, 8023, 8024],
+        "meanings": ["Cell", "Placenta"],
+        "meaning_mnemonic": `Take the **r[moon]r** and **r[wrap]r** it in a bag and it will look just like a **k[cell]k**. It's a circle in a bigger circle. The moon is the nucleus. Yes! Science is happening!`
+    },
+    2192: {
+        "slug": "浄",
+        "level": 53,
+        "component_subject_ids": [103, 261],
+        "amalgamation_subject_ids": [7997, 7998, 7999, 8000, 8001, 8002, 8003, 8221, 9108],
+        "meanings": ["Cleanse", "Purify"],
+        "meaning_mnemonic": `The **r[tsunami]r** of **r[conflict]r** will **k[cleanse]k** and **k[purify]k** the lands of people, homes, and culture.`
+    },
+    2193: {
+        "slug": "随",
+        "level": 53,
+        "component_subject_ids": [176, 371, 114],
+        "amalgamation_subject_ids": [8049, 8050, 8051, 8052, 8053],
+        "meanings": ["All"],
+        "meaning_mnemonic": `How many **r[building]r**s **r[have]r** **r[scooter]r**s? **k[All]k** of them!`
+    },
+    2194: {
+        "slug": "稿",
+        "level": 53,
+        "component_subject_ids": [135, 438],
+        "amalgamation_subject_ids": [8008, 8009, 8010, 8011],
+        "meanings": ["Draft"],
+        "meaning_mnemonic": `When what you're writing is as **r[tall]r** as the **r[grain]r**s growing outside, you know you're done with your first **k[draft]k**. Some teachers want papers to be a certain number of words or pages, but that's silly. You should measure your draft in grains!`
+    },
+    2195: {
+        "slug": "丹",
+        "level": 53,
+        "component_subject_ids": [149],
+        "amalgamation_subject_ids": [7962, 7963],
+        "meanings": ["Rust Colored", "Red", "Sincerity "],
+        "meaning_mnemonic": `This is a **r[boat]r**, but it's missing some pieces. That's because it's really rusty, so parts are falling off of it and it looks **k[rust colored]k**. In ancient Chinese literature, this rusty red color represented **k[sincerity]k**, and you'll often see this kanji take that meaning in jukugo words. `
+    },
+    2196: {
+        "slug": "壌",
+        "level": 53,
+        "component_subject_ids": [17, 430],
+        "amalgamation_subject_ids": [7972, 7973],
+        "meanings": ["Soil", "Earth"],
+        "meaning_mnemonic": `A **r[dirt]r** **r[nurse]r** is someone who nurses dirt. When nursed, dirt becomes **k[soil]k**.`
+    },
+    2197: {
+        "slug": "舗",
+        "level": 53,
+        "component_subject_ids": [433, 300],
+        "amalgamation_subject_ids": [8028, 8029, 8030, 8031, 8232],
+        "meanings": ["Shop", "Store"],
+        "meaning_mnemonic": `You want to have a quaint **r[cottage]r** **r[wedding]r**, so you have to go to the cottage wedding **k[shop]k** to get everything you need. This shop is the only place you can buy everything you need. It's not like you can make a cottage from scratch!`
+    },
+    2198: {
+        "slug": "騰",
+        "level": 53,
+        "component_subject_ids": [43, 8819, 165],
+        "amalgamation_subject_ids": [7996, 8056, 8057, 8058],
+        "meanings": ["Inflation"],
+        "meaning_mnemonic": `While the **r[moon]r** is out, a **r[gladiator]r** is riding a **r[horse]r**, yelling about **k[inflation]k**. No one would listen to him during the day, so he waited for the moon to rise so he could complain about prices doing the same.`
+    },
+    2199: {
+        "slug": "緯",
+        "level": 53,
+        "component_subject_ids": [86, 294],
+        "amalgamation_subject_ids": [8012, 8013, 8014, 8015, 8016],
+        "meanings": ["Latitude"],
+        "meaning_mnemonic": `The **r[thread]r** that goes through **r[Korea]r** is the **k[latitude]k** line splitting up North and South Korea.`
+    },
+    2200: {
+        "slug": "艇",
+        "level": 53,
+        "component_subject_ids": [149, 206, 48],
+        "amalgamation_subject_ids": [8032, 8033],
+        "meanings": ["Rowboat"],
+        "meaning_mnemonic": `A **r[boat]r** owned by a **r[Yoga]r** **r[King]r** needs to be able to let him keep doing his exercises while he's on it. That's why his boat is a **k[rowboat]k**, so he can work on his yoga arms as he gets around.`
+    },
+    2201: {
+        "slug": "披",
+        "level": 53,
+        "component_subject_ids": [63, 195],
+        "amalgamation_subject_ids": [7987, 8208],
+        "meanings": ["Expose"],
+        "meaning_mnemonic": `Press your **r[fingers]r** in someone's **r[skin]r** to **k[expose]k** what's underneath. This is pretty gross, but sometimes it's more important that you expose the cause of the problem, than avoiding something uncomfortable.`
+    },
+    2202: {
+        "slug": "錦",
+        "level": 53,
+        "component_subject_ids": [118, 52, 102],
+        "amalgamation_subject_ids": [8047, 8048],
+        "meanings": ["Brocade"],
+        "meaning_mnemonic": `You weave **r[gold]r** and **r[white]r** patterns into this **r[towel]r**, turning it into **k[brocade]k**. It's beautiful, elegant, and worth way more than when it was just a plain towel.`
+    },
+    2204: {
+        "slug": "剰",
+        "level": 53,
+        "component_subject_ids": [135, 16, 128],
+        "amalgamation_subject_ids": [7965, 7966, 7967],
+        "meanings": ["Surplus"],
+        "meaning_mnemonic": `There's so much **r[grain]r** in your **r[mouth]r** you need to use a **r[knife]r** to remove it. Only when there is a **k[surplus]k** can you put that much grain in your mouth.`
+    },
+    2205: {
+        "slug": "繊",
+        "level": 53,
+        "component_subject_ids": [86, 15, 8768, 194],
+        "amalgamation_subject_ids": [8017, 8018, 8019, 8020],
+        "meanings": ["Fiber", "Slender"],
+        "meaning_mnemonic": `A **r[drunkard]r** **r[cross]r**es **r[thread]r** across special **r[spikes]r** to separate the **k[fiber]k**s. The best way to separate the fibers of thread is to get a drunkard to do it. If you're too precise it will just snap. You gotta be loose with it! Just flop them onto the spikes and the fibers will come apart by themselves!`
+    },
+    2206: {
+        "slug": "諭",
+        "level": 53,
+        "component_subject_ids": [117, 8790],
+        "amalgamation_subject_ids": [8044, 8045],
+        "meanings": ["Admonish"],
+        "meaning_mnemonic": `If you try to **r[say]r** something to the **r[Death Star]r**, it would only **k[admonish]k** you. It was made to destroy planets, after all, so I don't know why you'd expect it to have anything nice to say. It just admonishes you about everything you've ever done wrong until you can't stop crying.`
+    },
+    2207: {
+        "slug": "惨",
+        "level": 53,
+        "component_subject_ids": [232, 140, 18, 38],
+        "amalgamation_subject_ids": [7982, 7983, 7984, 7985, 7986],
+        "meanings": ["Disaster"],
+        "meaning_mnemonic": `If you get a **r[big]r** **r[hair]r** stuck in your **r[private]r** **r[soul]r** it will be a **k[disaster]k**! Have you ever gotten a hair in your eye or your mouth that you just couldn't get out? You cough, your eyes water, it's awful! You can't focus on anything until it's gone. Now imagine if a big 'ol hair got stuck in your own private soul!!! Disaster!!!`
+    },
+    2208: {
+        "slug": "虐",
+        "level": 53,
+        "component_subject_ids": [254, 105],
+        "amalgamation_subject_ids": [8039, 8040, 8041, 8042, 8043],
+        "meanings": ["Oppress"],
+        "meaning_mnemonic": `**r[Tiger]r**s and **r[wolverine]r**s have one big thing in common and it's that the government likes to **k[oppress]k** them. It doesn't matter if you're the animal or a mutant X-Men hybrid. The government will go out of its way to oppress you if you are one. `
+    },
+    2209: {
+        "slug": "据",
+        "level": 53,
+        "component_subject_ids": [63, 37, 69],
+        "amalgamation_subject_ids": [7989, 8213],
+        "meanings": ["Install"],
+        "meaning_mnemonic": `You use your **r[fingers]r** to take down the **r[old]r** **r[flag]r** and **k[install]k** a new one. Flags get old, just like computers and furniture and people. So when one gets too old, you have to get on up there and install a new one in its place.`
+    },
+    2210: {
+        "slug": "徐",
+        "level": 53,
+        "component_subject_ids": [99, 313],
+        "amalgamation_subject_ids": [7980, 7981],
+        "meanings": ["Gently", "Gentle"],
+        "meaning_mnemonic": `If you **r[loiter]r** around a **r[surplus]r** of anything, you need to be **k[gentle]k** and touch everything **k[gently]k**. `
+    },
+    2211: {
+        "slug": "搭",
+        "level": 53,
+        "component_subject_ids": [63, 90, 216],
+        "amalgamation_subject_ids": [7990, 7991],
+        "meanings": ["Board", "Embark"],
+        "meaning_mnemonic": `In your **r[fingers]r** are **r[flowers]r** which really **r[suit]r** you. But you throw them to the people waving to you from below, as you **k[board]k** your ship. The flowers fall, unneeded. You're **k[embark]k**ing on a new life, a new journey. There will be more flowers where you're going.`
+    },
+    2212: {
+        "slug": "蒙",
+        "level": 53,
+        "component_subject_ids": [90, 76, 1, 233],
+        "amalgamation_subject_ids": [7971, 8037],
+        "meanings": ["Darkness"],
+        "meaning_mnemonic": `**r[Flowers]r** are growing out of the **r[ground]r** and over your pet **r[pig]r**'s **r[forehead]r** and it's causing the poor thing to live in total **k[darkness]k**. The flowers are hanging down over its eyes and won't let any light in at all. And some of the flowers seem to be growing directly out of the pig's forehead too. The pig has just been wandering and bumping into things all day because of it.`
+    },
+    2213: {
+        "slug": "鯉",
+        "level": 53,
+        "component_subject_ids": [150, 125],
+        "amalgamation_subject_ids": [8048, 8059, 8060, 8061],
+        "meanings": ["Carp", "Koi"],
+        "meaning_mnemonic": `If you're in Japan, the **r[fish]r** in your **r[village]r** are **k[carp]k**. You may know them as **k[koi]k**, too.`
+    },
+    2214: {
+        "slug": "戴",
+        "level": 53,
+        "component_subject_ids": [15, 194, 51, 269],
+        "amalgamation_subject_ids": [8055],
+        "meanings": ["Receive"],
+        "meaning_mnemonic": `A **r[cross]r** carrying **r[drunkard]r** wants you to go to a **r[rice paddy]r** **r[together]r** so you can **k[receive]k** something from them.`
+    },
+    2215: {
+        "slug": "緋",
+        "level": 53,
+        "component_subject_ids": [86, 209],
+        "amalgamation_subject_ids": [8060],
+        "meanings": ["Scarlet"],
+        "meaning_mnemonic": `The **r[thread]r**s a **r[criminal]r** wears will always be **k[scarlet]k**. Scarlet is the color of freshly spilt blood, which is why bad guys wear it so much.`
+    },
+    2216: {
+        "slug": "曙",
+        "level": 53,
+        "component_subject_ids": [22, 163, 203],
+        "amalgamation_subject_ids": [7992],
+        "meanings": ["Dawn"],
+        "meaning_mnemonic": `The **r[sun]r** is rising and there is a **r[net]r** covering **r[someone]r**, who's being forced to watch as **k[dawn]k** appears. They've never seen dawn before, and they didn't want to, but you're making them.`
+    },
+    2217: {
+        "slug": "胡",
+        "level": 53,
+        "component_subject_ids": [69, 43],
+        "amalgamation_subject_ids": [8025, 8026],
+        "meanings": ["Barbarian"],
+        "meaning_mnemonic": `The **r[old]r** **r[moon]r** (the moon we had before the current moon) was actually just a huge **k[barbarian]k** floating in the sky.`
+    },
+    2218: {
+        "slug": "瓜",
+        "level": 53,
+        "component_subject_ids": [384],
+        "amalgamation_subject_ids": [8006, 8007, 8026, 8222, 8223],
+        "meanings": ["Melon"],
+        "meaning_mnemonic": `The **r[melon]r** radical and the **k[melon]k** kanji are exactly the same! Wahoo!`
+    },
+    2219: {
+        "slug": "帥",
+        "level": 53,
+        "component_subject_ids": [3, 8777, 102],
+        "amalgamation_subject_ids": [7977, 7978, 7979],
+        "meanings": ["Commander"],
+        "meaning_mnemonic": `There's a **r[drop]r** of **r[bear]r** on this **r[towel]r**. A true **k[commander]k** can notice little things like this.`
+    },
+    2220: {
+        "slug": "啓",
+        "level": 53,
+        "component_subject_ids": [73, 60, 16],
+        "amalgamation_subject_ids": [7969, 7970, 7971],
+        "meanings": ["Enlighten"],
+        "meaning_mnemonic": `If you can find the **r[door]r** in **r[winter]r** shaped like a **r[mouth]r** it will **k[enlighten]k** you.`
+    },
+    2221: {
+        "slug": "葵",
+        "level": 53,
+        "component_subject_ids": [90, 168, 40],
+        "amalgamation_subject_ids": [8036, 8233],
+        "meanings": ["Hollyhock"],
+        "meaning_mnemonic": `**r[Flowers]r** that are thought to be little **r[tent]r**s sent from **r[heaven]r** are **k[hollyhock]k**s. They're shaped almost like little teepees and would make the perfect tent for a faerie or a little yokai! `
+    },
+    2222: {
+        "slug": "駿",
+        "level": 53,
+        "component_subject_ids": [165, 427],
+        "amalgamation_subject_ids": [9105],
+        "meanings": ["Speed"],
+        "meaning_mnemonic": `When a **r[horse]r** sees a **r[spider]r** it will start running at a **k[speed]k** no one ever thought a horse could go! Horses are super afraid of spiders, you see, so if they see one, they'll bolt and reach top speed! That's actually the only way to get a horse to run that fast. `
+    },
+    2223: {
+        "slug": "諒",
+        "level": 53,
+        "component_subject_ids": [117, 299],
+        "amalgamation_subject_ids": [9103],
+        "meanings": ["Comprehend", "Reality"],
+        "meaning_mnemonic": `If you **r[say]r** something the same way they say it in the **r[capital]r**, everyone in the whole country will be able to **k[comprehend]k** what you're trying to say. If you try to speak in your hometown's dialect no one will. But everyone can comprehend what you want if you use the capital's dialect to say it.`
+    },
+    2224: {
+        "slug": "莉",
+        "level": 53,
+        "component_subject_ids": [90, 135, 128],
+        "amalgamation_subject_ids": [9104],
+        "meanings": ["Jasmine"],
+        "meaning_mnemonic": `You cut the **r[flowers]r** off the **r[grain]r** with your **r[knife]r**. The flowers that fall off are **k[jasmine]k** flowers.`
+    },
+    2225: {
+        "slug": "鯨",
+        "level": 54,
+        "component_subject_ids": [150, 299],
+        "amalgamation_subject_ids": [8174, 8175, 8176],
+        "meanings": ["Whale"],
+        "meaning_mnemonic": `If you travel to the **r[fish]r** **r[capital]r**, you'll find the leader of all fish, the mighty **k[whale]k**! Okay, so a whale isn't technically a fish, but that's why it makes such a good leader. You can usually only find whales hanging around near the capital because they really enjoy ruling over all the other fish. They are the biggest, after all.`
+    },
+    2226: {
+        "slug": "荘",
+        "level": 54,
+        "component_subject_ids": [90, 8826, 97],
+        "amalgamation_subject_ids": [8140, 8141, 8142],
+        "meanings": ["Villa"],
+        "meaning_mnemonic": `Clearing his **r[flowers]r** of **r[icicle]r**s, the **r[samurai]r** returns home to his **k[villa]k**.`
+    },
+    2227: {
+        "slug": "栽",
+        "level": 54,
+        "component_subject_ids": [388, 194],
+        "amalgamation_subject_ids": [8105, 8106],
+        "meanings": ["Planting"],
+        "meaning_mnemonic": `A **r[drunkard]r** gets his hands on a **r[plow]r** and starts **k[planting]k** right away. Drunk people are surprisingly good at planting, especially when they have machines to help them do it.`
+    },
+    2228: {
+        "slug": "拐",
+        "level": 54,
+        "component_subject_ids": [63, 16, 24],
+        "amalgamation_subject_ids": [8101],
+        "meanings": ["Kidnap"],
+        "meaning_mnemonic": `A **r[mouth]r** with a **r[sword]r** is threatening to cut off your **r[fingers]r** because they've **k[kidnap]k**ped you! You can't see anything about them, since they're all covered up. All you see is their angry mouth and the sword they keep putting near your fingers. `
+    },
+    2229: {
+        "slug": "冠",
+        "level": 54,
+        "component_subject_ids": [76, 64, 74],
+        "amalgamation_subject_ids": [8067, 8068],
+        "meanings": ["Crown", "Cap"],
+        "meaning_mnemonic": `Your **r[forehead]r** is the **r[origin]r** for the **r[measurement]r** for your **k[crown]k**! If you measure somewhere else on your head for a crown it won't fit.`
+    },
+    2230: {
+        "slug": "勲",
+        "level": 54,
+        "component_subject_ids": [188, 13, 131],
+        "amalgamation_subject_ids": [8069, 8070, 8071],
+        "meanings": ["Merit"],
+        "meaning_mnemonic": `You're in a really important position, **r[heavy]r** with **r[power]r**, but you can't carry all of that around with you, so you **r[boil]r** it all down to just a few **k[merit]k**s.`
+    },
+    2231: {
+        "slug": "酬",
+        "level": 54,
+        "component_subject_ids": [182, 3, 21],
+        "amalgamation_subject_ids": [8155, 8156, 8330],
+        "meanings": ["Repay"],
+        "meaning_mnemonic": `You took someone's **r[alcohol]r** and **r[drop]r** **r[drop]r** **r[drop]r**'d it all into the **r[river]r**. Now you have to **k[repay]k** them. Alcohol costs a lot of money, you know.`
+    },
+    2232: {
+        "slug": "紋",
+        "level": 54,
+        "component_subject_ids": [86, 42],
+        "amalgamation_subject_ids": [8133, 8134, 8135, 8136],
+        "meanings": ["Family Crest"],
+        "meaning_mnemonic": `You use **r[thread]r** and **r[writing]r** to sew our **k[family crest]k**. You've been sewing your family crest since you were a kid, you could do it today with your eyes closed.`
+    },
+    2233: {
+        "slug": "卸",
+        "level": 54,
+        "component_subject_ids": [415, 44, 145],
+        "amalgamation_subject_ids": [8072, 8073, 8074, 8075],
+        "meanings": ["Wholesale"],
+        "meaning_mnemonic": `You should **r[stop]r** to buy **r[stamp]r**s at **r[noon]r** because that's the only time they're being sold at **k[wholesale]k** price. Everyone's so busy eating and working and being at school, that they miss this awesome deal, but not you. Everyday at noon you stock up on wholesale stamps. Do you send a lot of mail? No, you probably just collect them. But they were cheap, so who cares!`
+    },
+    2234: {
+        "slug": "欄",
+        "level": 54,
+        "component_subject_ids": [23, 214, 224],
+        "amalgamation_subject_ids": [8107, 8108, 8109, 8110],
+        "meanings": ["Column", "Space"],
+        "meaning_mnemonic": `You see a bunch of **r[tree]r**s lined up outside of the **r[gate]r** to the **r[east]r** and realize they look like perfect **k[column]k**s. It seems like a building or a castle should be resting above them.`
+    },
+    2235: {
+        "slug": "逸",
+        "level": 54,
+        "component_subject_ids": [114, 208],
+        "amalgamation_subject_ids": [8149, 8150, 8151, 8152, 8153, 8328],
+        "meanings": ["Deviate", "Elude"],
+        "meaning_mnemonic": `Jump on a **r[scooter]r** to **r[excuse]r** yourself from answering a question and you've successfully **k[deviate]k**d from that nosey person's plan! You've also been able to **k[elude]k** them pretty well.`
+    },
+    2236: {
+        "slug": "尚",
+        "level": 54,
+        "component_subject_ids": [8765, 121],
+        "amalgamation_subject_ids": [8088, 8089, 8090, 8091, 8273, 8274],
+        "meanings": ["Furthermore", "Esteem"],
+        "meaning_mnemonic": `A **r[triceratops]r** with a **r[mustache]r** will go on talking forever. Every time you think he's done he says, "**k[Furthermore]k**..." and keeps going. Something about a mustache on a dinosaur makes him kind of a jerk, but he's held in such high **k[esteem]k** that no one ever interrupts him.`
+    },
+    2237: {
+        "slug": "顕",
+        "level": 54,
+        "component_subject_ids": [22, 8768, 184],
+        "amalgamation_subject_ids": [8170, 8171, 8172, 8173],
+        "meanings": ["Appear", "Exist"],
+        "meaning_mnemonic": `When the **r[sun]r** comes up the **r[spikes]r** of **r[geoduck]r**s **k[appear]k**.`
+    },
+    2238: {
+        "slug": "粛",
+        "level": 54,
+        "component_subject_ids": [105, 8761, 28, 98],
+        "amalgamation_subject_ids": [8129, 8130, 8131],
+        "meanings": ["Solemn"],
+        "meaning_mnemonic": `A **r[wolverine]r** that **r[stick]r**s its **r[legs]r** in **r[rice]r** will become very **k[solemn]k**, very fast. This is weird to you because wolverines always seem so happy. Well his dad died from his legs getting stuck in rice, so just leave the poor solemn creature alone.`
+    },
+    2239: {
+        "slug": "愚",
+        "level": 54,
+        "component_subject_ids": [410, 65],
+        "amalgamation_subject_ids": [8098, 8099, 8284],
+        "meanings": ["Foolish"],
+        "meaning_mnemonic": `If you give **r[Splinter]r** your **r[heart]r** you'll feel pretty **k[foolish]k** afterwards. His heart belongs to the art of ninjutsu! `
+    },
+    2240: {
+        "slug": "庶",
+        "level": 54,
+        "component_subject_ids": [8787, 131],
+        "amalgamation_subject_ids": [8092, 8093, 8275],
+        "meanings": ["All", "Bastard"],
+        "meaning_mnemonic": `Who goes into their **r[yurt]r** to **r[boil]r** things? **k[All]k** the people you've ever known. You don't boil things outside, are you crazy?`
+    },
+    2241: {
+        "slug": "践",
+        "level": 54,
+        "component_subject_ids": [95, 8782],
+        "amalgamation_subject_ids": [8148],
+        "meanings": ["Practice", "Trample"],
+        "meaning_mnemonic": `You put your **r[foot]r** on the **r[bar]r** at the gymnasium at your very first **k[practice]k**. That's a big accomplishment since you're here learning how to walk on that long bar like all the cool gymnasts. But you can't just start right away, you need lots of practice so that's why you're here in this class. But so far you got your foot on the bar already, good for you!`
+    },
+    2242: {
+        "slug": "呈",
+        "level": 54,
+        "component_subject_ids": [16, 48],
+        "amalgamation_subject_ids": [8082, 8083, 8084],
+        "meanings": ["Present", "Display"],
+        "meaning_mnemonic": `The **r[Mouth]r** **r[King]r**, who is just one big mouth, has one skill, and that is to **k[present]k**. That big mouth is always presenting something.`
+    },
+    2243: {
+        "slug": "疎",
+        "level": 54,
+        "component_subject_ids": [420, 219],
+        "amalgamation_subject_ids": [8114, 8115, 8116, 8117, 8118, 8119, 8120, 8299],
+        "meanings": ["Neglect", "Sparse"],
+        "meaning_mnemonic": `A **r[coat rack]r** will turn into a **r[bundle]r** of sticks if you **k[neglect]k** it. When you neglect a coat rack, the weight from the coats will pull all of the arms off, leaving it as a **k[sparse]k** stick.`
+    },
+    2244: {
+        "slug": "疾",
+        "level": 54,
+        "component_subject_ids": [187, 72],
+        "amalgamation_subject_ids": [8121, 8122, 8123, 8124],
+        "meanings": ["Rapidly", "Rapid"],
+        "meaning_mnemonic": `A **r[sick]r**ness that hits you like an **r[arrow]r** will do its gross work **k[rapidly]k**. It's not a good thing, you're gonna get really sick really fast.`
+    },
+    2245: {
+        "slug": "謡",
+        "level": 54,
+        "component_subject_ids": [117, 8798],
+        "amalgamation_subject_ids": [8143, 8144, 8145, 8324],
+        "meanings": ["Noh Chanting", "Noh Chant"],
+        "meaning_mnemonic": `Whatever you **r[say]r** through a **r[satellite]r** turns into **k[Noh chanting]k**. It gets all drawn out and distorted from going through the satellite, which makes it SOUND like Noh chanting at least.`
+    },
+    2246: {
+        "slug": "鎌",
+        "level": 54,
+        "component_subject_ids": [118, 271],
+        "amalgamation_subject_ids": [8166],
+        "meanings": ["Sickle", "Scythe"],
+        "meaning_mnemonic": `You cast the **r[Mona Lisa]r** in **r[gold]r** and attach it to a stick to turn it into a **k[sickle]k**! It's really big and bulky, but when you swing it fast enough your new sickle cuts lots of wheat! Just don't tell anyone what you did with the famous Mona Lisa painting and you should be able to get away with this!`
+    },
+    2247: {
+        "slug": "酷",
+        "level": 54,
+        "component_subject_ids": [182, 306],
+        "amalgamation_subject_ids": [8157, 8158, 8159, 8160, 8161, 8162, 8163, 8164, 8165],
+        "meanings": ["Cruel", "Unjust"],
+        "meaning_mnemonic": `If you **r[announce]r** that **r[alcohol]r** is illegal you're just being **k[cruel]k**. Honestly, saying no one can have any alcohol at all is totally **k[unjust]k**. They tried that in the 1920s and it didn't work then either, so cut it out! Let people drink what they want to drink!`
+    },
+    2248: {
+        "slug": "叙",
+        "level": 54,
+        "component_subject_ids": [313, 30],
+        "amalgamation_subject_ids": [8070, 8076, 8077, 8078, 8079],
+        "meanings": ["Describe"],
+        "meaning_mnemonic": `The **r[surplus]r** **r[stool]r**, please **k[describe]k** it.`
+    },
+    2249: {
+        "slug": "且",
+        "level": 54,
+        "component_subject_ids": [419],
+        "amalgamation_subject_ids": [8274],
+        "meanings": ["Also"],
+        "meaning_mnemonic": `If you want to wear a **r[top hat]r** you **k[also]k** have to wear a suit to go with it. You can't just wear a top hat, that just doesn't look right. When you think top hat, think about what you also need with it.`
+    },
+    2250: {
+        "slug": "痴",
+        "level": 54,
+        "component_subject_ids": [187, 72, 16],
+        "amalgamation_subject_ids": [8099, 8125, 8126, 8127, 8300],
+        "meanings": ["Stupid"],
+        "meaning_mnemonic": `You're **r[sick]r** because you put an **r[arrow]r** in your **r[mouth]r** and tried to eat it. To be honest, that's just really **k[stupid]k**. You have to be stupid to try to eat an arrow. You deserve to be sick.`
+    },
+    2251: {
+        "slug": "呆",
+        "level": 54,
+        "component_subject_ids": [16, 23],
+        "amalgamation_subject_ids": [8080, 8081, 8126, 8262, 8439, 8440, 8441],
+        "meanings": ["Shock"],
+        "meaning_mnemonic": `You see a **r[mouth]r** coming out of the top of a **r[tree]r** so you go into **k[shock]k**. Your brain just can't comprehend what's in front of you.`
+    },
+    2252: {
+        "slug": "哺",
+        "level": 54,
+        "component_subject_ids": [16, 300],
+        "amalgamation_subject_ids": [8085, 8113],
+        "meanings": ["Suckle", "Nurse"],
+        "meaning_mnemonic": `After your **r[wedding]r** you have a baby and it uses its **r[mouth]r** to **k[suckle]k** from your post-wedding boobs. Yes, babies **k[nurse]k** from breasts. Get over it, kids.`
+    },
+    2253: {
+        "slug": "傲",
+        "level": 54,
+        "component_subject_ids": [75, 17, 66, 60],
+        "amalgamation_subject_ids": [8100],
+        "meanings": ["Proud"],
+        "meaning_mnemonic": `Your **r[leader]r** managed to find the right **r[direction]r** home using marks in the **r[dirt]r** in the middle of **r[winter]r**. This makes you so **k[proud]k**! You're proud because this resourceful leader is YOUR resourceful leader.`
+    },
+    2254: {
+        "slug": "茎",
+        "level": 54,
+        "component_subject_ids": [90, 179],
+        "amalgamation_subject_ids": [8138],
+        "meanings": ["Stem"],
+        "meaning_mnemonic": `When you leave **r[flowers]r** on a **r[tombstone]r** they look good at first, but after a few days or some harsh weather, there's nothing left but **k[stem]k**s. That's why you have to replace flowers on tombstones all the time. If you don't it will look like you only left the stems there, and that's pretty disrespectful.`
+    },
+    2255: {
+        "slug": "阿",
+        "level": 54,
+        "component_subject_ids": [176, 113],
+        "amalgamation_subject_ids": [8080],
+        "meanings": ["Flatter"],
+        "meaning_mnemonic": `You see a **r[building]r** with a **r[lip ring]r** and it's just so cute you have to **k[flatter]k** it. "That lip ring looks wonderful on you, Building<ja>さん</ja>," you say.`
+    },
+    2256: {
+        "slug": "悠",
+        "level": 54,
+        "component_subject_ids": [75, 8761, 60, 65],
+        "amalgamation_subject_ids": [8095, 8096, 8097],
+        "meanings": ["Leisure"],
+        "meaning_mnemonic": `The **r[leader]r** who usually hits you with a **r[stick]r** in **r[winter]r** finds it in his **r[heart]r** to give you some **k[leisure]k** time.`
+    },
+    2257: {
+        "slug": "杏",
+        "level": 54,
+        "component_subject_ids": [23, 16],
+        "amalgamation_subject_ids": [8102, 8103],
+        "meanings": ["Apricot"],
+        "meaning_mnemonic": `What does a **r[tree]r** make that you'd want to put in your **r[mouth]r**? An **k[apricot]k**! Apricots are also about the size of an open mouth, so they kind of look like mouths hanging down under the trees. You can bite them right off the tree with your own mouth!`
+    },
+    2258: {
+        "slug": "茜",
+        "level": 54,
+        "component_subject_ids": [90, 112],
+        "amalgamation_subject_ids": [9106],
+        "meanings": ["Red Dye", "Madder"],
+        "meaning_mnemonic": `**r[Flowers]r** that grow in the **r[west]r** are colored by the sun setting so they turn bright red. That's why red flowers that grow in the west are used to make **k[red dye]k**. They're the closest to the actual color of the red sun, so they're prized by painters and other artists for their perfect color for dye.`
+    },
+    2259: {
+        "slug": "栞",
+        "level": 54,
+        "component_subject_ids": [61, 23],
+        "amalgamation_subject_ids": [8104],
+        "meanings": ["Bookmark"],
+        "meaning_mnemonic": `**r[Dry]r** an already **r[dry]r** **r[tree]r** to create a **k[bookmark]k**. The more you dry the tree, the flatter it becomes, making it the perfect way to mark your spot in a book without needing to fold a page or write on it.`
+    },
+    2260: {
+        "slug": "伏",
+        "level": 55,
+        "component_subject_ids": [75, 47],
+        "amalgamation_subject_ids": [8178, 8179, 8180, 8181, 8182, 8183],
+        "meanings": ["Bow", "Lay"],
+        "meaning_mnemonic": `When you meet the **r[leader]r** **r[dog]r** you have to **k[bow]k** to show your respect. Dogs are pretty great, so the leader of all dogs must be the greatest! You should bow really deeply to this one.`
+    },
+    2261: {
+        "slug": "鎮",
+        "level": 55,
+        "component_subject_ids": [118, 413],
+        "amalgamation_subject_ids": [8244, 8245, 8246, 8247, 8248, 8425],
+        "meanings": ["Tranquilize"],
+        "meaning_mnemonic": `The **r[reality]r** of **r[gold]r** is that it has the power to **k[tranquilize]k** anyone who gets their hands on it. Gold may seem cool to have in movies and songs, but in reality, it has the power to mess you up!`
+    },
+    2262: {
+        "slug": "奉",
+        "level": 55,
+        "component_subject_ids": [8779, 61],
+        "amalgamation_subject_ids": [8191, 8192, 8193, 8194, 8354],
+        "meanings": ["Dedicate"],
+        "meaning_mnemonic": `When **r[spring]r** is **r[dry]r** you need to **k[dedicate]k** your time and effort somewhere else. You can't plant flowers or vegetables, it's too dry. You can't play outside, your skin will flake. So you need to dedicate yourself to something inside.`
+    },
+    2263: {
+        "slug": "憂",
+        "level": 55,
+        "component_subject_ids": [239, 76, 65, 60],
+        "amalgamation_subject_ids": [8203, 8204, 8205, 8206, 8364, 8539],
+        "meanings": ["Grief"],
+        "meaning_mnemonic": `A **r[hundred]r** **r[forehead]r**s lower themselves to their **r[heart]r**s in **r[winter]r** in **k[grief]k**. There were once many of their kind, the forehead peoples, but now there are only a hundred left after this harsh winter took the rest of them. Their grief is immense.`
+    },
+    2264: {
+        "slug": "朴",
+        "level": 55,
+        "component_subject_ids": [23, 10],
+        "amalgamation_subject_ids": [8217],
+        "meanings": ["Simple", "Crude"],
+        "meaning_mnemonic": `You decide to carve a **r[tree]r** into a giant replica of your big **r[toe]r** because you think it will be really **k[simple]k**. Once you're done though, it looks like a really **k[crude]k** attempt at a fat, lumpy blob. Maybe carving isn't as simple as you thought.`
+    },
+    2265: {
+        "slug": "栃",
+        "level": 55,
+        "component_subject_ids": [23, 116, 307],
+        "amalgamation_subject_ids": [8218],
+        "meanings": ["Horse Chestnut"],
+        "meaning_mnemonic": `You see a **r[tree]r** growing on a **r[cliff]r** and it has **r[ten thousand]r** **k[horse chestnut]k**s growing on it. These trees are rare, only grow on cliffs, and they always have exactly ten thousand horse chestnuts on each one. `
+    },
+    2266: {
+        "slug": "惜",
+        "level": 55,
+        "component_subject_ids": [232, 256],
+        "amalgamation_subject_ids": [8200, 8201, 8362, 8534],
+        "meanings": ["Frugal"],
+        "meaning_mnemonic": `Your **r[soul]r** **r[long ago]r** was very **k[frugal]k**, which is why you get to have too much in this life!`
+    },
+    2267: {
+        "slug": "佳",
+        "level": 55,
+        "component_subject_ids": [75, 17],
+        "amalgamation_subject_ids": [8184],
+        "meanings": ["Excellent", "Skilled"],
+        "meaning_mnemonic": `A **r[leader]r** gets double the **r[dirt]r** to build on if he's the most **k[excellent]k** and most **k[skilled]k** of all the leaders. You don't think dirt is so great? Well what if I took the dirt you own away from you? Your house is on that dirt. It's mine now. Get outta here.`
+    },
+    2268: {
+        "slug": "悼",
+        "level": 55,
+        "component_subject_ids": [232, 10, 201],
+        "amalgamation_subject_ids": [8198, 8199],
+        "meanings": ["Grieve", "Mourn"],
+        "meaning_mnemonic": `The **r[soul]r** in your **r[toe]r** leaves **r[early]r**. You **k[grieve]k** and **k[mourn]k** for your now-dead toe.`
+    },
+    2269: {
+        "slug": "該",
+        "level": 55,
+        "component_subject_ids": [117, 351],
+        "amalgamation_subject_ids": [8236],
+        "meanings": ["The Above", "That Specifically"],
+        "meaning_mnemonic": `You want to **r[slice]r** what you **r[say]r** in half so that people focus on **k[the above]k** text first. The above is what you want them to see! So slice what you say!`
+    },
+    2270: {
+        "slug": "赴",
+        "level": 55,
+        "component_subject_ids": [124, 10],
+        "amalgamation_subject_ids": [8241],
+        "meanings": ["Proceed", "Move On"],
+        "meaning_mnemonic": `You need to **r[run]r** on your **r[toe]r**s if you want to **k[proceed]k** down this road. If you can't run on your toes, well then you're out of luck, and you won't be able to **k[move on]k** at all. I didn't make this rule, I just enforce it. Now run!`
+    },
+    2271: {
+        "slug": "髄",
+        "level": 55,
+        "component_subject_ids": [385, 371, 114],
+        "amalgamation_subject_ids": [8249, 8250, 8251, 8252],
+        "meanings": ["Marrow", "Bone Marrow"],
+        "meaning_mnemonic": `Your **r[bone]r**s **r[have]r** a **r[scooter]r** that moves through the **k[bone marrow]k** inside them.`
+    },
+    2272: {
+        "slug": "傍",
+        "level": 55,
+        "component_subject_ids": [75, 55, 66],
+        "amalgamation_subject_ids": [8185, 8186, 8187, 8348],
+        "meanings": ["Nearby", "Side"],
+        "meaning_mnemonic": `The **r[leader]r** is **r[stand]r**ing funny, facing a **r[direction]r** **k[nearby]k**. He can't go far because there's obviously something wrong with his feet. He's stuck nearby, very close to your side.`
+    },
+    2273: {
+        "slug": "累",
+        "level": 55,
+        "component_subject_ids": [51, 86],
+        "amalgamation_subject_ids": [8229, 8230, 8231],
+        "meanings": ["Accumulate"],
+        "meaning_mnemonic": `You start growing **r[thread]r** in your **r[rice paddy]r** to **k[accumulate]k** more. You didn't want to have to buy any, so you're just trying to grow thread with your rice. That seems like a good way to accumulate more to you.`
+    },
+    2274: {
+        "slug": "癒",
+        "level": 55,
+        "component_subject_ids": [187, 8790, 65],
+        "amalgamation_subject_ids": [8224, 8225, 9053],
+        "meanings": ["Healing", "Cure"],
+        "meaning_mnemonic": `The **r[sick]r** **r[Death Star]r** needs its **r[heart]r** **k[cure]k**d. If it doesn't get **k[healing]k** soon, it will die.`
+    },
+    2275: {
+        "slug": "郭",
+        "level": 55,
+        "component_subject_ids": [345, 176],
+        "amalgamation_subject_ids": [8243],
+        "meanings": ["Enclosure"],
+        "meaning_mnemonic": `You just **r[receive]r**d a **r[building]r**, so you want to surround it with an **k[enclosure]k**.`
+    },
+    2276: {
+        "slug": "尿",
+        "level": 55,
+        "component_subject_ids": [37, 45],
+        "amalgamation_subject_ids": [8195, 8629],
+        "meanings": ["Urine", "Pee"],
+        "meaning_mnemonic": `When you go to the pool or lake to swim, you'll see a **r[flag]r** stuck somewhere in the **r[water]r**. That flag is there so you know it's okay to **k[pee]k** in that area of the pool. Everyone knows **k[urine]k** dilutes in water, and if everyone just pees in one place, it won't be gross. So go pee over by that flag when you have to go. Don't bother getting out of the water.`
+    },
+    2277: {
+        "slug": "賓",
+        "level": 55,
+        "component_subject_ids": [78, 1, 198, 94],
+        "amalgamation_subject_ids": [8237, 8238, 8239, 8240, 8412],
+        "meanings": ["VIP", "Guest"],
+        "meaning_mnemonic": `Between the **r[roof]r** and the **r[ground]r** there are **r[few]r** **r[shellfish]r**. This is because we invited some **k[VIP]k** **k[guest]k**s into our home and they ate all our shellfish.`
+    },
+    2278: {
+        "slug": "虜",
+        "level": 55,
+        "component_subject_ids": [254, 243],
+        "amalgamation_subject_ids": [8234, 8235],
+        "meanings": ["Captive"],
+        "meaning_mnemonic": `When a **r[man]r** meets a **r[tiger]r** he makes the tiger his **k[captive]k**. Men are pretty crappy like that. They see tigers and they want to put them in cages, so the poor tiger becomes a captive of the man.`
+    },
+    2279: {
+        "slug": "憾",
+        "level": 55,
+        "component_subject_ids": [232, 423],
+        "amalgamation_subject_ids": [8207],
+        "meanings": ["Remorse", "Regret"],
+        "meaning_mnemonic": `The only **r[feeling]r** a dead **r[soul]r** will have is **k[remorse]k**. Remorse for the people it left behind. **k[Regret]k**s for the things it did and didn't do.`
+    },
+    2280: {
+        "slug": "弥",
+        "level": 55,
+        "component_subject_ids": [36, 8762, 35],
+        "amalgamation_subject_ids": [8196],
+        "meanings": ["Increasing"],
+        "meaning_mnemonic": `Go from a **r[bow]r** to a **r[small]r** **r[gun]r** and you're **k[increasing]k** in fire power! Even though the gun is small, it's still a step up from a bow.`
+    },
+    2281: {
+        "slug": "粗",
+        "level": 55,
+        "component_subject_ids": [98, 419],
+        "amalgamation_subject_ids": [8226, 8227, 8228, 8388],
+        "meanings": ["Coarse", "Rough"],
+        "meaning_mnemonic": `If you find some **r[rice]r** in a **r[top hat]r** it's going to be really **k[coarse]k** and **k[rough]k**. Probably because it's not the kind that's meant to be eaten.`
+    },
+    2282: {
+        "slug": "循",
+        "level": 55,
+        "component_subject_ids": [99, 116, 8773],
+        "amalgamation_subject_ids": [8197, 8360, 8361],
+        "meanings": ["Circulation", "Sequential"],
+        "meaning_mnemonic": `If you want to **r[loiter]r** on a **r[cliff]r** with the **r[pope]r** you better be ready to move in perfect **k[circulation]k** with him. The pope is wearing really heavy robes and it's hot up here on this cliff, so you both need to walk in circles to keep cool.`
+    },
+    2283: {
+        "slug": "凝",
+        "level": 55,
+        "component_subject_ids": [123, 8832],
+        "amalgamation_subject_ids": [8188, 8189, 8190],
+        "meanings": ["Congeal", "Freeze", "Absorbed In"],
+        "meaning_mnemonic": `If you try to turn something into **r[ice]r** while having **r[doubt]r**s, it will just **k[congeal]k** instead. It will **k[freeze]k**, but it will get kinda yucky too. Your doubts will affect the ice-making process, so try not to be so worried and unsure next time you want normal ice.`
+    },
+    2284: {
+        "slug": "脊",
+        "level": 55,
+        "component_subject_ids": [7, 9, 43],
+        "amalgamation_subject_ids": [8252, 8471],
+        "meanings": ["Stature", "Height"],
+        "meaning_mnemonic": `If you put **r[two]r** **r[two]r** pound weights on a **r[person]r** on the **r[moon]r** they'll increase in **k[stature]k** when they come back down. Everything is lighter on the moon so the person won't even feel the weights. Then when they come back to earth they'll have grown a whole two inches taller!`
+    },
+    2285: {
+        "slug": "昌",
+        "level": 55,
+        "component_subject_ids": [22],
+        "amalgamation_subject_ids": [8216],
+        "meanings": ["Prosperous", "Prosperity"],
+        "meaning_mnemonic": `The **r[sun]r** is the reason why crops grow and people can get out of bed in the morning. But on planets with two **r[sun]r**s, they can get even more done and it makes them way more **k[prosperous]k** than us. They work all day, then as the first sun sets, the second one rises and they get a new burst of energy. The whole planet lives in a state of **k[prosperity]k** because of the two suns.`
+    },
+    2286: {
+        "slug": "旦",
+        "level": 55,
+        "component_subject_ids": [293],
+        "amalgamation_subject_ids": [8214, 8215, 8242],
+        "meanings": ["Dawn"],
+        "meaning_mnemonic": `The **r[dawn]r** radical and the **k[dawn]k** kanji are the same!`
+    },
+    2287: {
+        "slug": "愉",
+        "level": 55,
+        "component_subject_ids": [232, 8790],
+        "amalgamation_subject_ids": [8202, 8363],
+        "meanings": ["Pleasant"],
+        "meaning_mnemonic": `The **r[soul]r** of the **r[Death Star]r** is actually quite **k[pleasant]k**. And if you think about it, it's the people who control the Death Star that are evil and kill.`
+    },
+    2288: {
+        "slug": "抹",
+        "level": 55,
+        "component_subject_ids": [63, 134],
+        "amalgamation_subject_ids": [8209, 8210, 8211, 8212],
+        "meanings": ["Erase"],
+        "meaning_mnemonic": `Put your **r[fingers]r** in a **r[jet]r** if you want to **k[erase]k** them from existence. You aren't just chopping or burning them off. There's like, no trace of them at all. Your parents can't even remember if you were born with fingers or not. Jets are that powerful.`
+    },
+    2289: {
+        "slug": "栓",
+        "level": 55,
+        "component_subject_ids": [23, 8764, 48],
+        "amalgamation_subject_ids": [8219, 8220],
+        "meanings": ["Cork", "Plug"],
+        "meaning_mnemonic": `The **r[king]r** has a **r[hat]r** that's made from a **r[tree]r** but the more you look at it, the more it looks like it's just a big **k[cork]k**. It's a big, wooden **k[plug]k** that he's just placed on his head. It can hardly be called a hat.`
+    },
+    2290: {
+        "slug": "之",
+        "level": 55,
+        "component_subject_ids": [3, 8771],
+        "amalgamation_subject_ids": [8177, 8341],
+        "meanings": ["This", "This One"],
+        "meaning_mnemonic": `How do you make a mnemonic for the word this? You don’t. But, we can try. You climb many **r[hills]r**. On top of one of the hills is a little **r[drop]r** of water. You pick it up and say “**k[THIS]k**… THIS IS WHAT I WAS LOOKING FOR!”`
+    },
+    2291: {
+        "slug": "龍",
+        "level": 55,
+        "component_subject_ids": [389],
+        "amalgamation_subject_ids": [8383],
+        "meanings": ["Imperial", "Dragon"],
+        "meaning_mnemonic": `The **r[imperial]r** radical and the **k[imperial]k** kanji are exactly the same! Wahoo!`
+    },
+    2292: {
+        "slug": "遼",
+        "level": 55,
+        "component_subject_ids": [114, 319],
+        "amalgamation_subject_ids": [9099],
+        "meanings": ["Distant"],
+        "meaning_mnemonic": `You got off your **r[scooter]r** to load some **r[charcoal]r** onto it, when it suddenly took off to a **k[distant]k** place! That's some powerful charcoal.`
+    },
+    2293: {
+        "slug": "瑛",
+        "level": 55,
+        "component_subject_ids": [48, 90, 231],
+        "amalgamation_subject_ids": [9098],
+        "meanings": ["Crystal"],
+        "meaning_mnemonic": `The **r[king]r** of the **r[flowers]r** in the **r[center]r** (of England, if you remember) has a special **k[crystal]k**. The king crystal.`
+    },
+    2294: {
+        "slug": "那",
+        "level": 55,
+        "component_subject_ids": [24, 7, 176],
+        "amalgamation_subject_ids": [8242, 9107],
+        "meanings": ["What"],
+        "meaning_mnemonic": `You're holding a **r[sword]r** in front of **r[two]r** **r[building]r**s. **k[What]k** will you do?
+        
+        A. Stab the building on the left.
+        
+        B. Stab the building on the right.
+        
+        What do you choose?`
+    },
+    2295: {
+        "slug": "拍",
+        "level": 56,
+        "component_subject_ids": [63, 52],
+        "amalgamation_subject_ids": [8285, 8286, 8287, 8466],
+        "meanings": ["Beat"],
+        "meaning_mnemonic": `You're tapping your **r[fingers]r** against a **r[white]r** wall when you realize the sound you're making is actually a sick **k[beat]k**. You keep going and start singing along. Boo boo boop. Boo do do do doop! Finger beats!`
+    },
+    2296: {
+        "slug": "猶",
+        "level": 56,
+        "component_subject_ids": [144, 8767, 182],
+        "amalgamation_subject_ids": [8298, 8479, 8480],
+        "meanings": ["Still", "Yet"],
+        "meaning_mnemonic": `An **r[animal]r** with **r[horns]r** is drinking our **r[alcohol]r**? **k[Still]k**?`
+    },
+    2297: {
+        "slug": "宰",
+        "level": 56,
+        "component_subject_ids": [78, 178],
+        "amalgamation_subject_ids": [8266, 8267],
+        "meanings": ["Manager"],
+        "meaning_mnemonic": `Your **r[roof]r** is **r[spicy]r** because you're the **k[manager]k**. You're always testing new recipes in your house to share with everyone who works under you, but that makes all the spice stick to your roof (since it doesn't have good ventilation like a restaurant or a lab would).`
+    },
+    2298: {
+        "slug": "寂",
+        "level": 56,
+        "component_subject_ids": [78, 325, 35, 30],
+        "amalgamation_subject_ids": [8268, 8269],
+        "meanings": ["Lonely"],
+        "meaning_mnemonic": `On the **r[roof]r** **r[above]r**, is a **r[small]r** **r[stool]r**. Anyone who sits in that stool will be **k[lonely]k**.`
+    },
+    2299: {
+        "slug": "縫",
+        "level": 56,
+        "component_subject_ids": [86, 114, 381],
+        "amalgamation_subject_ids": [8318, 8319, 8320, 8489],
+        "meanings": ["Sew"],
+        "meaning_mnemonic": `You take some **r[thread]r**, put your **r[scooter]r** up to a **r[signpost]r**, and **k[sew]k** them together. You don't have a lock, so sewing your scooter up to the signpost to keep it safe is all you can think of.`
+    },
+    2300: {
+        "slug": "呉",
+        "level": 56,
+        "component_subject_ids": [348],
+        "amalgamation_subject_ids": [8263, 8264],
+        "meanings": ["Give"],
+        "meaning_mnemonic": `You've learned that you can **r[catapult]r** things to **k[give]k** them to other people! Don't catapult rocks at buildings and walls, catapult gifts to the people you love.`
+    },
+    2301: {
+        "slug": "凡",
+        "level": 56,
+        "component_subject_ids": [177, 3],
+        "amalgamation_subject_ids": [8254, 8255, 8256, 8257],
+        "meanings": ["Mediocre"],
+        "meaning_mnemonic": `You go to buy a **r[table]r** but it looks like it has water damage from **r[drop]r**s of water hitting it. This makes it a pretty **k[mediocre]k** table. The water drops haven't really damaged it that much, it still stands and you can use it, but it's kinda ugly, so it's just mediocre.`
+    },
+    2302: {
+        "slug": "恭",
+        "level": 56,
+        "component_subject_ids": [269, 35, 3],
+        "amalgamation_subject_ids": [8282],
+        "meanings": ["Respect"],
+        "meaning_mnemonic": `When **r[small]r** **r[drop]r**s of water work **r[together]r** they gain **k[respect]k** for one another. If you end up working with someone long enough, and they end up being really great, you'll respect them too! `
+    },
+    2303: {
+        "slug": "錯",
+        "level": 56,
+        "component_subject_ids": [118, 256],
+        "amalgamation_subject_ids": [8331, 8332, 8333, 8334, 8335],
+        "meanings": ["Confused", "Mixed"],
+        "meaning_mnemonic": `This was pure **r[gold]r** **r[long ago]r**, but now it's not. Someone got **k[confused]k** and **k[mixed]k** it with something else.`
+    },
+    2304: {
+        "slug": "穀",
+        "level": 56,
+        "component_subject_ids": [97, 76, 135, 160],
+        "amalgamation_subject_ids": [8305, 8306, 8307],
+        "meanings": ["Grain"],
+        "meaning_mnemonic": `A **r[samurai]r** hits the **r[forehead]r**s of **r[grain]r**s with his **r[weapon]r** so the **k[grain]k**s will pop off and into his mouth. He doesn't want to kill the plants, so he's just skimming the grain's foreheads so they'll fall off and he can eat them.`
+    },
+    2305: {
+        "slug": "陵",
+        "level": 56,
+        "component_subject_ids": [176, 426],
+        "amalgamation_subject_ids": [8336],
+        "meanings": ["Mausoleum", "Tomb"],
+        "meaning_mnemonic": `The only **r[building]r** you'll get **r[frostbite]r** in is a **k[mausoleum]k**. Mausoleums and **k[tomb]k**s weren't made for living people, so they aren't insulated from the cold. No one cares if a dead body gets frostbite.`
+    },
+    2306: {
+        "slug": "弊",
+        "level": 56,
+        "component_subject_ids": [431, 106],
+        "amalgamation_subject_ids": [8276, 8277, 9054],
+        "meanings": ["Evil"],
+        "meaning_mnemonic": `**r[Twenty]r** **r[penguin]r**s together are always **k[evil]k**. Penguins are seen in groups a lot, sure, but did you know that any time there are exactly twenty penguins in a group they're plotting evil things? Evil things like global warming. And how to eat all the fish in the world so humans can't have any.`
+    },
+    2307: {
+        "slug": "舶",
+        "level": 56,
+        "component_subject_ids": [149, 52],
+        "amalgamation_subject_ids": [8321, 8322],
+        "meanings": ["Ship"],
+        "meaning_mnemonic": `A **r[boat]r** that's **r[white]r** isn't just a boat, it's a **k[ship]k**.`
+    },
+    2308: {
+        "slug": "窮",
+        "level": 56,
+        "component_subject_ids": [170, 234, 36],
+        "amalgamation_subject_ids": [8310, 8311, 8312, 8313, 8314],
+        "meanings": ["Destitute"],
+        "meaning_mnemonic": `Put a **r[hole]r** in someone's **r[body]r** with a **r[bow]r** and they'll become **k[destitute]k**. You put a hole in them. They can't work. They can't take care of their house or their kids. They've lost it all.`
+    },
+    2309: {
+        "slug": "悦",
+        "level": 56,
+        "component_subject_ids": [232, 422],
+        "amalgamation_subject_ids": [8283],
+        "meanings": ["Delight", "Joy"],
+        "meaning_mnemonic": `If you can **r[guard]r** your **r[soul]r** from bad things you'll always feel **k[delight]k** and **k[joy]k**. It's hard to guard your soul from everything though, so take all the joy you can, while you can.`
+    },
+    2310: {
+        "slug": "縛",
+        "level": 56,
+        "component_subject_ids": [86, 317, 3],
+        "amalgamation_subject_ids": [8316, 8317, 8487, 8488],
+        "meanings": ["Bind", "Restrain"],
+        "meaning_mnemonic": `Your **r[specialty]r** is **r[drop]r**ping people with **r[thread]r** by **k[bind]k**ing them! You can drop anyone as long as you have enough thread to restrain them. It doesn't matter how much they fight, you'll get them to drop!`
+    },
+    2311: {
+        "slug": "轄",
+        "level": 56,
+        "component_subject_ids": [93, 78, 210, 16],
+        "amalgamation_subject_ids": [8325, 8326, 8327],
+        "meanings": ["Control"],
+        "meaning_mnemonic": `When you drive a **r[car]r**, everyone under your **r[roof]r** is putting their **r[life]r** in your hands, even if they don't say it with their **r[mouth]r**—it's still under your **k[control]k**.`
+    },
+    2312: {
+        "slug": "弦",
+        "level": 56,
+        "component_subject_ids": [36, 403],
+        "amalgamation_subject_ids": [8278, 8279, 8451, 8452, 8616],
+        "meanings": ["Chord", "Bowstring"],
+        "meaning_mnemonic": `The **r[mysterious]r** sound that comes from a **r[bow]r**string when you pluck it is called a **k[chord]k**. It's still a **k[bowstring]k** though. You need strings to make chords, after all.`
+    },
+    2313: {
+        "slug": "窒",
+        "level": 56,
+        "component_subject_ids": [170, 274],
+        "amalgamation_subject_ids": [8308, 8309],
+        "meanings": ["Suffocate"],
+        "meaning_mnemonic": `Take a **r[mole]r** out of its **r[hole]r** and it will **k[suffocate]k**. They need to be in tight quarters, unlike us humans. So when you take one out of its nice, safe hole, it thinks it can't breathe and suffocates.`
+    },
+    2314: {
+        "slug": "洪",
+        "level": 56,
+        "component_subject_ids": [103, 269],
+        "amalgamation_subject_ids": [8297],
+        "meanings": ["Flood"],
+        "meaning_mnemonic": `A **r[tsunami]r** **r[together]r** with another tsunami is going to cause a massive **k[flood]k**.`
+    },
+    2315: {
+        "slug": "摂",
+        "level": 56,
+        "component_subject_ids": [63, 88, 8788],
+        "amalgamation_subject_ids": [8291, 8292, 8293],
+        "meanings": ["In Addition"],
+        "meaning_mnemonic": `Put your **r[fingers]r** in your **r[ear]r**s when there's an **r[explosion]r** **k[in addition]k** to all the other things you were told to do. You have to crouch under a desk, you have to stay away from windows, you have to close your eyes. But in addition to that, you need to protect your ears!`
+    },
+    2316: {
+        "slug": "飽",
+        "level": 56,
+        "component_subject_ids": [139, 395],
+        "amalgamation_subject_ids": [8338, 8339, 8340, 8509, 8510],
+        "meanings": ["Bored", "Sated"],
+        "meaning_mnemonic": `You **r[eat]r** and then **r[wrap]r** yourself into a ball because you're **k[bored]k**. You're also **k[sated]k**, because you ate just the right amount, but now you have nothing to do and it's soooo booooring.`
+    },
+    2317: {
+        "slug": "紳",
+        "level": 56,
+        "component_subject_ids": [86, 190],
+        "amalgamation_subject_ids": [8315, 8484],
+        "meanings": ["Gentleman"],
+        "meaning_mnemonic": `Your **r[thread]r**s are **r[humble]r** and that makes you a perfect **k[gentleman]k**. You don't have to have fancy clothes to be a gentleman, just humble ones that don't stand out and show off too much. That shows how polite you are.`
+    },
+    2318: {
+        "slug": "庸",
+        "level": 56,
+        "component_subject_ids": [62, 220, 71],
+        "amalgamation_subject_ids": [8257],
+        "meanings": ["Common"],
+        "meaning_mnemonic": `Under this **r[canopy]r** you have a **r[brush]r** and a **r[task]r** to complete with it. This is totally **k[common]k**. `
+    },
+    2319: {
+        "slug": "靖",
+        "level": 56,
+        "component_subject_ids": [55, 120],
+        "amalgamation_subject_ids": [8337],
+        "meanings": ["Peaceful"],
+        "meaning_mnemonic": `**r[Stand]r** staring up at the **r[blue]r** sky and you'll feel more **k[peaceful]k** than you ever have. Blue is a color that promotes peaceful thoughts and feelings. That's why all the social media sites are blue. To stop you from being a jerk.`
+    },
+    2320: {
+        "slug": "嘉",
+        "level": 56,
+        "component_subject_ids": [421, 13, 16],
+        "amalgamation_subject_ids": [8265],
+        "meanings": ["Esteem", "Praise"],
+        "meaning_mnemonic": `If when you speak it sounds like the **r[power]r** of a **r[drum]r** is coming out of your **r[mouth]r**, then people will hold you in high **k[esteem]k**. Anyone who has a loud, booming, powerful voice will be held in high esteem in this day and age. Look at all those awesome musicians who have booming voices!`
+    },
+    2321: {
+        "slug": "搾",
+        "level": 56,
+        "component_subject_ids": [63, 170, 122],
+        "amalgamation_subject_ids": [8288, 8289, 8290],
+        "meanings": ["Squeeze"],
+        "meaning_mnemonic": `If you want to fit your **r[fingers]r** into a **r[key]r** **r[hole]r**, you have to **k[squeeze]k** them in. Fingers aren't exactly supposed to fit in key holes... they're for keys, after all. But you want to squeeze your finger on in there anyway to unlock the door.`
+    },
+    2322: {
+        "slug": "蝶",
+        "level": 56,
+        "component_subject_ids": [89, 83, 23],
+        "amalgamation_subject_ids": [8323, 8493],
+        "meanings": ["Butterfly"],
+        "meaning_mnemonic": `The **r[insect]r** that is amongst all the **r[world]r**'s **r[tree]r**s is the **k[butterfly]k**. They are always hanging around trees, those butterflies.`
+    },
+    2323: {
+        "slug": "碑",
+        "level": 56,
+        "component_subject_ids": [54, 3, 51, 15],
+        "amalgamation_subject_ids": [8301, 8302, 8303, 8304],
+        "meanings": ["Tombstone"],
+        "meaning_mnemonic": `A **r[stone]r** **r[drop]r**s from the sky into a **r[rice paddy]r** and then a **r[cross]r** **r[drop]r**s on top of it. They've combined to form a **k[tombstone]k**! Wait, does that mean a body fell from the sky first and you just didn't see it?`
+    },
+    2324: {
+        "slug": "尉",
+        "level": 56,
+        "component_subject_ids": [37, 207, 74],
+        "amalgamation_subject_ids": [8270, 8271, 8272],
+        "meanings": ["Military Officer", "Military Rank"],
+        "meaning_mnemonic": `Who loves their **r[flag]r**, using **r[jackhammer]r**s, and precise **r[measurement]r**s? Your **k[military officer]k**! He's always saluting the flag, jackhammering near all the new recruits to test them, and checking the measurement between the floor and their pants. Who else could it be?`
+    },
+    2325: {
+        "slug": "凛",
+        "level": 56,
+        "component_subject_ids": [123, 8, 406, 207],
+        "amalgamation_subject_ids": [8253],
+        "meanings": ["Cold"],
+        "meaning_mnemonic": `You're trying to open the **r[lid]r** of a manhole that's covered in **r[ice]r** by **r[jackhammer]r**ing it a bunch of **r[times]r** but it's not working because it's just too **k[cold]k**. It's so cold that your jackhammer is starting to ice up too. But you need to get this lid open so you try time after time after time!`
+    },
+    2326: {
+        "slug": "匠",
+        "level": 56,
+        "component_subject_ids": [217, 115],
+        "amalgamation_subject_ids": [8258, 8259, 8260, 8261],
+        "meanings": ["Artisan"],
+        "meaning_mnemonic": `There is a **r[cage]r** with an **r[axe]r** in it above your house to show that you are an **k[artisan]k**. All of the artisans have to have this special sign somewhere near where they live to show they make things.`
+    },
+    2327: {
+        "slug": "遥",
+        "level": 56,
+        "component_subject_ids": [114, 8798],
+        "amalgamation_subject_ids": [8329],
+        "meanings": ["Far Off", "Far Away"],
+        "meaning_mnemonic": `There is a **r[scooter]r** that is a **r[satellite]r**, but it is **k[far off]k** and **k[far away]k**.`
+    },
+    2328: {
+        "slug": "智",
+        "level": 56,
+        "component_subject_ids": [72, 16, 22],
+        "amalgamation_subject_ids": [8294, 9107],
+        "meanings": ["Wisdom"],
+        "meaning_mnemonic": `You shoot an **r[arrow]r** at the **r[mouth]r** of the **r[sun]r** so that it will grant you a gift of **k[wisdom]k**. You heard about a Greek hero doing this and the god in the sun gave him the wisdom to see everything. You're hoping it will work for you too.`
+    },
+    2329: {
+        "slug": "柴",
+        "level": 56,
+        "component_subject_ids": [44, 57, 23],
+        "amalgamation_subject_ids": [8295, 8296],
+        "meanings": ["Brushwood", "Firewood"],
+        "meaning_mnemonic": `If you could **r[stop]r** **r[spoon]r**ing water onto that **r[tree]r** we could use it for **k[brushwood]k**. But if you don't stop, then it will be too wet to burn at all! Stop already!`
+    },
+    2330: {
+        "slug": "賊",
+        "level": 57,
+        "component_subject_ids": [94, 194, 15],
+        "amalgamation_subject_ids": [8408, 8409, 8410, 8411],
+        "meanings": ["Robber"],
+        "meaning_mnemonic": `When a **r[shellfish]r** becomes a **r[drunkard]r** and sees a **r[cross]r**, they'll become a **k[robber]k**. Because they'll steal the cross!`
+    },
+    2331: {
+        "slug": "鼓",
+        "level": 57,
+        "component_subject_ids": [421, 81],
+        "amalgamation_subject_ids": [8429, 8430, 8431, 8432, 8433],
+        "meanings": ["Drum", "Beat"],
+        "meaning_mnemonic": `You take a **r[drum]r** and a **r[branch]r** and... well, what else would you do? You would **k[drum]k** or **k[beat]k** them together.`
+    },
+    2332: {
+        "slug": "旋",
+        "level": 57,
+        "component_subject_ids": [66, 8762, 420],
+        "amalgamation_subject_ids": [8371, 8372, 8373],
+        "meanings": ["Rotation", "Revolution"],
+        "meaning_mnemonic": `Move your **r[coat rack]r** in one **r[direction]r** by shooting it with a **r[gun]r**. Then you can keep shooting it to get a good **k[rotation]k** going. If you think there is a better way to make your coat rack make **k[revolution]k**s, you're probably wrong. `
+    },
+    2333: {
+        "slug": "腸",
+        "level": 57,
+        "component_subject_ids": [43, 172],
+        "amalgamation_subject_ids": [8398, 8399, 8400, 8401, 8576],
+        "meanings": ["Intestines"],
+        "meaning_mnemonic": `The **r[moon]r** is **r[easy]r** tonight, so you decide to cut it open. But, the moon wasn't the moon, it was your big, pale, round tummy. You just cut it open, and now you can see your **k[intestines]k**.`
+    },
+    2334: {
+        "slug": "槽",
+        "level": 57,
+        "component_subject_ids": [23, 1, 185, 22],
+        "amalgamation_subject_ids": [8376, 8377],
+        "meanings": ["Tank", "Vat"],
+        "meaning_mnemonic": `A **r[tree]r** melts into the **r[ground]r** after listening to loud **r[music]r** in the hot **r[sun]r**, so you have to find a nice big **k[tank]k** to scoop the melted tree into. The music made the tree vibrate at juuust the right frequency that it, combined with the hot sun, made the tree turn into a puddle. You can't just leave it being all blobby on the ground, so you find a tank for it.`
+    },
+    2335: {
+        "slug": "伐",
+        "level": 57,
+        "component_subject_ids": [75, 194],
+        "amalgamation_subject_ids": [8344, 8345],
+        "meanings": ["Fell", "Attack"],
+        "meaning_mnemonic": `If the **r[leader]r** of your gang is a **r[drunkard]r** he'll try to have you **k[fell]k** trees thinking they're rival gang members. You all know they aren't but you can't argue with your leader, especially if he's drunk. Go ahead and **k[attack]k** the trees anyway.`
+    },
+    2336: {
+        "slug": "漬",
+        "level": 57,
+        "component_subject_ids": [103, 321],
+        "amalgamation_subject_ids": [8381, 8556, 8557, 8558],
+        "meanings": ["Pickle"],
+        "meaning_mnemonic": `**r[Tsunami]r**s get **r[blame]r**d because they **k[pickle]k** everything in their path. That means that everything smells of pickles after a tsunami.`
+    },
+    2337: {
+        "slug": "坪",
+        "level": 57,
+        "component_subject_ids": [17, 279],
+        "amalgamation_subject_ids": [8352],
+        "meanings": ["Two Mat Area", "Tsubo"],
+        "meaning_mnemonic": `The amount of **r[dirt]r** you need to get some **r[peace]r** is a **k[two mat area]k**. Two tatami mats, that is. Also called a **k[tsubo]k**, this is a pretty common measurement in Japan, so you should get really familiar with the amount of space that two tatami mats take up together.`
+    },
+    2338: {
+        "slug": "紺",
+        "level": 57,
+        "component_subject_ids": [86, 360],
+        "amalgamation_subject_ids": [8389, 8390],
+        "meanings": ["Navy Blue", "Dark Blue"],
+        "meaning_mnemonic": `If you want to turn your **r[thread]r** into a **r[sweet]r** color you just HAVE to go with **k[navy blue]k** or **k[dark blue]k**. That's the sweetest color in existence, everyone knows that. After all, blue raspberry flavor is dark blue and it's super sweet.`
+    },
+    2339: {
+        "slug": "羅",
+        "level": 57,
+        "component_subject_ids": [163, 86, 240],
+        "amalgamation_subject_ids": [8391, 8392, 8393, 9126],
+        "meanings": ["Spread Out", "Arrange"],
+        "meaning_mnemonic": `You have a **r[net]r** of **r[thread]r** for catching a **r[turkey]r**. But, it must be **k[spread out]k** and you must **k[arrange]k** it first.`
+    },
+    2340: {
+        "slug": "峡",
+        "level": 57,
+        "component_subject_ids": [20, 8767, 146],
+        "amalgamation_subject_ids": [8355, 8356],
+        "meanings": ["Ravine"],
+        "meaning_mnemonic": `To the **r[mountain]r**s you took your **r[horned]r** **r[husband]r** for you two to get married. (Society wouldn't accept a horned husband!) To hide even more from the prying eyes of society, you take your horned husband into a **k[ravine]k**.`
+    },
+    2341: {
+        "slug": "俸",
+        "level": 57,
+        "component_subject_ids": [75, 8779, 61],
+        "amalgamation_subject_ids": [8346, 8347],
+        "meanings": ["Salary"],
+        "meaning_mnemonic": `The **r[leader]r** says **r[spring]r** is looking **r[dry]r**, so you'll need your **k[salary]k** in advance.`
+    },
+    2342: {
+        "slug": "醸",
+        "level": 57,
+        "component_subject_ids": [182, 430],
+        "amalgamation_subject_ids": [8422, 8423, 8424],
+        "meanings": ["Brew"],
+        "meaning_mnemonic": `An **r[alcohol]r** **r[nurse]r** is someone who nurses alcohol. In other words, they **k[brew]k** it.`
+    },
+    2343: {
+        "slug": "弔",
+        "level": 57,
+        "component_subject_ids": [36, 8761],
+        "amalgamation_subject_ids": [8357, 8358, 8359, 8538],
+        "meanings": ["Condolence"],
+        "meaning_mnemonic": `You give a **r[bow]r** and a **r[stick]r** to your friend's family. This is because your friend died, and he loved bows and sticks. You give this to his family, to give our **k[condolence]k**s.`
+    },
+    2344: {
+        "slug": "乙",
+        "level": 57,
+        "component_subject_ids": [324],
+        "amalgamation_subject_ids": [8342, 8343, 8515],
+        "meanings": ["Latter", "B"],
+        "meaning_mnemonic": `Your **r[nose]r** isn't the first thing people see about your face, it's the **k[latter]k**. They see your eyes THEN your nose, then your mouth, in order going down. Just label them A **k[B]k** and C and you'll never forget!`
+    },
+    2345: {
+        "slug": "遍",
+        "level": 57,
+        "component_subject_ids": [114, 338],
+        "amalgamation_subject_ids": [8413, 8414, 8415, 8416, 8582, 8583],
+        "meanings": ["Universal"],
+        "meaning_mnemonic": `Riding a **r[scooter]r** to the **r[library]r** is a **k[universal]k** experience. People young and old have all, at some point, taken a scooter to the library, picked up a book, used the internet, sat in the comfy chairs, then left via that same scooter.`
+    },
+    2346: {
+        "slug": "衡",
+        "level": 57,
+        "component_subject_ids": [111, 14, 51, 18],
+        "amalgamation_subject_ids": [8406, 8407, 8580],
+        "meanings": ["Equilibrium"],
+        "meaning_mnemonic": `You **r[go]r** to a **r[big]r** **r[rice paddy]r** and establish a **r[prison]r** right in the middle of it to restore the **k[equilibrium]k** of the area.`
+    },
+    2347: {
+        "slug": "款",
+        "level": 60,
+        "component_subject_ids": [97, 207, 142],
+        "amalgamation_subject_ids": [8378, 8379],
+        "meanings": ["Article", "Sincerity"],
+        "meaning_mnemonic": `"For the  **r[samurai]r**, it is a **r[jackhammer]r** that they will **r[lack]r**." That is the latest **k[article]k** of the law written about samurai, hundreds of years after katana were taken away. This article was written with great **k[sincerity]k** by the government.`
+    },
+    2348: {
+        "slug": "閲",
+        "level": 57,
+        "component_subject_ids": [214, 422],
+        "amalgamation_subject_ids": [8426, 8427, 8428],
+        "meanings": ["Inspection"],
+        "meaning_mnemonic": `Put a **r[guard]r** at your **r[gate]r** to get a good **k[inspection]k** of your neighborhood going. The guard will stand there all day inspecting everything and then report it all back to you. You won't have to do any of the inspection yourself!`
+    },
+    2349: {
+        "slug": "喝",
+        "level": 57,
+        "component_subject_ids": [16, 22, 14, 57],
+        "amalgamation_subject_ids": [8351],
+        "meanings": ["Scold"],
+        "meaning_mnemonic": `If you put your **r[spoon]r** in the **r[sun]r** while you're in **r[prison]r**, a **r[mouth]r** will appear to **k[scold]k** you. You can never see who the mouth belongs to, but considering you're in prison it's probably a guard. Either way, that person doesn't like what you're doing and they keep scolding you when you put your spoon out into the sun.`
+    },
+    2350: {
+        "slug": "敢",
+        "level": 57,
+        "component_subject_ids": [8799, 60],
+        "amalgamation_subject_ids": [8365, 8366, 8367, 8368, 8369, 8370, 8545],
+        "meanings": ["Daring"],
+        "meaning_mnemonic": `An **r[elf]r** who ventures outside in **r[winter]r** has a lot of **k[daring]k**. Elf ears are very, very delicate, and the winter cold can really mess them up. So if you see an elf adventuring in winter, know that that particular elf is a really daring dude.`
+    },
+    2351: {
+        "slug": "膜",
+        "level": 57,
+        "component_subject_ids": [43, 356],
+        "amalgamation_subject_ids": [8402, 8403, 8404, 8432],
+        "meanings": ["Membrane"],
+        "meaning_mnemonic": `If you trap the **r[moon]r** in a **r[greenhouse]r** it will grow a creepy **k[membrane]k** around itself. The moon isn't used to the heat it would be exposed to in a greenhouse so that membrane is there to protect it. It's really gross looking though.`
+    },
+    2352: {
+        "slug": "盲",
+        "level": 57,
+        "component_subject_ids": [212, 53],
+        "amalgamation_subject_ids": [8384, 8385, 8386, 8387, 8400],
+        "meanings": ["Blind"],
+        "meaning_mnemonic": `The **r[death]r** of your **r[eye]r**s means that you've gone **k[blind]k**.`
+    },
+    2353: {
+        "slug": "胎",
+        "level": 57,
+        "component_subject_ids": [43, 417],
+        "amalgamation_subject_ids": [8394, 8395, 8396, 8397],
+        "meanings": ["Womb", "Uterus"],
+        "meaning_mnemonic": `The **r[machine]r** in your body that is powered by the **r[moon]r** is your **k[womb]k**, also called your **k[uterus]k**! Haven't you ever wondered why periods happen with the revolutions of the moon? That's because it powers your uterus and tells it what to do!`
+    },
+    2354: {
+        "slug": "酵",
+        "level": 57,
+        "component_subject_ids": [182, 418],
+        "amalgamation_subject_ids": [8419, 8420, 8421],
+        "meanings": ["Fermentation", "Ferment"],
+        "meaning_mnemonic": `**r[Alcohol]r** is a good **r[teacher]r** on the process of **k[fermentation]k**.`
+    },
+    2355: {
+        "slug": "堕",
+        "level": 57,
+        "component_subject_ids": [176, 371, 17],
+        "amalgamation_subject_ids": [8353, 8395],
+        "meanings": ["Degenerate"],
+        "meaning_mnemonic": `Even if you **r[have]r** a **r[building]r**, it will eventually turn back into **r[dirt]r**. Everything will **k[degenerate]k** eventually. A brick falls off here, a door comes loose there. Nothing can last forever.`
+    },
+    2356: {
+        "slug": "遮",
+        "level": 57,
+        "component_subject_ids": [114, 8787, 131],
+        "amalgamation_subject_ids": [8417, 8418, 8584],
+        "meanings": ["Intercept"],
+        "meaning_mnemonic": `You're riding your **r[scooter]r** toward your **r[yurt]r** as fast as you can because someone is trying to get in there to **r[boil]r** your water and you want to **k[intercept]k** them.`
+    },
+    2357: {
+        "slug": "烏",
+        "level": 57,
+        "component_subject_ids": [151],
+        "amalgamation_subject_ids": [8382, 8383, 8408],
+        "meanings": ["Crow"],
+        "meaning_mnemonic": `An altered **r[bird]r** is a **k[crow]k**! They look like birds but they're bigger and darker and smarter!`
+    },
+    2358: {
+        "slug": "凸",
+        "level": 57,
+        "component_subject_ids": [434],
+        "amalgamation_subject_ids": [8349, 8350, 8520],
+        "meanings": ["Convex", "Uneven"],
+        "meaning_mnemonic": `The **r[convex]r** radical and the **k[convex]k** kanji are the same, so hopefully you now just know them both.`
+    },
+    2359: {
+        "slug": "凹",
+        "level": 57,
+        "component_subject_ids": [435],
+        "amalgamation_subject_ids": [8350, 8520, 8521],
+        "meanings": ["Concave", "Hollow"],
+        "meaning_mnemonic": `The **r[concave]r** radical and the **k[concave]k** kanji are the same!`
+    },
+    2360: {
+        "slug": "楓",
+        "level": 57,
+        "component_subject_ids": [23, 416],
+        "amalgamation_subject_ids": [8374, 8375],
+        "meanings": ["Maple"],
+        "meaning_mnemonic": `A **r[tree]r** that does well in the **r[wind]r** is a **k[maple]k** tree. Maple trees don't have fruit so the wind can't knock anything off of it. That's why they thrive well in windy places!`
+    },
+    2361: {
+        "slug": "哉",
+        "level": 57,
+        "component_subject_ids": [17, 16, 194],
+        "amalgamation_subject_ids": [9112],
+        "meanings": ["Question Mark", "?"],
+        "meaning_mnemonic": `A **r[drunkard]r** has **r[dirt]r** in his **r[mouth]r** as he tries to talk to you. You walk over and he spits a **k[question mark]k** into your hand. It's covered in dirt and spit. Um... does this mean he's confused? He probably doesn't even know where he is. But how did he make this question mark and why was it in his mouth?`
+    },
+    2362: {
+        "slug": "蒼",
+        "level": 57,
+        "component_subject_ids": [90, 8827],
+        "amalgamation_subject_ids": [9110],
+        "meanings": ["Pale", "Blue"],
+        "meaning_mnemonic": `**r[Flowers]r** grown in a **r[warehouse]r** will be very **k[pale]k**. They never see the sun, so they don't grow to have bright colors.`
+    },
+    2363: {
+        "slug": "瑠",
+        "level": 58,
+        "component_subject_ids": [48, 140, 24, 51],
+        "amalgamation_subject_ids": [9108, 9109],
+        "meanings": ["Lapis Lazuli"],
+        "meaning_mnemonic": `The **r[king]r** will send his men with **r[sword]r**s into your **r[private]r** **r[rice paddy]r** if you come across **k[lapis lazuli]k**. Even though this is your private land, he wants that lapis lazuli to make some new crowns and thrones for himself. Plus he's the king, so he can do whatever he wants.
+        
+        If you've never taken an art history class (or played Minecraft) you may never have come across lapis lazuli, but think of it as a pretty, blue precious stone that people really, really liked in the olden days.`
+    },
+    2364: {
+        "slug": "萌",
+        "level": 57,
+        "component_subject_ids": [90, 357],
+        "amalgamation_subject_ids": [8405, 8577],
+        "meanings": ["Sprout"],
+        "meaning_mnemonic": `You have to put **r[flowers]r** in a **r[bright]r** place if you want them to **k[sprout]k**. If they're left in the shade they'll just rot.`
+    },
+    2365: {
+        "slug": "硫",
+        "level": 58,
+        "component_subject_ids": [54, 8776, 21],
+        "amalgamation_subject_ids": [8482, 8643],
+        "meanings": ["Sulfur", "Sulphur"],
+        "meaning_mnemonic": `There are **r[stone]r**s that smell like **r[trash]r** in the **r[river]r**. You reach in and realize these rocks are made of **k[sulfur]k**. Even the flow of this water can't hide the stink of these sulfur rocks.`
+    },
+    2366: {
+        "slug": "赦",
+        "level": 58,
+        "component_subject_ids": [92, 60],
+        "amalgamation_subject_ids": [8499, 8500, 8501, 8652],
+        "meanings": ["Pardon"],
+        "meaning_mnemonic": `If you spill something **r[red]r** on yourself in **r[winter]r** you should **k[pardon]k** yourself immediately and try to find something else to wear. It's very dangerous to wear red in winter, and even if it seems rude, make sure you pardon yourself right away and get that taken care of!`
+    },
+    2367: {
+        "slug": "窃",
+        "level": 58,
+        "component_subject_ids": [170, 4, 24],
+        "amalgamation_subject_ids": [8483],
+        "meanings": ["Steal"],
+        "meaning_mnemonic": `You see **r[seven]r** **r[sword]r**s just sitting in a **r[hole]r** and so you decide to **k[steal]k** them. They were just left in that hole after all, it's not like anyone was using them. And even if they were, they'll never know you were the one to steal them, right?`
+    },
+    2368: {
+        "slug": "慨",
+        "level": 58,
+        "component_subject_ids": [232, 196, 333],
+        "amalgamation_subject_ids": [8458, 8459, 8619, 8620],
+        "meanings": ["Sigh"],
+        "meaning_mnemonic": `Deep in your **r[soul]r**, you feel like you want to pull your **r[fang]r**s out by the **r[root]r**, but instead you let out a loud **k[sigh]k**. You're one of the only people you know that has fangs, and it weighs heavily on your soul.`
+    },
+    2369: {
+        "slug": "扶",
+        "level": 58,
+        "component_subject_ids": [63, 146],
+        "amalgamation_subject_ids": [8464, 8465],
+        "meanings": ["Aid"],
+        "meaning_mnemonic": `Put your **r[fingers]r** on your **r[husband]r** to **k[aid]k** him. There's something about a spouse's touch that just makes you feel better. Have you ever had someone rub your back while you were hurt or sick or sad? It's nice, right?`
+    },
+    2370: {
+        "slug": "戯",
+        "level": 58,
+        "component_subject_ids": [254, 8768, 194],
+        "amalgamation_subject_ids": [8461, 8462, 8463, 8621, 8622],
+        "meanings": ["Play"],
+        "meaning_mnemonic": `Throw a **r[drunkard]r** in a cage with a **r[tiger]r** and some **r[spikes]r** and the tiger will have the time of its life **k[play]k**ing with them! Think of all the tiger play time possibilities! `
+    },
+    2371: {
+        "slug": "忌",
+        "level": 59,
+        "component_subject_ids": [228, 65],
+        "amalgamation_subject_ids": [8453, 8454, 8455, 8456, 8457],
+        "meanings": ["Mourning"],
+        "meaning_mnemonic": `If you only let **r[oneself]r** (yourself) into your **r[heart]r**, you'll end up **k[mourning]k** all of the loves and friendships you could have had but didn't let in.`
+    },
+    2372: {
+        "slug": "濁",
+        "level": 58,
+        "component_subject_ids": [103, 163, 14, 89],
+        "amalgamation_subject_ids": [8476, 8477, 8478, 8635],
+        "meanings": ["Muddy", "Impure"],
+        "meaning_mnemonic": `If a **r[tsunami]r** gets into a **r[net]r** that's im**r[prison]r**ing a bunch of **r[insect]r**s, the insects are going to get all **k[muddy]k**. The net gets dragged along with the tsunami water and the insects can't escape, so they just get covered in the yucky stuff.`
+    },
+    2373: {
+        "slug": "奔",
+        "level": 58,
+        "component_subject_ids": [18, 15, 106],
+        "amalgamation_subject_ids": [8443, 8444],
+        "meanings": ["Run", "Bustle"],
+        "meaning_mnemonic": `You're walking down the street when you see **r[twenty]r** **r[big]r** **r[cross]r**es lined up in front of you. Crosses creep you out and this is way too many for you to keep walking so you decide to **k[run]k** as fast as you can to get past them.`
+    },
+    2374: {
+        "slug": "肖",
+        "level": 58,
+        "component_subject_ids": [8765, 43],
+        "amalgamation_subject_ids": [8490],
+        "meanings": ["Resemblance"],
+        "meaning_mnemonic": `You see a **r[triceratops]r** standing in front of a full **r[moon]r** and you can't help but see a really strong **k[resemblance]k**. The triceratops has that round frill thing behind its horns and it looks just like the round full moon. Who knew that a triceratops would resemble the moon!`
+    },
+    2375: {
+        "slug": "朽",
+        "level": 58,
+        "component_subject_ids": [23, 1, 14],
+        "amalgamation_subject_ids": [8468, 8469, 8470],
+        "meanings": ["Rot", "Decay"],
+        "meaning_mnemonic": `A **r[tree]r** is stuck in a **r[prison]r** under the **r[ground]r** and it's starting to **k[rot]k** and **k[decay]k**.`
+    },
+    2376: {
+        "slug": "殻",
+        "level": 58,
+        "component_subject_ids": [97, 76, 177, 160],
+        "amalgamation_subject_ids": [8472, 8473, 8627],
+        "meanings": ["Husk", "Shell"],
+        "meaning_mnemonic": `A **r[samurai]r** puts his **r[forehead]r** on the **r[table]r** next to his **r[weapon]r**. He is just a **k[husk]k** of his former self. This **k[shell]k** of a samurai has nothing left.`
+    },
+    2377: {
+        "slug": "享",
+        "level": 58,
+        "component_subject_ids": [345],
+        "amalgamation_subject_ids": [8434],
+        "meanings": ["Receive"],
+        "meaning_mnemonic": `The **r[receive]r** radical and **k[receive]k** kanji are exactly the same.`
+    },
+    2378: {
+        "slug": "藩",
+        "level": 58,
+        "component_subject_ids": [90, 103, 280],
+        "amalgamation_subject_ids": [8491, 8492],
+        "meanings": ["Fiefdom"],
+        "meaning_mnemonic": `You have to reach a certain **r[number]r** of **r[flowers]r** and **r[tsunami]r**s hits to become a legitimate **k[fiefdom]k**. At least in the old days. If you don't meet one of these conditions, like if you get hit by tsunamis all the time but you only have two or three flowers that will grow, you can't be your own fiefdom.`
+    },
+    2379: {
+        "slug": "媒",
+        "level": 58,
+        "component_subject_ids": [19, 360, 23],
+        "amalgamation_subject_ids": [8445, 8446, 8447],
+        "meanings": ["Mediator"],
+        "meaning_mnemonic": `A **r[sweet]r** **r[woman]r** sits under a **r[tree]r** and works as a **k[mediator]k**. If you're having a fight with someone, bring them to the sweet woman under the tree and she'll mediate for the two of you. Problem solved! Thanks sweet lady!`
+    },
+    2380: {
+        "slug": "鶏",
+        "level": 58,
+        "component_subject_ids": [8772, 146, 151],
+        "amalgamation_subject_ids": [8511, 8512, 8513, 8514],
+        "meanings": ["Chicken"],
+        "meaning_mnemonic": `Your **r[husband]r** was wearing his **r[cleats]r** when he accidentally stepped on a **r[bird]r**. Luckily this particular bird is a **k[chicken]k**, and chickens are really durable!`
+    },
+    2381: {
+        "slug": "嘱",
+        "level": 58,
+        "component_subject_ids": [16, 37, 425],
+        "amalgamation_subject_ids": [8442],
+        "meanings": ["Request", "Entrust"],
+        "meaning_mnemonic": `If you want to take a **r[flag]r** out of the **r[mouth]r** of a **r[mantis]r** you have to make a formal **k[request]k** first. Mantises don't like to just give things away, and they're kind of mean so if you try to steal the flag it will probably bite you. So make a formal, polite request if you want it.`
+    },
+    2382: {
+        "slug": "迭",
+        "level": 58,
+        "component_subject_ids": [114, 275],
+        "amalgamation_subject_ids": [8502],
+        "meanings": ["Alternate"],
+        "meaning_mnemonic": `When your **r[scooter]r** has a **r[fault]r**, you need to get an **k[alternate]k**. Hopefully your insurance will cover it too.`
+    },
+    2383: {
+        "slug": "椎",
+        "level": 58,
+        "component_subject_ids": [23, 240],
+        "amalgamation_subject_ids": [8471],
+        "meanings": ["Spine", "Evergreen Beech"],
+        "meaning_mnemonic": `This **r[tree]r** **r[turkey]r** has been sitting directly on your **k[spine]k** for weeks straight. The pain is starting to become unbearable, and it seems like no one wants to help you.`
+    },
+    2384: {
+        "slug": "絹",
+        "level": 58,
+        "component_subject_ids": [86, 16, 43],
+        "amalgamation_subject_ids": [8485, 8486],
+        "meanings": ["Silk"],
+        "meaning_mnemonic": `Put **r[thread]r** in the **r[mouth]r** of a worm while the **r[moon]r** is out and it will poop out some **k[silk]k**. That's why they call them silkworms, didn't you know? But it has to be while the moon is out, otherwise normal thread will come right back out the other end of the worm. The moon is what makes the magic happen.`
+    },
+    2385: {
+        "slug": "陪",
+        "level": 58,
+        "component_subject_ids": [176, 175],
+        "amalgamation_subject_ids": [8508],
+        "meanings": ["Accompany"],
+        "meaning_mnemonic": `The **r[building]r** **r[clown]r** is the only clown allowed to **k[accompany]k** you. You hate all clowns, and so does the rest of your town. But this clown is really good at building buildings, and he's allowed to leave his part of town and accompany you while you fix buildings together.`
+    },
+    2386: {
+        "slug": "剖",
+        "level": 58,
+        "component_subject_ids": [175, 128],
+        "amalgamation_subject_ids": [8438, 8595],
+        "meanings": ["Divide"],
+        "meaning_mnemonic": `A **r[clown]r** takes a **r[knife]r** and **k[divide]k**s himself. First he divides himself into two pieces, then he's in four pieces, then... oh why won't he stop?!`
+    },
+    2387: {
+        "slug": "譜",
+        "level": 58,
+        "component_subject_ids": [117, 334, 22],
+        "amalgamation_subject_ids": [8494, 8495, 8496, 8497, 8498],
+        "meanings": ["Genealogy", "Score"],
+        "meaning_mnemonic": `If you **r[say]r** the **r[lineup]r** of your family members that have lived on this earth under the **r[sun]r**, you're really explaining your **k[genealogy]k**.
+        
+        This kanji has a second meaning too. It means score, as in a musical score or sheet music. So if your sheet music **r[say]r**s the **r[line up]r** of chords, especially **r[sun]r**nny notes, that's the **k[score]k** of a song. Those sunny notes are loved by your ancestors.`
+    },
+    2388: {
+        "slug": "淑",
+        "level": 58,
+        "component_subject_ids": [103, 325, 35, 30],
+        "amalgamation_subject_ids": [8474, 8475],
+        "meanings": ["Graceful"],
+        "meaning_mnemonic": `You can only manage to avoid a **r[tsunami]r** by standing **r[above]r** it on a **r[small]r** **r[stool]r** if you are very **k[graceful]k**. If you aren't graceful enough the tsunami will knock you and the stool over and you'll be swept away like everyone else.`
+    },
+    2389: {
+        "slug": "帆",
+        "level": 58,
+        "component_subject_ids": [102, 177, 3],
+        "amalgamation_subject_ids": [8449, 8450, 8613, 8614],
+        "meanings": ["Sail"],
+        "meaning_mnemonic": `You hoist your **r[towel]r** above your **r[table]r**, **r[drop]r** into the water and **k[sail]k** away. You turned the towel into an actual sail and you're balancing on top of the table, which is now a boat.`
+    },
+    2390: {
+        "slug": "憤",
+        "level": 58,
+        "component_subject_ids": [232, 15, 90, 94],
+        "amalgamation_subject_ids": [8459, 8460],
+        "meanings": ["Resent"],
+        "meaning_mnemonic": `You see a **r[soul]r** on a **r[cross]r** covered in **r[flowers]r** with **r[shellfish]r** at its feet and you suddenly **k[resent]k** them. It's not like you want to be the one up there on the cross, but so many people left flowers and shellfish for them. It should have been you...`
+    },
+    2391: {
+        "slug": "酌",
+        "level": 58,
+        "component_subject_ids": [182, 236],
+        "amalgamation_subject_ids": [8503, 8504, 9114, 9115, 9116],
+        "meanings": ["Serve", "Scoop"],
+        "meaning_mnemonic": `Pour all of your **r[alcohol]r** in the **r[pool]r** to **k[serve]k** all your guests at once! They can all help themselves to as much or as little alcohol as they want! What a great idea!`
+    },
+    2392: {
+        "slug": "暁",
+        "level": 58,
+        "component_subject_ids": [22, 257],
+        "amalgamation_subject_ids": [8467],
+        "meanings": ["Dawn"],
+        "meaning_mnemonic": `**r[Gambler]r**s usually only see the **r[sun]r** at **k[dawn]k**. They gamble all day and through the night, and if they leave it's at the crack of dawn to get home, clean up, and then go back. I haven't known a gambler who's seen the sun ... well ever!`
+    },
+    2393: {
+        "slug": "傑",
+        "level": 58,
+        "component_subject_ids": [75, 429, 23],
+        "amalgamation_subject_ids": [8435, 8436],
+        "meanings": ["Greatness", "Excellence"],
+        "meaning_mnemonic": `The **r[leader]r** does a **r[dance]r** on top of the **r[tree]r** to show his **k[greatness]k** to everyone around. If he dances all the way up there on top of the tree, then no one can deny his **k[excellence]k**!`
+    },
+    2394: {
+        "slug": "錠",
+        "level": 58,
+        "component_subject_ids": [118, 78, 229],
+        "amalgamation_subject_ids": [8505, 8506, 8507],
+        "meanings": ["Lock"],
+        "meaning_mnemonic": `This is a **r[gold]r** **r[roof]r**, **r[correct]r**? Better put a **k[lock]k** on it, then.`
+    },
+    2395: {
+        "slug": "凌",
+        "level": 58,
+        "component_subject_ids": [123, 426],
+        "amalgamation_subject_ids": [8437],
+        "meanings": ["Endure"],
+        "meaning_mnemonic": `If you touch **r[ice]r** for too long you'll get **r[frostbite]r** and that's a really hard thing to **k[endure]k**. A lot of people can't, and die. Then again, you managed to endure touching ice long enough to get frostbite in the first place, so maybe this is baby stuff for you.`
+    },
+    2396: {
+        "slug": "瑞",
+        "level": 58,
+        "component_subject_ids": [48, 20, 309],
+        "amalgamation_subject_ids": [8481],
+        "meanings": ["Congratulations"],
+        "meaning_mnemonic": `The **r[king]r** **r[rake]r**d all the **r[mountain]r**s down into flat land so he could see everyone in the kingdom from his castle windows. You should share your **k[congratulations]k** with him. Now, quick tell him this was a great idea.`
+    },
+    2397: {
+        "slug": "菅",
+        "level": 58,
+        "component_subject_ids": [90, 78, 8777],
+        "amalgamation_subject_ids": [9113],
+        "meanings": ["Sedge"],
+        "meaning_mnemonic": `The **r[flowers]r** that grow on your **r[roof]r** that look like a sleeping **r[bear]r** is **k[sedge]k**. Sedge grow all over the world!`
+    },
+    2398: {
+        "slug": "漣",
+        "level": 60,
+        "component_subject_ids": [103, 114, 93],
+        "amalgamation_subject_ids": [],
+        "meanings": ["Ripples"],
+        "meaning_mnemonic": `As the **r[tsunami]r** hits your **r[scooter]r** and your **r[car]r**, it alters the wave, creating **k[ripples]k**.`
+    },
+    2399: {
+        "slug": "璃",
+        "level": 58,
+        "component_subject_ids": [48, 337],
+        "amalgamation_subject_ids": [9108, 9109],
+        "meanings": ["Glassy"],
+        "meaning_mnemonic": `The **r[king]r** wants you to make a **r[rocket]r** that looks **k[glassy]k**. It won't be very stable, and it probably won't work, but making it glassy and pretty is the only way to make the king approve.`
+    },
+    2400: {
+        "slug": "遷",
+        "level": 59,
+        "component_subject_ids": [114, 424, 18, 228],
+        "amalgamation_subject_ids": [8585, 8586, 8587],
+        "meanings": ["Transition"],
+        "meaning_mnemonic": `Going from a **r[scooter]r** to a **r[helicopter]r** that's **r[big]r** even for yourself (**r[oneself]r**), is a huge **k[transition]k**.`
+    },
+    2401: {
+        "slug": "拙",
+        "level": 59,
+        "component_subject_ids": [63, 332],
+        "amalgamation_subject_ids": [8542],
+        "meanings": ["Clumsy", "Unskillful"],
+        "meaning_mnemonic": `You have to use your **r[fingers]r** to make an **r[exit]r** because you're so **k[clumsy]k**. You can't seem to get the door to open, your hands just slip around on the knob uselessly. Instead, you take your fingers and stick them into the door frame, pulling the whole thing off the hinges so you can leave.`
+    },
+    2402: {
+        "slug": "峠",
+        "level": 59,
+        "component_subject_ids": [20, 325, 436],
+        "amalgamation_subject_ids": [8531],
+        "meanings": ["Mountain Pass", "The Worst"],
+        "meaning_mnemonic": `If there are **r[mountain]r**s **r[above]r** and **r[below]r** you, that means you're on a **k[mountain pass]k**.`
+    },
+    2403: {
+        "slug": "篤",
+        "level": 59,
+        "component_subject_ids": [85, 165],
+        "amalgamation_subject_ids": [8567],
+        "meanings": ["Deliberate"],
+        "meaning_mnemonic": `If someone makes a **r[bamboo]r** **r[horse]r**, you know it's **k[deliberate]k**. You can't accidentally make an entire horse out of bamboo.`
+    },
+    2405: {
+        "slug": "雌",
+        "level": 59,
+        "component_subject_ids": [44, 57, 240],
+        "amalgamation_subject_ids": [8592, 8593],
+        "meanings": ["Female"],
+        "meaning_mnemonic": `If you can **r[stop]r** a **r[turkey]r** by putting a **r[spoon]r** in its face you'll know it's a **k[female]k** turkey. A male turkey will peck the spoon out of your hand and run away. But a female turkey will wonder why you're putting a spoon there, stop, and look up at you wondering if you're okay.`
+    },
+    2406: {
+        "slug": "堪",
+        "level": 59,
+        "component_subject_ids": [17, 407],
+        "amalgamation_subject_ids": [8527],
+        "meanings": ["Endure"],
+        "meaning_mnemonic": `If there is **r[dirt]r** in a **r[crab trap]r**, it's a lot for the crabs to **k[endure]k**.`
+    },
+    2407: {
+        "slug": "吟",
+        "level": 59,
+        "component_subject_ids": [16, 238],
+        "amalgamation_subject_ids": [8526],
+        "meanings": ["Recital"],
+        "meaning_mnemonic": `We want you to say things with your **r[mouth]r** right **r[now]r** because it's **k[recital]k** time! Go, perform please. What do you mean you didn't know the recital was right now? Well, tough luck. Recite!`
+    },
+    2408: {
+        "slug": "甚",
+        "level": 59,
+        "component_subject_ids": [407],
+        "amalgamation_subject_ids": [8559, 8560],
+        "meanings": ["Very", "Great"],
+        "meaning_mnemonic": `Making a mnemonic for a **r[crab trap]r** is **k[VERY]k** hard. So hard that I couldn't come up with one. But it's very possible that one of you will!`
+    },
+    2409: {
+        "slug": "崇",
+        "level": 59,
+        "component_subject_ids": [20, 78, 207],
+        "amalgamation_subject_ids": [8532, 8533],
+        "meanings": ["Worship", "Revere"],
+        "meaning_mnemonic": `Under the **r[mountain]r**'s **r[roof]r** are people using **r[jackhammer]r**s to **k[worship]k** the gods. The noise from their jackhammering echos up through the mountain and up toward the sky where the gods live. As long as each person uses their own jackhammer, the sound will be loud enough to reach them.`
+    },
+    2410: {
+        "slug": "漆",
+        "level": 59,
+        "component_subject_ids": [103, 23, 8764, 45],
+        "amalgamation_subject_ids": [8553, 8554, 8555],
+        "meanings": ["Lacquer", "Varnish"],
+        "meaning_mnemonic": `A **r[tsunami]r** hits a **r[tree]r** and your **r[hat]r** protects you from the **r[water]r**, but the hat itself is now covered in **k[lacquer]k**. You take it off and see that it's shiny and hard and protected.`
+    },
+    2411: {
+        "slug": "岬",
+        "level": 59,
+        "component_subject_ids": [20, 330],
+        "amalgamation_subject_ids": [8530],
+        "meanings": ["Cape"],
+        "meaning_mnemonic": `You see a **r[mountain]r** in the shape of a **r[turtle shell]r** sticking out into the ocean. It's a **k[cape]k**! No, not the kind you wear, the geographical kind. When you're on land, most capes look like turtle shell mountains sticking out into the sea. Do you know any capes like that near where you live?`
+    },
+    2412: {
+        "slug": "紡",
+        "level": 59,
+        "component_subject_ids": [86, 66],
+        "amalgamation_subject_ids": [8568, 8569, 8570],
+        "meanings": ["Spinning", "Spin"],
+        "meaning_mnemonic": `Move **r[thread]r** in the right **r[direction]r** and you'll end up **k[spinning]k** it into yarn. Then you can spin that yarn into a sweater or a scarf with your favorite half tofu half fugu mascot on it!`
+    },
+    2413: {
+        "slug": "礁",
+        "level": 59,
+        "component_subject_ids": [54, 240, 131],
+        "amalgamation_subject_ids": [8562, 8563, 8564],
+        "meanings": ["Reef"],
+        "meaning_mnemonic": `The **r[stone]r** that looks like a **r[turkey]r** **r[boil]r**ing underwater is just a **k[reef]k**.`
+    },
+    2414: {
+        "slug": "屯",
+        "level": 59,
+        "component_subject_ids": [315],
+        "amalgamation_subject_ids": [8529],
+        "meanings": ["Barracks"],
+        "meaning_mnemonic": `The **r[barracks]r** radical and the **k[barracks]k** kanji are the same!`
+    },
+    2415: {
+        "slug": "姻",
+        "level": 59,
+        "component_subject_ids": [19, 16, 18],
+        "amalgamation_subject_ids": [8528],
+        "meanings": ["Marry"],
+        "meaning_mnemonic": `You meet a **r[woman]r** whose **r[mouth]r** is **r[big]r** and you instantly know this is the person you want to **k[marry]k**.`
+    },
+    2416: {
+        "slug": "擬",
+        "level": 59,
+        "component_subject_ids": [63, 8832],
+        "amalgamation_subject_ids": [8543, 8544],
+        "meanings": ["Imitate"],
+        "meaning_mnemonic": `You try to use your **r[fingers]r** to cast **r[doubt]r** on people by using them to **k[imitate]k** each other. Right now you're using your fingers as finger puppets, imitating one of your friends to the others.`
+    },
+    2417: {
+        "slug": "睦",
+        "level": 59,
+        "component_subject_ids": [53, 222],
+        "amalgamation_subject_ids": [8561],
+        "meanings": ["Friendly"],
+        "meaning_mnemonic": `If you see someone **r[eye]r**ing your **r[womb]r** you're probably going to be weirded out by how **k[friendly]k** they're acting. You only let people who are really, really close to you look at your womb. So if this guy is acting that friendly he should have introduced himself first.`
+    },
+    2418: {
+        "slug": "閑",
+        "level": 59,
+        "component_subject_ids": [214, 23],
+        "amalgamation_subject_ids": [8590, 8591],
+        "meanings": ["Leisure"],
+        "meaning_mnemonic": `You see a **r[gate]r** with a **r[tree]r** growing through it and it reminds you that you need more **k[leisure]k** time. You walk up to the gate tree and curl up under its branches. No one will bother you because the tree is blocking the gate from being used.`
+    },
+    2419: {
+        "slug": "曹",
+        "level": 59,
+        "component_subject_ids": [1, 185, 22],
+        "amalgamation_subject_ids": [8546],
+        "meanings": ["Official"],
+        "meaning_mnemonic": `When under**r[ground]r** **r[music]r** makes it out into the light of the **r[sun]r** (the public), it finally becomes **k[official]k**. Music isn't really real unless people hear it outside of those secret underground concerts.`
+    },
+    2420: {
+        "slug": "詠",
+        "level": 59,
+        "component_subject_ids": [117, 8820],
+        "amalgamation_subject_ids": [8581, 9117, 9118, 9119],
+        "meanings": ["Compose", "Recite"],
+        "meaning_mnemonic": `If you want to **r[say]r** how **r[eternity]r** sounds you have to **k[compose]k** a poem. Or an essay. Or a song. **k[Recite]k** those deep thoughts about eternity and impress everyone who hears it.`
+    },
+    2421: {
+        "slug": "卑",
+        "level": 59,
+        "component_subject_ids": [3, 51, 15],
+        "amalgamation_subject_ids": [8522, 8523],
+        "meanings": ["Lowly", "Base"],
+        "meaning_mnemonic": `You **r[drop]r** to the ground in a **r[rice paddy]r**, and then **r[drop]r** down in front of the **r[cross]r** you keep on you because you're trying to make yourself as **k[lowly]k** as you can in front of God. He said to lower yourself and this is the only way you can interpret that.`
+    },
+    2422: {
+        "slug": "侮",
+        "level": 59,
+        "component_subject_ids": [75, 379],
+        "amalgamation_subject_ids": [8517, 8518, 8519],
+        "meanings": ["Despise"],
+        "meaning_mnemonic": `**r[Every]r** **r[leader]r** will come to **k[despise]k** their followers. In the beginning everything is fine and dandy, but eventually the leader's followers will ask for more and more things, eventually ridiculous things, and the leader will really despise them for it.`
+    },
+    2423: {
+        "slug": "鋳",
+        "level": 59,
+        "component_subject_ids": [118, 377, 5, 74],
+        "amalgamation_subject_ids": [8589],
+        "meanings": ["Cast", "Casting"],
+        "meaning_mnemonic": `Take **r[three]r** **r[measurement]r**s of **r[gold]r** and **r[slide]r** them into a mold to make a **k[cast]k**! You'll have cast three gold swords, or goblets, or ducks. Just make sure you follow those directions, or your casting won't come out right.`
+    },
+    2424: {
+        "slug": "蔑",
+        "level": 59,
+        "component_subject_ids": [90, 163, 194, 5, 3],
+        "amalgamation_subject_ids": [8517, 8578, 8579],
+        "meanings": ["Scorn", "Neglect"],
+        "meaning_mnemonic": `In a **r[flowers]r** **r[net]r** a **r[drunkard]r** **r[slide]r**s down like a **r[drop]r**. There they stay, an icon of **k[scorn]k** and **k[neglect]k**.`
+    },
+    2425: {
+        "slug": "胆",
+        "level": 59,
+        "component_subject_ids": [43, 293],
+        "amalgamation_subject_ids": [8571, 8572, 8573, 8574, 8575],
+        "meanings": ["Guts"],
+        "meaning_mnemonic": `If you stay up for so long that you get to watch the **r[moon]r** go down and the **r[dawn]r** come, then people will say you have serious **k[guts]k**. Staying up that late is really hard, and not everyone can do it. If you don't have the guts to stay up, you'll just fall asleep and never see the moon and the sun switch places in the sky.`
+    },
+    2426: {
+        "slug": "浪",
+        "level": 59,
+        "component_subject_ids": [103, 8822],
+        "amalgamation_subject_ids": [8548, 8549, 8550, 8551, 8552],
+        "meanings": ["Wander"],
+        "meaning_mnemonic": `The **r[tsunami]r** that is **r[good]r**. This fabled creature has never been seen, but you **k[wander]k** the lands in search of it.`
+    },
+    2427: {
+        "slug": "禍",
+        "level": 59,
+        "component_subject_ids": [80, 121],
+        "amalgamation_subject_ids": [8565, 8566],
+        "meanings": ["Evil", "Misfortune"],
+        "meaning_mnemonic": `A **r[spirit]r** wearing two **r[mustache]r**s must be **k[evil]k**. Everyone knows a mustache makes you evil, but two? And on a spirit? Yup, definitely evil.`
+    },
+    2428: {
+        "slug": "酪",
+        "level": 59,
+        "component_subject_ids": [182, 180],
+        "amalgamation_subject_ids": [8588],
+        "meanings": ["Dairy"],
+        "meaning_mnemonic": `You can only give a **r[kiss]r** of **r[alcohol]r** to **k[dairy]k**. If you add anymore than a kiss the dairy will curdle and you won't be able to drink it anymore. Bleh.`
+    },
+    2429: {
+        "slug": "憧",
+        "level": 59,
+        "component_subject_ids": [232, 55, 125],
+        "amalgamation_subject_ids": [8540, 8541],
+        "meanings": ["Long For", "Yearn"],
+        "meaning_mnemonic": `Your **r[soul]r** **r[stand]r**s in the **r[village]r** you **k[long for]k**. It's the village you're from, and no matter how far you go, no matter how old you get, your soul is still there, and you **k[yearn]k** for it.`
+    },
+    2430: {
+        "slug": "慶",
+        "level": 59,
+        "component_subject_ids": [62, 424, 6, 65, 60],
+        "amalgamation_subject_ids": [8535, 8536, 8537, 8538],
+        "meanings": ["Congratulate"],
+        "meaning_mnemonic": `If a pilot manages to land under a **r[canopy]r** with a **r[helicopter]r** that's pierced with a sideways **r[barb]r** in the **r[heart]r** of **r[winter]r** you should **k[congratulate]k** them! People should always be congratulated for doing good things, and this is one of the best things you've ever heard of!`
+    },
+    2431: {
+        "slug": "亜",
+        "level": 59,
+        "component_subject_ids": [204],
+        "amalgamation_subject_ids": [8516],
+        "meanings": ["Asia"],
+        "meaning_mnemonic": `The kanji and the radical that look like this are exactly the same. They are both **k[Asia]k**.`
+    },
+    2432: {
+        "slug": "汰",
+        "level": 59,
+        "component_subject_ids": [103, 411],
+        "amalgamation_subject_ids": [8547],
+        "meanings": ["Select"],
+        "meaning_mnemonic": `If the **r[tsunami]r** that's heading for your village is **r[fat]r** you should try to **k[select]k** a different one to hit instead. You don't want to select fat tsunamis because they do more damage.`
+    },
+    2433: {
+        "slug": "梓",
+        "level": 59,
+        "component_subject_ids": [23, 178],
+        "amalgamation_subject_ids": [9120],
+        "meanings": ["Japanese Birch", "Birch"],
+        "meaning_mnemonic": `What kind of **r[tree]r** is **r[spicy]r**? A **k[Japanese birch]k**, or **k[birch]k**, obviously. There's nothing spicier than a Japanese birch!
+        `
+    },
+    2434: {
+        "slug": "沙",
+        "level": 59,
+        "component_subject_ids": [103, 198],
+        "amalgamation_subject_ids": [8547, 9126],
+        "meanings": ["Sand"],
+        "meaning_mnemonic": `People think **r[tsunami]r**s are only made of water but they have a **r[few]r** pieces of **k[sand]k** in there too. There's actually more sand in the ocean than most people think. And tsunamis can't just have water and sharks in them. A few grains of sand will always slip in.`
+    },
+    2435: {
+        "slug": "逝",
+        "level": 60,
+        "component_subject_ids": [114, 63, 115],
+        "amalgamation_subject_ids": [8653],
+        "meanings": ["Die"],
+        "meaning_mnemonic": `If you ride a **r[scooter]r** with your **r[fingers]r** around an **r[axe]r** you're going to **k[die]k**. I mean, probably. There's a 99% chance you'll die.`
+    },
+    2436: {
+        "slug": "匿",
+        "level": 60,
+        "component_subject_ids": [217, 90, 362],
+        "amalgamation_subject_ids": [8597, 8598],
+        "meanings": ["Hide"],
+        "meaning_mnemonic": `This **r[cage]r** is full of **r[flowers]r** on the **r[right]r** side to **k[hide]k** the fact that you're in here too.`
+    },
+    2437: {
+        "slug": "寡",
+        "level": 60,
+        "component_subject_ids": [78, 184, 1, 24],
+        "amalgamation_subject_ids": [8611, 8612],
+        "meanings": ["Widow"],
+        "meaning_mnemonic": `Under your own **r[roof]r**, a **r[geoduck]r** jumps out of the **r[ground]r** with a **r[sword]r** and stabs your husband/wife/marriage partner to death. Now you're a **k[widow]k**.`
+    },
+    2438: {
+        "slug": "痢",
+        "level": 60,
+        "component_subject_ids": [187, 135, 128],
+        "amalgamation_subject_ids": [8640, 8641],
+        "meanings": ["Diarrhea", "Diarrhoea"],
+        "meaning_mnemonic": `You ate some **r[grain]r**s that made you so **r[sick]r** it feels like a **r[knife]r** is stabbing in your guts and all your poop is falling out. This is called **k[diarrhea]k**. Everyone's had diarrhea before, so you should know this feeling by now.`
+    },
+    2439: {
+        "slug": "坑",
+        "level": 60,
+        "component_subject_ids": [17, 8, 177],
+        "amalgamation_subject_ids": [8606],
+        "meanings": ["Pit", "Hole"],
+        "meaning_mnemonic": `In the **r[dirt]r**, you find a **r[lid]r** under the **r[table]r**. You lift it to reveal a deep **k[pit]k**. Why is there a **k[hole]k** under your table?`
+    },
+    2440: {
+        "slug": "藍",
+        "level": 60,
+        "component_subject_ids": [90, 328],
+        "amalgamation_subject_ids": [8645],
+        "meanings": ["Indigo"],
+        "meaning_mnemonic": `**r[Flowers]r** that you **r[oversee]r** are always **k[indigo]k**. You aren't sure why though...`
+    },
+    2441: {
+        "slug": "畔",
+        "level": 60,
+        "component_subject_ids": [51, 305],
+        "amalgamation_subject_ids": [8639],
+        "meanings": ["Shore"],
+        "meaning_mnemonic": `**r[Half]r** of a **r[rice paddy]r** is always on the **k[shore]k**. Japan is surrounded by water, after all. So it only makes sense that half of every rice paddy is right next to the ocean shore, right?`
+    },
+    2442: {
+        "slug": "唄",
+        "level": 60,
+        "component_subject_ids": [16, 94],
+        "amalgamation_subject_ids": [8601, 8602, 8603],
+        "meanings": ["Shamisen Song"],
+        "meaning_mnemonic": `Use your **r[mouth]r** to sing and a **r[shellfish]r** to stroke your shamisen, and you'll be performing a **k[shamisen song]k** just like that! Yes, it's that easy. Just go find a shell, open your mouth, and you'll be singing one too in no time!`
+    },
+    2443: {
+        "slug": "拷",
+        "level": 60,
+        "component_subject_ids": [63, 104, 8766],
+        "amalgamation_subject_ids": [8623],
+        "meanings": ["Torture"],
+        "meaning_mnemonic": `You put your **r[fingers]r** in the **r[coffin]r** to tickle the **r[beggar]r** inside. What you're doing is a new form of **k[torture]k**.`
+    },
+    2444: {
+        "slug": "渓",
+        "level": 60,
+        "component_subject_ids": [103, 8772, 146],
+        "amalgamation_subject_ids": [8630, 8631],
+        "meanings": ["Valley"],
+        "meaning_mnemonic": `The **r[tsunami]r** swept away one of the **r[cleat]r**s your **r[husband]r** just bought and creates an entire **k[valley]k** with it.`
+    },
+    2445: {
+        "slug": "廉",
+        "level": 60,
+        "component_subject_ids": [62, 271],
+        "amalgamation_subject_ids": [8615],
+        "meanings": ["Bargain"],
+        "meaning_mnemonic": `Under this **r[canopy]r** is the **r[Mona Lisa]r**, being sold for cheap, what a great **k[bargain]k**! You never know what kind of bargains you'll find when you look under a canopy at the wares of a traveling salesperson.`
+    },
+    2446: {
+        "slug": "謹",
+        "level": 60,
+        "component_subject_ids": [117, 428],
+        "amalgamation_subject_ids": [8651],
+        "meanings": ["Humble", "Discreet"],
+        "meaning_mnemonic": `You **r[say]r** something to a **r[boot]r** when you want to be **k[humble]k**. You're down there because you're bowing in front of the person you're humbling yourself before. Because of that, your face is really close to their boots and you're speaking directly at them, instead of at the person's face, so it's more **k[discreet]k**.`
+    },
+    2447: {
+        "slug": "湧",
+        "level": 60,
+        "component_subject_ids": [103, 437],
+        "amalgamation_subject_ids": [8632, 8633],
+        "meanings": ["Well", "Boil"],
+        "meaning_mnemonic": `When you see a **r[tsunami]r** coming **r[courage]r** **k[well]k**s up inside you and you gain the power to save everyone you meet before they get washed away! Feel that courage **k[boil]k** and spread throughout all your limbs. You feel like you have super strength. This tsunami isn't going to hurt anyone while you're alive to stop it!`
+    },
+    2448: {
+        "slug": "醜",
+        "level": 60,
+        "component_subject_ids": [182, 292],
+        "amalgamation_subject_ids": [8654, 8655, 8656, 8657],
+        "meanings": ["Ugly"],
+        "meaning_mnemonic": `Give **r[alcohol]r** to a **r[demon]r** and you'll see how **k[ugly]k** it really is. Demons need to concentrate to keep their disguises going. Even if it looked pretty when you met it, like super handsome, give it a few drinks and its facade will slide off and reveal its super gross demon face.`
+    },
+    2449: {
+        "slug": "升",
+        "level": 60,
+        "component_subject_ids": [5, 106],
+        "amalgamation_subject_ids": [8599, 8600],
+        "meanings": ["Grid", "Measure"],
+        "meaning_mnemonic": `You see **r[twenty]r** **r[slide]r**s lined up like a **k[grid]k**. You don't know who put them here, but they almost look like the grid paper you do your maths homework in. But who would use a slide as grid paper?`
+    },
+    2450: {
+        "slug": "殉",
+        "level": 60,
+        "component_subject_ids": [132, 14, 22],
+        "amalgamation_subject_ids": [8626],
+        "meanings": ["Martyr"],
+        "meaning_mnemonic": `Put a **r[yakuza]r** member in a **r[prison]r** on the **r[sun]r** and he'll become a **k[martyr]k** to all the other yakuza still on earth. He died up there so the rest of them wouldn't have to. Because they definitely aren't getting caught now, if the penalty is a burning death in the new sun prison.`
+    },
+    2451: {
+        "slug": "煩",
+        "level": 60,
+        "component_subject_ids": [46, 184],
+        "amalgamation_subject_ids": [8636, 8637, 8638],
+        "meanings": ["Annoy", "Annoying"],
+        "meaning_mnemonic": `Set **r[fire]r** to a **r[geoduck]r** if you want to **k[annoy]k** it. Fire won't kill a geoduck, but have you ever been on fire? It's not really pleasant. So you'll just annoy it pretty badly.`
+    },
+    2452: {
+        "slug": "劾",
+        "level": 60,
+        "component_subject_ids": [351, 13],
+        "amalgamation_subject_ids": [8596],
+        "meanings": ["Censure"],
+        "meaning_mnemonic": `If you want to **r[slice]r** the **r[power]r** out of someone just **k[censure]k** them. Then they'll be cut down in front of everyone and they'll feel super embarrassed. It's the best way to slice them down without actually cutting them and getting arrested.`
+    },
+    2453: {
+        "slug": "桟",
+        "level": 60,
+        "component_subject_ids": [23, 8782],
+        "amalgamation_subject_ids": [8625],
+        "meanings": ["Jetty", "Pier"],
+        "meaning_mnemonic": `Carve a **r[tree]r** into a **r[bar]r** and lay it sticking out into the water to make a **k[jetty]k** or a **k[pier]k**. Now you can walk out on the jetty and go further into the water without needing a boat or getting wet.`
+    },
+    2454: {
+        "slug": "婿",
+        "level": 60,
+        "component_subject_ids": [19, 420, 43],
+        "amalgamation_subject_ids": [8608, 8609, 8610],
+        "meanings": ["Groom"],
+        "meaning_mnemonic": `Have you heard the tale of the **r[woman]r** who fell in love with a **r[coat rack]r** during a full **r[moon]r** and made him her **k[groom]k**? It's a true story! She even had a wedding ceremony and had more coat racks sitting in the grooms side. The moon will make people do craaaazy things.`
+    },
+    2455: {
+        "slug": "慕",
+        "level": 60,
+        "component_subject_ids": [356, 35, 3],
+        "amalgamation_subject_ids": [8617, 8618],
+        "meanings": ["Yearn For", "Adore"],
+        "meaning_mnemonic": `You're walking in a **r[greenhouse]r** when you see a **r[small]r** **r[drop]r** of water fall and it makes you **k[yearn for]k** the person you **k[adore]k**. You haven't seen them in so long. But something about being in this greenhouse and seeing that tiny water droplet made your heart burst with longing. `
+    },
+    2456: {
+        "slug": "罷",
+        "level": 60,
+        "component_subject_ids": [163, 287],
+        "amalgamation_subject_ids": [8644],
+        "meanings": ["Quit", "Leave"],
+        "meaning_mnemonic": `You're in a **r[net]r** but you have the **r[ability]r** to quit playing along and **k[leave]k** at any time. `
+    },
+    2457: {
+        "slug": "矯",
+        "level": 60,
+        "component_subject_ids": [72, 40, 16, 121],
+        "amalgamation_subject_ids": [8642],
+        "meanings": ["Correct", "Straighten"],
+        "meaning_mnemonic": `An **r[arrow ]r**is shot from **r[heaven]r** and hits right between your **r[mouth]r** and your **r[mustache]r** to **k[correct]k** your crooked smile. It also **k[straighten]k**s your teeth and the crooked cut of your mustache too. Who told you that looked good? Well, it doesn't matter. The heaven arrow corrected it for you.`
+    },
+    2458: {
+        "slug": "某",
+        "level": 60,
+        "component_subject_ids": [360, 23],
+        "amalgamation_subject_ids": [8624, 9121, 9122, 9123, 9124],
+        "meanings": ["Certain", "One", "That Person"],
+        "meaning_mnemonic": `If you think a **r[tree]r** looks **r[sweet]r** you have to be **k[certain]k** before you bite into it. Trees are really hard, and usually pretty bitter (believe me) so if you don't want a mouthful of broken teeth, sap, and sadness, you really need to be sure it's the one before you start munching.`
+    },
+    2460: {
+        "slug": "泌",
+        "level": 60,
+        "component_subject_ids": [103, 343],
+        "amalgamation_subject_ids": [8628, 8629],
+        "meanings": ["Secrete"],
+        "meaning_mnemonic": `**r[Tsunami]r**'s have a **r[certain]r** tendency to **k[secrete]k** things as they go back out to sea. When they bash themselves onto the land they just throw a bunch of sea water around, but there are only certain things that they'll secrete when they're leaving.`
+    },
+    2461: {
+        "slug": "漸",
+        "level": 60,
+        "component_subject_ids": [103, 93, 115],
+        "amalgamation_subject_ids": [8634],
+        "meanings": ["Gradually", "Steadily"],
+        "meaning_mnemonic": `You're stuck in your **r[car]r** during a **r[tsunami]r** and all you have to break out is an **r[axe]r**. You whack and whack but you're only **k[gradually]k** making progress. You thought an axe would be an easy way to get out of a car but it's not working like you'd planned! You have to make more than gradual progress if you don't want to drown. `
+    },
+    2462: {
+        "slug": "藻",
+        "level": 60,
+        "component_subject_ids": [90, 103, 8830],
+        "amalgamation_subject_ids": [8646, 8647],
+        "meanings": ["Seaweed"],
+        "meaning_mnemonic": `The **r[flowers]r** that wash up on shore in **r[tsunami]r**s that we make into **r[syrup]r** is **k[seaweed]k**. Okay, so it's more like soup or tea than syrup, but you can make them both out of seaweed.`
+    },
+    2463: {
+        "slug": "妄",
+        "level": 60,
+        "component_subject_ids": [212, 19],
+        "amalgamation_subject_ids": [8607],
+        "meanings": ["Reckless"],
+        "meaning_mnemonic": `If the **r[death]r** of a **r[woman]r** occurs it's because she was being **k[reckless]k**. People don't just die out of nowhere! They have to have done something super crazy to cause it. Right? Yes... right.`
+    },
+    2464: {
+        "slug": "蛮",
+        "level": 60,
+        "component_subject_ids": [92, 89],
+        "amalgamation_subject_ids": [8648, 8649, 8650],
+        "meanings": ["Barbarian"],
+        "meaning_mnemonic": `**r[Red]r** **r[insect]r**s only bite **k[barbarian]k**s. If a red insect bites you then you have barbarian blood! Waaay back a barbarian was your aunt or uncle or great great grand pappy! But the insects kinda hurt, so it's a bit of a downside I guess.`
+    },
+    2465: {
+        "slug": "倹",
+        "level": 60,
+        "component_subject_ids": [75, 8785],
+        "amalgamation_subject_ids": [8594],
+        "meanings": ["Thrifty", "Frugal"],
+        "meaning_mnemonic": `The **r[leader]r** **r[squid]r** tells all of its squid people to be **k[thrifty]k**.`
+    },
+    2466: {
+        "slug": "狐",
+        "level": 60,
+        "component_subject_ids": [144, 384],
+        "amalgamation_subject_ids": [8658],
+        "meanings": ["Fox"],
+        "meaning_mnemonic": `The **r[animal]r** that hangs out in **r[melon]r** patches is the elusive **k[fox]k**! They like to steal melons then come back into town disguised as human melon sellers. Foxes are tricky like that.`
+    },
+    9012: {
+        "slug": "冥",
+        "level": 60,
+        "component_subject_ids": [76, 22, 8, 2],
+        "amalgamation_subject_ids": [9013, 9014, 9015],
+        "meanings": ["Underworld"],
+        "meaning_mnemonic": `Your **r[forehead]r** is in the **r[sun]r**, and you start seeing those creatures with **r[lid]r**s for heads and  **r[fins]r** for feet again. Where on earth did they come from? They must have come from the **k[underworld]k**. Nothing like that exists in this life.`
+    },
+    9095: {
+        "slug": "勿",
+        "level": 55,
+        "component_subject_ids": [173],
+        "amalgamation_subject_ids": [9096, 9097],
+        "meanings": ["Must Not"],
+        "meaning_mnemonic": `A **r[wing]r** is something you **k[must not]k** do anything with. Wings are fragile (think bird's wings and butterfly's wings) and sometimes dangerous (like the wings of a plane) and you must not touch them, or even go near them! You MUST NOT. You. MUST. NOT.`
+    },
+    9313: {
+        "slug": "蘇",
+        "level": 52,
+        "component_subject_ids": [90, 150, 135],
+        "amalgamation_subject_ids": [],
+        "meanings": ["Revive"],
+        "meaning_mnemonic": `All you need are some **r[flowers]r**, **r[fish]r**, and **r[grain]r** and you've got yourself a potion that can **k[revive]k** just about anyone or anything!`
+    },
+
+}

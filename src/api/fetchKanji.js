@@ -1,3 +1,5 @@
+import { custom_wk_kanji_data } from "../data/custom_wk_kanji_data";
+
 export const fetchKanji = async (level) => {
     let error;
     let kanjiData = [];
@@ -22,8 +24,8 @@ export const fetchKanji = async (level) => {
         const fetchPromise = await fetch(apiEndpoint);
         const apiData = await fetchPromise.json();
 
-        console.log("here is api data:")
-        console.log(apiData);
+        //console.log("here is api data:")
+        //console.log(apiData);
 
         apiData.data.forEach(kanji => {
             let tempMeanings = [];
@@ -46,6 +48,11 @@ export const fetchKanji = async (level) => {
         error = e;
     }
 
+    kanjiData.forEach(kanji =>{
+        kanji.component_subject_ids = custom_wk_kanji_data[kanji.id]['component_subject_ids'];
+        kanji.meaning_mnemonic = custom_wk_kanji_data[kanji.id]['meaning_mnemonic'];
+    })
+
 
     /*
     console.log(
@@ -57,8 +64,8 @@ export const fetchKanji = async (level) => {
         kanji.data.meaning_mnemonic  //string 
     )
     */
-    console.log("here is kanji data")
-    console.log(kanjiData)
+    //console.log("here is kanji data")
+    //console.log(kanjiData)
 
     return { error, kanjiData };
 
