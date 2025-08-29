@@ -4006,10 +4006,10 @@ export const custom_wk_kanji_data = {
     930: {
         "slug": "帰",
         "level": 15,
-        "component_subject_ids": [128, 105, 76, 102],
+        "component_subject_ids": [128, 10135],
         "amalgamation_subject_ids": [3755, 6551, 8947, 9044],
         "meanings": ["Return", "Return Home"],
-        "meaning_mnemonic": `A **r[knife]r** got stuck in **r[Wolverine]r**'s **r[forehead]r**, and he has a **r[towel]r** wrapped around it to stop the bleeding, but he really needs to **k[return home]k**.`
+        "meaning_mnemonic": `With a **r[knife]r** and a **r[broom]r** you **k[return home]k** to cook and clean.`
     },
     931: {
         "slug": "春",
@@ -7321,10 +7321,10 @@ export const custom_wk_kanji_data = {
     1327: {
         "slug": "誘",
         "level": 27,
-        "component_subject_ids": [117, 135, 200],
+        "component_subject_ids": [10149, 117],
         "amalgamation_subject_ids": [5024, 5081, 5284, 6297, 8101],
         "meanings": ["Invite"],
-        "meaning_mnemonic": `You **r[say]r** to some **r[grain]r** and some **r[stairs]r**: I want to **k[invite]k** you to my place.`
+        "meaning_mnemonic": `You must **r[excel]r** when you **r[say]r** in order to make a tempting **k[invitation]k**`
     },
     1328: {
         "slug": "就",
@@ -7345,10 +7345,10 @@ export const custom_wk_kanji_data = {
     1330: {
         "slug": "怒",
         "level": 27,
-        "component_subject_ids": [19, 30, 65],
+        "component_subject_ids": [10079, 65],
         "amalgamation_subject_ids": [5018, 5019, 5232, 5393, 7772, 9094],
         "meanings": ["Angry", "Anger"],
-        "meaning_mnemonic": `A **r[woman]r** sitting on a **r[stool]r** with a broken **r[heart]r** is very **k[angry]k**. She had her heart broken by some jerk and now she’s sitting on the stool, just stewing over the guy and how angry she is with him.`
+        "meaning_mnemonic": `A **r[dude]r** in your heart **r[heart]r** is causing **k[anger]k**`
     },
     1331: {
         "slug": "昇",
@@ -7385,10 +7385,10 @@ export const custom_wk_kanji_data = {
     1335: {
         "slug": "締",
         "level": 27,
-        "component_subject_ids": [86, 55, 102],
+        "component_subject_ids": [86, 10041],
         "amalgamation_subject_ids": [5069, 5070, 5272, 5273],
         "meanings": ["Tighten"],
-        "meaning_mnemonic": `You have a special **r[thread]r** in your **r[towel]r** you can use to make it **r[stand]r** up by **k[tighten]k**ing it.`
+        "meaning_mnemonic": `The **r[threads]r** around the **r[sovereign]r** must be **k[tight]k** to show a slim figure.`
     },
     1336: {
         "slug": "迫",
@@ -7441,7 +7441,7 @@ export const custom_wk_kanji_data = {
     1342: {
         "slug": "健",
         "level": 27,
-        "component_subject_ids": [75, 206, 220],
+        "component_subject_ids": [75, 10087],
         "amalgamation_subject_ids": [5006, 5007, 5230, 7291],
         "meanings": ["Healthy"],
         "meaning_mnemonic": `The **r[leader]r** of your **r[yoga]r** class uses a special **r[brush]r** to stay **k[healthy]k**. She rubs the brush on her long arms and legs, and she never ever gets sick.`
@@ -7604,7 +7604,7 @@ export const custom_wk_kanji_data = {
         "component_subject_ids": [19, 105, 76, 102],
         "amalgamation_subject_ids": [5144, 5145, 5146, 6167, 7657, 8611],
         "meanings": ["Wife"],
-        "meaning_mnemonic": `That **r[woman]r** dressed as **r[Wolverine]r** with a **r[towel]r** tied around her **r[forehead]r** is your **k[wife]k**. You're cosplaying together!`
+        "meaning_mnemonic": `That **r[woman]r** with a **r[broom]r** is the **k[wife]k**.`
     },
     1363: {
         "slug": "奇",
@@ -8481,15 +8481,15 @@ export const custom_wk_kanji_data = {
     1455: {
         "slug": "掃",
         "level": 31,
-        "component_subject_ids": [63, 105, 76, 102],
+        "component_subject_ids": [63, 10135],
         "amalgamation_subject_ids": [5434, 5443, 5612, 5710],
         "meanings": ["Sweep"],
-        "meaning_mnemonic": `**r[Wolverine]r** ties a **r[towel]r** around his **r[forehead]r** and takes out his **r[fingers]r** instead of his claws so he can **k[sweep]k** the floor clean. When Wolverine fights, his claws are out and he makes a big ol' mess. But once the fighting is done, it's time to get to work and sweep the mess up.`
+        "meaning_mnemonic": `The **r[fingers]r** use the **r[broom]r** to **k[sweep]k**.`
     },
     1456: {
         "slug": "泥",
         "level": 31,
-        "component_subject_ids": [103, 37, 57],
+        "component_subject_ids": [103, 10130],
         "amalgamation_subject_ids": [5444, 5445, 5707, 5918, 6737],
         "meanings": ["Mud"],
         "meaning_mnemonic": `A **r[tsunami]r** came in and buried your **r[flag]r** so now you have to use a **r[spoon]r** and dig it out of the **k[mud]k**. `
@@ -8505,11 +8505,11 @@ export const custom_wk_kanji_data = {
     1458: {
         "slug": "驚",
         "level": 31,
-        "component_subject_ids": [255, 60, 165],
+        "component_subject_ids": [10117, 165],
         "amalgamation_subject_ids": [5447, 5448, 5709],
         "meanings": ["Surprised"],
-        "meaning_mnemonic": `If you can write an interesting **r[poem]r** about **r[winter]r** while riding on a **r[horse]r**, I’ll be pretty **k[surprised]k**. It’s hard enough to write a poem as it is, let alone an interesting one. And then you’re riding on a horse and the poem has to be about winter? Heck, I’d be surprised if you didn’t fall off the horse and injure yourself.`
-    },
+        "meaning_mnemonic": `A **r[respectful]r** **r[horse]r** is an unexcpeted **k[surprise]k**.`
+         },
     1459: {
         "slug": "嘆",
         "level": 31,
@@ -8617,10 +8617,10 @@ export const custom_wk_kanji_data = {
     1472: {
         "slug": "似",
         "level": 31,
-        "component_subject_ids": [75, 56, 3, 9],
+        "component_subject_ids": [75, 10046],
         "amalgamation_subject_ids": [5483, 5484, 5616, 5708, 6999, 8160],
         "meanings": ["Resemble"],
-        "meaning_mnemonic": `A **r[leader]r** of (odd-looking) **r[lion]r**s puts a **r[drop]r** of magic liquid on his face to look like a **r[person]r** **k[resemble]k**s someone else. The leader of lions is going incognito, so he needs to resemble a person who is not himself. He takes this drop of powerful face paint and transforms.`
+        "meaning_mnemonic": `A **r[leader]r** comes **r[from]r** a place of **k[resemblence]k**.`
     },
     1473: {
         "slug": "均",
@@ -8665,10 +8665,10 @@ export const custom_wk_kanji_data = {
     1478: {
         "slug": "偵",
         "level": 31,
-        "component_subject_ids": [75, 10, 94],
+        "component_subject_ids": [75, 10104],
         "amalgamation_subject_ids": [5499, 5500],
         "meanings": ["Spy"],
-        "meaning_mnemonic": `Your **r[leader]r** sticks his **r[toe]r** into a **r[shellfish]r**. You ask him why and he says he wants to **k[spy]k** on it.`
+        "meaning_mnemonic": `The **r[leader]r** fains **r[chasticity]r**. In order to be a **k[spy]k**.`
     },
     1480: {
         "slug": "序",
@@ -8697,10 +8697,10 @@ export const custom_wk_kanji_data = {
     1483: {
         "slug": "恩",
         "level": 32,
-        "component_subject_ids": [16, 18, 65],
+        "component_subject_ids": [10032, 65],
         "amalgamation_subject_ids": [5524, 5525, 8499],
         "meanings": ["Kindness"],
-        "meaning_mnemonic": `If you have a **r[big]r** **r[mouth]r** but a good **r[heart]r**, people will recognize your **k[kindness]k**. Even if you blabber on with your big mouth, as long as everyone knows that your heart is filled with kindness, they will love and accept you.`
+        "meaning_mnemonic": `The **r[heart]r** **r[causes]r** **k[kindness]k**.`
     },
     1484: {
         "slug": "採",
@@ -8955,10 +8955,10 @@ export const custom_wk_kanji_data = {
     1515: {
         "slug": "誌",
         "level": 33,
-        "component_subject_ids": [117, 97, 65],
+        "component_subject_ids": [117, 10034],
         "amalgamation_subject_ids": [5621],
         "meanings": ["Magazine"],
-        "meaning_mnemonic": `To **r[say]r** what's in a **r[samurai]r**'s **r[heart]r** you start a **k[magazine]k**. You go around writing about and interviewing all the samurai so you can share what they say to everyone who wants to read!`
+        "meaning_mnemonic": `You **r[say]r** your **r[intentions]r** for a **k[magazine]k**. You want the publicity.`
     },
     1516: {
         "slug": "窓",
@@ -9157,10 +9157,10 @@ export const custom_wk_kanji_data = {
     1541: {
         "slug": "装",
         "level": 33,
-        "component_subject_ids": [8826, 97, 320],
+        "component_subject_ids": [10144, 320],
         "amalgamation_subject_ids": [5686, 5687, 5688, 5689, 5858, 6558, 7246, 8030, 8544, 8687],
         "meanings": ["Attire"],
-        "meaning_mnemonic": `If you see **r[icicle]r**s hanging off of a **r[samurai]r**'s **r[clothes]r**, don't worry, those are just part of his winter **k[attire]k**. Samurai have to travel and fight in all sorts of conditions, so it only makes sense that they have attire for every season.`
+        "meaning_mnemonic": `You need **r[robust]r** **r[clothes]r** for your **k[attire]k**.`
     },
     1542: {
         "slug": "裏",
@@ -9181,7 +9181,7 @@ export const custom_wk_kanji_data = {
     1544: {
         "slug": "賃",
         "level": 33,
-        "component_subject_ids": [75, 48, 94],
+        "component_subject_ids": [10134, 94],
         "amalgamation_subject_ids": [5697, 5698],
         "meanings": ["Rent"],
         "meaning_mnemonic": `The **r[leader]r** who is **r[king]r** of every **r[shellfish]r** sets the **k[rent]k** for everyone. If you rent a home in King Shellfish's kingdom, the rent will be set by the great shellfish leader himself.`
@@ -9245,10 +9245,10 @@ export const custom_wk_kanji_data = {
     1554: {
         "slug": "縮",
         "level": 34,
-        "component_subject_ids": [86, 78, 75, 239],
+        "component_subject_ids": [86, 10037],
         "amalgamation_subject_ids": [5763, 5764],
         "meanings": ["Shrink"],
-        "meaning_mnemonic": `A magic **r[thread]r** fell from the **r[roof]r** onto the **r[leader]r** of a **r[hundred]r** people, causing him to **k[shrink]k**!`
+        "meaning_mnemonic": `The **r[thread]r** in the **r[lodge]r**  is **k[shrinking]k** as many people use it.`
     },
     1555: {
         "slug": "純",
@@ -9264,7 +9264,7 @@ export const custom_wk_kanji_data = {
         "component_subject_ids": [86, 99, 8767, 229],
         "amalgamation_subject_ids": [5768, 5769, 5770],
         "meanings": ["Vertical"],
-        "meaning_mnemonic": `You see a **r[thread]r** that wants to **r[loiter]r** from some **r[horns]r** and you would be **r[correct]r** to assume that it would hang **k[vertical]k**. The thread wants to loiter and hang from one of the horns. When things hang from things, they usually hang vertical, so that’s what this thread is going to do.`
+        "meaning_mnemonic": `The **r[thread]r** must obey the laws of physics and hang **k[vertical]k**.`
     },
     1557: {
         "slug": "粋",
@@ -9341,11 +9341,11 @@ export const custom_wk_kanji_data = {
     1566: {
         "slug": "揮",
         "level": 34,
-        "component_subject_ids": [63, 76, 93],
+        "component_subject_ids": [63, 10071],
         "amalgamation_subject_ids": [5796, 5797, 5947],
         "meanings": ["Brandish"],
-        "meaning_mnemonic": `You stand on the **r[forehead]r** of your **r[car]r**, take your **r[fingers]r** and **k[brandish]k** them in the air! You wave them around for everyone to see.`
-    },
+        "meaning_mnemonic": `The **r[army]r** stick up their **r[fingers]r** and **k[brandish]k** all sorts of rude symbols at the enemy.`
+       },
     1567: {
         "slug": "沿",
         "level": 34,
@@ -11004,7 +11004,7 @@ export const custom_wk_kanji_data = {
         "component_subject_ids": [16, 8767, 182, 74],
         "amalgamation_subject_ids": [8865],
         "meanings": ["Rumor", "Gossip"],
-        "meaning_mnemonic": `Your **r[mouth]r** has some hidden **r[horns]r**, and if you have the right **r[alcohol]r** **r[measurement]r** in your body, those horns will come out of your mouth in the form of **k[rumor]k**s and **k[gossip]k**.`
+        "meaning_mnemonic": `Your **r[mouth]r** speaks about a **r[revered]r** preson, this causes an insestious **k[rumor]k**.`
     },
     8861: {
         "slug": "膝",
@@ -16419,10 +16419,10 @@ export const custom_wk_kanji_data = {
     2429: {
         "slug": "憧",
         "level": 59,
-        "component_subject_ids": [232, 55, 125],
+        "component_subject_ids": [232, 10156],
         "amalgamation_subject_ids": [8540, 8541],
         "meanings": ["Long For", "Yearn"],
-        "meaning_mnemonic": `Your **r[soul]r** **r[stand]r**s in the **r[village]r** you **k[long for]k**. It's the village you're from, and no matter how far you go, no matter how old you get, your soul is still there, and you **k[yearn]k** for it.`
+        "meaning_mnemonic": `The **r[soul]r** **k[longs for]k** a time when it was **r[juvenile]r**.`
     },
     2430: {
         "slug": "慶",
