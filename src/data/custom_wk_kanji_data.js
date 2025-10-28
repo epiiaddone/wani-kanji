@@ -6149,10 +6149,10 @@ export const custom_wk_kanji_data = {
     1181: {
         "slug": "提",
         "level": 22,
-        "component_subject_ids": [63, 22, 229],
+        "component_subject_ids": [63, 10074],
         "amalgamation_subject_ids": [4565, 4566, 4751, 4869],
         "meanings": ["Present", "Submit"],
-        "meaning_mnemonic": `Pointing your **r[fingers]r** to the **r[sun]r** is the **r[correct]r** way to **k[present]k** yourself or offer to **k[submit]k** your ideas. You're really just raising your hand. And when you want to present yourself, your ideas, or offer anything, the correct way is to raise your fingers to the sun. You definitely learned this in school.`
+        "meaning_mnemonic": `Pointing your **r[fingers]r** is **r[absolutely]r** the way to **k[present]k** yourself or offer to **k[submit]k** your ideas. You're really just raising your hand. And when you want to present yourself, your ideas, or offer anything, the correct way is to raise your fingers to the sun. You definitely learned this in school.`
     },
     1182: {
         "slug": "援",
@@ -8297,10 +8297,10 @@ export const custom_wk_kanji_data = {
     8859: {
         "slug": "諦",
         "level": 22,
-        "component_subject_ids": [117, 55, 102],
+        "component_subject_ids": [117, 10041],
         "amalgamation_subject_ids": [8866, 8867],
         "meanings": ["Give Up", "Abandon"],
-        "meaning_mnemonic": `You have something to **r[say]r**, you **r[stand]r** on a **r[towel]r**, and shout, "I **k[GIVE UP]k**!" `
+        "meaning_mnemonic": `You **r[say]r** to the **r[sovereign]r** that they must **k[GIVE UP]k**!" `
     },
     8860: {
         "slug": "捉",
@@ -9261,10 +9261,10 @@ export const custom_wk_kanji_data = {
     1556: {
         "slug": "縦",
         "level": 34,
-        "component_subject_ids": [86, 99, 8767, 229],
+        "component_subject_ids": [86, 10038],
         "amalgamation_subject_ids": [5768, 5769, 5770],
         "meanings": ["Vertical"],
-        "meaning_mnemonic": `The **r[thread]r** must obey the laws of physics and hang **k[vertical]k**.`
+        "meaning_mnemonic": `The **r[thread]r** must **r[obey]r** the laws of physics and hang **k[vertical]k**.`
     },
     1557: {
         "slug": "粋",
@@ -9919,10 +9919,10 @@ export const custom_wk_kanji_data = {
     1641: {
         "slug": "諾",
         "level": 36,
-        "component_subject_ids": [117, 90, 362],
+        "component_subject_ids": [117, 10025],
         "amalgamation_subject_ids": [6022, 6023, 6024, 6025],
         "meanings": ["Agreement"],
-        "meaning_mnemonic": `You **r[say]r** something and the **r[flowers]r** are **r[right]r** in **k[agreement]k**. The flowers see where you are coming from when you say what you say. You and the flowers are in complete agreement.`
+        "meaning_mnemonic": `You **r[say]r** to the **r[young]r** about **k[agreement]k**.`
     },
     1642: {
         "slug": "牙",
@@ -10071,10 +10071,10 @@ export const custom_wk_kanji_data = {
     1660: {
         "slug": "聴",
         "level": 37,
-        "component_subject_ids": [88, 15, 163, 65],
+        "component_subject_ids": [88, 400],
         "amalgamation_subject_ids": [6100, 6101, 6102, 6103],
         "meanings": ["Listen"],
-        "meaning_mnemonic": `When your **r[ear]r** is **r[cross]r**ed with sound, it catches it like a **r[net]r**, and sends it to your **r[heart]r** for processing. Because you're using your heart to process this sound, it means you're giving it a proper **k[listen]k**.`
+        "meaning_mnemonic": `Do your **r[ears]r** a  **r[favor]r** and use them to **k[listen]k**.`
     },
     1661: {
         "slug": "跡",
@@ -10183,10 +10183,10 @@ export const custom_wk_kanji_data = {
     1674: {
         "slug": "葬",
         "level": 37,
-        "component_subject_ids": [90, 132, 57, 106],
+        "component_subject_ids": [90, 10091, 106],
         "amalgamation_subject_ids": [6136, 6137, 6138, 6354],
         "meanings": ["Burial"],
-        "meaning_mnemonic": `You brought **r[flowers]r** to place on top of the place where a **r[yakuza]r** took a **r[spoon]r** and killed **r[twenty]r** people, and there is now a **k[burial]k** happening. You carefully toss the flowers in with the dirt and everything is buried together.`
+        "meaning_mnemonic": `You brought **r[flowers]r** to place on top of the place where the **r[death]r** of **r[twenty]r** people, and there is now a **k[burial]k** happening. You carefully toss the flowers in with the dirt and everything is buried together.`
     },
     1675: {
         "slug": "需",
@@ -10359,18 +10359,18 @@ export const custom_wk_kanji_data = {
     1696: {
         "slug": "描",
         "level": 38,
-        "component_subject_ids": [63, 90, 51],
+        "component_subject_ids": [63, 10076],
         "amalgamation_subject_ids": [6201, 6202, 6203],
         "meanings": ["Draw"],
-        "meaning_mnemonic": `When you see **r[flowers]r** in a **r[rice paddy]r** you can't help but use your **r[fingers]r** to **k[draw]k** them. Have you ever seen rice paddy flowers? They're beautiful. And if you can draw them you can capture that beauty and show it to everyone.`
+        "meaning_mnemonic": `With your **r[fingers]r** you use a **r[seedling]r**  to **k[draw]k**.`
     },
     1697: {
         "slug": "盤",
         "level": 38,
-        "component_subject_ids": [149, 160, 84],
+        "component_subject_ids": [10059, 84],
         "amalgamation_subject_ids": [6204, 6205, 6206, 7010, 8393, 8397],
         "meanings": ["Tray", "Platter", "Board"],
-        "meaning_mnemonic": `Your **r[boat]r** holds your **r[weapon]r** like a **r[plate]r**. So in a way, it's just a **k[tray]k** for your weapon.`
+        "meaning_mnemonic": `**r[Generally]r** **r[plates]r** are put on the *k[tray]k**.`
     },
     1698: {
         "slug": "称",
@@ -10793,10 +10793,10 @@ export const custom_wk_kanji_data = {
     1752: {
         "slug": "堀",
         "level": 40,
-        "component_subject_ids": [17, 37, 332],
+        "component_subject_ids": [17, 10018],
         "amalgamation_subject_ids": [6387, 6388, 6389],
         "meanings": ["Ditch"],
-        "meaning_mnemonic": `When you're driving, you may notice the **r[flag]r**s in the **r[dirt]r** near the **r[exit]r**s. These flags mark the **k[ditch]k** running along the side of the road. You won't want to try to exit the road here or you'll end up stuck in one.`
+        "meaning_mnemonic": `You **r[yield]r** in the **r[dirt]r** as you can't get past the **k[ditch]k**.`
     },
     1753: {
         "slug": "巡",
@@ -10889,10 +10889,10 @@ export const custom_wk_kanji_data = {
     1764: {
         "slug": "繁",
         "level": 40,
-        "component_subject_ids": [379, 60, 86],
+        "component_subject_ids": [10036, 86],
         "amalgamation_subject_ids": [6425, 6426, 6427, 6428, 8216],
         "meanings": ["Overgrown"],
-        "meaning_mnemonic": `**r[Every]r** **r[winter]r** the **r[thread]r** fields become **k[overgrown]k**. Yes, thread grows in fields these days. And the thread grows the most in the winter because reasons. The thread gets so overgrown that you can’t even walk through it without cutting the thread down with a machete.`
+        "meaning_mnemonic": `There is an **r[alert]r** as the **r[thread]r** is **k[overgrown]k**.`
     },
     1765: {
         "slug": "頻",
@@ -10945,10 +10945,10 @@ export const custom_wk_kanji_data = {
     1771: {
         "slug": "透",
         "level": 40,
-        "component_subject_ids": [114, 135, 200],
+        "component_subject_ids": [114, 10149],
         "amalgamation_subject_ids": [6444, 6445, 6568, 7259, 7725],
         "meanings": ["Transparent"],
-        "meaning_mnemonic": `The **r[scooter]r** you made out of **r[grain]r**s, and are about to ride down the **r[stairs]r** with, is completely **k[transparent]k**. You mashed the grains down so fine that you can see through them! And then you made them into a scooter.`
+        "meaning_mnemonic": `On a **r[scooter]r**, you would **r[excel]r** if it was **k[transparent]k**.`
     },
     1772: {
         "slug": "隣",
@@ -11123,10 +11123,10 @@ export const custom_wk_kanji_data = {
     8995: {
         "slug": "璧",
         "level": 38,
-        "component_subject_ids": [367, 48, 3],
+        "component_subject_ids": [367, 10053],
         "amalgamation_subject_ids": [9006],
         "meanings": ["Disc", "Jade Disc"],
-        "meaning_mnemonic": `You offer a **r[hot pepper]r** to the **r[king]r**, and he gives you a **r[drop]r** of something. You look down at the drop to see it transforming into a **k[disc]k**. And not just any old disc at that. It's a **k[jade disc]k**.
+        "meaning_mnemonic": `**r[Hot pepper]r** used as a **r[ball]r** and hit with **k[jade disc]k**.
         
         Have you ever seen ancient Chinese jade discs with holes in the middle? That's what this kanji is referring to.`
     },
