@@ -253,10 +253,15 @@ const Wrapper = styled.main`
 .content{
     display:flex;
     justify-content: space-evenly;
-    margin-top:2rem;
+
     align-items: center;
     position:relative;
 }
+ @media only screen and (min-width: 700px) {
+ .content{
+     margin-top:0.5rem;
+}
+}   
 
 .question-character{
     font-size:4rem;
@@ -271,7 +276,9 @@ const Wrapper = styled.main`
 }
 @media only screen and (min-width: 700px) {
     .kanji-input{
-        width:30rem;
+        width:20rem;
+        font-size:1rem;
+
 }
 }
 
@@ -291,14 +298,21 @@ const Wrapper = styled.main`
 }
 @media only screen and (min-width: 700px) {
     .radical-input{
-        width:30rem;
+        width:20rem;
+        font-size:1rem;
+    }
 }
-}
+
 
 .kanji-form{
     display:flex;
     flex-direction: column;
     gap:1rem;
+}
+@media only screen and (min-width: 700px) {
+.kanji-form{
+    gap:0.5rem;
+    }
 }
 
 .check{
@@ -325,7 +339,7 @@ const Wrapper = styled.main`
     flex-direction: column;
     justify-content: space-evenly;
 }
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 700px) {
     .info-row{
         flex-direction:row;
     }
@@ -336,6 +350,11 @@ const Wrapper = styled.main`
     font-weight:bold;
     color:black;
     margin-top:1.5rem;
+}
+@media only screen and (min-width: 700px) {
+.info--title{
+    font-size:1.1rem;
+}
 }
 
 .info--meanings{

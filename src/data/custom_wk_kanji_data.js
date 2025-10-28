@@ -10948,7 +10948,7 @@ export const custom_wk_kanji_data = {
         "component_subject_ids": [114, 10149],
         "amalgamation_subject_ids": [6444, 6445, 6568, 7259, 7725],
         "meanings": ["Transparent"],
-        "meaning_mnemonic": `On a **r[scooter]r**, you would **r[excel]r** if it was **k[transparent]k**.`
+        "meaning_mnemonic": `On a **r[scooter]r**, you would **r[excel]r** if it were **k[transparent]k**.`
     },
     1772: {
         "slug": "隣",

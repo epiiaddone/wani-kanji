@@ -48,7 +48,11 @@ const Wrapper = styled.main`
     padding: 0 0.5rem;
     border-radius:0.2rem;
 }
-
+@media only screen and (min-width: 700px) {
+.mnemonic-item{
+font-size:1rem;
+}
+}
 
 .mnemonic-kanji{
     background-color: var(--kanji-light);
