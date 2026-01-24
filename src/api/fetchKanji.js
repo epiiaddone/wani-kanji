@@ -3,7 +3,6 @@ import { custom_wk_kanji_data } from "../data/custom_wk_kanji_data";
 export const fetchKanji = async (level) => {
     let error;
     let kanjiData = [];
-    console.log("inside fetchKanji");
 
     var apiToken = '3b0f568a-0904-4b3d-887d-08e5da44da9e';
     var apiEndpointPath = `subjects?types=kanji&hiddenfalse&levels=${level}`;
@@ -25,7 +24,7 @@ export const fetchKanji = async (level) => {
         const apiData = await fetchPromise.json();
 
         //console.log("here is api data:")
-        //console.log(apiData);
+        console.log(apiData);
 
         apiData.data.forEach(kanji => {
             let tempMeanings = [];
@@ -44,14 +43,22 @@ export const fetchKanji = async (level) => {
             })
         })
     } catch (e) {
-        console.log("error getting kanji:", e)
+        console.log("error in fetchkanji: error getting data for [" + kanji +"]");
+        console.log(e);
         error = e;
     }
 
+    
     kanjiData.forEach(kanji =>{
-        kanji.component_subject_ids = custom_wk_kanji_data[kanji.id]['component_subject_ids'];
-        kanji.meaning_mnemonic = custom_wk_kanji_data[kanji.id]['meaning_mnemonic'];
+        try{//api sometimes makes breaking changes to kanji/radical/vocab data
+            kanji.component_subject_ids = custom_wk_kanji_data[kanji.id]['component_subject_ids'];
+            kanji.meaning_mnemonic = custom_wk_kanji_data[kanji.id]['meaning_mnemonic'];
+        }catch(e){    
+            console.log("error in fetchkanji: missing data for kanji.id[" + kanji.id +"]");
+            console.log(e);
+        }
     })
+
 
 
     /*
